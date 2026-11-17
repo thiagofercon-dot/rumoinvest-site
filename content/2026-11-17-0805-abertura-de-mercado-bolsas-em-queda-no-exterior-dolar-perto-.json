@@ -1,0 +1,214 @@
+{
+ "capa": "dia",
+ "slug": "abertura-de-mercado-bolsas-em-queda-no-exterior-dolar-perto-de-r-5-78-e-ajuste-fiscal-no-radar",
+ "title": "Abertura de mercado: bolsas em queda no exterior, dólar perto de R$ 5,78 e ajuste fiscal no radar",
+ "subtitle": "Depois de o Ibovespa cair 1,83% na segunda, os futuros de Nova York, a Ásia e a Europa amanhecem no vermelho; destaques do pacote fiscal e dados dos EUA marcam o dia.",
+ "category": "mercado",
+ "date": "2026-11-17",
+ "time": "08:05",
+ "sentiment": "Alerta",
+ "meta": "Abertura de 17/11: Ibovespa fechou a 169.295 pts (-1,83%), dólar a R$ 5,7777, futuros de NY em queda e destaques do ajuste fiscal no Senado.",
+ "focus_kw": "abertura de mercado",
+ "tags": [
+  "Abertura de Mercado",
+  "Ibovespa",
+  "Dólar",
+  "Ajuste fiscal",
+  "Futuros de Nova York",
+  "IFIX"
+ ],
+ "sources": [
+  {
+   "t": "Money Times: Preocupação fiscal divide dia com crise da IA no mundo (futuros, Ásia, Europa, petróleo, agenda)",
+   "url": "https://www.moneytimes.com.br/preocupacao-fiscal-divide-dia-com-crise-da-ia-no-mundo-ibovespa-em-dolar-cai-nesta-terca-feira-17-rens/",
+   "at": "17/11/2026 07:08"
+  },
+  {
+   "t": "BB InvesTalk: Fechamento (16/11), Ibovespa cai 1,83% e dólar acelera 2,17%",
+   "url": "https://investalk.bb.com.br/noticias/mercado/mercado-agora-16-11-26",
+   "at": "16/11/2026 18:30"
+  },
+  {
+   "t": "Fiis.com.br: IFIX despenca 1,85% e fecha aos 3.548 pontos",
+   "url": "https://fiis.com.br/noticias/ifix-hoje-fechamento-queda-fundos-imobiliarios/",
+   "at": "16/11/2026 18:19"
+  },
+  {
+   "t": "Congresso em Foco: Pauta do Senado inclui ajuste fiscal",
+   "url": "https://www.congressoemfoco.com.br/noticia/131601/pauta-do-senado-inclui-ajuste-fiscal-aprendizes-e-combate-a-violencia",
+   "at": "15/11/2026 19:00"
+  },
+  {
+   "t": "Forbes Brasil: Pré-mercado, foco nas perspectivas para as contas públicas e para a Nvidia",
+   "url": "https://forbes.com.br/forbes-money/2026/11/pre-mercado-foco-nas-perspectivas-para-as-contas-publicas-e-para-a-nvidia/",
+   "at": "13/11/2026 08:45"
+  },
+  {
+   "t": "Ativo Virtual: Agenda econômica, EUA testam o Ibovespa com varejo",
+   "url": "https://www.ativovirtual.com.br/avnews/artigos/agenda-economica-eua-testam-o-ibovespa-com-varejo",
+   "at": "17/11/2026 07:33"
+  }
+ ],
+ "source_doc": "Pesquisa própria do Claude (sem relatório do Drive em 17/11 08:05)",
+ "source_topic": "abertura",
+ "image": "assets/covers/abertura-de-mercado-bolsas-em-queda-no-exterior-dolar-perto-de-r-5-7.jpg",
+ "image_alt": "Ilustração: prédios de São Paulo ao amanhecer com gráfico em queda, notas de real e moedas douradas em primeiro plano",
+ "canva_media_id": "MAHbK5Y5FOA",
+ "body": [
+  {
+   "type": "p",
+   "text": "O mercado abre a terça-feira (17) em clima de cautela. Na segunda (16), o **Ibovespa**, principal índice da Bolsa brasileira, caiu **1,83%**, aos **169.295 pontos**, e o **dólar** subiu 2,17%, a **R$ 5,7777**. Nesta manhã, os futuros das bolsas de Nova York operam em queda e as bolsas da Ásia e da Europa também aparecem no vermelho, segundo a Money Times."
+  },
+  {
+   "type": "h2",
+   "text": "O que está no radar antes da abertura"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Futuros em Nova York:** Nasdaq -0,33%, S&P 500 -0,34% e Dow Jones -0,48% no pré-mercado. Na segunda, o S&P 500 já havia recuado 1,92%, segundo o BB InvesTalk.",
+    "**Ásia:** Nikkei -1,23%, Hang Seng -1,03% e Xangai -0,50%.",
+    "**Europa:** FTSE 100 -0,92%, DAX -1,11% e CAC 40 -1,14% na abertura.",
+    "**Petróleo:** estável após a queda de segunda: Brent a US$ 92,60 (+0,17%) e WTI a US$ 85,77 (+0,06%)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "A Money Times aponta como pano de fundo a aversão a risco, a dúvida do mercado sobre o alcance do pacote fiscal e uma venda de ações de tecnologia e inteligência artificial no exterior, ligada à saída de Jensen Huang do comando da Nvidia."
+  },
+  {
+   "type": "h2",
+   "text": "Ajuste fiscal volta à pauta no Senado"
+  },
+  {
+   "type": "p",
+   "text": "O Senado aprovou o texto-base do projeto de lei complementar de ajuste fiscal na quinta-feira (12). Os destaques, que são votados separadamente, estavam previstos para esta terça (17), segundo o Congresso em Foco. Entre eles estão o adiamento para 2030 de R$ 12 bilhões em repasses a Estados, o limite de R$ 3 bilhões por ano para compensações entre regimes de previdência e regras sobre o uso de créditos tributários."
+  },
+  {
+   "type": "p",
+   "text": "Sobre o tamanho do ajuste, o relator, senador Eduardo Braga, projeta melhora de **R$ 45,1 bilhões a R$ 56,1 bilhões em 2027**, e o governo calcula entre R$ 50 bilhões e R$ 60 bilhões, conforme a Forbes Brasil. Para entender como o câmbio e o risco fiscal se conectam, veja [Dólar alto: como ele afeta preços, juros e investimentos](#materia-dolar-alto-como-ele-afeta-precos-juros-e-investimentos)."
+  },
+  {
+   "type": "h2",
+   "text": "Agenda do dia (horário de Brasília)"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Horário",
+    "Evento"
+   ],
+   "rows": [
+    [
+     "07h00",
+     "Índice ZEW de confiança na zona do euro (novembro)"
+    ],
+    [
+     "10h00",
+     "Ministro da Fazenda, Dario Durigan, na Comissão de Assuntos Econômicos do Senado"
+    ],
+    [
+     "10h15",
+     "Relatório ADP de emprego privado nos EUA"
+    ],
+    [
+     "10h30",
+     "Vendas no varejo e preços de importação e exportação nos EUA (outubro)"
+    ],
+    [
+     "11h15",
+     "Produção industrial dos EUA (outubro)"
+    ],
+    [
+     "16h25",
+     "Discurso de John Williams, do Federal Reserve (banco central americano)"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Radar da tese RumoInvest"
+  },
+  {
+   "type": "p",
+   "text": "No segmento de fundos imobiliários, o **IFIX** fechou a segunda em **3.548,25 pontos (-1,85%)**, e o **MXRF11** encerrou a **R$ 8,59 (-1,83%)**, segundo o Fiis.com.br."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: o que uma queda de 1,83% significa em reais",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo**: se R$ 100 acompanhassem exatamente o Ibovespa na queda de 1,83%, o valor passaria a **R$ 98,17**. A perda só se realiza se você vender."
+    },
+    {
+     "type": "p",
+     "text": "Com fundos imobiliários: com R$ 100 e a cota do MXRF11 a R$ 8,59, dá para comprar **11 cotas** (R$ 94,49). Se o fundo pagasse R$ 0,10 por cota, como em [MXRF11 anuncia R$ 0,10 por cota](#materia-mxrf11-anuncia-r-0-10-por-cota-como-calcular-a-renda-mensal-de-um-fii-com-r-100), o rendimento seria de R$ 1,10. Rendimentos mudam e não são garantidos."
+    }
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "**Para o investidor iniciante:** abertura de dia com queda no exterior é um momento de acompanhar, não de agir por impulso. Os números acima são de referência da manhã e mudam ao longo do pregão. Conteúdo educativo e informativo, sem recomendação de compra ou venda. Rentabilidade passada não garante resultados futuros."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: abertura de 17/11",
+   "center": "Mercado na abertura",
+   "branches": [
+    {
+     "label": "Fechamento de segunda",
+     "items": [
+      "Ibovespa: 169.295 pts (-1,83%)",
+      "Dólar: R$ 5,7777 (+2,17%)"
+     ]
+    },
+    {
+     "label": "Exterior hoje",
+     "items": [
+      "Futuros de NY em queda",
+      "Ásia e Europa no vermelho",
+      "Petróleo estável"
+     ]
+    },
+    {
+     "label": "Brasil",
+     "items": [
+      "Destaques do ajuste fiscal no Senado",
+      "Durigan na CAE às 10h"
+     ]
+    },
+    {
+     "label": "Agenda dos EUA",
+     "items": [
+      "Varejo e ADP às 10h15 e 10h30",
+      "Produção industrial às 11h15"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes sobre a abertura",
+   "items": [
+    {
+     "q": "Como o Ibovespa fechou na segunda-feira (16)?",
+     "a": "Em queda de 1,83%, aos 169.295 pontos, segundo o BB InvesTalk."
+    },
+    {
+     "q": "Por que as bolsas amanhecem em queda?",
+     "a": "A Money Times cita aversão a risco, dúvidas sobre o pacote fiscal e a venda de ações de tecnologia e inteligência artificial no exterior."
+    },
+    {
+     "q": "Isso muda a Selic?",
+     "a": "Não diretamente. A Selic está em 13,75% ao ano desde a decisão do Copom de 4 de novembro; entenda o conceito em [O que é a taxa Selic](#materia-o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes)."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Continue por dentro",
+   "text": "Releia o [fechamento de ontem](#materia-ibovespa-recua-cerca-de-1-9-e-dolar-vai-a-r-5-78-no-fechamento-de-16-11-o-que-pesou) e veja a [diferença entre renda fixa e renda variável](#materia-renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona)."
+  }
+ ]
+}

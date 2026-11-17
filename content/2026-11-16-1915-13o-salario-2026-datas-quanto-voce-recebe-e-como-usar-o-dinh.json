@@ -1,0 +1,203 @@
+{
+ "slug": "13o-salario-2026-datas-quanto-voce-recebe-e-como-usar-o-dinheiro",
+ "title": "13º salário 2026: datas, quanto você recebe e como usar o dinheiro com inteligência",
+ "subtitle": "A primeira parcela vence em 30 de novembro e a segunda foi antecipada para 18 de dezembro. Entenda a conta e veja o que pensar antes de gastar.",
+ "category": "educacao",
+ "date": "2026-11-16",
+ "time": "19:15",
+ "sentiment": "Neutro",
+ "meta": "13º salário 2026: primeira parcela até 30/11 e segunda até 18/12. Veja quem tem direito, como calcular, os descontos e como organizar o dinheiro extra.",
+ "focus_kw": "13º salário 2026",
+ "tags": [
+  "13º salário 2026",
+  "Quando cai o 13º",
+  "Como calcular o 13º",
+  "Segunda parcela do 13º",
+  "Educação Financeira",
+  "Planejamento financeiro"
+ ],
+ "sources": [
+  {
+   "t": "O Povo: 13º salário de 2026 tem duas datas-chave, primeira parcela até 30 de novembro e segunda até 18 de dezembro",
+   "url": "https://www.opovo.com.br/trends/13o-salario-de-2026-tem-duas-datas-chave-primeira-parcela-ate-30-de-novembro-e-segunda-ate-18-de-dezembro/",
+   "at": "22/09/2026"
+  },
+  {
+   "t": "Metrópoles: 13º salário 2026, veja quando serão pagas as duas parcelas",
+   "url": "https://www.metropoles.com/brasil/13o-salario-2026-veja-quando-serao-pagas-as-duas-parcelas",
+   "at": "09/11/2026 11:28"
+  }
+ ],
+ "source_doc": "Pesquisa própria do Claude (sem relatório do Drive em 16/11 19:15)",
+ "source_topic": "13º salário 2026",
+ "trend": {
+  "rank": 1,
+  "term": "13º salário 2026",
+  "ref": "16/11"
+ },
+ "image": "assets/covers/13o-salario-2026-datas-quanto-voce-recebe-e-como-u.jpg",
+ "image_alt": "Ilustração: envelope com cédulas, calendário com duas datas marcadas, moedas, cofrinho e a formiga Giga",
+ "canva_media_id": "MAHbHrdAvTY",
+ "body": [
+  {
+   "type": "p",
+   "text": "O **13º salário 2026** é assunto em alta nesta reta final do ano, e com razão: em 2026 a segunda parcela cai mais cedo do que muita gente espera. Entender as datas, a conta e os descontos ajuda a planejar o dinheiro extra em vez de vê-lo desaparecer em dezembro."
+  },
+  {
+   "type": "h2",
+   "text": "Datas do 13º salário em 2026"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Primeira parcela:** até segunda-feira, 30 de novembro de 2026.",
+    "**Segunda parcela:** o prazo legal é 20 de dezembro, mas essa data cai num domingo. Por isso o pagamento deve ser feito até **sexta-feira, 18 de dezembro**, o dia útil anterior.",
+    "Muitas empresas pagam antes, às vezes junto com as férias. Vale perguntar ao RH da sua empresa qual é o calendário dela."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Quem tem direito e como o valor é calculado"
+  },
+  {
+   "type": "p",
+   "text": "O 13º é pago a trabalhadores com carteira assinada, incluindo domésticos e avulsos, e também a aposentados e pensionistas do INSS e a servidores públicos, cada grupo com seu calendário. O direito começa a partir de 15 dias de serviço no mês. Demitidos por justa causa, PJs, autônomos e estagiários não recebem."
+  },
+  {
+   "type": "p",
+   "text": "A conta básica é a remuneração dividida por 12 e multiplicada pelos meses trabalhados no ano. Horas extras, comissões e adicionais, como o noturno, entram pela média. A **primeira parcela** equivale à metade do valor e, em geral, vem sem descontos relevantes. Na **segunda parcela** incidem o INSS e o Imposto de Renda, quando devidos, abatendo-se o adiantamento já recebido."
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/13o-salario-2026-datas-quanto-voce-receb-1.jpg",
+   "alt": "Ilustração didática de um valor dividido em duas parcelas ao longo de uma linha do tempo",
+   "caption": "O 13º chega em duas etapas: a primeira sem descontos relevantes, a segunda com INSS e Imposto de Renda."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: a conta com números",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo ilustrativo, com valores inventados só para mostrar a lógica. Considere um salário de R$ 3.000 por mês:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Situação",
+      "Conta",
+      "13º bruto"
+     ],
+     "rows": [
+      [
+       "Trabalhou os 12 meses",
+       "R$ 3.000 ÷ 12 × 12",
+       "R$ 3.000"
+      ],
+      [
+       "Foi admitido e trabalhou 6 meses",
+       "R$ 3.000 ÷ 12 × 6",
+       "R$ 1.500"
+      ],
+      [
+       "Primeira parcela (12 meses)",
+       "metade de R$ 3.000",
+       "R$ 1.500"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "A segunda parcela terá o mesmo valor bruto, mas chega menor depois dos descontos de INSS e Imposto de Renda, que variam conforme o salário."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Como pensar o uso do dinheiro extra"
+  },
+  {
+   "type": "p",
+   "text": "Não existe regra única, mas há uma ordem de perguntas que costuma ajudar. Veja um exemplo ilustrativo de divisão de R$ 1.500, que não é recomendação de investimento:"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Dívidas caras primeiro:** juros de cartão e cheque especial costumam ser muito maiores do que qualquer rendimento. Quitar essas dívidas é, na prática, um \"ganho\" certo.",
+    "**Reserva de emergência:** se ela ainda não existe ou está incompleta, veja quanto guardar e onde deixar o dinheiro no guia sobre [reserva de emergência](#materia-reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro).",
+    "**Despesas de início de ano:** IPTU, IPVA, material escolar. Separar um valor evita apertos em janeiro.",
+    "**Investir o que sobrar:** quem já tem essa base pode estudar [renda fixa ou renda variável](#materia-renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona) e entender [como começar a investir com pouco dinheiro](#materia-como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes)."
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "Rentabilidade passada não garante resultados futuros. Este conteúdo é educativo e não é recomendação de compra, venda ou aplicação em nenhum ativo."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: 13º salário 2026",
+   "center": "13º salário 2026",
+   "branches": [
+    {
+     "label": "Datas",
+     "items": [
+      "1ª parcela: até 30/11",
+      "2ª parcela: até 18/12",
+      "Prazo legal da 2ª: 20/12 (domingo)"
+     ]
+    },
+    {
+     "label": "Quem recebe",
+     "items": [
+      "CLT, domésticos e avulsos",
+      "Aposentados e pensionistas do INSS",
+      "Não recebe: PJ, autônomo, justa causa"
+     ]
+    },
+    {
+     "label": "Como se calcula",
+     "items": [
+      "Remuneração ÷ 12 × meses",
+      "Média de extras e comissões",
+      "INSS e IR na 2ª parcela"
+     ]
+    },
+    {
+     "label": "Como usar",
+     "items": [
+      "Quitar dívidas caras",
+      "Completar a reserva",
+      "Planejar janeiro"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes sobre o 13º salário",
+   "items": [
+    {
+     "q": "Quando cai o 13º salário em 2026?",
+     "a": "A primeira parcela deve ser paga até 30 de novembro e a segunda até 18 de dezembro, porque o prazo legal de 20 de dezembro cai num domingo."
+    },
+    {
+     "q": "Quem trabalhou só parte do ano recebe o 13º?",
+     "a": "Sim, de forma proporcional: um doze avos da remuneração por mês trabalhado, a partir de 15 dias de serviço no mês."
+    },
+    {
+     "q": "Por que a segunda parcela vem menor?",
+     "a": "Porque nela incidem o INSS e o Imposto de Renda, quando devidos, e o adiantamento da primeira parcela é abatido."
+    },
+    {
+     "q": "Autônomo e PJ têm direito ao 13º?",
+     "a": "Não. O benefício vale para trabalhadores com vínculo, como CLT, domésticos e avulsos, além de aposentados e pensionistas do INSS e servidores, cada um com regras próprias."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Quer transformar o dinheiro extra em hábito?",
+   "text": "Comece entendendo [o que é a taxa Selic](#materia-o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes) e como ela afeta o crédito e a renda fixa, e veja como proteger o orçamento da [inflação dos alimentos](#materia-inflacao-dos-alimentos-por-que-o-tomate-e-a-cesta-basica-subiram-e-como-proteger-seu-dinheiro)."
+  }
+ ]
+}

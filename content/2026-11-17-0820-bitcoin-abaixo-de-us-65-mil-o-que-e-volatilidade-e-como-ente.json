@@ -1,0 +1,159 @@
+{
+ "slug": "bitcoin-abaixo-de-us-65-mil-o-que-e-volatilidade-e-como-entender-o-risco-das-criptomoedas",
+ "title": "Bitcoin abaixo de US$ 65 mil: o que é volatilidade e como entender o risco das criptomoedas",
+ "subtitle": "Uma onda de liquidações varreu o mercado cripto no fim de semana. Veja o que isso significa, por que os preços oscilam tanto e que cuidados o iniciante deve conhecer.",
+ "category": "educacao",
+ "date": "2026-11-17",
+ "time": "08:20",
+ "sentiment": "Alerta",
+ "meta": "Bitcoin abaixo de US$ 65 mil: entenda volatilidade, liquidações e os riscos das criptomoedas, com exemplo em reais e perguntas frequentes para iniciantes.",
+ "focus_kw": "bitcoin abaixo de US$ 65 mil",
+ "tags": [
+  "Bitcoin",
+  "Criptomoedas",
+  "Volatilidade",
+  "Liquidações",
+  "Risco",
+  "Educação Financeira"
+ ],
+ "sources": [
+  {
+   "t": "InvesTalk (Banco do Brasil): Mercado agora, fechamento de 16/11",
+   "url": "https://investalk.bb.com.br/noticias/mercado/mercado-agora-16-11-26",
+   "at": "16/11/2026 (fechamento do pregão)"
+  }
+ ],
+ "source_doc": "1Q4cpHdL2F0Z4j0o0a85KWkyLeA0GC6DR-DWDLefBhHE",
+ "source_topic": "Bitcoin e criptomoedas",
+ "trend": {
+  "rank": 2,
+  "term": "Bitcoin e criptomoedas",
+  "ref": "17/11"
+ },
+ "image": "assets/covers/bitcoin-abaixo-de-us-65-mil-o-que-e-volatilidade-e-como-ente.jpg",
+ "image_alt": "Ilustração: moeda digital dourada genérica sobre fundo de circuitos, com linha de gráfico oscilando ao lado de notas de real",
+ "canva_media_id": "MAHbK7A1kOI",
+ "body": [
+  {
+   "type": "p",
+   "text": "**O Bitcoin abaixo de US$ 65 mil** virou assunto em alta. Segundo o InvesTalk, do Banco do Brasil, a criptomoeda foi cotada a **US$ 64.996,27**, ou cerca de **R$ 376.328,38**, depois de uma onda de liquidações no fim de semana que eliminou **US$ 217 bilhões** em valor de mercado. A pressão veio de saídas de fundos negociados em bolsa (ETFs) e de temores com juros altos nos Estados Unidos. Vamos entender o que isso significa."
+  },
+  {
+   "type": "h2",
+   "text": "O que é volatilidade"
+  },
+  {
+   "type": "p",
+   "text": "Volatilidade é o tamanho das oscilações de preço de um ativo. Quanto mais volátil, mais o preço sobe e desce em pouco tempo, e maior é a chance de ganhos e de perdas rápidas. Criptomoedas costumam oscilar mais do que a renda fixa, que tem regras de remuneração mais previsíveis, como explicamos em [renda fixa ou renda variável](#materia-renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona)."
+  },
+  {
+   "type": "h2",
+   "text": "O que são liquidações"
+  },
+  {
+   "type": "p",
+   "text": "Parte dos investidores opera com dinheiro emprestado, a chamada alavancagem. Quando o preço cai além de certo ponto, a corretora fecha a posição à força para cobrir o risco. Essas vendas forçadas são as liquidações. Elas aumentam a oferta e podem puxar o preço para baixo, o que dispara novas liquidações. Por isso uma queda pode se acelerar em poucas horas."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: o que uma oscilação de 10% faz com R$ 100",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo e hipotético**: imagine R$ 100 em um ativo muito volátil. Se ele cair 10%, o valor vai a **R$ 90,00**. Para voltar a R$ 100, ele precisa subir cerca de **11,1%**, porque a base agora é menor. Já uma queda de 50% exigiria uma alta de 100% para recuperar o valor. É por isso que perdas grandes pesam tanto."
+    },
+    {
+     "type": "p",
+     "text": "Os números são só para mostrar a conta e não representam o comportamento de nenhum ativo específico."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Cuidados que o iniciante precisa conhecer"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Só invista o que pode oscilar:** dinheiro de contas e emergências não deve ficar em ativos muito voláteis. Monte antes a [reserva de emergência](#materia-reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro).",
+    "**Tamanho da posição:** uma fatia pequena do patrimônio limita o impacto de uma queda forte.",
+    "**Sem garantia do FGC:** criptomoedas não contam com a cobertura do Fundo Garantidor de Créditos, que protege depósitos e títulos bancários como CDB, LCI e LCA.",
+    "**Evite alavancagem:** operar com dinheiro emprestado multiplica o risco de perdas, como mostram as liquidações.",
+    "**Desconfie de promessas fáceis:** retorno garantido em cripto é um sinal de alerta."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Para quem está começando, vale entender os fundamentos antes de qualquer decisão. Veja [como começar a investir com pouco dinheiro](#materia-como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes) e compare o risco com o de outros ativos. Para o contexto do câmbio no mesmo dia, leia [Dólar a R$ 5,77: por que o dólar sobe quando o mundo foge do risco](#materia-dolar-a-r-5-77-por-que-o-dolar-sobe-quando-o-mundo-foge-do-risco)."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: Bitcoin e volatilidade",
+   "center": "Bitcoin abaixo de US$ 65 mil",
+   "branches": [
+    {
+     "label": "O que aconteceu",
+     "items": [
+      "US$ 64.996,27 (cerca de R$ 376.328,38)",
+      "Liquidações no fim de semana",
+      "US$ 217 bilhões em valor de mercado"
+     ]
+    },
+    {
+     "label": "Causas citadas",
+     "items": [
+      "Saídas de ETFs",
+      "Temor de juros altos nos EUA"
+     ]
+    },
+    {
+     "label": "Conceitos",
+     "items": [
+      "Volatilidade",
+      "Alavancagem",
+      "Liquidação forçada"
+     ]
+    },
+    {
+     "label": "Cuidados",
+     "items": [
+      "Posição pequena",
+      "Reserva primeiro",
+      "Sem garantia do FGC"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "**Conteúdo educativo:** este texto explica conceitos e não recomenda a compra ou a venda de nenhum ativo. A rentabilidade passada não garante resultados futuros, e cada situação pede uma análise individual."
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes sobre o Bitcoin e a volatilidade",
+   "items": [
+    {
+     "q": "O que significa liquidação no mercado cripto?",
+     "a": "É o fechamento forçado de posições alavancadas quando o preço cai além do limite suportado pelo investidor. As vendas forçadas podem acentuar a queda."
+    },
+    {
+     "q": "Por que o Bitcoin oscila tanto?",
+     "a": "O mercado cripto tem muitos participantes especulativos, negocia o tempo todo e reage rápido a notícias, fluxo de ETFs e expectativas de juros, o que gera grandes variações de preço."
+    },
+    {
+     "q": "Criptomoedas têm a garantia do FGC?",
+     "a": "Não. O FGC cobre depósitos e alguns títulos bancários, como CDB, LCI e LCA, e não protege criptomoedas."
+    },
+    {
+     "q": "Queda do Bitcoin significa que ele vai continuar caindo?",
+     "a": "Não necessariamente. Os preços oscilam para os dois lados, e a rentabilidade passada não garante resultados futuros."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Continue aprendendo",
+   "text": "Veja também [Dólar a R$ 5,77: por que o dólar sobe quando o mundo foge do risco](#materia-dolar-a-r-5-77-por-que-o-dolar-sobe-quando-o-mundo-foge-do-risco) e [Ibovespa cai 1,83%: por que a bolsa brasileira acompanha Nasdaq e Nvidia](#materia-ibovespa-cai-1-83-por-que-a-bolsa-brasileira-acompanha-nasdaq-e-nvidia). Conteúdo educativo, sem recomendação de investimento."
+  }
+ ]
+}

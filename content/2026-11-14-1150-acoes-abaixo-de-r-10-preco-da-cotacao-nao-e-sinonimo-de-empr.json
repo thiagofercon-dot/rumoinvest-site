@@ -1,0 +1,144 @@
+{
+ "slug": "acoes-abaixo-de-r-10-preco-da-cotacao-nao-e-sinonimo-de-empresa-barata",
+ "title": "Ações abaixo de R$ 10: preço da cotação não é sinônimo de empresa barata",
+ "subtitle": "Ações baratas para investir são assunto em alta; veja por que olhar só o valor da cota pode enganar o investidor iniciante.",
+ "category": "educacao",
+ "date": "2026-11-14",
+ "time": "11:50",
+ "sentiment": "Alerta",
+ "meta": "Descubra a diferença entre cotações abaixo de R$ 10 e empresas realmente descontadas na Bolsa de Valores.",
+ "tags": [
+  "Ações Baratas",
+  "B3",
+  "Análise Fundamentalista",
+  "Mercado Financeiro",
+  "Educação Financeira"
+ ],
+ "sources": [
+  "B3"
+ ],
+ "body": [
+  {
+   "type": "p",
+   "text": "Para quem tem pouco dinheiro e está começando, uma ação cotada a R$ 5 parece mais acessível do que uma de R$ 50. E é, de fato, mais acessível para a primeira compra. O problema é concluir que ela é, por isso, uma ação **barata**."
+  },
+  {
+   "type": "h2",
+   "text": "Preço da cota não é o valor da empresa"
+  },
+  {
+   "type": "p",
+   "text": "O valor de uma empresa depende de quanto ela lucra, de quanto vale seu patrimônio e de quanto deve — não do número que aparece na tela. Uma companhia pode ter muitas ações de valor baixo e ser cara, e outra pode ter poucas ações de valor alto e estar descontada."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: dois exemplos ilustrativos",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Os números abaixo são hipotéticos, criados só para ilustrar a ideia:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "",
+      "Empresa A",
+      "Empresa B"
+     ],
+     "rows": [
+      [
+       "Preço da ação",
+       "R$ 5,00",
+       "R$ 50,00"
+      ],
+      [
+       "Lucro por ação no ano",
+       "R$ 0,25",
+       "R$ 10,00"
+      ],
+      [
+       "P/L (preço ÷ lucro)",
+       "20 anos",
+       "5 anos"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "A ação de R$ 5 leva 20 anos de lucros para “se pagar”, enquanto a de R$ 50 leva 5. Barata, aqui, é a de R$ 50."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Três indicadores para começar a olhar"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**P/L (Preço sobre Lucro):** mostra quantos anos de lucro o mercado está pagando pela empresa.",
+    "**P/VP (Preço sobre Valor Patrimonial):** compara o preço da ação com o patrimônio contábil por ação.",
+    "**Alavancagem (dívida em relação à geração de caixa):** empresas muito endividadas sofrem mais quando os juros sobem."
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "Nenhum indicador, sozinho, diz se vale a pena investir. Eles servem para fazer boas perguntas, não para dar respostas prontas."
+  },
+  {
+   "type": "h2",
+   "text": "E por que a diversificação importa?"
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: como olhar uma ação barata",
+   "center": "Ação abaixo de R$ 10",
+   "branches": [
+    {
+     "label": "Preço da cota",
+     "items": [
+      "É só o valor de 1 ação",
+      "Não diz se a empresa é cara ou barata"
+     ]
+    },
+    {
+     "label": "Valor da empresa",
+     "items": [
+      "Lucro (P/L)",
+      "Patrimônio (P/VP)",
+      "Dívida (alavancagem)"
+     ]
+    },
+    {
+     "label": "Cuidados",
+     "items": [
+      "Diversificar entre empresas",
+      "Entender o negócio",
+      "Conferir os balanços"
+     ]
+    },
+    {
+     "label": "Como começar",
+     "items": [
+      "Mercado fracionário: de 1 em 1 ação",
+      "Aportes regulares",
+      "Foco em educação financeira"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Ações de menor valor unitário são uma porta de entrada, mas a análise de fundamentos continua sendo necessária. Distribuir o dinheiro entre diferentes empresas e tipos de ativo reduz o risco de depender de uma única história. Lembre-se também de que o mercado fracionário permite comprar quantidades pequenas de ações de qualquer preço, então o valor da cota não precisa ser um obstáculo."
+  }
+ ],
+ "image": "assets/covers/acoes-abaixo-de-r-10-preco-da-cotacao-nao-e-sinoni.jpg",
+ "image_alt": "Ilustração: lupa sobre etiqueta de preço, balança e gráfico de barras",
+ "trend": {
+  "rank": 3,
+  "term": "Ações baratas para investir",
+  "ref": "13/11"
+ },
+ "source_doc": "1eduNPOBaLxyykBfy0LK19D3Mk1wvRirZtE3ZqsTBgD8",
+ "source_topic": "Ações baratas para investir"
+}

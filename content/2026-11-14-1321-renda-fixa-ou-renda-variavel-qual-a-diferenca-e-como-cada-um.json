@@ -1,0 +1,169 @@
+{
+ "slug": "renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona",
+ "title": "Renda fixa ou renda variável: qual a diferença e como cada uma funciona",
+ "subtitle": "Entender a diferença entre previsibilidade e oscilação evita o erro mais comum do iniciante. Compare risco, retorno e prazo lado a lado.",
+ "category": "educacao",
+ "date": "2026-11-14",
+ "time": "13:21",
+ "sentiment": "Neutro",
+ "meta": "Renda fixa ou renda variável? Entenda a diferença, compare risco, retorno e prazo e veja exemplos de cada uma, como Tesouro, CDB, ações e FIIs.",
+ "tags": [
+  "Renda Fixa",
+  "Renda Variável",
+  "Como investir",
+  "Educação Financeira",
+  "Tesouro Direto",
+  "Ações"
+ ],
+ "sources": [
+  "B3: Bora Investir",
+  "Portal do Investidor (CVM)",
+  "Tesouro Direto"
+ ],
+ "source_doc": "guia-evergreen",
+ "source_topic": "Renda fixa ou renda variável",
+ "image": "assets/covers/renda-fixa-ou-renda-variavel-qual-a-diferenca-e-co.jpg",
+ "image_alt": "Ilustração: bifurcação de estrada, uma reta levando a um cofre e outra sinuosa com gráfico de velas",
+ "canva_media_id": "MAHa6IF5Zsg",
+ "body": [
+  {
+   "type": "p",
+   "text": "**Renda fixa ou renda variável: qual escolher?** A pergunta está incompleta. Não existe a melhor opção para todo mundo; existe a mais adequada ao seu objetivo, ao seu prazo e ao quanto de oscilação você consegue suportar. Veja como cada uma funciona."
+  },
+  {
+   "type": "h2",
+   "text": "O que é renda fixa"
+  },
+  {
+   "type": "p",
+   "text": "Na renda fixa, você empresta dinheiro a alguém (governo ou banco) e as regras de remuneração são conhecidas na contratação: uma taxa prefixada, a Selic ou a inflação mais um percentual. Exemplos: Tesouro Direto, CDB, LCI e LCA. É mais previsível, mas **previsível não significa sem risco**: o emissor pode ter problemas e o preço de títulos vendidos antes do vencimento oscila. Veja em [Tesouro Direto com a Selic em 13,75%](#materia-tesouro-direto-com-selic-a-13-75-entenda-tesouro-selic-prefixado-e-ipca) e [CDB, LCI e LCA](#materia-cdb-lci-e-lca-como-comparar-rendimento-imposto-e-seguranca-do-fgc)."
+  },
+  {
+   "type": "h2",
+   "text": "O que é renda variável"
+  },
+  {
+   "type": "p",
+   "text": "Na renda variável, o retorno não é conhecido de antemão. Você compra uma parte de uma empresa (ação) ou de um conjunto de imóveis (fundo imobiliário) e o resultado depende do preço de mercado e dos proventos. Pode render mais no longo prazo, mas também pode gerar perdas, principalmente em prazos curtos."
+  },
+  {
+   "type": "table",
+   "head": [
+    "Característica",
+    "Renda fixa",
+    "Renda variável"
+   ],
+   "rows": [
+    [
+     "Previsibilidade",
+     "Maior",
+     "Menor"
+    ],
+    [
+     "Oscilação de preço",
+     "Menor (maior em títulos longos vendidos antes)",
+     "Maior"
+    ],
+    [
+     "Exemplos",
+     "Tesouro, CDB, LCI, LCA",
+     "Ações, FIIs"
+    ],
+    [
+     "Ganhos",
+     "Juros acordados",
+     "Valorização e proventos"
+    ],
+    [
+     "Indicada para",
+     "Reserva e objetivos de curto prazo",
+     "Objetivos de longo prazo"
+    ]
+   ]
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: o erro de escolher só pela rentabilidade",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Quem olha apenas o retorno que um investimento já teve esquece de olhar o risco que ele correu. A rentabilidade passada não garante o futuro. Antes de escolher, pergunte: quando vou precisar desse dinheiro e quanto de queda eu aguento ver?"
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Dá para combinar as duas?"
+  },
+  {
+   "type": "p",
+   "text": "Sim. Muitos investidores usam a renda fixa para a reserva e metas de curto prazo e a renda variável para metas longas, como a aposentadoria. A proporção depende do seu perfil. Como exemplos de renda variável ligados à renda passiva, há ações de empresas com histórico de dividendos, como BBAS3 e TAEE4, e fundos imobiliários, como MXRF11 e GARE11. São exemplos educativos, não recomendações."
+  },
+  {
+   "type": "callout",
+   "text": "**Regra de ouro:** antes de buscar mais retorno, monte a [reserva de emergência](#materia-reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro). Ela evita que você precise vender investimentos de longo prazo em um momento ruim."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: renda fixa x renda variável",
+   "center": "Onde investir",
+   "branches": [
+    {
+     "label": "Renda fixa",
+     "items": [
+      "Regras conhecidas na contratação",
+      "Tesouro, CDB, LCI, LCA",
+      "Reserva e curto prazo"
+     ]
+    },
+    {
+     "label": "Renda variável",
+     "items": [
+      "Retorno incerto",
+      "Ações e FIIs",
+      "Longo prazo"
+     ]
+    },
+    {
+     "label": "Como decidir",
+     "items": [
+      "Objetivo",
+      "Prazo",
+      "Tolerância a oscilação"
+     ]
+    },
+    {
+     "label": "Cuidados",
+     "items": [
+      "Rentabilidade passada não garante futuro",
+      "Diversifique",
+      "Entenda o risco"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes sobre renda fixa e variável",
+   "items": [
+    {
+     "q": "Renda fixa é sempre segura?",
+     "a": "Não. Ela é mais previsível, mas tem riscos, como o do emissor e a oscilação de preço de títulos vendidos antes do vencimento."
+    },
+    {
+     "q": "Renda variável rende mais?",
+     "a": "Pode render mais no longo prazo, mas não há garantia e as perdas são possíveis, principalmente em prazos curtos."
+    },
+    {
+     "q": "Posso investir nas duas ao mesmo tempo?",
+     "a": "Sim. Muitos investidores combinam renda fixa e variável conforme o objetivo, o prazo e o perfil de risco."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Continue aprendendo",
+   "text": "Veja [como começar a investir com pouco dinheiro](#materia-como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes) e entenda [o que é a taxa Selic](#materia-o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes)."
+  }
+ ]
+}

@@ -1,0 +1,168 @@
+{
+ "slug": "inflacao-dos-alimentos-por-que-o-tomate-e-a-cesta-basica-subiram-e-como-proteger-seu-dinheiro",
+ "title": "Inflação dos alimentos: por que o tomate e a cesta básica subiram e como proteger seu dinheiro",
+ "subtitle": "A cesta básica ficou mais cara nas 27 capitais em outubro. Entenda o que está por trás da alta, como ela vira inflação e o que observar nas suas finanças.",
+ "category": "educacao",
+ "date": "2026-11-16",
+ "time": "08:20",
+ "sentiment": "Alerta",
+ "meta": "Inflação dos alimentos: veja por que o tomate e a cesta básica subiram em outubro, como isso vira IPCA e como proteger o poder de compra do seu dinheiro.",
+ "focus_kw": "inflação dos alimentos",
+ "tags": [
+  "Inflação dos alimentos",
+  "Preço do tomate",
+  "Cesta básica",
+  "IPCA",
+  "Poder de compra",
+  "Educação Financeira"
+ ],
+ "sources": [
+  {
+   "t": "DIEESE: Pesquisa Nacional da Cesta Básica de Alimentos, outubro de 2026",
+   "url": "https://www.dieese.org.br/analisecestabasica/2026/202610cestabasica.pdf",
+   "at": "10/11/2026"
+  },
+  {
+   "t": "Jornal do Comércio: Dieese, cesta básica sobe nas 27 capitais em outubro; São Paulo segue com a cesta mais cara",
+   "url": "https://www.jornaldocomercio.com/economia/2026/11/1270152-dieese-cesta-basica-sobe-nas-27-capitais-em-outubro-sao-paulo-segue-com-a-cesta-mais-cara.html",
+   "at": "11/11/2026"
+  },
+  {
+   "t": "IBGE: IPCA de outubro de 2026 (divulgado em 12/11), via Agência Brasil",
+   "at": "12/11/2026"
+  }
+ ],
+ "source_doc": "Pesquisa própria do Claude (sem relatório do Drive em 16/11 08:20)",
+ "source_topic": "Preço dos alimentos / tomate",
+ "trend": {
+  "rank": 1,
+  "term": "Preço do tomate e dos alimentos",
+  "ref": "16/11"
+ },
+ "image": "assets/covers/inflacao-dos-alimentos-por-que-o-tomate-e-a-cesta-ba.jpg",
+ "image_alt": "Ilustração: caixa de tomates ao lado de carrinho de compras, moedas e seta de preços subindo, com a formiga Giga",
+ "canva_media_id": "MAHbE9n36-w",
+ "body": [
+  {
+   "type": "p",
+   "text": "**A inflação dos alimentos** é assunto em alta, e não é à toa: segundo o DIEESE, o preço da cesta básica subiu em outubro **nas 27 capitais** pesquisadas, com altas mensais de 0,28% (Boa Vista) a 6,79% (Salvador). A cesta mais cara foi a de São Paulo, a R$ 951,37. O tomate foi um dos destaques da alta. Vale entender como isso chega ao seu bolso e o que fazer com a informação."
+  },
+  {
+   "type": "h2",
+   "text": "O que fez o tomate e a cesta subirem"
+  },
+  {
+   "type": "p",
+   "text": "O DIEESE registrou alta do quilo do tomate em todas as capitais entre setembro e outubro, de 0,68% (Boa Vista) a 58,32% (Maceió). Em 12 meses, a variação foi de 2,64% (Macapá) a 117,12% (Cuiabá). Segundo o texto da pesquisa, o clima ameno e as chuvas em algumas praças atrasaram o amadurecimento e reduziram a oferta. Menos produto para a mesma procura costuma empurrar o preço para cima."
+  },
+  {
+   "type": "p",
+   "text": "Outros itens também subiram de setembro para outubro: o arroz agulhinha em 26 capitais, a carne bovina de primeira em 25 e o óleo de soja em 24. Já o café em pó ficou mais barato em 20 capitais. Ou seja, o movimento não é igual para todos os produtos."
+  },
+  {
+   "type": "h2",
+   "text": "Como a alta vira inflação e mexe com os juros"
+  },
+  {
+   "type": "p",
+   "text": "A inflação oficial do país é medida pelo IPCA, do IBGE. Em outubro, alimentação e bebidas subiram 1,04%, o maior impacto do mês, e o índice acumulou 4,63% em 12 meses. Quando os preços sobem, o Banco Central pode manter os juros altos por mais tempo, como explicamos em [O que é a taxa Selic](#materia-o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes). Para ver a conta completa, leia [Inflação desacelera em outubro e Selic segue em 13,75%](#materia-inflacao-desacelera-em-outubro-e-selic-a-13-75-quanto-sobra-do-rendimento-da-renda-fixa)."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: o que a inflação faz com R$ 200 de compras",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo**: suponha que sua lista de compras do mês custe R$ 200 e que os preços subam 4,63%, o acumulado do IPCA em 12 meses. A mesma lista passaria a custar **R$ 209,26**. Se o seu dinheiro estiver parado e não render nada, você compra menos com os mesmos R$ 200. Por isso se compara o rendimento de uma aplicação com a inflação, e não só com a taxa anunciada."
+    },
+    {
+     "type": "p",
+     "text": "Atenção: a inflação de cada família depende do que ela compra. Quem gasta mais com alimentos sente uma alta como a de outubro com mais força que o índice geral."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "O que observar para proteger o poder de compra"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Compare o rendimento com a inflação:** o ganho de verdade é o que sobra depois de descontar os preços.",
+    "**Conheça os títulos atrelados ao IPCA:** o Tesouro IPCA+ paga a inflação mais uma taxa. Veja como funciona em [Tesouro Direto com a Selic em 13,75%](#materia-tesouro-direto-com-selic-a-13-75-entenda-tesouro-selic-prefixado-e-ipca).",
+    "**Mantenha a reserva em aplicação de liquidez diária:** assim você não precisa vender investimentos de longo prazo quando as contas apertam. Entenda em [Reserva de emergência](#materia-reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro).",
+    "**Lembre-se de que preços de alimentos frescos oscilam:** a oferta pode se normalizar, e a alta de um mês não define o ano."
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "**Conteúdo educativo:** este texto explica conceitos e não recomenda a compra de nenhum investimento. A rentabilidade passada não garante resultados futuros, e a sua situação pode pedir uma análise individual."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: inflação dos alimentos",
+   "center": "Alimentos mais caros",
+   "branches": [
+    {
+     "label": "O que aconteceu",
+     "items": [
+      "Cesta básica em alta nas 27 capitais",
+      "Tomate subiu em todas",
+      "Clima reduziu a oferta"
+     ]
+    },
+    {
+     "label": "Como vira inflação",
+     "items": [
+      "IPCA mede a alta de preços",
+      "Alimentação: +1,04% em outubro",
+      "12 meses: 4,63%"
+     ]
+    },
+    {
+     "label": "Efeito nos juros",
+     "items": [
+      "Banco Central observa os preços",
+      "Selic em 13,75%",
+      "Juros altos por mais tempo"
+     ]
+    },
+    {
+     "label": "O que observar",
+     "items": [
+      "Rendimento acima da inflação",
+      "Títulos atrelados ao IPCA",
+      "Reserva de emergência"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes sobre a inflação dos alimentos",
+   "items": [
+    {
+     "q": "Por que o preço do tomate subiu?",
+     "a": "Segundo o DIEESE, o clima ameno e as chuvas em algumas regiões atrasaram o amadurecimento e reduziram a oferta, o que pressionou os preços entre setembro e outubro."
+    },
+    {
+     "q": "O que é o IPCA?",
+     "a": "É o índice oficial de inflação do Brasil, calculado pelo IBGE. Em outubro de 2026, acumulou 4,63% em 12 meses."
+    },
+    {
+     "q": "A alta dos alimentos afeta os investimentos?",
+     "a": "Indiretamente. Preços mais altos podem manter os juros elevados por mais tempo, o que influencia a renda fixa e a atratividade de fundos imobiliários e ações."
+    },
+    {
+     "q": "Como saber se meu dinheiro rende mais que a inflação?",
+     "a": "Compare o rendimento líquido da aplicação, depois do Imposto de Renda, com o IPCA do mesmo período."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Continue aprendendo",
+   "text": "Veja também [Dólar alto: como ele afeta preços, juros e investimentos](#materia-dolar-alto-como-ele-afeta-precos-juros-e-investimentos) e a [diferença entre renda fixa e renda variável](#materia-renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona)."
+  }
+ ]
+}

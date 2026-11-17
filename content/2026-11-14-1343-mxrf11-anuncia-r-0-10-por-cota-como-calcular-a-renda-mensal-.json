@@ -1,0 +1,172 @@
+{
+ "slug": "mxrf11-anuncia-r-0-10-por-cota-como-calcular-a-renda-mensal-de-um-fii-com-r-100",
+ "title": "MXRF11 anuncia R$ 0,10 por cota: como calcular a renda mensal de um FII com R$ 100",
+ "subtitle": "O Maxi Renda divulgou novo rendimento. Veja a conta simples, o que são FIIs de papel e de tijolo e o que olhar além do valor pago.",
+ "category": "fiis",
+ "date": "2026-11-14",
+ "time": "13:43",
+ "sentiment": "Otimista",
+ "meta": "MXRF11 anunciou R$ 0,10 por cota. Veja como calcular a renda mensal de um FII com R$ 100 e a diferença entre FIIs de papel e de tijolo.",
+ "focus_kw": "MXRF11 rendimento por cota",
+ "tags": [
+  "MXRF11",
+  "GARE11",
+  "Fundos Imobiliários",
+  "Renda Passiva",
+  "FIIs de papel",
+  "FIIs de tijolo"
+ ],
+ "sources": [
+  {
+   "t": "B3 (boletins e cotações)",
+   "url": "https://www.b3.com.br",
+   "at": "13/11/2026"
+  },
+  {
+   "t": "Comunicado do fundo MXRF11 via B3",
+   "url": "https://www.b3.com.br",
+   "at": "13/11/2026"
+  },
+  {
+   "t": "Relatório de Fechamento RumoInvest",
+   "at": "13/11/2026"
+  }
+ ],
+ "source_doc": "Relatório de Fechamento RumoInvest - 13/11",
+ "source_topic": "FIIs",
+ "image": "assets/covers/mxrf11-anuncia-r-0-10-por-cota-como-calcular-a-renda-m.jpg",
+ "image_alt": "Ilustração: prédios de fundo imobiliário e pote de moedas com gráfico de barras",
+ "canva_media_id": "MAHa6EPcmXE",
+ "body": [
+  {
+   "type": "p",
+   "text": "**O Maxi Renda (MXRF11) anunciou o pagamento de R$ 0,10 por cota para o próximo período de proventos**, mantendo a consistência dos rendimentos mensais, segundo o fechamento de 13/11. Para quem está começando, a pergunta é: quanto isso significa no bolso?"
+  },
+  {
+   "type": "h2",
+   "text": "A conta simples com R$ 100"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Item",
+    "Valor"
+   ],
+   "rows": [
+    [
+     "Aporte",
+     "R$ 100,00"
+    ],
+    [
+     "Preço por cota (exemplo)",
+     "R$ 10,00"
+    ],
+    [
+     "Cotas adquiridas",
+     "10"
+    ],
+    [
+     "Rendimento anunciado por cota",
+     "R$ 0,10"
+    ],
+    [
+     "Renda do mês seguinte",
+     "R$ 1,00"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "O exemplo é ilustrativo: o preço da cota muda todos os dias e o rendimento varia de mês para mês. O valor anunciado não é promessa para os meses seguintes."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: papel x tijolo",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "FIIs de **papel**, como o MXRF11, aplicam em títulos de crédito imobiliário e costumam reagir ao CDI e à inflação. FIIs de **tijolo**, como o GARE11, investem em imóveis, e o resultado depende de aluguéis e vacância. Entenda como os juros afetam cada tipo em [Selic e rendimentos: o impacto nos FIIs](#materia-selic-e-rendimentos-entenda-o-impacto-nos-fundos-imobiliarios-mxrf11-e-gare11)."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "O que olhar além do rendimento"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**P/VP:** compara o preço da cota com o valor patrimonial do fundo.",
+    "**Dividend yield:** o rendimento dos últimos meses em relação ao preço da cota.",
+    "**Vacância e qualidade dos ativos:** relevantes principalmente nos fundos de tijolo.",
+    "**Gestão:** novidades e comunicados do gestor."
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "**Importante:** a cota de um FII pode cair, mesmo com rendimentos mensais. Em regra, os rendimentos são isentos de Imposto de Renda para pessoa física, se o fundo cumprir as condições da lei. Confirme no regulamento do fundo."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: FIIs",
+   "center": "Fundos imobiliários",
+   "branches": [
+    {
+     "label": "Tipos",
+     "items": [
+      "Papel (MXRF11)",
+      "Tijolo (GARE11)",
+      "Híbridos"
+     ]
+    },
+    {
+     "label": "Renda",
+     "items": [
+      "Rendimento mensal",
+      "Data-base e pagamento",
+      "Dividend yield"
+     ]
+    },
+    {
+     "label": "Indicadores",
+     "items": [
+      "P/VP",
+      "Vacância",
+      "Gestão"
+     ]
+    },
+    {
+     "label": "Cuidados",
+     "items": [
+      "Cota oscila",
+      "Rendimento varia",
+      "Diversifique"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes sobre FIIs",
+   "items": [
+    {
+     "q": "Quanto rende o MXRF11 com R$ 100?",
+     "a": "Com o rendimento anunciado de R$ 0,10 por cota e 10 cotas a R$ 10, seriam R$ 1,00 no mês seguinte, em um exemplo ilustrativo."
+    },
+    {
+     "q": "FII paga todo mês?",
+     "a": "Em geral, os fundos distribuem rendimentos mensalmente, mas o valor muda conforme o resultado do fundo."
+    },
+    {
+     "q": "FII é seguro?",
+     "a": "Não existe investimento sem risco. A cota oscila e os rendimentos variam. Avalie gestão, ativos e seu perfil."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Próximo passo",
+   "text": "Aprenda [como começar a investir com pouco dinheiro](#materia-como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes) e veja [como funcionam os dividendos](#materia-dividendos-como-funcionam-data-com-e-pagamento-e-por-que-bbas3-e-taee4-sao-observadas)."
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "slug": "dividendos-como-funcionam-data-com-e-pagamento-e-por-que-bbas3-e-taee4-sao-observadas",
+ "title": "Dividendos: como funcionam data com e data de pagamento (e por que BBAS3 e TAEE4 são observadas)",
+ "subtitle": "Entenda quando você tem direito ao provento, como o dividend yield é calculado e veja uma conta simples com R$ 100.",
+ "category": "dividendos",
+ "date": "2026-11-14",
+ "time": "13:40",
+ "sentiment": "Otimista",
+ "meta": "Dividendos na prática: o que é data com, data de pagamento e dividend yield, com exemplo de R$ 100 e os casos de BBAS3 e TAEE4.",
+ "focus_kw": "dividendos BBAS3 TAEE4",
+ "tags": [
+  "Dividendos",
+  "BBAS3",
+  "TAEE4",
+  "Data com",
+  "Dividend Yield",
+  "Renda Passiva"
+ ],
+ "sources": [
+  {
+   "t": "B3 (boletins e cotações)",
+   "url": "https://www.b3.com.br",
+   "at": "13/11/2026"
+  },
+  {
+   "t": "CVM RAD (comunicados ao mercado)",
+   "url": "https://www.rad.cvm.gov.br",
+   "at": "13/11/2026"
+  },
+  {
+   "t": "Relatório de Fechamento RumoInvest",
+   "at": "13/11/2026"
+  }
+ ],
+ "source_doc": "Relatório de Fechamento RumoInvest - 13/11",
+ "source_topic": "Dividendos",
+ "image": "assets/covers/dividendos-como-funcionam-data-com-e-pagamento-e-por-.jpg",
+ "image_alt": "Ilustração: cofre com moedas caindo ao lado de um calendário e gráfico de barras",
+ "canva_media_id": "MAHa6OoqNGQ",
+ "body": [
+  {
+   "type": "p",
+   "text": "**Dividendos são a parte do lucro que uma empresa distribui aos acionistas.** Para quem quer construir renda passiva, entender o calendário do provento é tão importante quanto escolher a ação. Veja como funciona e o que está no radar do mercado."
+  },
+  {
+   "type": "h2",
+   "text": "Data com e data de pagamento: quando o dinheiro cai"
+  },
+  {
+   "type": "p",
+   "text": "A **data com** é o último dia em que você precisa ter a ação em carteira para ter direito ao provento anunciado. Quem compra depois dela não recebe aquele pagamento. A **data de pagamento** é o dia em que o valor é efetivamente depositado, e costuma vir semanas depois. Confira sempre o comunicado da empresa no sistema da CVM antes de contar com o valor."
+  },
+  {
+   "type": "h2",
+   "text": "BBAS3 e TAEE4 no radar"
+  },
+  {
+   "type": "p",
+   "text": "Segundo o fechamento de 13/11, o **Banco do Brasil (BBAS3)** apresentou um balanço sólido, com eficiência operacional e manutenção da política de distribuição constante de dividendos. Já a **Taesa (TAEE4)** reportou resultados operacionais robustos e previsíveis no setor elétrico, reforçando o histórico de pagamento de proventos. São exemplos de empresas acompanhadas por quem busca renda, e não uma indicação de compra. Para entender como analisar os números do banco, leia o [Raio-X do balanço do Banco do Brasil](#materia-raio-x-do-balanco-do-banco-do-brasil-bbas3-como-analisar-os-resultados-do-trimestre)."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: dividend yield sem mistério",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "O dividend yield mostra quanto a empresa pagou de proventos em relação ao preço da ação. Exemplo ilustrativo: se uma ação custa R$ 10,00 e pagou R$ 0,80 em 12 meses, o yield foi de 8%. Com R$ 100 você teria 10 ações e receberia cerca de **R$ 8,00** no período, antes de qualquer imposto. O valor muda a cada ano, porque os dividendos dependem do lucro."
+    }
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "**Cuidado:** um dividend yield muito alto pode indicar que o preço da ação caiu ou que o pagamento foi pontual. Dividendo passado não garante pagamentos futuros."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: dividendos",
+   "center": "Dividendos",
+   "branches": [
+    {
+     "label": "Calendário",
+     "items": [
+      "Data com",
+      "Data de pagamento",
+      "Comunicado na CVM"
+     ]
+    },
+    {
+     "label": "Indicadores",
+     "items": [
+      "Dividend yield",
+      "Payout",
+      "Lucro da empresa"
+     ]
+    },
+    {
+     "label": "No radar",
+     "items": [
+      "BBAS3",
+      "TAEE4",
+      "Previsibilidade"
+     ]
+    },
+    {
+     "label": "Cuidados",
+     "items": [
+      "Yield alto demais",
+      "Não garante o futuro",
+      "Diversifique"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes sobre dividendos",
+   "items": [
+    {
+     "q": "O que é a data com?",
+     "a": "É o último dia para ter a ação em carteira e ter direito ao provento anunciado. Quem compra depois não recebe aquele pagamento."
+    },
+    {
+     "q": "O que é dividend yield?",
+     "a": "É a relação entre os proventos pagos em um período e o preço da ação. Serve para comparar a renda gerada por diferentes ativos."
+    },
+    {
+     "q": "Dividendo é garantido?",
+     "a": "Não. Ele depende do lucro e das decisões da empresa. Resultados passados não garantem pagamentos futuros."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Continue aprendendo",
+   "text": "Veja como funciona a renda mensal em [fundos imobiliários](#materia-selic-e-rendimentos-entenda-o-impacto-nos-fundos-imobiliarios-mxrf11-e-gare11) e entenda [renda fixa x renda variável](#materia-renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona)."
+  }
+ ]
+}

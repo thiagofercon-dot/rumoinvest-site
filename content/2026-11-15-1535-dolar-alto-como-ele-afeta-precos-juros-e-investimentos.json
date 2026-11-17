@@ -1,0 +1,146 @@
+{
+ "slug": "dolar-alto-como-ele-afeta-precos-juros-e-investimentos",
+ "title": "Dólar alto: como ele afeta preços, juros e investimentos (guia para iniciantes)",
+ "subtitle": "Entenda por que a alta do dólar chega ao supermercado, ao financiamento e à sua carteira, e quais perguntas fazer antes de qualquer decisão.",
+ "category": "educacao",
+ "date": "2026-11-15",
+ "time": "15:35",
+ "sentiment": "Neutro",
+ "meta": "Dólar alto: veja como o câmbio influencia preços, inflação, juros e investimentos, com exemplo em reais. Guia simples para iniciantes.",
+ "focus_kw": "dólar alto como afeta investimentos",
+ "tags": [
+  "Dólar",
+  "Câmbio",
+  "Inflação",
+  "Educação Financeira",
+  "Juros",
+  "Investimentos para Iniciantes"
+ ],
+ "sources": [
+  {
+   "t": "O Povo: Dólar fecha estável a R$ 5,65, mas sobe 2,63% na semana",
+   "url": "https://www.opovo.com.br/noticias/economia/2026/11/13/dolar-fecha-estavel-a-rs-565-mas-sobe-263-na-semana.html",
+   "at": "13/11/2026"
+  },
+  {
+   "t": "Metrópoles: Dólar fecha a R$ 5,65, maior patamar desde junho de 2025; Bolsa sobe 0,66%",
+   "url": "https://www.metropoles.com/brasil/dolar-ibovespa-bolsa-13-novembro",
+   "at": "13/11/2026"
+  }
+ ],
+ "source_doc": "pesquisa-web-mercado",
+ "source_topic": "Dólar alto",
+ "image": "assets/covers/dolar-alto-como-ele-afeta-precos-juros-e-investime.jpg",
+ "image_alt": "Ilustração: avião e caixas de importação ao lado de moeda de dólar e carrinho de compras",
+ "canva_media_id": "MAHbArP0tPk",
+ "body": [
+  {
+   "type": "p",
+   "text": "**O dólar fechou a sexta-feira (13) a R$ 5,657, no maior valor de fechamento desde junho de 2025.** Mesmo quem nunca comprou uma moeda estrangeira sente o câmbio no dia a dia. Veja como isso acontece, de forma simples."
+  },
+  {
+   "type": "h2",
+   "text": "Como o dólar chega aos preços"
+  },
+  {
+   "type": "p",
+   "text": "O Brasil importa de combustíveis a eletrônicos, insumos para a indústria e fertilizantes. Quando o dólar sobe, o custo em reais desses itens aumenta, e parte desse aumento pode chegar ao consumidor. Por isso, o câmbio é um dos fatores que o Banco Central observa ao avaliar a inflação. Para entender esse ciclo, leia [O que é a taxa Selic](#materia-o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes)."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: o que muda com R$ 100",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo ilustrativo: se um produto importado custa US$ 100, a R$ 5,50 você pagaria R$ 550. A R$ 5,65, pagaria R$ 565. A diferença de R$ 15 vem só do câmbio, sem que o produto tenha mudado."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Dólar alto e juros"
+  },
+  {
+   "type": "p",
+   "text": "Câmbio mais alto pode pressionar a inflação, e o Banco Central usa os juros para controlá-la. Em 4 de novembro, o Copom manteve a Selic em 13,75% ao ano. Veja como a inflação se liga à renda fixa em [Inflação desacelera em outubro e Selic segue em 13,75%](#materia-inflacao-desacelera-em-outubro-e-selic-a-13-75-quanto-sobra-do-rendimento-da-renda-fixa)."
+  },
+  {
+   "type": "h2",
+   "text": "E os investimentos?"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Renda fixa:** títulos prefixados e pós-fixados reagem ao juro, não diretamente ao dólar. Compare sempre o rendimento com a inflação.",
+    "**Ações:** empresas que vendem para o exterior podem ser beneficiadas, enquanto as que têm dívidas em dólar ou importam muito podem sofrer. Cada caso é diferente.",
+    "**Diversificação:** distribuir o dinheiro em diferentes tipos de ativos ajuda a reduzir o impacto de oscilações específicas."
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "**Cuidado:** o dólar sobe e desce, e ninguém consegue prever o valor com certeza. Decisões baseadas em apenas um indicador costumam ser arriscadas. Conteúdo educativo, sem recomendação de compra ou venda de moeda ou de ativos."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: dólar alto",
+   "center": "Dólar alto",
+   "branches": [
+    {
+     "label": "Preços",
+     "items": [
+      "Importados mais caros",
+      "Insumos e combustíveis",
+      "Pressão na inflação"
+     ]
+    },
+    {
+     "label": "Juros",
+     "items": [
+      "Banco Central observa",
+      "Selic em 13,75%",
+      "Cenário pode mudar"
+     ]
+    },
+    {
+     "label": "Investimentos",
+     "items": [
+      "Renda fixa e juros",
+      "Ações e exportadoras",
+      "Diversificação"
+     ]
+    },
+    {
+     "label": "Cuidados",
+     "items": [
+      "Não dá para prever",
+      "Pensar no longo prazo",
+      "Entender o risco"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes sobre o dólar",
+   "items": [
+    {
+     "q": "Por que o dólar sobe?",
+     "a": "Há vários motivos, como incerteza fiscal, juros no Brasil e no exterior e o humor dos investidores globais. Em geral, mais de um fator atua ao mesmo tempo."
+    },
+    {
+     "q": "Dólar alto aumenta a inflação?",
+     "a": "Pode aumentar, porque encarece produtos e insumos importados. O efeito varia conforme a duração da alta e outros fatores."
+    },
+    {
+     "q": "Devo comprar dólar quando ele sobe?",
+     "a": "Este conteúdo é educativo e não recomenda compra de moeda. Antes de decidir, considere seu objetivo, prazo e perfil de risco."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Continue aprendendo",
+   "text": "Veja a [diferença entre renda fixa e renda variável](#materia-renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona) e [como começar a investir com pouco dinheiro](#materia-como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes)."
+  }
+ ]
+}

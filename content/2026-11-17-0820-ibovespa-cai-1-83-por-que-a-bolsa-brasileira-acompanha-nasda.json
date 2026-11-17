@@ -1,0 +1,163 @@
+{
+ "slug": "ibovespa-cai-1-83-por-que-a-bolsa-brasileira-acompanha-nasdaq-e-nvidia",
+ "title": "Ibovespa cai 1,83%: por que a bolsa brasileira acompanha Nasdaq e Nvidia e como ler dias de queda",
+ "subtitle": "O índice recuou a 169.295,40 pontos, enquanto algumas ações abaixo de R$ 10 subiram. Entenda o que move a bolsa e por que o preço baixo não quer dizer empresa barata.",
+ "category": "educacao",
+ "date": "2026-11-17",
+ "time": "08:20",
+ "sentiment": "Alerta",
+ "meta": "Ibovespa cai 1,83%: entenda por que a bolsa brasileira acompanha Nasdaq e Nvidia, o que são blue chips e como ler dias de queda, com exemplo em reais.",
+ "focus_kw": "Ibovespa cai 1,83%",
+ "tags": [
+  "Ibovespa",
+  "Blue chips",
+  "Nasdaq",
+  "Nvidia",
+  "Ações abaixo de R$ 10",
+  "Educação Financeira"
+ ],
+ "sources": [
+  {
+   "t": "InvesTalk (Banco do Brasil): Mercado agora, fechamento de 16/11",
+   "url": "https://investalk.bb.com.br/noticias/mercado/mercado-agora-16-11-26",
+   "at": "16/11/2026 (fechamento do pregão)"
+  }
+ ],
+ "source_doc": "1Q4cpHdL2F0Z4j0o0a85KWkyLeA0GC6DR-DWDLefBhHE",
+ "source_topic": "Ibovespa, blue chips e balanço da Nvidia",
+ "trend": {
+  "rank": 3,
+  "term": "Ibovespa, blue chips e balanço da Nvidia",
+  "ref": "17/11"
+ },
+ "image": "assets/covers/ibovespa-cai-1-83-por-que-a-bolsa-brasileira-acompanha-nasda.jpg",
+ "image_alt": "Ilustração: prédios de uma cidade financeira, gráfico em queda, globo terrestre, lupa sobre gráfico, moedas e notas de real",
+ "canva_media_id": "MAHbK0rdkn4",
+ "body": [
+  {
+   "type": "p",
+   "text": "**O Ibovespa caiu 1,83%** na segunda-feira (16/11) e fechou a **169.295,40 pontos**, segundo o InvesTalk, do Banco do Brasil. O índice foi pressionado pela Vale (VALE3, -4,41%) e pela Petrobras (PETR4, -2,83%), em um dia de queda também lá fora: o Nasdaq recuou 2,49% e a Nvidia, 4,12%, antes de divulgar seu balanço. Veja como ler um dia assim."
+  },
+  {
+   "type": "h2",
+   "text": "O que é o Ibovespa e o que são blue chips"
+  },
+  {
+   "type": "p",
+   "text": "O Ibovespa é o principal índice da B3 e funciona como uma média do desempenho de um grupo de ações. As empresas maiores e mais negociadas, as chamadas **blue chips**, têm peso grande nessa média. Por isso, quando ações como Vale e Petrobras caem bastante, o índice tende a cair junto, mesmo que muitas outras empresas fiquem estáveis ou subam."
+  },
+  {
+   "type": "h2",
+   "text": "Por que a bolsa daqui acompanha a de fora"
+  },
+  {
+   "type": "p",
+   "text": "Investidores estrangeiros operam em vários mercados ao mesmo tempo. Quando as bolsas americanas, especialmente as de tecnologia, recuam, muitos reduzem risco no mundo todo, inclusive no Brasil. O câmbio entra na conta: o dólar subiu no mesmo dia, como explicamos em [Dólar a R$ 5,77: por que o dólar sobe quando o mundo foge do risco](#materia-dolar-a-r-5-77-por-que-o-dolar-sobe-quando-o-mundo-foge-do-risco). Antes de um balanço importante, como o da Nvidia, o mercado também costuma ficar mais cauteloso."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: como um dia de queda aparece no seu dinheiro",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo e hipotético**: se você tivesse R$ 100 em uma ação que caiu 4,41% em um dia, o valor iria a **R$ 95,59**, uma oscilação de R$ 4,41. Se tivesse R$ 100 em outra ação que subiu 1,94%, iria a **R$ 101,94**. Quem distribui o dinheiro entre empresas e setores diferentes sente oscilações menores do que quem concentra tudo em uma só."
+    },
+    {
+     "type": "p",
+     "text": "O exemplo serve só para mostrar a conta. Variações de um dia não indicam o que vai acontecer nos próximos."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "E as ações abaixo de R$ 10 que subiram?"
+  },
+  {
+   "type": "p",
+   "text": "No mesmo pregão, CMIN3 (R$ 4,73, +1,94%), USIM5 (R$ 4,85, +1,89%) e POMO4 (R$ 3,81, +1,60%) apareceram entre as maiores altas da B3. Isso mostra que o mercado não se move em bloco. Mas atenção: cotação baixa **não** significa empresa barata. O valor depende de lucro, patrimônio e dívida, como detalhamos em [Ações abaixo de R$ 10: preço da cotação não é sinônimo de empresa barata](#materia-acoes-abaixo-de-r-10-preco-da-cotacao-nao-e-sinonimo-de-empresa-barata). Os papéis citados servem de exemplo de movimento do dia, não de indicação de compra."
+  },
+  {
+   "type": "h2",
+   "text": "O que observar em dias de queda"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Objetivo e prazo:** quem investe para o longo prazo costuma olhar fundamentos mais do que o movimento de um dia.",
+    "**Diversificação:** distribua entre setores e tipos de ativo para reduzir o peso de uma única história. Veja [renda fixa ou renda variável](#materia-renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona).",
+    "**Reserva de emergência:** ter [reserva de emergência](#materia-reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro) evita ter de vender ativos em dia ruim.",
+    "**Contexto:** juros, câmbio e bolsas lá fora ajudam a explicar o movimento. Revise [O que é a taxa Selic](#materia-o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes)."
+   ]
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: Ibovespa em dia de queda",
+   "center": "Ibovespa -1,83%",
+   "branches": [
+    {
+     "label": "O que aconteceu",
+     "items": [
+      "169.295,40 pontos",
+      "Vale -4,41%",
+      "Petrobras -2,83%"
+     ]
+    },
+    {
+     "label": "Cenário externo",
+     "items": [
+      "Nasdaq -2,49%",
+      "Nvidia -4,12%",
+      "Balanço da Nvidia à frente"
+     ]
+    },
+    {
+     "label": "Contra a maré",
+     "items": [
+      "CMIN3 +1,94%",
+      "USIM5 +1,89%",
+      "POMO4 +1,60%"
+     ]
+    },
+    {
+     "label": "Como ler",
+     "items": [
+      "Peso das blue chips",
+      "Preço baixo não é desconto",
+      "Diversificar"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "**Conteúdo educativo:** este texto explica conceitos e não recomenda a compra ou a venda de nenhum ativo. A rentabilidade passada não garante resultados futuros, e cada situação pede uma análise individual."
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes sobre a queda do Ibovespa",
+   "items": [
+    {
+     "q": "O que é o Ibovespa?",
+     "a": "É o principal índice da bolsa brasileira, a B3, e reflete o desempenho de um conjunto de ações de empresas muito negociadas."
+    },
+    {
+     "q": "Por que o Ibovespa cai quando o Nasdaq cai?",
+     "a": "Porque investidores globais costumam reduzir risco em vários mercados ao mesmo tempo, e as bolsas reagem ao mesmo cenário de juros, câmbio e expectativas."
+    },
+    {
+     "q": "O que são blue chips?",
+     "a": "São ações de empresas grandes, tradicionais e com muito volume de negociação, que têm peso relevante no Ibovespa."
+    },
+    {
+     "q": "Ação abaixo de R$ 10 é uma ação barata?",
+     "a": "Não necessariamente. O preço da cota não mostra se a empresa está cara ou barata. É preciso olhar lucro, patrimônio e dívida."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Continue aprendendo",
+   "text": "Veja também [Dólar a R$ 5,77: por que o dólar sobe quando o mundo foge do risco](#materia-dolar-a-r-5-77-por-que-o-dolar-sobe-quando-o-mundo-foge-do-risco) e [Bitcoin abaixo de US$ 65 mil: o que é volatilidade](#materia-bitcoin-abaixo-de-us-65-mil-o-que-e-volatilidade-e-como-entender-o-risco-das-criptomoedas). Se você está começando, leia [como começar a investir com pouco dinheiro](#materia-como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes). Conteúdo educativo, sem recomendação de investimento."
+  }
+ ]
+}

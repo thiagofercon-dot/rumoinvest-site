@@ -1,0 +1,176 @@
+{
+ "slug": "abertura-de-mercado-ibovespa-parte-de-172-5-mil-pontos-dolar-a-r-5-68-e-focus-no-radar",
+ "capa": "dia",
+ "title": "Abertura de mercado: Ibovespa parte de 172,5 mil pontos, dólar a R$ 5,68 e Focus no radar",
+ "subtitle": "A semana começa com a Bolsa em alta no acumulado, juros futuros em 13,65% e o mercado de olho nas projeções do Banco Central para inflação e Selic.",
+ "category": "mercado",
+ "date": "2026-11-16",
+ "time": "08:05",
+ "sentiment": "Alerta",
+ "meta": "Abertura de 16/11: Ibovespa em 172,5 mil pontos, dólar a R$ 5,68, DI em 13,65% e o que o último Focus projeta para inflação, Selic e PIB.",
+ "focus_kw": "abertura de mercado",
+ "tags": [
+  "Abertura de Mercado",
+  "Ibovespa",
+  "Dólar",
+  "Boletim Focus",
+  "Taxa DI",
+  "S&P 500"
+ ],
+ "sources": [
+  {
+   "t": "Relatório de Mercado RumoInvest - 16/11 - 07h (indicadores, FIIs e ações)",
+   "at": "16/11/2026 07:58"
+  },
+  {
+   "t": "InfoMoney: Boletim Focus de 9/11/2026 (projeções para Selic, IPCA, PIB e dólar)",
+   "url": "https://www.infomoney.com.br/economia/boletim-focus-projecoes-09112026/",
+   "at": "09/11/2026"
+  },
+  {
+   "t": "Exame: Ibovespa sobe com fiscal no radar e avança 2,35% na semana",
+   "url": "https://exame.com/invest/mercados/ibovespa-sobe-com-fiscal-no-radar-e-avanca-235-na-semana-dolar-supera-ganho-com-266/",
+   "at": "13/11/2026"
+  }
+ ],
+ "source_doc": "1B5rVxDncz4OASC8OKZM8n4uTpMY4exWWyiJC8yEwVAk (Relatório de Mercado - 16/11 - 07h)",
+ "source_topic": "abertura",
+ "image": "assets/covers/abertura-de-mercado-ibovespa-parte-de-172-5-mil-pontos.jpg",
+ "image_alt": "Ilustração: a formiga Giga apontando para um gráfico em alta, com real e dólar e prédios ao amanhecer",
+ "canva_media_id": "MAHbE20d8oY",
+ "body": [
+  {
+   "type": "p",
+   "text": "O mercado abre a segunda-feira (16) com o **Ibovespa** tendo como última referência os **172.457,77 pontos** do fechamento de sexta-feira (13), quando a Bolsa encerrou a segunda semana seguida no azul. O **dólar** aparece a **R$ 5,68** no relatório desta manhã, e a **taxa DI** está em **13,65%**. Lá fora, o **S&P 500**, principal índice da bolsa americana, marca **7.561,67 pontos**."
+  },
+  {
+   "type": "h2",
+   "text": "O que olhar no começo da semana"
+  },
+  {
+   "type": "p",
+   "text": "Nas segundas-feiras, o Banco Central divulga o **Boletim Focus**, pesquisa com economistas que serve de termômetro para as expectativas do mercado. A edição mais recente já divulgada, a de 9 de novembro, trouxe as seguintes projeções: **Selic de 13,75% ao fim de 2026**, **IPCA de 5,22% em 2026** e **4,90% em 2027**, **PIB de 1,75% em 2026** e **dólar a R$ 5,35 no fim do ano**, segundo o InfoMoney."
+  },
+  {
+   "type": "p",
+   "text": "A Selic, hoje em **13,75% ao ano**, é a mesma projetada para o fim de 2026. Ou seja, a projeção não prevê corte da Selic até o fim do ano. Para entender por que esse número pesa em tudo, veja [o que é a taxa Selic](#materia-o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes)."
+  },
+  {
+   "type": "h2",
+   "text": "Dólar acima do previsto pelo Focus"
+  },
+  {
+   "type": "p",
+   "text": "O dólar a R$ 5,68 está acima dos R$ 5,35 que os economistas projetam para o fim do ano. A moeda mais cara costuma encarecer importados e insumos, o que pressiona a inflação. O efeito está explicado em [Dólar alto: como ele afeta preços, juros e investimentos](#materia-dolar-alto-como-ele-afeta-precos-juros-e-investimentos)."
+  },
+  {
+   "type": "h2",
+   "text": "Radar da tese RumoInvest"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Ativo",
+    "Cotação no relatório"
+   ],
+   "rows": [
+    [
+     "MXRF11 (FII)",
+     "R$ 8,75"
+    ],
+    [
+     "GARE11 (FII)",
+     "R$ 8,22"
+    ],
+    [
+     "HGLG11 (FII)",
+     "R$ 146,02"
+    ],
+    [
+     "BBAS3 (Banco do Brasil)",
+     "R$ 15,10"
+    ],
+    [
+     "TAEE4 (Taesa)",
+     "R$ 14,10"
+    ]
+   ]
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: o que a taxa DI de 13,65% significa em reais",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "A taxa DI é a referência de juros entre bancos e costuma andar colada à Selic. Exemplo ilustrativo: se R$ 100 rendessem exatamente 13,65% em um ano, o ganho bruto seria de **R$ 13,65**, antes do Imposto de Renda. É essa régua que investimentos como CDB e Tesouro Selic usam, e é com ela que fundos imobiliários e ações de dividendos são comparados."
+    },
+    {
+     "type": "p",
+     "text": "Outro exemplo ilustrativo: com R$ 100 e a cota de MXRF11 a R$ 8,75, dá para comprar **11 cotas**, o que custa R$ 96,25. As cotações mudam a cada minuto de pregão."
+    }
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "**Para o investidor iniciante:** abertura de semana é momento de acompanhar, não de decidir por impulso. Os números acima são referências da manhã e podem mudar ao longo do pregão. Conteúdo educativo e informativo, sem recomendação de compra ou venda."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: abertura de 16/11",
+   "center": "Mercado na abertura",
+   "branches": [
+    {
+     "label": "Bolsa",
+     "items": [
+      "Ibovespa: 172.457,77 pts",
+      "Fechamento de 13/11"
+     ]
+    },
+    {
+     "label": "Câmbio e juros",
+     "items": [
+      "Dólar: R$ 5,68",
+      "Taxa DI: 13,65%",
+      "Selic: 13,75%"
+     ]
+    },
+    {
+     "label": "Exterior",
+     "items": [
+      "S&P 500: 7.561,67 pts"
+     ]
+    },
+    {
+     "label": "Agenda",
+     "items": [
+      "Boletim Focus de segunda-feira",
+      "Projeções de Selic, IPCA e PIB"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes sobre a abertura",
+   "items": [
+    {
+     "q": "Onde fechou o Ibovespa na última sexta-feira?",
+     "a": "Aos 172.457,77 pontos, segundo o relatório de mercado desta manhã. É a referência com que a Bolsa abre a semana."
+    },
+    {
+     "q": "O que é o Boletim Focus?",
+     "a": "É uma pesquisa semanal do Banco Central com economistas, que reúne projeções para Selic, inflação, PIB e câmbio."
+    },
+    {
+     "q": "Qual a Selic atual?",
+     "a": "13,75% ao ano, nível mantido pelo Copom na reunião de 4 de novembro."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Continue por dentro",
+   "text": "Relembre o balanço da semana em [Ibovespa sobe 2,35% na semana e dólar vai a R$ 5,65](#materia-ibovespa-sobe-2-35-na-semana-e-dolar-vai-a-r-5-65-o-que-muda-para-quem-investe) e entenda a [diferença entre renda fixa e renda variável](#materia-renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona)."
+  }
+ ]
+}

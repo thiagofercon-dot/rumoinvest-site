@@ -1,0 +1,210 @@
+{
+ "slug": "ibovespa-sobe-0-31-e-dolar-fecha-a-r-5-78-fechamento-de-17-11-o-que-pesou",
+ "title": "Ibovespa sobe 0,31% e dólar fecha a R$ 5,78 pela quarta alta seguida: o que pesou no pregão de 17/11",
+ "subtitle": "A Bolsa recuperou parte das perdas de segunda, mas bancos como o Banco do Brasil caíram, o ajuste fiscal ficou para quarta no Senado e o balanço da Nvidia vira o foco da noite.",
+ "category": "mercado",
+ "date": "2026-11-17",
+ "time": "19:00",
+ "sentiment": "Neutro",
+ "meta": "Fechamento de 17/11: Ibovespa sobe 0,31% a 169.817 pontos, dólar a R$ 5,782 e IFIX a 3.544,62. Veja o que pesou e o que vem a seguir.",
+ "focus_kw": "fechamento do mercado",
+ "tags": [
+  "Fechamento de Mercado",
+  "Ibovespa",
+  "Dólar",
+  "IFIX",
+  "Ajuste fiscal",
+  "BBAS3",
+  "TAEE4"
+ ],
+ "sources": [
+  {
+   "t": "BP Money: Ibovespa fecha aos 169,8 mil; dólar sobe pela 4ª vez",
+   "url": "https://bpmoney.com.br/mercado/ibovespa-sobe-031-169-mil-pontos-dolar-quarta-alta/",
+   "at": "17/11/2026 18:27"
+  },
+  {
+   "t": "TradeMap: Ibovespa fecha em alta com cenário fiscal e exterior",
+   "url": "https://trademap.com.br/noticias/news-8613932",
+   "at": "17/11/2026 18:28"
+  },
+  {
+   "t": "BB InvesTalk: Mercado agora, fechamento de 17/11",
+   "url": "https://investalk.bb.com.br/noticias/mercado/mercado-agora-17-11-26",
+   "at": "17/11/2026 18:28"
+  },
+  {
+   "t": "Metrópoles: Dólar fecha em R$ 5,78; Bolsa sobe 0,31%",
+   "url": "https://www.metropoles.com/brasil/dolar-ibovespa-bolsa-17-novembro",
+   "at": "17/11/2026 17:46"
+  },
+  {
+   "t": "Fiis.com.br: IFIX fecha em ligeira alta de 0,05%; BROF11 lidera ganhos",
+   "url": "https://fiis.com.br/noticias/ifix-fechamento-17-11-2026-brof11/",
+   "at": "17/11/2026 18:31"
+  },
+  {
+   "t": "Suno Notícias: IFIX sobe 0,05% nesta terça e fecha aos 3.544,62 pontos",
+   "url": "https://www.suno.com.br/noticias/ifix-fecha-alta-terca-17-novembro/",
+   "at": "17/11/2026 18:38"
+  }
+ ],
+ "source_doc": "Pesquisa própria do Claude (sem relatório do Drive em 17/11 19:00)",
+ "source_topic": "fechamento",
+ "image": "assets/covers/ibovespa-sobe-0-31-e-dolar-fecha-a-r-5-78-fechamento-de-17-11.jpg",
+ "image_alt": "Ilustração: prédios de São Paulo ao entardecer com gráfico de linhas, lupa, notas de real e moedas douradas",
+ "canva_media_id": "MAHbNszf7cM",
+ "body": [
+  {
+   "type": "p",
+   "text": "A terça-feira (17) foi de **recuperação parcial** na Bolsa. O **Ibovespa**, principal índice da B3, fechou em alta de **0,31%**, aos **169.817 pontos**, depois de chegar a subir mais de 1% durante o dia, segundo o BB InvesTalk. Na segunda, o índice havia caído 1,83%. O **dólar** subiu 0,10% e fechou a **R$ 5,782**, a quarta alta seguida, de acordo com o BP Money."
+  },
+  {
+   "type": "h2",
+   "text": "Os números do dia"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Indicador",
+    "Fechamento",
+    "Variação"
+   ],
+   "rows": [
+    [
+     "Ibovespa",
+     "169.817 pontos",
+     "+0,31%"
+    ],
+    [
+     "Dólar comercial",
+     "R$ 5,782",
+     "+0,10%"
+    ],
+    [
+     "IFIX (fundos imobiliários)",
+     "3.544,62 pontos",
+     "+0,05%"
+    ],
+    [
+     "S&P 500 (Nova York)",
+     "7.340,98 pontos",
+     "-1,06%"
+    ],
+    [
+     "Brent (petróleo)",
+     "US$ 93,14",
+     "+0,76%"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "O Ibovespa oscilou entre **169.300** e **171.749 pontos** ao longo do pregão. Na semana, o índice acumula queda de 1,53% e, em novembro, alta de 1,13%, segundo o TradeMap."
+  },
+  {
+   "type": "h2",
+   "text": "O que pesou"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Ajuste fiscal:** o Senado adiou para quarta (18) a conclusão da votação do pacote do governo. O texto principal foi aprovado em 12/11, e ainda faltam quatro destaques, que são votações separadas sobre trechos do projeto, conforme o TradeMap.",
+    "**Exterior:** as bolsas de Nova York fecharam em queda (Dow Jones -1,64%, S&P 500 -1,03%, Nasdaq -0,74%), com cautela antes do balanço da Nvidia, que sai após o fechamento, segundo o BB InvesTalk.",
+    "**Câmbio:** o Metrópoles aponta expectativa de juros mais altos nos Estados Unidos e tensões no Oriente Médio. O dólar está no maior nível de fechamento desde abril de 2025, de acordo com a reportagem."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Radar da tese RumoInvest"
+  },
+  {
+   "type": "p",
+   "text": "O **Banco do Brasil (BBAS3)** caiu **2,21%**, em um dia de desempenho majoritariamente negativo entre os grandes bancos (Itaú -0,99%; Bradesco PN +1,26%), segundo o TradeMap. A **Taesa** (TAEE11, as units da empresa dona do TAEE4) recuou 3,00%, a R$ 40,73, de acordo com o BP Money. Para entender como os dividendos se relacionam com essas oscilações, leia [Dividendos: como funcionam data-com e pagamento](#materia-dividendos-como-funcionam-data-com-e-pagamento-e-por-que-bbas3-e-taee4-sao-observadas)."
+  },
+  {
+   "type": "p",
+   "text": "Entre os fundos imobiliários, o **IFIX** terminou praticamente estável. O **MXRF11** teve alta de 0,7% e volume de 1,93 milhão de cotas, segundo o Fiis.com.br. Os rendimentos dos fundos variam mês a mês e não são garantidos."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: o que a alta de 0,31% faz com R$ 100",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo**, supondo que R$ 100 acompanhassem exatamente o Ibovespa. Na segunda, com a queda de 1,83%, eles viraram R$ 98,17. Com a alta de 0,31% de hoje, chegam a cerca de **R$ 98,47**. Ou seja, a recuperação de terça cobriu só uma parte do tombo."
+    },
+    {
+     "type": "p",
+     "text": "No câmbio, US$ 100 custavam R$ 577,77 no fechamento de segunda (R$ 5,7777) e passaram a custar **R$ 578,20** hoje (R$ 5,782 por dólar). É por isso que o dólar alto pesa em viagens e importados. Veja mais em [Dólar alto: como ele afeta preços, juros e investimentos](#materia-dolar-alto-como-ele-afeta-precos-juros-e-investimentos)."
+    }
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "**O que vem a seguir:** a votação dos destaques do ajuste fiscal no Senado (quarta, 18) e a reação ao balanço da Nvidia. Conteúdo educativo e informativo, sem recomendação de compra ou venda. Rentabilidade passada não garante resultados futuros."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: fechamento de 17/11",
+   "center": "Pregão de terça",
+   "branches": [
+    {
+     "label": "Brasil",
+     "items": [
+      "Ibovespa: 169.817 pts (+0,31%)",
+      "Dólar: R$ 5,782 (+0,10%)",
+      "IFIX: 3.544,62 pts (+0,05%)"
+     ]
+    },
+    {
+     "label": "Exterior",
+     "items": [
+      "Nova York em queda",
+      "Espera pelo balanço da Nvidia",
+      "Brent a US$ 93,14"
+     ]
+    },
+    {
+     "label": "Fiscal",
+     "items": [
+      "Texto-base aprovado em 12/11",
+      "Quatro destaques ficam para quarta"
+     ]
+    },
+    {
+     "label": "Tese RumoInvest",
+     "items": [
+      "BBAS3: -2,21%",
+      "TAEE11: -3,00%",
+      "MXRF11: volume de 1,93 mi de cotas"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes sobre o fechamento",
+   "items": [
+    {
+     "q": "Como o Ibovespa fechou em 17/11?",
+     "a": "Em alta de 0,31%, aos 169.817 pontos, segundo BP Money e BB InvesTalk."
+    },
+    {
+     "q": "Quanto fechou o dólar?",
+     "a": "R$ 5,782, alta de 0,10% e quarta valorização seguida, de acordo com o BP Money."
+    },
+    {
+     "q": "Por que o dólar sobe?",
+     "a": "Reportagens citam expectativa de juros mais altos nos EUA, tensões no Oriente Médio e incertezas fiscais no Brasil. Entenda a lógica em [Dólar: por que sobe quando o mundo foge do risco](#materia-dolar-a-r-5-77-por-que-o-dolar-sobe-quando-o-mundo-foge-do-risco)."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Continue por dentro",
+   "text": "Releia o [fechamento de ontem](#materia-ibovespa-recua-cerca-de-1-9-e-dolar-vai-a-r-5-78-no-fechamento-de-16-11-o-que-pesou) e aprenda [o que é a taxa Selic](#materia-o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes)."
+  }
+ ],
+ "capa": "noite"
+}

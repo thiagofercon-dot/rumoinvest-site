@@ -1,0 +1,185 @@
+{
+ "slug": "bolsa-fechada-em-20-de-novembro-o-que-muda-para-quem-investe-no-feriado",
+ "title": "Bolsa fechada em 20/11: o que muda para quem investe no feriado da Consciência Negra",
+ "subtitle": "A B3 não opera na sexta-feira, 20 de novembro. Entenda o que acontece com ações, FIIs e ordens e como se organizar em uma semana mais curta.",
+ "category": "educacao",
+ "date": "2026-11-16",
+ "time": "19:15",
+ "sentiment": "Neutro",
+ "meta": "A B3 não opera em 20/11/2026, feriado da Consciência Negra. Veja o que muda para ações, FIIs e ordens e como organizar seus investimentos na semana curta.",
+ "focus_kw": "Bolsa fechada 20 de novembro",
+ "tags": [
+  "Bolsa fechada 20 de novembro",
+  "Feriado Consciência Negra B3",
+  "Calendário da B3",
+  "Pregão",
+  "Ações e FIIs",
+  "Educação Financeira"
+ ],
+ "sources": [
+  {
+   "t": "B3: Calendário de negociação, confira o funcionamento da Bolsa em 2026",
+   "url": "https://www.b3.com.br/pt_br/noticias/calendario-de-negociacao-da-b3-confira-o-funcionamento-da-bolsa-em-2026.htm",
+   "at": "09/01/2026"
+  },
+  {
+   "t": "Money Times: Tempo real, 16/11/2026 (semana encurtada pelo feriado de sexta-feira, 20)",
+   "url": "https://www.moneytimes.com.br/tempo-real-16-11-2026-davs/",
+   "at": "16/11/2026 06:00"
+  }
+ ],
+ "source_doc": "Pesquisa própria do Claude (sem relatório do Drive em 16/11 19:15)",
+ "source_topic": "Bolsa fechada em 20/11 (feriado)",
+ "trend": {
+  "rank": 3,
+  "term": "Bolsa fechada em 20 de novembro",
+  "ref": "16/11"
+ },
+ "image": "assets/covers/bolsa-fechada-em-20-de-novembro-o-que-muda-para-qu.jpg",
+ "image_alt": "Ilustração: prédio de bolsa de valores com portas fechadas, calendário com data destacada e a formiga Giga descansando",
+ "canva_media_id": "MAHbHg9eE4w",
+ "body": [
+  {
+   "type": "p",
+   "text": "Com a **bolsa fechada em 20 de novembro**, a semana do mercado financeiro tem só quatro pregões: de segunda (16) a quinta-feira (19). O calendário oficial da B3 lista o Dia Nacional de Zumbi e da Consciência Negra entre os feriados de 2026 sem negociação. Para quem investe, vale entender o que isso muda na prática."
+  },
+  {
+   "type": "h2",
+   "text": "O que significa \"bolsa fechada\""
+  },
+  {
+   "type": "p",
+   "text": "Sem pregão, não há compra nem venda de ações e fundos imobiliários na B3. Os preços ficam parados até o próximo dia de negociação, que será a **segunda-feira, 23 de novembro**. Seus ativos continuam existindo e continuam sendo seus; apenas a negociação é suspensa. Ordens enviadas para o dia, e não executadas, não se concretizam no feriado, e por isso vale conferir a validade da ordem na sua corretora."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: a semana curta na prática",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo ilustrativo, com valores hipotéticos. Imagine que você quisesse comprar 10 cotas de um fundo imobiliário que está a R$ 10,00 e decidisse esperar até sexta-feira:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Dia",
+      "Há pregão?",
+      "O que acontece"
+     ],
+     "rows": [
+      [
+       "Quinta, 19/11",
+       "Sim",
+       "Última chance da semana para negociar"
+      ],
+      [
+       "Sexta, 20/11",
+       "Não",
+       "Nenhuma ordem é executada"
+      ],
+      [
+       "Segunda, 23/11",
+       "Sim",
+       "O preço pode abrir diferente de R$ 10,00"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "O preço pode abrir mais alto ou mais baixo na segunda, porque o que acontece no mundo durante o feriado, inclusive em mercados que funcionam, passa a ser refletido na abertura. Esperar não é nem bom nem ruim por si só: apenas muda o risco de preço."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Outros pontos para observar no feriado"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Ordens e prazos:** confira se a sua ordem é válida só para o dia ou por mais tempo, e se há compromissos que dependem da negociação, como o dinheiro de uma venda que você pretendia usar.",
+    "**Proventos:** a data de pagamento de dividendos e rendimentos de FIIs pode seguir o calendário de dias úteis do emissor. Confira o comunicado oficial do ativo, como no caso de [dividendos](#materia-dividendos-como-funcionam-data-com-e-pagamento-e-por-que-bbas3-e-taee4-sao-observadas) e da [renda mensal de um FII](#materia-mxrf11-anuncia-r-0-10-por-cota-como-calcular-a-renda-mensal-de-um-fii-com-r-100).",
+    "**Bancos e Tesouro Direto:** o atendimento pode ter regras próprias em feriados. Consulte a sua instituição e o site do Tesouro Direto para saber como ficam aplicações e resgates.",
+    "**Contas e boletos:** pagamentos agendados para o feriado costumam ser processados no próximo dia útil. Mantenha folga para não pagar multa."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Como se organizar na semana curta"
+  },
+  {
+   "type": "p",
+   "text": "Use o feriado para revisar, e não para agir no impulso: releia os relatórios gerenciais dos fundos que você acompanha, confira a diversificação da carteira e anote as datas de proventos. Quem investe com regularidade, em valores pequenos e de forma planejada, sente pouco o efeito de um dia sem pregão."
+  },
+  {
+   "type": "callout",
+   "text": "O fechamento da bolsa não muda a qualidade de um ativo. Investir pensando no longo prazo diminui a importância de um único dia sem pregão. Conteúdo educativo, sem recomendação de compra ou venda."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: bolsa fechada no feriado",
+   "center": "B3 fechada em 20/11",
+   "branches": [
+    {
+     "label": "Calendário",
+     "items": [
+      "Pregões: 16 a 19/11",
+      "Sexta, 20/11: sem negociação",
+      "Retorno: segunda, 23/11"
+     ]
+    },
+    {
+     "label": "Ações e FIIs",
+     "items": [
+      "Sem compra e venda",
+      "Preços parados",
+      "Abertura reflete o feriado"
+     ]
+    },
+    {
+     "label": "Cuidados",
+     "items": [
+      "Validade das ordens",
+      "Datas de proventos",
+      "Boletos e agendamentos"
+     ]
+    },
+    {
+     "label": "Mentalidade",
+     "items": [
+      "Foco no longo prazo",
+      "Sem decisões por impulso",
+      "Diversificar"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes sobre a bolsa no feriado",
+   "items": [
+    {
+     "q": "A bolsa funciona em 20 de novembro de 2026?",
+     "a": "Não. O calendário da B3 lista o Dia Nacional de Zumbi e da Consciência Negra entre os feriados de 2026 sem negociação."
+    },
+    {
+     "q": "Quando volta o pregão?",
+     "a": "Na segunda-feira, 23 de novembro de 2026, no horário regular de negociação."
+    },
+    {
+     "q": "Posso comprar ações ou FIIs no feriado?",
+     "a": "Não, porque a negociação na B3 fica suspensa. Ordens só serão executadas no próximo dia de pregão."
+    },
+    {
+     "q": "O feriado muda o preço dos meus ativos?",
+     "a": "Não durante o feriado, porque não há negociação. Mas o preço pode abrir diferente no pregão seguinte, refletindo as notícias do período."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Aproveite a semana curta para estudar",
+   "text": "Veja como foi o [fechamento de 16/11](#materia-ibovespa-recua-cerca-de-1-9-e-dolar-vai-a-r-5-78-no-fechamento-de-16-11-o-que-pesou) e revise [renda fixa ou renda variável](#materia-renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona) para escolher com calma o que faz sentido para o seu perfil."
+  }
+ ]
+}

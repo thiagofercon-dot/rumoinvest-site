@@ -1,0 +1,101 @@
+{
+ "slug": "ibovespa-fecha-em-leve-alta-dolar-estavel-mxrf11-anuncia-r-0-10-por-cota",
+ "title": "Ibovespa fecha em leve alta e dólar fica estável; MXRF11 anuncia R$ 0,10 por cota",
+ "subtitle": "Setores financeiro e de utilidade pública sustentaram o pregão de sexta-feira (13); BBAS3 e TAEE4 reforçam a tese de dividendos.",
+ "category": "mercado",
+ "date": "2026-11-14",
+ "time": "11:30",
+ "sentiment": "Otimista",
+ "meta": "Confira o fechamento de mercado de 13/11: destaques do Ibovespa, estabilidade do dólar e novidades sobre dividendos de MXRF11 e BBAS3.",
+ "tags": [
+  "Fechamento de Mercado",
+  "Ibovespa",
+  "Dividendos",
+  "MXRF11",
+  "BBAS3",
+  "TAEE4",
+  "Renda Passiva"
+ ],
+ "sources": [
+  "Relatório de Fechamento de Mercado RumoInvest (13/11), com base em B3, CVM e comunicados das companhias"
+ ],
+ "body": [
+  {
+   "type": "p",
+   "text": "O mercado financeiro brasileiro fechou o pregão de sexta-feira (13) com tom positivo. O **Ibovespa**, principal índice da B3, encerrou o dia em leve alta, sustentado pelo desempenho do setor financeiro e das empresas de utilidade pública, o que mostra resiliência diante das oscilações do cenário externo."
+  },
+  {
+   "type": "p",
+   "text": "O **dólar**, por sua vez, passou toda a sessão em uma faixa comportada frente ao real, sem pressões fortes de volatilidade — um alívio para quem acompanha inflação, importações e viagens."
+  },
+  {
+   "type": "h2",
+   "text": "Os ativos da nossa lista de acompanhamento"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Banco do Brasil (BBAS3):** apresentou balanço sólido, reafirmando a eficiência operacional e a manutenção da política de distribuição constante de dividendos.",
+    "**Taesa (TAEE4):** reportou resultados operacionais robustos e previsíveis, característicos do setor elétrico, reiterando o histórico de foco no pagamento de proventos.",
+    "**Maxi Renda (MXRF11):** o fundo imobiliário anunciou **R$ 0,10 por cota** de rendimento para o próximo período, mantendo a consistência dos pagamentos mensais."
+   ]
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: o que são R$ 0,10 por cota?",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Um fundo imobiliário divide seu patrimônio em cotas, e o rendimento é o que cada cota recebe no período. Veja uma conta simples, supondo uma cota a R$ 10,00:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Item",
+      "Valor"
+     ],
+     "rows": [
+      [
+       "Quanto você aplica",
+       "R$ 100,00"
+      ],
+      [
+       "Preço da cota (exemplo)",
+       "R$ 10,00"
+      ],
+      [
+       "Cotas compradas",
+       "10 cotas"
+      ],
+      [
+       "Rendimento anunciado por cota",
+       "R$ 0,10"
+      ],
+      [
+       "**Renda no período**",
+       "**R$ 1,00**"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Ou seja: 10 cotas × R$ 0,10 = R$ 1,00. O valor é pequeno, mas mostra como a renda passiva começa já no primeiro aporte e cresce conforme você reinveste."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Vale lembrar que o preço da cota varia todos os dias na bolsa e que o rendimento de um mês não garante o do mês seguinte. O exemplo acima é uma simplificação para ilustrar a lógica do cálculo."
+  },
+  {
+   "type": "h2",
+   "text": "O que isso significa para quem está começando"
+  },
+  {
+   "type": "p",
+   "text": "Em dias de bolsa calma e câmbio estável, a lição costuma ser a da constância: acompanhar os fundamentos das empresas, entender de onde vem cada provento e investir com regularidade, em vez de reagir a cada oscilação do dia."
+  }
+ ],
+ "image": "assets/covers/ibovespa-fecha-em-leve-alta-dolar-estavel-mxrf11-a.jpg",
+ "image_alt": "Ilustração: gráfico de candles em alta, prédios de São Paulo e a formiga Giga com uma moeda"
+}

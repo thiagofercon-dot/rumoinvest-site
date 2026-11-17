@@ -1,0 +1,126 @@
+{
+ "slug": "selic-e-rendimentos-entenda-o-impacto-nos-fundos-imobiliarios-mxrf11-e-gare11",
+ "title": "Selic e rendimentos: entenda o impacto dos juros nos fundos imobiliários MXRF11 e GARE11",
+ "subtitle": "A queda da Selic é assunto em alta entre investidores; explicamos por que fundos de papel e de tijolo reagem de formas diferentes.",
+ "category": "educacao",
+ "date": "2026-11-14",
+ "time": "11:40",
+ "sentiment": "Neutro",
+ "meta": "Entenda como a queda da Selic influencia os dividendos e a cotação dos fundos imobiliários MXRF11 e GARE11 no mercado atual.",
+ "tags": [
+  "Taxa Selic",
+  "Fundos Imobiliários",
+  "MXRF11",
+  "GARE11",
+  "Educação Financeira",
+  "Renda Passiva"
+ ],
+ "sources": [
+  "Banco Central do Brasil (Copom, reunião de 3 e 4/11/2026)",
+  "B3"
+ ],
+ "body": [
+  {
+   "type": "p",
+   "text": "“Queda da Selic” é um assunto em alta entre os investidores, e a dúvida de quem investe em fundos imobiliários (FIIs) é direta: o que acontece com o rendimento mensal quando os juros mudam?"
+  },
+  {
+   "type": "p",
+   "text": "O contexto é de cautela. Em 4 de novembro, o Comitê de Política Monetária (Copom) do Banco Central manteve a Selic em **13,75% ao ano**, interrompendo uma sequência de cortes. Mesmo com a pausa, o mercado segue de olho no rumo dos juros — e entender o efeito sobre os FIIs ajuda a não tomar decisões no escuro."
+  },
+  {
+   "type": "h2",
+   "text": "Por que a Selic importa para os FIIs"
+  },
+  {
+   "type": "p",
+   "text": "A Selic é a taxa básica de juros e serve de régua para toda a renda fixa. Quando ela está alta, investimentos seguros pagam bem, e o investidor passa a exigir mais retorno dos fundos imobiliários para aceitar o risco extra. Isso tende a pressionar o preço das cotas. Quando os juros caem, o efeito costuma ser o contrário: os FIIs ficam relativamente mais atraentes."
+  },
+  {
+   "type": "h2",
+   "text": "Fundos de papel x fundos de tijolo"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Fundos de papel (como o MXRF11):** investem principalmente em títulos de crédito imobiliário, muitos atrelados ao CDI ou ao IPCA. Se o CDI cai, os novos rendimentos desses papéis tendem a cair junto; já os papéis ligados à inflação reagem de outra forma.",
+    "**Fundos de tijolo e logística (como o GARE11, tratado nesta pauta como exemplo):** recebem aluguéis de imóveis. Em ciclos de juros menores, o custo de financiamento e o retorno exigido diminuem, o que tende a favorecer a valorização dos imóveis e das cotas."
+   ]
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: a gangorra dos juros",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Pense numa gangorra: de um lado, a renda fixa; do outro, os FIIs. Quando os juros sobem, a renda fixa pesa mais e o preço das cotas pode ceder. Quando os juros descem, o peso muda de lado. Não é uma regra automática — vacância, qualidade dos imóveis e dos créditos também pesam —, mas é um bom ponto de partida para entender o movimento."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "O que observar antes de tomar qualquer decisão"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "o indexador da carteira do fundo (CDI, IPCA ou aluguéis);",
+    "a vacância e a qualidade dos inquilinos, no caso dos fundos de tijolo;",
+    "o histórico de rendimentos e o relatório gerencial mensal;",
+    "a diversificação: ninguém precisa concentrar tudo em um único fundo."
+   ]
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: juros e fundos imobiliários",
+   "center": "Selic e FIIs",
+   "branches": [
+    {
+     "label": "Fundos de papel (ex.: MXRF11)",
+     "items": [
+      "Carteira de créditos imobiliários",
+      "Rendimento atrelado a CDI ou IPCA",
+      "Juros em queda tendem a reduzir novos rendimentos"
+     ]
+    },
+    {
+     "label": "Fundos de tijolo (ex.: GARE11)",
+     "items": [
+      "Receita de aluguéis",
+      "Juros menores favorecem valorização dos imóveis",
+      "Atenção à vacância"
+     ]
+    },
+    {
+     "label": "Efeito nas cotas",
+     "items": [
+      "Juros altos: renda fixa concorre mais",
+      "Juros em queda: FIIs ganham atratividade",
+      "Não é regra automática"
+     ]
+    },
+    {
+     "label": "Antes de decidir",
+     "items": [
+      "Veja o indexador da carteira",
+      "Leia o relatório gerencial",
+      "Diversifique"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Em resumo, juros e FIIs caminham juntos, mas cada fundo reage de um jeito. Conhecer a natureza do que você tem na carteira é mais útil do que tentar adivinhar a próxima decisão do Copom."
+  }
+ ],
+ "image": "assets/covers/selic-e-rendimentos-entenda-o-impacto-nos-fundos-i.jpg",
+ "image_alt": "Ilustração: gangorra com moedas de um lado e prédios de fundos imobiliários do outro",
+ "trend": {
+  "rank": 1,
+  "term": "Queda da Selic",
+  "ref": "13/11"
+ },
+ "source_doc": "1eduNPOBaLxyykBfy0LK19D3Mk1wvRirZtE3ZqsTBgD8",
+ "source_topic": "Queda da Selic"
+}

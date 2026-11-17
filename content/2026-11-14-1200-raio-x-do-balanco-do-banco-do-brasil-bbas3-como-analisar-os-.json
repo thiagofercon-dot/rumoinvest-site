@@ -1,0 +1,117 @@
+{
+ "slug": "raio-x-do-balanco-do-banco-do-brasil-bbas3-como-analisar-os-resultados-do-trimestre",
+ "title": "Raio-X do balanço do Banco do Brasil (BBAS3): como analisar os resultados do trimestre",
+ "subtitle": "Assunto em alta entre iniciantes, o balanço do BB gera dúvidas; veja quais números olhar e o que eles dizem sobre os dividendos.",
+ "category": "educacao",
+ "date": "2026-11-14",
+ "time": "12:00",
+ "sentiment": "Neutro",
+ "meta": "Aprenda a analisar o balanço do Banco do Brasil (BBAS3) e entenda os principais indicadores de desempenho e dividendos.",
+ "tags": [
+  "BBAS3",
+  "Banco do Brasil",
+  "Balanço Trimestral",
+  "Dividendos",
+  "Análise Fundamentalista"
+ ],
+ "sources": [
+  "Relatório de Fechamento de Mercado RumoInvest (13/11)",
+  "CVM RAD e site de Relações com Investidores do Banco do Brasil (para consulta dos números oficiais)"
+ ],
+ "body": [
+  {
+   "type": "p",
+   "text": "O balanço do Banco do Brasil é assunto em alta entre os investidores. O fechamento de 13 de novembro registrou desempenho sólido de BBAS3, com eficiência operacional e manutenção da política de distribuição de dividendos. Mas como transformar a pilha de números de um balanço em informação útil?"
+  },
+  {
+   "type": "p",
+   "text": "**Atenção:** esta matéria é um guia de leitura e não reproduz os números do trimestre. Os valores oficiais estão no sistema CVM RAD e na área de Relações com Investidores do banco."
+  },
+  {
+   "type": "h2",
+   "text": "Os quatro números que mais explicam um banco"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Lucro líquido:** o que sobra depois de todos os custos, impostos e provisões. Compare com o mesmo trimestre do ano anterior e com o trimestre imediatamente anterior.",
+    "**ROE (Retorno sobre Patrimônio Líquido):** mede quanto o banco ganha para cada real de patrimônio. Quanto mais alto e estável, melhor a eficiência.",
+    "**Margem financeira:** diferença entre o que o banco ganha emprestando e o que paga para captar recursos. É o coração da receita bancária.",
+    "**Inadimplência:** parcela dos empréstimos que os clientes não estão pagando. Se sobe muito, o banco precisa reservar mais dinheiro e o lucro sofre."
+   ]
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: o que é payout?",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Payout é a fatia do lucro que a empresa distribui aos acionistas. Exemplo ilustrativo: se um banco lucra R$ 100 e distribui R$ 40 em dividendos e juros sobre capital próprio (JCP), o payout é de 40%. Quanto maior o lucro e mais estável o payout, mais previsível tende a ser o provento — mas nada disso é garantia."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Como ligar balanço e dividendos"
+  },
+  {
+   "type": "p",
+   "text": "Dividendos saem do lucro. Por isso, olhar a trajetória do lucro, a inadimplência e o ROE ajuda a avaliar se a distribuição é sustentável. Também vale comparar o histórico de proventos de BBAS3 com o de outras pagadoras tradicionais, como TAEE4, para entender como cada setor se comporta."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: como ler o balanço de um banco",
+   "center": "Balanço do Banco do Brasil (BBAS3)",
+   "branches": [
+    {
+     "label": "Lucro líquido",
+     "items": [
+      "O que sobra depois de todas as despesas",
+      "Compare com trimestres anteriores"
+     ]
+    },
+    {
+     "label": "ROE",
+     "items": [
+      "Retorno sobre o patrimônio líquido",
+      "Mostra a eficiência em gerar lucro"
+     ]
+    },
+    {
+     "label": "Margem financeira",
+     "items": [
+      "Diferença entre o que o banco ganha e paga no crédito",
+      "Principal fonte de receita"
+     ]
+    },
+    {
+     "label": "Inadimplência",
+     "items": [
+      "Parcela dos empréstimos em atraso",
+      "Pressiona o lucro quando sobe"
+     ]
+    },
+    {
+     "label": "Dividendos e JCP",
+     "items": [
+      "Ligados ao payout da empresa",
+      "Histórico não garante o futuro"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "Dica de leitura: abra o release de resultados do banco e procure primeiro a página de resumo — ela costuma trazer lucro, ROE, margem e inadimplência lado a lado."
+  }
+ ],
+ "image": "assets/covers/raio-x-do-balanco-do-banco-do-brasil-bbas3-como-an.jpg",
+ "image_alt": "Ilustração: balanço financeiro, calculadora, lupa, moedas e fachada de banco",
+ "trend": {
+  "rank": 2,
+  "term": "Balanço Banco do Brasil",
+  "ref": "13/11"
+ },
+ "source_doc": "1eduNPOBaLxyykBfy0LK19D3Mk1wvRirZtE3ZqsTBgD8",
+ "source_topic": "Balanço Banco do Brasil"
+}

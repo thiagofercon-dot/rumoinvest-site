@@ -1,0 +1,121 @@
+{
+ "slug": "tesouro-direto-com-selic-a-13-75-entenda-tesouro-selic-prefixado-e-ipca",
+ "title": "Tesouro Direto com a Selic em 13,75%: entenda as diferenças entre Tesouro Selic, Prefixado e IPCA+",
+ "subtitle": "Com o Copom interrompendo os cortes, as taxas dos títulos públicos voltaram a chamar atenção; veja como cada um funciona e por que o preço oscila antes do vencimento.",
+ "category": "renda-fixa",
+ "date": "2026-11-14",
+ "time": "12:30",
+ "sentiment": "Alerta",
+ "meta": "Entenda como funcionam o Tesouro Selic, o Prefixado e o IPCA+ com a Selic em 13,75% e por que o preço dos títulos oscila antes do vencimento.",
+ "tags": [
+  "Tesouro Direto",
+  "Renda Fixa",
+  "Taxa Selic",
+  "IPCA+",
+  "Tesouro Selic",
+  "Educação Financeira"
+ ],
+ "sources": [
+  "Banco Central do Brasil / Copom (reunião de 4/11/2026): Selic mantida em 13,75% ao ano",
+  "Tesouro Direto: regras e regulamento dos títulos",
+  "InvestNews: taxas do Tesouro Direto em 3/11/2026 e 28/10/2026",
+  "Estadão Conteúdo, via O Liberal (4/11/2026)"
+ ],
+ "source_doc": "pesquisa-web-renda-fixa",
+ "source_topic": "Tesouro Direto e Selic",
+ "image": "assets/covers/tesouro-direto-com-selic-a-13-75-entenda-tesouro-s.jpg",
+ "image_alt": "Ilustração: cofre dourado aberto com moedas, relógio de areia e uma planta crescendo",
+ "body": [
+  {
+   "type": "p",
+   "text": "Em 4 de novembro, o Copom manteve a Selic em **13,75% ao ano**, por unanimidade, interrompendo a sequência de cinco cortes seguidos. Antes do ciclo de reduções, a taxa chegou a ficar em 15%, o maior nível em quase duas décadas. Para quem investe em renda fixa, a pergunta que volta é: qual título do Tesouro Direto faz sentido para cada objetivo?"
+  },
+  {
+   "type": "h2",
+   "text": "Os três tipos de título, em linguagem simples"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Tesouro Selic:** acompanha a taxa básica de juros. Rende a Selic mais um pequeno acréscimo e é o mais estável para quem pode precisar do dinheiro antes do vencimento.",
+    "**Tesouro Prefixado:** a taxa é combinada na compra. Em 3/11, o Prefixado 2029 pagava 15,19% ao ano e o 2032, 15,63%, segundo o InvestNews. Se você levar até o vencimento, sabe quanto vai receber.",
+    "**Tesouro IPCA+:** paga a inflação (IPCA) mais uma taxa fixa. Em 3/11, as taxas reais voltaram a subir acima de 8% ao ano, de acordo com o InvestNews. Protege o poder de compra no longo prazo."
+   ]
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: por que o preço do título oscila?",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Quando as taxas de mercado sobem, os títulos antigos, que pagam menos, ficam menos valiosos. Por isso, quem vende **antes do vencimento** recebe o preço de mercado, que pode ser menor que o valor investido. Em 28/10, por exemplo, quem tinha R$ 10 mil aplicados no IPCA+ 2032 viu o valor de mercado cair para cerca de R$ 9.955, segundo o InvestNews. Se o título for mantido até o vencimento, essa oscilação não muda a taxa contratada."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Exemplo ilustrativo com R$ 100"
+  },
+  {
+   "type": "p",
+   "text": "Suponha, apenas para ilustrar, que a Selic fique em 13,75% por um ano e que você tenha R$ 100 em um título que acompanhe a taxa. O rendimento bruto seria de cerca de R$ 13,75. Sobre o rendimento incide Imposto de Renda pela tabela regressiva: para aplicações de 361 a 720 dias, a alíquota é de 17,5%, o que deixa o ganho líquido em torno de **R$ 11,34**. É uma simplificação, que ignora outras taxas e mudanças futuras nos juros."
+  },
+  {
+   "type": "h2",
+   "text": "O que olhar antes de escolher"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Prazo do seu objetivo:** reserva de emergência pede liquidez; metas longas toleram mais oscilação.",
+    "**Inflação:** o Copom projeta IPCA de 5,6% em 2026 e 4,7% em 2027. Compare o rendimento com a inflação, não só com a taxa nominal.",
+    "**Risco de preço:** títulos longos oscilam mais quando os juros mudam.",
+    "**Imposto:** o Imposto de Renda diminui conforme o tempo de aplicação."
+   ]
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: Tesouro Direto",
+   "center": "Tesouro Direto",
+   "branches": [
+    {
+     "label": "Tesouro Selic",
+     "items": [
+      "Acompanha a taxa básica",
+      "Menor oscilação de preço",
+      "Boa liquidez"
+     ]
+    },
+    {
+     "label": "Tesouro Prefixado",
+     "items": [
+      "Taxa definida na compra",
+      "Sabe o valor no vencimento",
+      "Oscila se vender antes"
+     ]
+    },
+    {
+     "label": "Tesouro IPCA+",
+     "items": [
+      "Inflação mais taxa fixa",
+      "Protege o poder de compra",
+      "Longos oscilam mais"
+     ]
+    },
+    {
+     "label": "Antes de investir",
+     "items": [
+      "Defina o prazo do objetivo",
+      "Compare com a inflação",
+      "Considere o Imposto de Renda"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "**Renda fixa como régua:** a taxa dos títulos públicos serve de comparação para o rendimento de fundos imobiliários como MXRF11 e GARE11 e para os dividendos de ações como BBAS3 e TAEE4. Se a renda fixa paga mais, o investidor exige mais dessas alternativas. As taxas mudam ao longo do dia; confira os valores atuais no site do Tesouro Direto."
+  }
+ ],
+ "canva_media_id": "MAHa58sTFwc"
+}

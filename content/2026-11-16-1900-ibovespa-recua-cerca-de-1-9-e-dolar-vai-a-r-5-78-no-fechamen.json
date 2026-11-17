@@ -1,0 +1,157 @@
+{
+ "slug": "ibovespa-recua-cerca-de-1-9-e-dolar-vai-a-r-5-78-no-fechamento-de-16-11-o-que-pesou",
+ "capa": "noite",
+ "title": "Ibovespa recua perto de 1,9% e dólar vai a R$ 5,78, o maior fechamento desde abril de 2025",
+ "subtitle": "Dúvidas sobre o pacote fiscal, queda das commodities e aversão a risco em Nova York pesaram no pregão desta segunda-feira (16); veja o que isso significa para quem está começando.",
+ "category": "mercado",
+ "date": "2026-11-16",
+ "time": "19:00",
+ "sentiment": "Pessimista",
+ "meta": "Fechamento de 16/11: Ibovespa cai perto de 1,9%, a cerca de 169 mil pontos, e o dólar sobe 2,17%, a R$ 5,7777. Entenda o que pesou, com exemplo de R$ 100.",
+ "focus_kw": "fechamento do Ibovespa",
+ "tags": [
+  "Fechamento de Mercado",
+  "Ibovespa",
+  "Dólar",
+  "Pacote fiscal",
+  "Aversão a risco",
+  "Vale",
+  "Petrobras"
+ ],
+ "sources": [
+  {
+   "t": "BPMoney: Ibovespa fecha em queda com pressão fiscal e recuo de NY",
+   "url": "https://bpmoney.com.br/mercado/ibovespa-fecha-em-queda-com-pressao-fiscal-e-recuo-de-ny/",
+   "at": "16/11/2026 18:22"
+  },
+  {
+   "t": "TMC: Ibovespa fecha em queda de 1,91% nesta segunda (16/11), dados preliminares",
+   "url": "https://tmc.com.br/economia/ibovespa-fecha-em-queda-com-exterior-desfavoravel-e-duvidas-sobre-proximo-governo-lula/",
+   "at": "16/11/2026 18:46"
+  },
+  {
+   "t": "Misto Brasil: Ibovespa cai cerca de 2% e o dólar tem forte alta de 2,17%",
+   "url": "https://mistobrasil.com/2026/11/16/ibovespa-cai-cerca-de-2-e-o-dolar-tem-forte-alta-de-217/",
+   "at": "16/11/2026 17:46"
+  }
+ ],
+ "source_doc": "Pesquisa própria do Claude (sem relatório do Drive em 16/11 19:00)",
+ "source_topic": "fechamento",
+ "image": "assets/covers/ibovespa-recua-1-9-e-dolar-vai-a-r-5-78-fechamento-de-16-11.jpg",
+ "image_alt": "Ilustração: gráfico em queda sobre fundo azul-marinho, pilha de moedas com símbolo de dólar dourado e seta verde para cima, com a formiga Giga observando",
+ "canva_media_id": "MAHbHuz1_xo",
+ "body": [
+  {
+   "type": "p",
+   "text": "A semana começou com tensão no mercado. O **Ibovespa**, principal índice da Bolsa brasileira, fechou a segunda-feira (16) perto dos **169,2 mil pontos**, com queda de cerca de **1,8% a 1,9%**, conforme a fonte consultada (os números finais ainda podem ser ajustados). Já o **dólar** fechou a **R$ 5,7777**, alta de **2,17%**, o maior valor de fechamento desde 17 de abril de 2025."
+  },
+  {
+   "type": "h2",
+   "text": "O que pesou no pregão"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Incerteza fiscal:** o mercado acompanha a votação do pacote de ajuste fiscal anunciado pelo governo na semana passada. A economia estimada é de até R$ 60 bilhões em 2027, e o governo busca aprovar o texto ainda nesta semana.",
+    "**Commodities em queda:** Vale e Petrobras foram pressionadas pela queda do minério de ferro e do petróleo, e têm grande peso no índice.",
+    "**Cenário externo:** Nova York recuou com aversão a risco, puxada pelo setor de tecnologia e por dúvidas sobre o retorno dos investimentos em inteligência artificial.",
+    "**Juros e expectativas:** os juros futuros subiram, e a pesquisa Focus, do Banco Central, mostrou nova piora nas perspectivas econômicas, segundo a imprensa."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Na semana passada, o cenário era outro: a Bolsa havia avançado 2,35%, como mostra [Ibovespa sobe 2,35% na semana e dólar vai a R$ 5,65](#materia-ibovespa-sobe-2-35-na-semana-e-dolar-vai-a-r-5-65-o-que-muda-para-quem-investe). Um dia de queda forte não apaga o movimento anterior, mas lembra que a renda variável oscila."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: o que o dólar a R$ 5,78 muda na prática",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo**: com o dólar perto de R$ 5,65, comprar US$ 100 custava cerca de R$ 565. Com o dólar a R$ 5,7777, os mesmos US$ 100 custam cerca de **R$ 577,77**, ou seja, uns R$ 13 a mais. O efeito aparece em viagens, em produtos importados e em insumos que as empresas compram lá fora, o que pode pressionar preços. O assunto é explicado em [Dólar alto: como ele afeta preços, juros e investimentos](#materia-dolar-alto-como-ele-afeta-precos-juros-e-investimentos)."
+    },
+    {
+     "type": "p",
+     "text": "Outro exemplo ilustrativo: se R$ 100 em ações acompanhassem uma queda de 1,9% em um dia, o valor passaria a cerca de R$ 98,10. Se a ação voltar a subir, a perda some; se não, ela só se realiza caso você venda. Por isso o prazo do investimento importa."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Juros altos e Bolsa: a ligação"
+  },
+  {
+   "type": "p",
+   "text": "Com a Selic em **13,75% ao ano**, a renda fixa concorre com a Bolsa. Quando os juros futuros sobem, o investidor passa a exigir mais retorno da renda variável, e isso costuma pesar nos preços das ações e dos fundos imobiliários. O Banco Central indicou, na ata de 10 de novembro, que os juros devem ficar altos por mais tempo; veja em [Ata do Copom indica juros altos por mais tempo](#materia-ata-do-copom-juros-altos-por-mais-tempo-o-que-muda-na-renda-fixa). Para quem quer entender a base disso, vale ler [o que é a taxa Selic](#materia-o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes)."
+  },
+  {
+   "type": "callout",
+   "text": "**Para o investidor iniciante:** dias de queda forte costumam gerar manchetes alarmantes, mas decisões de investimento pedem calma, objetivos claros e diversificação. Conteúdo educativo e informativo, sem recomendação de compra ou venda. Rentabilidade passada não garante resultados futuros."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: fechamento de 16/11",
+   "center": "Mercado em 16/11",
+   "branches": [
+    {
+     "label": "Bolsa",
+     "items": [
+      "Ibovespa perto de 169,2 mil pts",
+      "Queda de cerca de 1,8% a 1,9%"
+     ]
+    },
+    {
+     "label": "Câmbio",
+     "items": [
+      "Dólar a R$ 5,7777",
+      "Alta de 2,17%",
+      "Maior fechamento desde abr/2025"
+     ]
+    },
+    {
+     "label": "O que pesou",
+     "items": [
+      "Dúvidas sobre o pacote fiscal",
+      "Vale e Petrobras em queda",
+      "Aversão a risco em Nova York"
+     ]
+    },
+    {
+     "label": "Juros",
+     "items": [
+      "Selic: 13,75%",
+      "Juros futuros em alta",
+      "Próximo Copom: 8 e 9/12"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes sobre o fechamento",
+   "items": [
+    {
+     "q": "Quanto o Ibovespa caiu nesta segunda-feira (16)?",
+     "a": "Cerca de 1,8% a 1,9%, fechando perto de 169,2 mil pontos. As fontes divergem em centésimos por se tratar de dados preliminares."
+    },
+    {
+     "q": "Por que o dólar subiu?",
+     "a": "A imprensa aponta a percepção de risco fiscal no Brasil, o avanço dos juros futuros e a aversão a risco no mercado global."
+    },
+    {
+     "q": "Dólar alto afeta quem não viaja?",
+     "a": "Pode afetar, porque encarece produtos importados e insumos de empresas, o que tende a pressionar preços."
+    },
+    {
+     "q": "Queda da Bolsa significa perda para quem investe?",
+     "a": "A perda só se realiza se o ativo for vendido por preço menor que o de compra. O preço das ações varia todos os dias."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Continue aprendendo",
+   "text": "Entenda a [diferença entre renda fixa e renda variável](#materia-renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona) e veja [como começar a investir com pouco dinheiro](#materia-como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes)."
+  }
+ ]
+}

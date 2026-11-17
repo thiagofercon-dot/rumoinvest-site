@@ -1,0 +1,173 @@
+{
+ "slug": "o-que-e-o-cdi-entenda-por-que-cdbs-e-lcis-pagam-um-percentual-do-cdi",
+ "title": "O que é o CDI? Entenda por que CDBs e LCIs pagam um percentual dele",
+ "subtitle": "Com a Selic em 13,75%, o CDI virou a régua da renda fixa bancária. Veja como ele se liga à Selic e o que significa um título que paga 100% ou 90% do CDI.",
+ "category": "renda-fixa",
+ "date": "2026-11-15",
+ "time": "13:10",
+ "sentiment": "Neutro",
+ "meta": "O que é o CDI e como ele se liga à Selic de 13,75%? Entenda o que é um CDB a 100% do CDI e compare com uma LCI a 90%, com exemplo de R$ 100.",
+ "tags": [
+  "O que é CDI",
+  "CDB 100% do CDI",
+  "Taxa Selic",
+  "LCI e LCA",
+  "Renda Fixa",
+  "Educação Financeira"
+ ],
+ "focus_kw": "O que é CDI",
+ "sources": [
+  {
+   "t": "Rankia: Copom decide a Selic (4/11): quanto rende o CDI com 13,75% ou 13,50% (CDI de 13,65% ao ano, dado de 3/11/2026)",
+   "url": "https://rankia.com.br/copom-4-novembro-decisao-selic-quanto-rende-cdi/",
+   "at": "03/11/2026"
+  },
+  {
+   "t": "Investalk BB: O que é CDI e o que a sigla tem a ver com seus investimentos",
+   "url": "https://investalk.bb.com.br/noticias/quero-aprender/o-que-e-cdi-e-o-que-a-sigla-tem-a-ver-com-seus-investimentos",
+   "at": "15/11/2026 13:10"
+  },
+  {
+   "t": "Folha de Pernambuco: Banco Central mantém juros básicos em 13,75% ao ano (decisão do Copom de 4/11/2026)",
+   "url": "https://www.folhape.com.br/economia/banco-central-surpreende-e-mantem-juros-basicos-em-1375-ao-ano/522444/",
+   "at": "04/11/2026"
+  },
+  {
+   "t": "Valor Final: calendário do Copom (próxima reunião em 8 e 9/12/2026)",
+   "url": "https://valorfinal.com.br/copom",
+   "at": "15/11/2026 13:10"
+  }
+ ],
+ "source_doc": "pesquisa-web-renda-fixa",
+ "source_topic": "CDI e percentual do CDI",
+ "image": "assets/covers/o-que-e-o-cdi-entenda-por-que-cdbs-e-lcis-pagam-.jpg",
+ "image_alt": "Ilustração: régua dourada ao lado de pilhas de moedas, cofre aberto, gráfico em alta e a formiga Giga com uma moeda",
+ "canva_media_id": "MAHbAOVSUYg",
+ "body": [
+  {
+   "type": "p",
+   "text": "**O CDI é uma taxa de referência da renda fixa, ligada à Selic.** Na prática, o valor usado é a taxa DI, cobrada em empréstimos de um dia entre bancos, e ela costuma andar um pouco abaixo da Selic. Em 4 de novembro, o Copom manteve a Selic em **13,75% ao ano**, por unanimidade. Segundo a Rankia, com base em dados de 3 de novembro, o CDI estava em **13,65% ao ano**, 0,10 ponto percentual abaixo da Selic."
+  },
+  {
+   "type": "h2",
+   "text": "Por que o CDI aparece nos CDBs"
+  },
+  {
+   "type": "p",
+   "text": "Os bancos usam o CDI como base para remunerar quem empresta dinheiro a eles. Por isso, muitos CDBs, LCIs e LCAs anunciam o rendimento como **percentual do CDI**. Um título que paga 100% do CDI rende a taxa cheia; um que paga 90% rende nove décimos dela. Como o CDI acompanha a Selic, esses títulos são chamados de pós-fixados: o rendimento muda quando a taxa básica muda."
+  },
+  {
+   "type": "h2",
+   "text": "O que pesa mais: percentual ou imposto?"
+  },
+  {
+   "type": "p",
+   "text": "Para comparar de verdade, olhe o rendimento depois do Imposto de Renda. Veja mais sobre essa conta em [CDB, LCI e LCA: como comparar rendimento, imposto e a garantia do FGC](#materia-cdb-lci-e-lca-como-comparar-rendimento-imposto-e-seguranca-do-fgc)."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: R$ 100 por 1 ano em 100% e 90% do CDI",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo**: suponha que o CDI fique fixo em 13,65% ao ano por 12 meses e que o prazo seja de 361 a 720 dias, com Imposto de Renda de 17,5% sobre o rendimento do CDB. As estimativas seguem a conta da Rankia, que considera o efeito dos juros compostos:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Aplicação de R$ 100",
+      "Rendimento líquido estimado em 1 ano"
+     ],
+     "rows": [
+      [
+       "CDB a 100% do CDI (com IR de 17,5%)",
+       "cerca de R$ 11,26"
+      ],
+      [
+       "LCI a 90% do CDI (isenta de IR)",
+       "cerca de R$ 12,21"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Ou seja, a LCI de 90% rende mais no bolso que o CDB de 100% nesse cenário, porque o imposto pesa só no CDB. Na vida real, o CDI muda ao longo do ano, e cada título tem prazo e liquidez próprios. Rentabilidade passada não garante resultados futuros."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "O que pode mudar daqui para frente"
+  },
+  {
+   "type": "p",
+   "text": "O Copom volta a se reunir em **8 e 9 de dezembro**, com decisão no dia 9. Se a Selic mudar, o CDI tende a acompanhar, e o rendimento dos títulos pós-fixados muda junto. Para entender o que está por trás dessas decisões, leia [O que é a taxa Selic](#materia-o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes) e veja o efeito da inflação em [Inflação desacelera em outubro e Selic segue em 13,75%](#materia-inflacao-desacelera-em-outubro-e-selic-a-13-75-quanto-sobra-do-rendimento-da-renda-fixa)."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: CDI",
+   "center": "CDI",
+   "branches": [
+    {
+     "label": "O que é",
+     "items": [
+      "Taxa de referência da renda fixa",
+      "Taxa DI: empréstimos entre bancos",
+      "Fica um pouco abaixo da Selic"
+     ]
+    },
+    {
+     "label": "Selic e CDI",
+     "items": [
+      "Selic: 13,75% ao ano",
+      "CDI: 13,65% (dado de 3/11)",
+      "Acompanha as decisões do Copom"
+     ]
+    },
+    {
+     "label": "Nos títulos",
+     "items": [
+      "CDB a 100% do CDI",
+      "LCI e LCA em % do CDI",
+      "Pós-fixados"
+     ]
+    },
+    {
+     "label": "Como comparar",
+     "items": [
+      "Rendimento líquido",
+      "Imposto de Renda",
+      "Prazo e liquidez"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes sobre o CDI",
+   "items": [
+    {
+     "q": "O que é o CDI?",
+     "a": "É uma taxa de referência baseada na taxa DI, cobrada em empréstimos de um dia entre bancos. Ela é usada para remunerar muitos títulos de renda fixa."
+    },
+    {
+     "q": "CDI e Selic são a mesma coisa?",
+     "a": "Não. A Selic é a taxa básica definida pelo Copom; o CDI está ligado a ela e costuma ficar um pouco abaixo. Em 3/11, o CDI estava em 13,65% ao ano, ante Selic de 13,75%."
+    },
+    {
+     "q": "O que significa um CDB que paga 100% do CDI?",
+     "a": "Significa que ele rende a taxa DI cheia. Um título a 90% do CDI rende nove décimos dessa taxa."
+    },
+    {
+     "q": "Percentual maior do CDI sempre rende mais?",
+     "a": "Não necessariamente. O Imposto de Renda, o prazo e a liquidez mudam o resultado. Compare sempre o rendimento líquido."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Continue aprendendo sobre renda fixa",
+   "text": "Veja como funciona o [Tesouro Direto com a Selic em 13,75%](#materia-tesouro-direto-com-selic-a-13-75-entenda-tesouro-selic-prefixado-e-ipca) e compare com a renda bancária. Conteúdo educativo, sem recomendação de investimento."
+  }
+ ]
+}

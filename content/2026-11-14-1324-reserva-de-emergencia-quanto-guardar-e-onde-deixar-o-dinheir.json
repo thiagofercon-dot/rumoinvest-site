@@ -1,0 +1,138 @@
+{
+ "slug": "reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro",
+ "title": "Reserva de emergência: quanto guardar e onde deixar o dinheiro",
+ "subtitle": "O imprevisto não avisa. Aprenda a calcular o valor ideal, onde aplicar com segurança e liquidez e como montar a reserva aos poucos.",
+ "category": "educacao",
+ "date": "2026-11-14",
+ "time": "13:24",
+ "sentiment": "Neutro",
+ "meta": "Reserva de emergência: veja quanto guardar, como calcular com um exemplo e onde deixar o dinheiro com segurança e liquidez, como Tesouro Selic.",
+ "tags": [
+  "Reserva de emergência",
+  "Educação Financeira",
+  "Tesouro Selic",
+  "Como investir",
+  "Planejamento Financeiro"
+ ],
+ "sources": [
+  "Portal do Investidor (CVM): reserva de emergência",
+  "Tesouro Direto",
+  "Materiais educativos de instituições financeiras"
+ ],
+ "source_doc": "guia-evergreen",
+ "source_topic": "Reserva de emergência",
+ "image": "assets/covers/reserva-de-emergencia-quanto-guardar-e-onde-deixar.jpg",
+ "image_alt": "Ilustração: guarda-chuva dourado protegendo um cofre com moedas sob chuva",
+ "canva_media_id": "MAHa6BlTveM",
+ "body": [
+  {
+   "type": "p",
+   "text": "**A reserva de emergência é o primeiro investimento de quem quer ter tranquilidade.** Ela é o dinheiro separado para imprevistos, como perda de renda, problema de saúde ou conserto urgente, e evita que você recorra a crédito caro ou venda investimentos na hora errada."
+  },
+  {
+   "type": "h2",
+   "text": "Quanto guardar"
+  },
+  {
+   "type": "p",
+   "text": "A conta é simples: **despesas essenciais mensais × número de meses de proteção**. Uma referência muito usada é de 3 a 6 meses de despesas; o Portal do Investidor, ligado à CVM, trabalha com uma faixa de 6 a 12 meses. Quem tem renda variável ou dependentes costuma precisar de mais."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: um exemplo com números",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Imagine despesas essenciais de R$ 3.000 por mês. Para 6 meses de proteção: R$ 3.000 × 6 = **R$ 18.000**. Guardando R$ 500 por mês, você chegaria lá em 36 meses, sem contar rendimentos. Comece pequeno: o primeiro objetivo pode ser um mês de despesas."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Onde deixar o dinheiro"
+  },
+  {
+   "type": "p",
+   "text": "A reserva precisa de **segurança e liquidez**, ou seja, poder resgatar rápido sem perder valor. Opções comuns são o Tesouro Selic e CDBs de liquidez diária. Evite colocá-la em investimentos que oscilam muito, como ações, porque pode ser preciso resgatar em um momento de queda. Entenda as opções em [Tesouro Direto com a Selic em 13,75%](#materia-tesouro-direto-com-selic-a-13-75-entenda-tesouro-selic-prefixado-e-ipca) e [CDB, LCI e LCA](#materia-cdb-lci-e-lca-como-comparar-rendimento-imposto-e-seguranca-do-fgc)."
+  },
+  {
+   "type": "h2",
+   "text": "Como montar aos poucos"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "defina a meta em meses de despesas;",
+    "programe um aporte automático logo que o salário cair;",
+    "direcione extras, como 13º salário, para a reserva;",
+    "se usar a reserva, reponha o valor assim que puder."
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "**Importante:** reserva de emergência não é dinheiro para viagens ou compras planejadas. Para metas assim, crie outra poupança. Valores e referências variam conforme o seu perfil; avalie a sua realidade."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: reserva de emergência",
+   "center": "Reserva de emergência",
+   "branches": [
+    {
+     "label": "Para que serve",
+     "items": [
+      "Imprevistos",
+      "Perda de renda",
+      "Evita crédito caro"
+     ]
+    },
+    {
+     "label": "Quanto guardar",
+     "items": [
+      "Despesas × meses",
+      "3 a 6 meses é referência comum",
+      "Renda variável pede mais"
+     ]
+    },
+    {
+     "label": "Onde deixar",
+     "items": [
+      "Liquidez diária",
+      "Baixo risco",
+      "Tesouro Selic, CDB"
+     ]
+    },
+    {
+     "label": "Como montar",
+     "items": [
+      "Aporte automático",
+      "Meta em etapas",
+      "Repor após o uso"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes sobre reserva de emergência",
+   "items": [
+    {
+     "q": "Quanto devo guardar na reserva de emergência?",
+     "a": "Multiplique suas despesas essenciais mensais pelo número de meses de proteção. Referências comuns vão de 3 a 6 meses, e o Portal do Investidor cita de 6 a 12 meses."
+    },
+    {
+     "q": "Onde deixar a reserva de emergência?",
+     "a": "Em aplicações de baixo risco e liquidez diária, como Tesouro Selic ou CDB de liquidez diária."
+    },
+    {
+     "q": "Posso investir em ações antes de ter a reserva?",
+     "a": "O mais comum é montar a reserva primeiro, porque ações oscilam e você pode precisar resgatar em um momento de queda."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Próximo passo",
+   "text": "Com a reserva em andamento, veja [como começar a investir com pouco dinheiro](#materia-como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes) e a [diferença entre renda fixa e renda variável](#materia-renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona)."
+  }
+ ]
+}

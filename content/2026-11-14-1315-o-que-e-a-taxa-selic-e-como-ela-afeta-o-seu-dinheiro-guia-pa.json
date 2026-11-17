@@ -1,0 +1,146 @@
+{
+ "slug": "o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes",
+ "title": "O que é a taxa Selic? Entenda em 5 minutos como ela mexe com o seu dinheiro",
+ "subtitle": "Ela define o preço do crédito e o rendimento da renda fixa. Veja quem decide a Selic, por que ela sobe e desce e o que muda no seu bolso.",
+ "category": "educacao",
+ "date": "2026-11-14",
+ "time": "13:15",
+ "sentiment": "Neutro",
+ "meta": "O que é a taxa Selic, quem define e como ela afeta financiamentos, renda fixa, FIIs e ações. Guia simples para iniciantes, com exemplo de R$ 100.",
+ "tags": [
+  "O que é Selic",
+  "Taxa Selic",
+  "Copom",
+  "Educação Financeira",
+  "Juros",
+  "Renda Fixa"
+ ],
+ "sources": [
+  "Banco Central do Brasil: Copom e meta da taxa Selic",
+  "InfoMoney: como funciona o Copom",
+  "Estadão Conteúdo via O Liberal (4/11/2026)"
+ ],
+ "source_doc": "guia-evergreen",
+ "source_topic": "O que é a taxa Selic",
+ "image": "assets/covers/o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinhei.jpg",
+ "image_alt": "Ilustração: termômetro dourado e balança com moedas e uma casinha, com setas de juros",
+ "canva_media_id": "MAHa6MiCpMc",
+ "body": [
+  {
+   "type": "p",
+   "text": "**A taxa Selic é a taxa básica de juros do Brasil.** Ela serve de referência para quase tudo no mundo do dinheiro: o juro do financiamento, o rendimento da renda fixa e até o preço de ações e fundos imobiliários. Entender a Selic é o primeiro passo de quem quer investir com mais segurança."
+  },
+  {
+   "type": "h2",
+   "text": "Quem define a Selic e com que frequência"
+  },
+  {
+   "type": "p",
+   "text": "A meta da Selic é definida pelo Copom, o Comitê de Política Monetária do Banco Central. O comitê se reúne **oito vezes por ano**, a cada cerca de 45 dias, em dois dias seguidos. A decisão mais recente foi em 4 de novembro de 2026, quando o Copom manteve a Selic em **13,75% ao ano**, por unanimidade, depois de uma sequência de cortes. Antes do ciclo de reduções, a taxa chegou a ficar em 15%."
+  },
+  {
+   "type": "h2",
+   "text": "Por que a Selic sobe e desce"
+  },
+  {
+   "type": "p",
+   "text": "O objetivo do Banco Central é manter a inflação dentro da meta definida pelo Conselho Monetário Nacional. Quando os preços sobem rápido demais, o Copom tende a **aumentar** a Selic para esfriar a economia: o crédito fica mais caro, as pessoas consomem menos e a inflação perde força. Quando a inflação está sob controle, a Selic pode **cair** para estimular o crédito e a atividade."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: a Selic como um freio e um acelerador",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Pense na economia como um carro. Selic alta é o freio: crédito caro, consumo mais lento. Selic baixa é o acelerador: crédito barato, mais movimento. O motorista, o Banco Central, ajusta o pedal para o carro não correr demais nem parar."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "O que muda no seu bolso"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Financiamentos e cartão:** com a Selic alta, os juros do crédito costumam subir.",
+    "**Renda fixa:** a Selic alta faz títulos como o Tesouro Selic e o CDB pagarem mais. Veja como funciona no guia [Tesouro Direto com a Selic em 13,75%](#materia-tesouro-direto-com-selic-a-13-75-entenda-tesouro-selic-prefixado-e-ipca).",
+    "**Fundos imobiliários e ações:** com a renda fixa pagando bem, o investidor exige mais retorno da renda variável, o que pode pressionar os preços. Entenda no artigo [Selic e FIIs](#materia-selic-e-rendimentos-entenda-o-impacto-nos-fundos-imobiliarios-mxrf11-e-gare11)."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Exemplo ilustrativo com R$ 100"
+  },
+  {
+   "type": "p",
+   "text": "Suponha, só para ilustrar, que a Selic fique em 13,75% ao ano por 12 meses e que você tenha R$ 100 em um título que acompanhe essa taxa. O rendimento bruto seria de cerca de R$ 13,75. Descontado o Imposto de Renda de 17,5% (prazo de 361 a 720 dias), o ganho líquido fica perto de **R$ 11,34**. É uma simulação simplificada: a Selic muda ao longo do tempo."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: taxa Selic",
+   "center": "Taxa Selic",
+   "branches": [
+    {
+     "label": "Quem decide",
+     "items": [
+      "Copom, do Banco Central",
+      "8 reuniões por ano",
+      "Meta de inflação"
+     ]
+    },
+    {
+     "label": "Selic alta",
+     "items": [
+      "Crédito mais caro",
+      "Renda fixa paga mais",
+      "Freia a inflação"
+     ]
+    },
+    {
+     "label": "Selic baixa",
+     "items": [
+      "Crédito mais barato",
+      "Renda fixa paga menos",
+      "Estimula a economia"
+     ]
+    },
+    {
+     "label": "Para o investidor",
+     "items": [
+      "Compare sempre com a inflação",
+      "Acompanhe o Copom",
+      "Diversifique"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes sobre a Selic",
+   "items": [
+    {
+     "q": "O que é a taxa Selic?",
+     "a": "É a taxa básica de juros da economia brasileira, usada como referência para o crédito e para os investimentos de renda fixa."
+    },
+    {
+     "q": "Quem define a Selic?",
+     "a": "O Copom, comitê do Banco Central, que se reúne oito vezes por ano para definir a meta da taxa."
+    },
+    {
+     "q": "Selic alta é boa ou ruim?",
+     "a": "Depende. É boa para quem aplica em renda fixa, porque os títulos pagam mais, e ruim para quem toma crédito, que paga juros mais altos."
+    },
+    {
+     "q": "Qual é a Selic atual?",
+     "a": "Em 4 de novembro de 2026, o Copom manteve a meta em 13,75% ao ano. A próxima decisão pode alterar esse valor."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Quer ir além? Continue aprendendo",
+   "text": "Agora que você entende a Selic, veja [como começar a investir com pouco dinheiro](#materia-como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes) e descubra [a diferença entre renda fixa e renda variável](#materia-renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona)."
+  }
+ ]
+}

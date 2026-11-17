@@ -1,0 +1,152 @@
+{
+ "slug": "inflacao-desacelera-em-outubro-e-selic-a-13-75-quanto-sobra-do-rendimento-da-renda-fixa",
+ "title": "Inflação desacelera em outubro e Selic segue em 13,75%: quanto sobra do rendimento da renda fixa?",
+ "subtitle": "O IPCA subiu 0,14% em outubro e acumula 4,63% em 12 meses; entenda o conceito de juro real e por que ele importa mais do que a taxa anunciada.",
+ "category": "renda-fixa",
+ "date": "2026-11-14",
+ "time": "13:10",
+ "sentiment": "Alerta",
+ "meta": "IPCA de outubro: 0,14% e 4,63% em 12 meses. Entenda o juro real da renda fixa com a Selic em 13,75% e veja um exemplo ilustrativo de R$ 100.",
+ "tags": [
+  "Inflação",
+  "IPCA",
+  "Juro Real",
+  "Taxa Selic",
+  "Renda Fixa",
+  "Educação Financeira"
+ ],
+ "sources": [
+  "IBGE: IPCA de outubro de 2026 (divulgado em 12/11), via Agência Brasil",
+  "Banco Central do Brasil: comunicado e ata da 282ª reunião do Copom (3 e 4/11/2026)",
+  "Portal do Investidor (CVM): tributação da renda fixa"
+ ],
+ "source_doc": "pesquisa-web-renda-fixa",
+ "source_topic": "Inflação (IPCA) e juro real",
+ "image": "assets/covers/inflacao-desacelera-em-outubro-e-selic-a-13-75-qua.jpg",
+ "image_alt": "Ilustração: balança com moedas douradas de um lado e cesta de compras do outro, com um broto verde",
+ "canva_media_id": "MAHa6NXpFgg",
+ "body": [
+  {
+   "type": "p",
+   "text": "O IBGE informou, em 12 de novembro, que o IPCA, a inflação oficial do país, subiu **0,14% em outubro**, bem abaixo dos 0,82% de setembro. Em 12 meses, o acumulado ficou em **4,63%**. Enquanto isso, a Selic permanece em **13,75% ao ano**, após a decisão unânime do Copom de 4 de novembro. Para quem investe em renda fixa, a pergunta útil é: depois de descontar a alta dos preços, quanto o dinheiro realmente rende?"
+  },
+  {
+   "type": "h2",
+   "text": "O que puxou e o que aliviou os preços em outubro"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Alta:** alimentação e bebidas subiram 1,04%, o maior impacto do mês.",
+    "**Queda:** transportes (-0,59%) e habitação (-0,51%) recuaram, com destaque para a conta de luz, segundo o IBGE."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "O alívio do mês não muda o cenário de cautela. No comunicado, o Copom projeta IPCA de **5,6% em 2026** e **4,7% em 2027**, e afirma que a política monetária precisa manter caráter restritivo, ou seja, juros altos por mais tempo para trazer a inflação de volta à meta."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: o que é juro real?",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Juro nominal é a taxa anunciada (por exemplo, a Selic). Juro real é o que sobra depois de descontar a inflação. Exemplo ilustrativo com R$ 100, **supondo que a Selic ficasse em 13,75% por um ano e que a inflação em 12 meses fosse a atual, de 4,63%**:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Item",
+      "Valor"
+     ],
+     "rows": [
+      [
+       "Você aplica",
+       "R$ 100,00"
+      ],
+      [
+       "Rendimento bruto (13,75%)",
+       "R$ 13,75"
+      ],
+      [
+       "Mesma cesta de compras que custava R$ 100",
+       "passa a custar R$ 104,63"
+      ],
+      [
+       "Ganho de poder de compra (antes do IR)",
+       "cerca de 8,7%"
+      ],
+      [
+       "Rendimento líquido com IR de 17,5% (361 a 720 dias)",
+       "R$ 11,34"
+      ],
+      [
+       "Ganho de poder de compra (após IR)",
+       "cerca de 6,4%"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Ou seja: o dinheiro cresce mais do que os preços, mas o ganho real é menor que a taxa anunciada. Os números são uma simplificação, pois a inflação e os juros futuros podem mudar."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Por que isso importa para quem investe"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Compare sempre com a inflação:** uma taxa de 10% ao ano rende bem menos, em poder de compra, se a inflação for de 8% do que se for de 3%.",
+    "**Títulos atrelados ao IPCA** (como o Tesouro IPCA+) pagam a inflação mais uma taxa fixa, o que protege o poder de compra no longo prazo.",
+    "**Imposto reduz o ganho real:** na tabela regressiva, o Imposto de Renda diminui com o tempo de aplicação.",
+    "**Cenário muda:** se a inflação cair e a Selic acompanhar, o juro real pode se alterar mesmo sem mudança na sua aplicação."
+   ]
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: inflação e juro real",
+   "center": "Juro real",
+   "branches": [
+    {
+     "label": "Inflação (IPCA)",
+     "items": [
+      "Outubro: 0,14%",
+      "12 meses: 4,63%",
+      "Medida pelo IBGE"
+     ]
+    },
+    {
+     "label": "Selic",
+     "items": [
+      "13,75% ao ano",
+      "Mantida pelo Copom em 4/11",
+      "Referência da renda fixa"
+     ]
+    },
+    {
+     "label": "Como calcular",
+     "items": [
+      "Rendimento menos inflação",
+      "Considere o Imposto de Renda",
+      "Compare no mesmo prazo"
+     ]
+    },
+    {
+     "label": "Como se proteger",
+     "items": [
+      "Títulos atrelados ao IPCA",
+      "Acompanhar a inflação",
+      "Diversificar prazos"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "**Para ficar de olho:** o próximo IPCA e a próxima decisão do Copom indicam para onde caminham a inflação e os juros. A renda fixa serve de régua para outros ativos, como os FIIs MXRF11 e GARE11 e as ações pagadoras de dividendos BBAS3 e TAEE4: quanto maior o juro real, mais retorno se exige deles. Conteúdo educativo, sem recomendação de investimento."
+  }
+ ]
+}

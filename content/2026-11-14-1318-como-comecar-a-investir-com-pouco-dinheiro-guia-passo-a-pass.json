@@ -1,0 +1,153 @@
+{
+ "slug": "como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes",
+ "title": "Como começar a investir com pouco dinheiro: guia passo a passo para iniciantes",
+ "subtitle": "Você não precisa de uma fortuna para dar o primeiro passo. Veja a ordem certa para organizar o dinheiro, escolher onde investir e criar o hábito.",
+ "category": "educacao",
+ "date": "2026-11-14",
+ "time": "13:18",
+ "sentiment": "Otimista",
+ "meta": "Como começar a investir com pouco dinheiro, passo a passo: organize o orçamento, monte a reserva, escolha onde investir e crie o hábito de aportar todo mês.",
+ "tags": [
+  "Como investir",
+  "Investir com pouco dinheiro",
+  "Investimentos para iniciantes",
+  "Educação Financeira",
+  "Renda Passiva"
+ ],
+ "sources": [
+  "Portal do Investidor (CVM): educação financeira",
+  "Tesouro Direto",
+  "B3: Bora Investir"
+ ],
+ "source_doc": "guia-evergreen",
+ "source_topic": "Como começar a investir com pouco dinheiro",
+ "image": "assets/covers/como-comecar-a-investir-com-pouco-dinheiro-guia-pa.jpg",
+ "image_alt": "Ilustração: degraus de moedas com um broto crescendo e uma mão colocando uma moeda",
+ "canva_media_id": "MAHa6BJkX6o",
+ "body": [
+  {
+   "type": "p",
+   "text": "**Muita gente adia o primeiro investimento porque acha que precisa de muito dinheiro.** A boa notícia: o que importa no começo é o hábito, não o valor. Este guia mostra a ordem dos passos para começar com pouco, sem pular etapas importantes."
+  },
+  {
+   "type": "h2",
+   "text": "Passo 1: saiba para onde vai o seu dinheiro"
+  },
+  {
+   "type": "p",
+   "text": "Anote um mês inteiro de gastos. Separe o essencial (moradia, comida, transporte) do que pode ser reduzido. Sem esse mapa, é difícil descobrir quanto sobra para investir."
+  },
+  {
+   "type": "h2",
+   "text": "Passo 2: cuide das dívidas caras e monte a reserva"
+  },
+  {
+   "type": "p",
+   "text": "Dívidas como cartão e cheque especial costumam cobrar juros muito altos, que tendem a superar qualquer rendimento. Em paralelo, comece a formar a reserva de emergência, que protege o seu plano de imprevistos. Veja os detalhes em [Reserva de emergência: quanto guardar e onde deixar o dinheiro](#materia-reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro)."
+  },
+  {
+   "type": "h2",
+   "text": "Passo 3: defina o objetivo e o prazo"
+  },
+  {
+   "type": "p",
+   "text": "Investir para daqui a seis meses é diferente de investir para daqui a dez anos. O prazo define o tipo de investimento: quanto mais curto, mais estável deve ser a aplicação."
+  },
+  {
+   "type": "h2",
+   "text": "Passo 4: conheça as opções para começar"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Tesouro Selic e CDBs com liquidez diária:** estáveis e adequados ao início. Entenda em [Tesouro Direto com a Selic em 13,75%](#materia-tesouro-direto-com-selic-a-13-75-entenda-tesouro-selic-prefixado-e-ipca).",
+    "**Fundos imobiliários (FIIs):** distribuem rendimentos mensais, mas o preço da cota oscila. Veja o impacto dos juros em [Selic e FIIs](#materia-selic-e-rendimentos-entenda-o-impacto-nos-fundos-imobiliarios-mxrf11-e-gare11).",
+    "**Ações:** compra de pequenas partes de empresas; o preço varia muito no curto prazo. Antes de escolher, leia [por que o preço da cota não diz se a ação é barata](#materia-acoes-abaixo-de-r-10-preco-da-cotacao-nao-e-sinonimo-de-empresa-barata)."
+   ]
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: o poder do aporte mensal",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Imagine guardar R$ 100 por mês durante 12 meses. Você investiu R$ 1.200. Com uma taxa **hipotética** de 0,8% ao mês, o total chegaria a cerca de **R$ 1.254**, antes do Imposto de Renda. O ganho de R$ 54 parece pequeno no primeiro ano, mas ele cresce com o tempo, porque os rendimentos também passam a render. É isso que chamamos de juros compostos."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Passo 5: automatize e seja constante"
+  },
+  {
+   "type": "p",
+   "text": "Programe o aporte para o dia em que o salário cai. Pagar a si mesmo primeiro transforma o investimento em rotina. Revise o plano a cada seis meses e aumente o valor sempre que a renda crescer."
+  },
+  {
+   "type": "callout",
+   "text": "**Erro comum:** começar pelo investimento mais comentado, sem entender o risco. Comece pelo básico, aprenda e só depois diversifique. Nenhum investimento garante retorno, e a rentabilidade passada não garante resultados futuros."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: começar a investir",
+   "center": "Investir com pouco",
+   "branches": [
+    {
+     "label": "Antes de investir",
+     "items": [
+      "Mapear os gastos",
+      "Quitar dívidas caras",
+      "Montar a reserva"
+     ]
+    },
+    {
+     "label": "Defina",
+     "items": [
+      "Objetivo",
+      "Prazo",
+      "Valor mensal"
+     ]
+    },
+    {
+     "label": "Opções",
+     "items": [
+      "Tesouro Selic e CDB",
+      "FIIs",
+      "Ações"
+     ]
+    },
+    {
+     "label": "Hábito",
+     "items": [
+      "Aporte automático",
+      "Revisão semestral",
+      "Diversificação"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes sobre investir com pouco dinheiro",
+   "items": [
+    {
+     "q": "Com quanto dinheiro dá para começar a investir?",
+     "a": "Há opções com valores baixos, como o Tesouro Direto e fundos imobiliários. O mais importante é criar o hábito e entender o risco de cada produto."
+    },
+    {
+     "q": "Qual o primeiro investimento para iniciantes?",
+     "a": "Em geral, aplicações de baixo risco e liquidez diária, como Tesouro Selic ou CDB de liquidez diária, costumam ser o ponto de partida para formar a reserva."
+    },
+    {
+     "q": "Vale a pena investir antes de quitar dívidas?",
+     "a": "Dívidas com juros altos costumam pesar mais que o rendimento dos investimentos. Por isso, vale priorizá-las e manter uma reserva mínima."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Próximo passo",
+   "text": "Entenda a base de tudo: [o que é a taxa Selic](#materia-o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes) e [a diferença entre renda fixa e renda variável](#materia-renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona)."
+  }
+ ]
+}

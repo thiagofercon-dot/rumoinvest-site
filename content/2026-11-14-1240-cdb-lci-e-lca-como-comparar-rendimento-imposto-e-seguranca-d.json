@@ -1,0 +1,139 @@
+{
+ "slug": "cdb-lci-e-lca-como-comparar-rendimento-imposto-e-seguranca-do-fgc",
+ "title": "CDB, LCI e LCA: como comparar rendimento, imposto e a garantia do FGC",
+ "subtitle": "Uma LCI que paga menos que um CDB pode render mais no bolso. Entenda a conta do rendimento líquido com um exemplo de R$ 100.",
+ "category": "renda-fixa",
+ "date": "2026-11-14",
+ "time": "12:40",
+ "sentiment": "Neutro",
+ "meta": "Aprenda a comparar CDB, LCI e LCA pelo rendimento líquido, considerando o Imposto de Renda, o prazo e a garantia do FGC de até R$ 250 mil.",
+ "tags": [
+  "CDB",
+  "LCI e LCA",
+  "FGC",
+  "Renda Fixa",
+  "Imposto de Renda",
+  "Educação Financeira"
+ ],
+ "sources": [
+  "Portal do Investidor (gov.br/CVM): títulos bancários, tributação e FGC",
+  "B3 Bora Investir: LCI, LCA e CDB",
+  "Banco Central do Brasil / Copom (4/11/2026)"
+ ],
+ "source_doc": "pesquisa-web-renda-fixa",
+ "source_topic": "CDB, LCI e LCA",
+ "image": "assets/covers/cdb-lci-e-lca-como-comparar-rendimento-imposto-e-s.jpg",
+ "image_alt": "Ilustração: balança com documento bancário de um lado e casinha com espiga do outro, protegidas por um escudo",
+ "body": [
+  {
+   "type": "p",
+   "text": "Com a Selic em 13,75% ao ano, a renda fixa bancária segue no radar de quem quer previsibilidade. CDB, LCI e LCA parecem parecidos, mas diferem em imposto, prazo e liquidez. A comparação justa é sempre pelo **rendimento líquido**: o que sobra depois do Imposto de Renda."
+  },
+  {
+   "type": "h2",
+   "text": "As diferenças que importam"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Título",
+    "Imposto de Renda (pessoa física)",
+    "Liquidez",
+    "FGC"
+   ],
+   "rows": [
+    [
+     "CDB",
+     "Tabela regressiva de 22,5% a 15% sobre o rendimento",
+     "Varia: pode ter liquidez diária ou prazo fixo",
+     "Sim"
+    ],
+    [
+     "LCI / LCA",
+     "Isento",
+     "Carência (prazo mínimo)",
+     "Sim"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "A tabela regressiva funciona assim: quanto mais tempo o dinheiro fica aplicado, menor a alíquota, de **22,5%** (até 180 dias) a **15%** (acima de 720 dias). O imposto incide só sobre o rendimento, nunca sobre o valor investido."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: a conta que faz a LCI render mais",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Imagine um CDI hipotético de 13% ao ano e uma aplicação de R$ 100 por um ano. Um CDB que paga 100% do CDI rende R$ 13,00 brutos; com 17,5% de imposto, o ganho líquido é de **R$ 10,73**. Uma LCI que paga 90% do CDI rende R$ 11,70, sem imposto. Resultado: a LCI de 90% rende mais no bolso que o CDB de 100% nesse prazo. Os números são ilustrativos; as taxas reais variam por banco e prazo."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "E a segurança?"
+  },
+  {
+   "type": "p",
+   "text": "CDB, LCI e LCA são protegidos pelo Fundo Garantidor de Créditos (FGC). A garantia cobre até **R$ 250 mil por CPF e por instituição financeira**, com teto global de R$ 1 milhão, renovável a cada quatro anos, segundo o Portal do Investidor. Isso protege em caso de falência ou intervenção do banco, mas não elimina a necessidade de avaliar o emissor."
+  },
+  {
+   "type": "h2",
+   "text": "Checklist antes de aplicar"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "calcule o rendimento líquido, não só a taxa anunciada;",
+    "confira o prazo e se você poderá resgatar antes, quando precisar;",
+    "veja quanto já tem aplicado na mesma instituição, por causa do limite do FGC;",
+    "mantenha uma reserva de emergência em aplicação de liquidez diária."
+   ]
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: CDB, LCI e LCA",
+   "center": "Renda fixa bancária",
+   "branches": [
+    {
+     "label": "CDB",
+     "items": [
+      "Imposto regressivo",
+      "Liquidez varia",
+      "Garantia do FGC"
+     ]
+    },
+    {
+     "label": "LCI e LCA",
+     "items": [
+      "Isentas de IR para pessoa física",
+      "Têm carência",
+      "Garantia do FGC"
+     ]
+    },
+    {
+     "label": "Como comparar",
+     "items": [
+      "Rendimento líquido",
+      "Prazo e liquidez",
+      "Taxa em % do CDI"
+     ]
+    },
+    {
+     "label": "Segurança",
+     "items": [
+      "FGC até R$ 250 mil",
+      "Por CPF e instituição",
+      "Avalie o emissor"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "**Atenção:** as regras de tributação podem mudar. Confira a regra vigente no Portal do Investidor ou no seu banco antes de decidir."
+  }
+ ],
+ "canva_media_id": "MAHa5x8p-34"
+}

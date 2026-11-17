@@ -1,0 +1,179 @@
+{
+ "slug": "ata-do-copom-juros-altos-por-mais-tempo-o-que-muda-na-renda-fixa",
+ "capa": "dia",
+ "title": "Ata do Copom indica juros altos por mais tempo: o que isso muda na renda fixa",
+ "subtitle": "O BC manteve a Selic em 13,75% e reforçou que a taxa deve ficar elevada por um período prolongado; entenda o que isso significa para Tesouro, CDB e LCI.",
+ "category": "renda-fixa",
+ "date": "2026-11-16",
+ "time": "13:10",
+ "sentiment": "Alerta",
+ "meta": "Ata do Copom (10/11) aponta Selic de 13,75% por mais tempo e IPCA de 5,6% em 2026. Veja o que muda na renda fixa, com exemplo ilustrativo de R$ 100.",
+ "focus_kw": "ata do Copom",
+ "tags": [
+  "Ata do Copom",
+  "Taxa Selic",
+  "Juros altos",
+  "Renda Fixa",
+  "Tesouro Selic",
+  "CDI"
+ ],
+ "sources": [
+  {
+   "t": "Rankia: Ata do Copom: BC diz que juros ficam altos por mais tempo e projeta inflação de 5,6% em 2026",
+   "url": "https://rankia.com.br/ata-copom-novembro-2026-juros-altos-por-mais-tempo/",
+   "at": "10/11/2026 09:39"
+  },
+  {
+   "t": "Diário de Pernambuco: Ata do Copom reforça cenário de juros altos por mais tempo",
+   "url": "https://www.diariodepernambuco.com.br/economia/2026/11/11728775-ata-do-copom-reforca-cenario-de-juros-altos-por-mais-tempo.html",
+   "at": "10/11/2026 11:43"
+  },
+  {
+   "t": "Investidor10: Ata do Copom: BC vê economia desacelerar, mas mantém alerta sobre inflação",
+   "url": "https://investidor10.com.br/noticias/ata-do-copom-bc-ve-economia-desacelerar-mas-mantem-alerta-sobre-inflacao-123793/",
+   "at": "10/11/2026 09:32"
+  },
+  {
+   "t": "Banco Central do Brasil: atas do Copom",
+   "url": "https://www.bcb.gov.br/publicacoes/atascopom",
+   "at": "16/11/2026 13:10"
+  }
+ ],
+ "source_doc": "Pesquisa própria do Claude (sem relatório do Drive em 16/11 13:10)",
+ "source_topic": "Ata do Copom e juros altos por mais tempo",
+ "image": "assets/covers/ata-do-copom-juros-altos-por-mais-tempo-o-que-muda-na-renda-fixa.jpg",
+ "image_alt": "Ilustração: ampulheta dourada ao lado de pilhas de moedas e um cofre aberto, com a formiga Giga observando",
+ "canva_media_id": "MAHbGPPreMI",
+ "body": [
+  {
+   "type": "p",
+   "text": "A **ata do Copom**, divulgada em 10 de novembro, detalhou a decisão da semana anterior: por unanimidade, o comitê manteve a Selic em **13,75% ao ano** e sinalizou que a taxa deve permanecer em nível elevado por um período prolongado. A ata não indica data para um novo corte nem fala em alta. Para quem investe em renda fixa, a mensagem prática é: o juro alto tende a continuar, mas ele só vale se for maior que a inflação."
+  },
+  {
+   "type": "h2",
+   "text": "O que o Banco Central disse na ata"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Inflação ainda pressionada:** as projeções do Copom subiram para **5,6% em 2026** (antes, 5,2%) e **4,7% em 2027** (antes, 3,9%). Para o segundo trimestre de 2028, a projeção passou de 3,2% para 3,5%, ante meta de 3%.",
+    "**Riscos monitorados:** petróleo em alta por conflitos no Oriente Médio, efeitos do El Niño, o possível fim da escala 6x1 e a desvalorização do real por incertezas da política doméstica.",
+    "**Atividade esfriando:** o comitê vê moderação mais intensa da economia e perda de ritmo na geração de empregos.",
+    "**Postura:** o BC não deve reagir automaticamente aos efeitos iniciais dos choques, mas afirma que poderá agir com firmeza se eles se espalharem pelos preços."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Entre as casas de análise citadas pela imprensa, a Warren Investimentos espera a Selic em 13,75% até o fim de 2026 e no primeiro semestre de 2027, e a XP Investimentos tem como cenário-base a taxa nesse nível até o fim de 2027. São projeções, não garantias. A próxima reunião do Copom será em **8 e 9 de dezembro**."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: o que muda em R$ 100",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo**: suponha que a Selic fique em 13,75% por um ano e que você tenha R$ 100 em um título pós-fixado que acompanhe a taxa. O rendimento bruto seria de cerca de R$ 13,75. Com Imposto de Renda de 17,5% (prazo de 361 a 720 dias), o ganho líquido ficaria perto de **R$ 11,34**."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Se a Selic ficasse em...",
+      "Rendimento bruto de R$ 100 em 1 ano"
+     ],
+     "rows": [
+      [
+       "13,75% (nível atual)",
+       "cerca de R$ 13,75"
+      ],
+      [
+       "12,75% (cenário hipotético, 1 ponto a menos)",
+       "cerca de R$ 12,75"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Ou seja, cada ponto percentual de Selic equivale a cerca de R$ 1 por ano a cada R$ 100 aplicados. Os números são simplificados e ignoram juros compostos e mudanças ao longo do ano. Rentabilidade passada não garante resultados futuros."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Como isso afeta cada aplicação"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Pós-fixados (Tesouro Selic, CDBs e LCIs em % do CDI):** acompanham a taxa básica. Com a Selic parada, o rendimento tende a seguir parecido. Veja a lógica em [O que é o CDI](#materia-o-que-e-o-cdi-entenda-por-que-cdbs-e-lcis-pagam-um-percentual-do-cdi).",
+    "**Prefixados e IPCA+:** o preço de mercado varia com as expectativas de juros e inflação, o que pesa para quem vende antes do vencimento. Entenda em [Tesouro Direto com a Selic em 13,75%](#materia-tesouro-direto-com-selic-a-13-75-entenda-tesouro-selic-prefixado-e-ipca).",
+    "**Inflação:** o que sobra do rendimento depende dela. O IPCA de outubro foi de 0,14% e acumula 4,63% em 12 meses, como mostra [Inflação desacelera em outubro](#materia-inflacao-desacelera-em-outubro-e-selic-a-13-75-quanto-sobra-do-rendimento-da-renda-fixa)."
+   ]
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: ata do Copom",
+   "center": "Ata do Copom (10/11)",
+   "branches": [
+    {
+     "label": "Decisão",
+     "items": [
+      "Selic mantida em 13,75%",
+      "Unanimidade",
+      "Próxima reunião: 8 e 9/12"
+     ]
+    },
+    {
+     "label": "Inflação",
+     "items": [
+      "Projeção 2026: 5,6%",
+      "Projeção 2027: 4,7%",
+      "Meta: 3%"
+     ]
+    },
+    {
+     "label": "Riscos",
+     "items": [
+      "Petróleo e Oriente Médio",
+      "El Niño",
+      "Câmbio e incerteza fiscal"
+     ]
+    },
+    {
+     "label": "Na renda fixa",
+     "items": [
+      "Pós-fixados seguem a Selic",
+      "Prefixados oscilam no preço",
+      "Compare com a inflação"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes sobre a ata do Copom",
+   "items": [
+    {
+     "q": "O que é a ata do Copom?",
+     "a": "É o documento que o Banco Central publica após cada reunião do Copom, com os argumentos por trás da decisão sobre a Selic e a avaliação do cenário."
+    },
+    {
+     "q": "A ata indica corte da Selic?",
+     "a": "Não. Segundo a imprensa, o texto não dá data para queda e reforça que os juros devem ficar elevados por um período prolongado, sem sinalizar um próximo movimento."
+    },
+    {
+     "q": "Juros altos por mais tempo são bons para a renda fixa?",
+     "a": "Mantêm os rendimentos nominais elevados em títulos pós-fixados, mas o ganho real depende da inflação e do Imposto de Renda."
+    },
+    {
+     "q": "Quando é a próxima decisão do Copom?",
+     "a": "Nos dias 8 e 9 de dezembro de 2026, com decisão no segundo dia."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Continue aprendendo",
+   "text": "Entenda a base de tudo em [O que é a taxa Selic](#materia-o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes). Conteúdo educativo, sem recomendação de investimento."
+  }
+ ]
+}

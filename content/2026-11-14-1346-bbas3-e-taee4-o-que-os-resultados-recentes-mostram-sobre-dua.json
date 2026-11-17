@@ -1,0 +1,147 @@
+{
+ "slug": "bbas3-e-taee4-o-que-os-resultados-recentes-mostram-sobre-duas-pagadoras-de-dividendos",
+ "title": "BBAS3 e TAEE4: o que os resultados recentes mostram sobre duas pagadoras de dividendos",
+ "subtitle": "Balanço sólido no banco e resultados previsíveis na elétrica. Veja o que isso quer dizer e quais indicadores olhar antes de qualquer decisão.",
+ "category": "acoes",
+ "date": "2026-11-14",
+ "time": "13:46",
+ "sentiment": "Neutro",
+ "meta": "Resultados de BBAS3 e TAEE4: entenda o que mostram sobre dividendos e quais indicadores analisar, como lucro, ROE, P/L e P/VP.",
+ "focus_kw": "resultados BBAS3 TAEE4",
+ "tags": [
+  "BBAS3",
+  "TAEE4",
+  "Resultados Trimestrais",
+  "Ações",
+  "Análise Fundamentalista",
+  "Dividendos"
+ ],
+ "sources": [
+  {
+   "t": "B3 (boletins e cotações)",
+   "url": "https://www.b3.com.br",
+   "at": "13/11/2026"
+  },
+  {
+   "t": "CVM RAD (comunicados ao mercado)",
+   "url": "https://www.rad.cvm.gov.br",
+   "at": "13/11/2026"
+  },
+  {
+   "t": "Relatório de Fechamento RumoInvest",
+   "at": "13/11/2026"
+  }
+ ],
+ "source_doc": "Relatório de Fechamento RumoInvest - 13/11",
+ "source_topic": "Ações",
+ "image": "assets/covers/bbas3-e-taee4-o-que-os-resultados-recentes-mostram-s.jpg",
+ "image_alt": "Ilustração: prédio de banco, gráfico de barras crescente e lupa sobre etiqueta de preço",
+ "canva_media_id": "MAHa6IzL8PY",
+ "body": [
+  {
+   "type": "p",
+   "text": "**Dois nomes conhecidos de quem busca renda na Bolsa, o Banco do Brasil (BBAS3) e a Taesa (TAEE4), trouxeram resultados em linha com o que o mercado costuma esperar de empresas perenes.** Veja o que foi divulgado e como interpretar sem cair em atalhos."
+  },
+  {
+   "type": "h2",
+   "text": "O que foi divulgado"
+  },
+  {
+   "type": "p",
+   "text": "Segundo o relatório de 13/11, o **BBAS3** apresentou sólida performance em seu balanço, reafirmando a eficiência operacional e mantendo a política de distribuição constante de dividendos. A **TAEE4** reportou resultados operacionais robustos e previsíveis, reiterando o compromisso histórico com o pagamento de proventos. Os valores detalhados estão nos comunicados oficiais da CVM."
+  },
+  {
+   "type": "h2",
+   "text": "Banco x elétrica: por que são negócios diferentes"
+  },
+  {
+   "type": "p",
+   "text": "Um banco ganha com juros e serviços e depende de crédito, inadimplência e do ciclo econômico. Uma transmissora de energia tende a ter receitas mais previsíveis, ligadas a contratos de longo prazo. Por isso, os indicadores a olhar mudam um pouco em cada caso."
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Lucro líquido e receita:** mostram se a empresa está crescendo.",
+    "**ROE:** retorno sobre o patrimônio, importante em bancos.",
+    "**P/L e P/VP:** comparam o preço da ação com o lucro e com o valor patrimonial.",
+    "**Payout e dividend yield:** mostram quanto do lucro vira provento e qual a renda em relação ao preço."
+   ]
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: bom resultado não é sinônimo de bom preço",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Uma empresa pode ter um ótimo balanço e a ação já estar cara. Por isso, resultado e preço andam juntos na análise. Veja um passo a passo no [Raio-X do balanço do Banco do Brasil](#materia-raio-x-do-balanco-do-banco-do-brasil-bbas3-como-analisar-os-resultados-do-trimestre) e entenda por que cotação baixa não significa empresa barata em [Ações abaixo de R$ 10](#materia-acoes-abaixo-de-r-10-preco-da-cotacao-nao-e-sinonimo-de-empresa-barata)."
+    }
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "**Aviso:** este texto é educativo e não recomenda compra, venda ou manutenção de ativos. Resultados passados não garantem desempenho futuro."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: analisar uma ação",
+   "center": "Análise de ações",
+   "branches": [
+    {
+     "label": "Resultado",
+     "items": [
+      "Lucro líquido",
+      "Receita",
+      "Margem"
+     ]
+    },
+    {
+     "label": "Retorno",
+     "items": [
+      "ROE",
+      "Dividend yield",
+      "Payout"
+     ]
+    },
+    {
+     "label": "Preço",
+     "items": [
+      "P/L",
+      "P/VP",
+      "Comparar com o setor"
+     ]
+    },
+    {
+     "label": "Cuidados",
+     "items": [
+      "Diversificar",
+      "Ler os comunicados",
+      "Prazo de longo prazo"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes sobre resultados e ações",
+   "items": [
+    {
+     "q": "Onde encontro o balanço oficial de uma empresa?",
+     "a": "No sistema CVM RAD e nas páginas de relações com investidores das próprias companhias."
+    },
+    {
+     "q": "Balanço bom significa que a ação vai subir?",
+     "a": "Não. O preço depende de várias coisas, inclusive do que o mercado já esperava e do valor pago pela ação."
+    },
+    {
+     "q": "O que é ROE?",
+     "a": "É o retorno sobre o patrimônio líquido, que mostra quanto a empresa gera de lucro em relação ao capital dos acionistas."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Continue aprendendo",
+   "text": "Veja [como funcionam os dividendos](#materia-dividendos-como-funcionam-data-com-e-pagamento-e-por-que-bbas3-e-taee4-sao-observadas) e [como começar a investir com pouco dinheiro](#materia-como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes)."
+  }
+ ]
+}

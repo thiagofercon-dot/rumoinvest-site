@@ -1,0 +1,211 @@
+{
+ "slug": "boletim-focus-o-que-o-mercado-espera-para-selic-e-inflacao",
+ "title": "Boletim Focus: o que o mercado espera para Selic e inflação e o que isso muda na renda fixa",
+ "subtitle": "O Focus de 16/11 manteve a Selic de 2026 em 13,75%, subiu a projeção para 2027 e mostra inflação acima do teto da meta; entenda como ler o boletim.",
+ "category": "renda-fixa",
+ "date": "2026-11-17",
+ "time": "13:10",
+ "sentiment": "Alerta",
+ "meta": "Boletim Focus (16/11): Selic de 13,75% em 2026, 12,75% em 2027 e IPCA de 5,11% e 5,00%. Entenda o que é o Focus e o efeito na renda fixa, com exemplo de R$ 100.",
+ "focus_kw": "Boletim Focus",
+ "tags": [
+  "Boletim Focus",
+  "Taxa Selic",
+  "IPCA",
+  "Projeção da Selic",
+  "Renda Fixa",
+  "Juro Real"
+ ],
+ "sources": [
+  {
+   "t": "InfoMoney: Focus eleva projeção de inflação e Selic para 2027, mas corta IPCA em 2026",
+   "url": "https://www.infomoney.com.br/mercados/boletim-focus-projecoes-16112026/",
+   "at": "16/11/2026 08:36"
+  },
+  {
+   "t": "A Crítica de Campo Grande: Focus de 16/11 vê Selic de 13,75% no fim de 2026, PIB de 1,72% e dólar a R$ 5,40",
+   "url": "https://acritica.net/economia/focus-16-novembro-selic-13-75-pib-1-72-dolar-5-40-ipca/",
+   "at": "16/11/2026 07:46"
+  }
+ ],
+ "source_doc": "Pesquisa própria do Claude (sem relatório do Drive em 17/11 13:10)",
+ "source_topic": "Boletim Focus: expectativas para Selic e inflação",
+ "image": "assets/covers/boletim-focus-o-que-o-mercado-espera-para-selic-e-inflacao.jpg",
+ "image_alt": "Ilustração: bússola dourada ao lado de pilhas de notas de real e moedas, gráfico em degraus e a formiga Giga observando",
+ "canva_media_id": "MAHbMBzanvg",
+ "body": [
+  {
+   "type": "p",
+   "text": "Toda segunda-feira o Banco Central divulga o **Boletim Focus**, uma pesquisa que reúne as projeções de instituições financeiras para inflação, Selic, crescimento e câmbio. No de **16 de novembro**, o mercado manteve a Selic de fim de 2026 em **13,75% ao ano**, mas elevou a de 2027 para **12,75%** (antes, 12,50%). A projeção do IPCA de 2026 recuou para **5,11%**, enquanto a de 2027 subiu para **5,00%**. É uma expectativa de analistas, não uma previsão garantida."
+  },
+  {
+   "type": "h2",
+   "text": "O que o Focus mostrou nesta semana"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Indicador",
+    "Semana anterior",
+    "Focus de 16/11"
+   ],
+   "rows": [
+    [
+     "IPCA 2026",
+     "5,22%",
+     "5,11%"
+    ],
+    [
+     "IPCA 2027",
+     "4,90%",
+     "5,00%"
+    ],
+    [
+     "Selic no fim de 2026",
+     "13,75%",
+     "13,75%"
+    ],
+    [
+     "Selic no fim de 2027",
+     "12,50%",
+     "12,75%"
+    ],
+    [
+     "Dólar no fim de 2026",
+     "R$ 5,35",
+     "R$ 5,40"
+    ],
+    [
+     "PIB 2026",
+     "1,75%",
+     "1,72%"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "A meta de inflação é de 3%, com tolerância de 1,5 ponto percentual, ou seja, teto de 4,5%. As duas projeções do mercado para o IPCA (2026 e 2027) estão acima desse teto, o que ajuda a explicar por que os juros devem demorar a cair. Em linha com isso, a ata do Copom indicou juros altos por mais tempo; veja em [Ata do Copom: o que muda na renda fixa](#materia-ata-do-copom-juros-altos-por-mais-tempo-o-que-muda-na-renda-fixa)."
+  },
+  {
+   "type": "h2",
+   "text": "Como ler o Focus sem cair em armadilhas"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**É a mediana de projeções**, não a decisão do Banco Central. Quem decide a Selic é o Copom; a próxima reunião é em 8 e 9 de dezembro.",
+    "**As expectativas mudam toda semana.** Um número isolado diz pouco; a direção ao longo das semanas importa mais.",
+    "**Selic menor não significa rendimento menor hoje.** Os pós-fixados seguem a taxa vigente, hoje de 13,75%.",
+    "**Compare com a inflação.** O que sobra do rendimento é o juro real, tema de [Inflação desacelera em outubro](#materia-inflacao-desacelera-em-outubro-e-selic-a-13-75-quanto-sobra-do-rendimento-da-renda-fixa)."
+   ]
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: o que muda em R$ 100",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo**, sem Imposto de Renda e sem juros compostos: se a Selic média fosse a que o Focus projeta e você tivesse R$ 100 em um título pós-fixado que acompanhe a taxa por um ano, o rendimento bruto seria de cerca de R$ 13,75 no cenário de 2026 e de R$ 12,75 no de 2027."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Cenário ilustrativo",
+      "Rendimento bruto de R$ 100",
+      "Inflação projetada",
+      "Ganho de poder de compra"
+     ],
+     "rows": [
+      [
+       "Selic 13,75% e IPCA 5,11% (2026)",
+       "cerca de R$ 13,75",
+       "5,11%",
+       "cerca de 8,2%"
+      ],
+      [
+       "Selic 12,75% e IPCA 5,00% (2027)",
+       "cerca de R$ 12,75",
+       "5,00%",
+       "cerca de 7,4%"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Ou seja: o juro real projetado diminui um pouco de um ano para o outro, mesmo com a inflação ainda alta. São contas simplificadas com projeções que podem mudar. Rentabilidade passada não garante resultados futuros."
+    }
+   ]
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: Boletim Focus",
+   "center": "Boletim Focus",
+   "branches": [
+    {
+     "label": "O que é",
+     "items": [
+      "Pesquisa do Banco Central",
+      "Divulgada às segundas",
+      "Projeções do mercado"
+     ]
+    },
+    {
+     "label": "Números de 16/11",
+     "items": [
+      "Selic 2026: 13,75%",
+      "Selic 2027: 12,75%",
+      "IPCA 2026: 5,11%"
+     ]
+    },
+    {
+     "label": "Como ler",
+     "items": [
+      "Não é decisão do BC",
+      "Veja a tendência",
+      "Compare com a meta de 3%"
+     ]
+    },
+    {
+     "label": "Na renda fixa",
+     "items": [
+      "Pós-fixados seguem a Selic",
+      "Prefixados e IPCA+ oscilam",
+      "Olhe o juro real"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "**Para ficar de olho:** o próximo Focus (23/11) e a decisão do Copom de 8 e 9/12. A renda fixa serve de régua para outros ativos, como os FIIs MXRF11 e GARE11 e as ações pagadoras de dividendos BBAS3 e TAEE4. Conteúdo educativo, sem recomendação de investimento."
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes sobre o Boletim Focus",
+   "items": [
+    {
+     "q": "O que é o Boletim Focus?",
+     "a": "É um relatório semanal do Banco Central com a média das projeções de analistas de instituições financeiras para inflação, Selic, PIB e câmbio."
+    },
+    {
+     "q": "O Focus define a taxa Selic?",
+     "a": "Não. Ele mostra o que o mercado espera. A Selic é definida pelo Copom nas reuniões periódicas."
+    },
+    {
+     "q": "O que significa o mercado esperar Selic de 12,75% em 2027?",
+     "a": "Significa que, em média, os analistas projetam uma queda gradual da taxa, de 13,75% para 12,75%, mas a projeção pode mudar conforme a inflação e a economia."
+    },
+    {
+     "q": "Por que a inflação projetada importa para quem investe?",
+     "a": "Porque o ganho real do investimento é o rendimento descontada a inflação. Com IPCA projetado perto de 5%, parte do rendimento nominal é consumida pela alta dos preços."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Continue aprendendo",
+   "text": "Entenda a base de tudo em [O que é a taxa Selic](#materia-o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes) e veja como funciona o rendimento em [O que é o CDI](#materia-o-que-e-o-cdi-entenda-por-que-cdbs-e-lcis-pagam-um-percentual-do-cdi). Conteúdo educativo, sem recomendação de investimento."
+  }
+ ],
+ "capa": "dia"
+}
