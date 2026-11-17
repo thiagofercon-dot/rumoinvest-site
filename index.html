@@ -169,8 +169,7 @@ function home(){nav('inicio');setTitle('RumoInvest — Notícias do mercado fina
 const NEWS=ARTICLES.filter(a=>a.category!=='educacao');if(!NEWS.length){app.append(h('div',{class:'empty'},'Em breve, as primeiras notícias.'));return;}let dia=NEWS.filter(a=>a.capa==='dia').slice(0,2);if(!dia.length)dia=[NEWS[0]];const noite=NEWS.find(a=>a.capa==='noite');const top=dia[0];const shown=[...dia];if(noite)shown.push(noite);const pool=NEWS.filter(a=>!shown.includes(a));const sideL=[];if(dia[1])sideL.push([dia[1],'Capa do dia']);if(noite)sideL.push([noite,'Capa da noite']);const fill=Math.max(0,3-sideL.length);pool.slice(0,fill).forEach(a=>sideL.push([a,null]));const rest=pool;const latest=pool.slice(fill);
 const hero=h('a',{class:'hero',href:link(top)},cover(top,true),h('div',{style:'margin-top:12px'},top.capa==='dia'?h('span',{class:'rank'},'Capa do dia'):null,chip(top)),h('h1',{class:'t'},top.title),h('p',{class:'sub'},top.subtitle),metaLine(top),h('span',{class:'cta'},'Continue lendo →'));
 const side=h('div',{class:'card'},h('div',{class:'sec-title first'},'Também na capa'),sideL.map(x=>sideItem(x[0],x[1])));
-const tb=trendsBlock();if(tb){const w=h('div',{style:'margin-bottom:26px'});w.append(tb);app.append(w);}
-app.append(h('div',{class:'grid'},hero,side));
+app.append(h('div',{class:'grid'},hero,side));const tb=trendsBlock();if(tb){const w=h('div',{style:'margin:30px 0 26px'});w.append(tb);app.append(w);}
 const list=h('div',{},h('div',{class:'sec-title'},'Últimas notícias'),(latest.length?latest:rest.slice(0,0)).map(rowItem));
 if(!latest.length)list.append(h('div',{class:'meta',style:'padding:14px 0'},'Novas matérias entram no ar todos os dias, às 8h05, 13h10 e 18h15.'));
 const aside=h('div',{style:'display:grid;gap:18px;align-content:start;margin-top:30px'},gigaCard(),termometro(),eduCard(),trending());
