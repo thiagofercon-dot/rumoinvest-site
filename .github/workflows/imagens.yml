@@ -1,0 +1,46 @@
+name: Baixar imagens das matérias
+on:
+  push:
+    branches: [main]
+    paths: ["content/imagens-pendentes.json"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: imagens
+jobs:
+  baixar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Baixar imagens exportadas do Canva
+        run: |
+          python3 - <<'PY'
+          import json, os, re, urllib.request
+          from urllib.parse import urlparse
+          p = "content/imagens-pendentes.json"
+          fila = json.load(open(p, encoding="utf-8")) if os.path.exists(p) else {}
+          HOSTS = ("export-download.canva.com", "document-export.canva.com")
+          restantes = {}
+          for caminho, url in fila.items():
+              try:
+                  assert re.fullmatch(r"assets/(covers|figuras)/[a-z0-9-]+\.jpg", caminho), "nome de arquivo inválido"
+                  u = urlparse(url)
+                  assert u.scheme == "https" and u.hostname in HOSTS, "origem não permitida"
+                  data = urllib.request.urlopen(url, timeout=60).read()
+                  assert 5000 < len(data) < 10_000_000, "tamanho inesperado"
+                  assert data[:3] == b"\xff\xd8\xff", "não é JPG"
+                  os.makedirs(os.path.dirname(caminho), exist_ok=True)
+                  open(caminho, "wb").write(data)
+                  print("ok", caminho, len(data))
+              except Exception as e:
+                  print("falhou", caminho, e)
+                  restantes[caminho] = url
+          json.dump(restantes, open(p, "w", encoding="utf-8"), indent=2)
+          PY
+      - name: Salvar no repositório
+        run: |
+          git config user.name "Thiago Fernandes"
+          git config user.email "thiagofercon@gmail.com"
+          git add assets content/imagens-pendentes.json
+          git diff --cached --quiet || (git commit -m "Imagens das matérias (Canva)" && git push)
