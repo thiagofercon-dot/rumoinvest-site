@@ -1,0 +1,48 @@
+name: Publicar na Hostinger
+on:
+  push:
+    branches: [main]
+    paths: ["build_static.py", "template.html", "content/*.json", "data/**", "assets/**", ".github/workflows/publicar.yml"]
+  workflow_run:
+    workflows: ["Baixar imagens das matérias"]
+    types: [completed]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: publicar
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Instalar navegador para pré-renderizar as páginas
+        run: |
+          pip install -q playwright==1.56.0
+          playwright install --with-deps chromium >/dev/null 2>&1
+      - name: Gerar o site (uma página por matéria)
+        run: |
+          python3 build_static.py
+          echo "$(git rev-parse --short HEAD) $(date -u +%Y-%m-%dT%H:%MZ)" > site/versao.txt
+      - name: Atualizar o ramo "hostinger" (lido pela Hostinger)
+        run: |
+          git config user.name "Thiago Fernandes"
+          git config user.email "thiagofercon@gmail.com"
+          if git ls-remote --exit-code --heads origin hostinger >/dev/null; then
+            git fetch origin hostinger
+            git worktree add /tmp/pub origin/hostinger
+            (cd /tmp/pub && git checkout -B hostinger)
+          else
+            git worktree add --detach /tmp/pub
+            (cd /tmp/pub && git checkout --orphan hostinger && git rm -rfq .)
+          fi
+          find /tmp/pub -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          cp -a site/. /tmp/pub/
+          cd /tmp/pub
+          git add -A
+          git diff --cached --quiet && { echo "Nada mudou"; exit 0; }
+          git commit -qm "Site gerado a partir de $(git -C $GITHUB_WORKSPACE rev-parse --short HEAD)"
+          git push origin hostinger
