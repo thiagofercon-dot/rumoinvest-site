@@ -21,8 +21,8 @@ jobs:
           fetch-depth: 0
       - name: Instalar navegador para pré-renderizar as páginas
         run: |
-          pip install -q playwright==1.56.0
-          playwright install --with-deps chromium >/dev/null 2>&1
+          python3 -m pip install -q --break-system-packages playwright==1.56.0
+          python3 -m playwright install --with-deps chromium
       - name: Gerar o site (uma página por matéria)
         run: |
           python3 build_static.py
