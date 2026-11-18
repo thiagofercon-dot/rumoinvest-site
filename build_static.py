@@ -40,6 +40,7 @@ rep("window.addEventListener('hashchange',route);route();",
 if(g===''||g==='inicio')a.setAttribute('href','./');
 else if(g.startsWith('materia-'))a.setAttribute('href','materia/'+g.slice(8)+'/');
 else if(g.startsWith('secao-'))a.setAttribute('href','secao/'+g.slice(6)+'/');
+else if(g==='privacidade'||g==='termos')a.setAttribute('href',g+'/');
 else if(g.startsWith('busca-'))a.setAttribute('href','busca/?t='+g.slice(6));});}
 route();fixLinks();""")
 rep("const md=document.querySelector('meta[name=description]');",
@@ -62,6 +63,8 @@ open(os.path.join(out, 'assets', 'data.js'), 'w', encoding='utf-8').write(
 pages = [('', '', '/', 0)]
 for c in SECS:
     pages.append((f'secao-{c}', f'secao/{c}/', f'/secao/{c}/', 2))
+for k in ('privacidade','termos'):
+    pages.append((k, f'{k}/', f'/{k}/', 1))
 for a in arts:
     pages.append((f'materia-{a["slug"]}', f'materia/{a["slug"]}/', f'/materia/{a["slug"]}/', 2))
 
@@ -98,6 +101,7 @@ with sync_playwright() as pw:
         pg.goto(url)
         pg.wait_for_selector('#app *')
         pg.wait_for_timeout(150)
+        pg.evaluate("(()=>{const b=document.getElementById('cookiebar');if(b)b.remove();})()")
         html = pg.content()
         write(rel, '<!DOCTYPE html>\n' + re.sub(r'^<!DOCTYPE html>\s*', '', html, flags=re.I))
     br.close()
@@ -114,6 +118,8 @@ urls = [(f'{SITE}/', max(a['date'] for a in arts), '1.0')]
 for c in SECS:
     g = {'renda-variavel': ['fiis','acoes']}.get(c, [c])
     urls.append((f'{SITE}/secao/{c}/', max([a['date'] for a in arts if a['category'] in g] or [arts[-1]['date']]), '0.7'))
+for k in ('privacidade','termos'):
+    urls.append((f'{SITE}/{k}/', '2026-11-18', '0.3'))
 for a in arts:
     urls.append((f'{SITE}/materia/{a["slug"]}/', a['date'], '0.8'))
 sm = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + ''.join(
