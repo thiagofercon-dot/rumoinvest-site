@@ -9,7 +9,8 @@ SITE = 'https://rumoinvest.com'   # <- troque aqui se o domínio final for outro
 root = os.path.dirname(os.path.abspath(__file__))
 out = os.path.join(root, 'site')
 CATS = ['mercado', 'dividendos', 'fiis', 'renda-fixa', 'acoes', 'educacao']
-SECS = ['mercado', 'dividendos', 'renda-fixa', 'renda-variavel', 'educacao']
+SECS = ['mercado', 'acoes', 'fiis', 'renda-fixa', 'educacao']
+LEG = ['privacidade', 'termos', 'sobre', 'editorial', 'contato']
 
 arts = []
 for f in sorted([x for x in glob.glob(os.path.join(root, 'content', '*.json')) if 'pendentes' not in x]):
@@ -63,7 +64,7 @@ open(os.path.join(out, 'assets', 'data.js'), 'w', encoding='utf-8').write(
 pages = [('', '', '/', 0)]
 for c in SECS:
     pages.append((f'secao-{c}', f'secao/{c}/', f'/secao/{c}/', 2))
-for k in ('privacidade','termos'):
+for k in LEG:
     pages.append((k, f'{k}/', f'/{k}/', 1))
 for a in arts:
     pages.append((f'materia-{a["slug"]}', f'materia/{a["slug"]}/', f'/materia/{a["slug"]}/', 2))
@@ -116,9 +117,9 @@ open(os.path.join(out, '404.html'), 'w', encoding='utf-8').write(
     '<p>Esse endereço não existe mais ou foi digitado errado.</p><p><a href="/">Voltar para o RumoInvest</a></p></body></html>')
 urls = [(f'{SITE}/', max(a['date'] for a in arts), '1.0')]
 for c in SECS:
-    g = {'renda-variavel': ['fiis','acoes']}.get(c, [c])
+    g = {'acoes': ['acoes','dividendos']}.get(c, [c])
     urls.append((f'{SITE}/secao/{c}/', max([a['date'] for a in arts if a['category'] in g] or [arts[-1]['date']]), '0.7'))
-for k in ('privacidade','termos'):
+for k in LEG:
     urls.append((f'{SITE}/{k}/', '2026-11-18', '0.3'))
 for a in arts:
     urls.append((f'{SITE}/materia/{a["slug"]}/', a['date'], '0.8'))
