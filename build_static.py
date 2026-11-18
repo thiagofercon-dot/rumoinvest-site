@@ -32,8 +32,8 @@ def rep(old, new):
 rep('const ARTICLES = __DATA__;', 'const ARTICLES = window.__ARTS;')
 rep('<script>', '<script src="assets/data.js"></script>\n<script>')
 # 2) rota por caminho (window.__ROUTE) em vez de #hash
-rep("function route(){let hsh=(location.hash||'#inicio').slice(1);",
-    "function route(){let hsh=location.hash?location.hash.slice(1):(window.__ROUTE!==undefined&&window.__ROUTE!==''?window.__ROUTE:'inicio');")
+rep("function route(){setTimeout(gaView,0);let hsh=(location.hash||'#inicio').slice(1);",
+    "function route(){setTimeout(gaView,0);let hsh=location.hash?location.hash.slice(1):(window.__ROUTE!==undefined&&window.__ROUTE!==''?window.__ROUTE:'inicio');")
 # 3) links reais (sem #) e SEO com canonical / og:url / og:image
 rep("window.addEventListener('hashchange',route);route();",
     """function fixLinks(){document.querySelectorAll('a[href^="#"]').forEach(a=>{const g=a.getAttribute('href').slice(1);
