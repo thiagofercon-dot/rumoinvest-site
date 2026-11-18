@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://rumoinvest.com/</loc><lastmod>2026-11-17</lastmod><priority>1.0</priority></url>
-<url><loc>https://rumoinvest.com/secao/mercado/</loc><lastmod>2026-11-17</lastmod><priority>0.7</priority></url>
+<url><loc>https://rumoinvest.com/</loc><lastmod>2026-11-18</lastmod><priority>1.0</priority></url>
+<url><loc>https://rumoinvest.com/secao/mercado/</loc><lastmod>2026-11-18</lastmod><priority>0.7</priority></url>
 <url><loc>https://rumoinvest.com/secao/dividendos/</loc><lastmod>2026-11-14</lastmod><priority>0.7</priority></url>
-<url><loc>https://rumoinvest.com/secao/renda-fixa/</loc><lastmod>2026-11-17</lastmod><priority>0.7</priority></url>
+<url><loc>https://rumoinvest.com/secao/renda-fixa/</loc><lastmod>2026-11-18</lastmod><priority>0.7</priority></url>
 <url><loc>https://rumoinvest.com/secao/renda-variavel/</loc><lastmod>2026-11-14</lastmod><priority>0.7</priority></url>
-<url><loc>https://rumoinvest.com/secao/educacao/</loc><lastmod>2026-11-17</lastmod><priority>0.7</priority></url>
+<url><loc>https://rumoinvest.com/secao/educacao/</loc><lastmod>2026-11-18</lastmod><priority>0.7</priority></url>
 <url><loc>https://rumoinvest.com/privacidade/</loc><lastmod>2026-11-18</lastmod><priority>0.3</priority></url>
 <url><loc>https://rumoinvest.com/termos/</loc><lastmod>2026-11-18</lastmod><priority>0.3</priority></url>
 <url><loc>https://rumoinvest.com/materia/ibovespa-fecha-em-leve-alta-dolar-estavel-mxrf11-anuncia-r-0-10-por-cota/</loc><lastmod>2026-11-14</lastmod><priority>0.8</priority></url>
@@ -39,4 +39,9 @@
 <url><loc>https://rumoinvest.com/materia/ibovespa-cai-1-83-por-que-a-bolsa-brasileira-acompanha-nasdaq-e-nvidia/</loc><lastmod>2026-11-17</lastmod><priority>0.8</priority></url>
 <url><loc>https://rumoinvest.com/materia/boletim-focus-o-que-o-mercado-espera-para-selic-e-inflacao/</loc><lastmod>2026-11-17</lastmod><priority>0.8</priority></url>
 <url><loc>https://rumoinvest.com/materia/ibovespa-sobe-0-31-e-dolar-fecha-a-r-5-78-fechamento-de-17-11-o-que-pesou/</loc><lastmod>2026-11-17</lastmod><priority>0.8</priority></url>
+<url><loc>https://rumoinvest.com/materia/abertura-de-mercado-dolar-renova-maxima-a-r-5-78-ibovespa-segura-169-mil-pontos-e-ata-do-fed-no-radar/</loc><lastmod>2026-11-18</lastmod><priority>0.8</priority></url>
+<url><loc>https://rumoinvest.com/materia/ata-do-fed-e-balanco-da-nvidia-como-decisoes-nos-eua-chegam-ao-dolar-e-aos-juros-no-brasil/</loc><lastmod>2026-11-18</lastmod><priority>0.8</priority></url>
+<url><loc>https://rumoinvest.com/materia/cdb-a-15-61-ao-ano-lci-lca-e-cpr-como-comparar-renda-fixa-isenta-e-tributada-com-fiis/</loc><lastmod>2026-11-18</lastmod><priority>0.8</priority></url>
+<url><loc>https://rumoinvest.com/materia/pacote-fiscal-plano-moretti-entenda-a-meta-fiscal-e-por-que-a-votacao-no-senado-mexe-com-juros-e-dolar/</loc><lastmod>2026-11-18</lastmod><priority>0.8</priority></url>
+<url><loc>https://rumoinvest.com/materia/inflacao-implicita-no-tesouro-direto-chega-a-7-ao-ano-o-que-o-mercado-embute-nos-precos/</loc><lastmod>2026-11-18</lastmod><priority>0.8</priority></url>
 </urlset>
