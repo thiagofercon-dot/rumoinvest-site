@@ -1,0 +1,59 @@
+{
+ "slug": "cdb-a-15-61-ao-ano-lci-lca-e-cpr-como-comparar-renda-fixa-isenta-e-tributada-com-fiis",
+ "title": "CDB a 15,61% ao ano, LCI, LCA e CPR: como comparar renda fixa isenta e tributada (e FIIs abaixo de R$ 10)",
+ "subtitle": "Taxas altas e receio de tributação aumentam a busca por títulos isentos de IR. Aprenda a conta de equivalência e as diferenças de liquidez e risco.",
+ "category": "educacao",
+ "date": "2026-11-18",
+ "time": "08:20",
+ "sentiment": "Neutro",
+ "meta": "CDB a 15,61% ao ano ou LCI, LCA e CPR isentos? Aprenda a calcular a equivalência de IR e compare com FIIs como MXRF11 e GARE11, com exemplo em reais.",
+ "focus_kw": "CDB a 15,61% ao ano LCI LCA CPR",
+ "tags": ["CDB 15% ao ano", "LCI e LCA", "CPR", "Isenção de IR", "MXRF11", "GARE11", "Renda fixa"],
+ "sources": [
+  {"t": "InfoMoney: Isentos em queda, LCI e LCA remuneram menos e exigem atenção redobrada (levantamento Quantum Finance)", "url": "https://www.infomoney.com.br/onde-investir/lci-lca-remuneracao-menor-2026/", "at": "11/06/2026 05:00"},
+  {"t": "Estadão E-Investidor: LCI a 90% do CDI equivale a um CDB de quanto? Veja a conta", "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/lci-a-90-do-cdi-equivale-a-um-cdb-de-quanto-veja-a-conta/", "at": "18/11/2026"},
+  {"t": "Clube FII News: dividendos dos FIIs que serão distribuídos em novembro de 2026", "url": "https://www.clubefiinews.com.br/mercado/dividendos-dos-fiis-que-serao-distribuidos-em-novembro-de-2026", "at": "18/11/2026"},
+  "Receita Federal: tabela regressiva do Imposto de Renda sobre renda fixa (Lei 11.033/2004)"
+ ],
+ "source_doc": "109wsEK477zuaGIkfijPA0JLJboBaxZ2PbgClDe53fEE",
+ "source_topic": "Renda fixa a 15,61% a.a. e títulos isentos",
+ "trend": {"rank": 2, "term": "Renda fixa a 15,61% a.a. e títulos isentos", "ref": "18/11"},
+ "body": [
+  {"type": "p", "text": "Com a Selic a 13,75% ao ano, **CDBs que pagam até 15,61% ao ano** voltaram ao radar, e o receio de mudanças na tributação aumentou o interesse por **títulos isentos de Imposto de Renda**, como LCI, LCA e CPR. Mas taxa alta não quer dizer, sozinha, rendimento maior no seu bolso. Entenda a conta."},
+  {"type": "image", "src": "assets/figuras/cdb-a-15-61-ao-ano-lci-lca-e-cpr-como-co-1.jpg", "alt": "Jovem investidor brasileiro analisa gráficos financeiros no notebook, com caderno e xícara de café sobre a mesa", "caption": "Comparar investimentos exige olhar prazo, imposto e liquidez. Imagem ilustrativa."},
+  {"type": "h2", "text": "O que são LCI, LCA e CPR"},
+  {"type": "p", "text": "**LCI** (Letra de Crédito Imobiliário) e **LCA** (Letra de Crédito do Agronegócio) são títulos emitidos por bancos que, para pessoa física, são isentos de IR. A **CPR** (Cédula de Produtor Rural) é um título ligado à produção agrícola, que também aparece entre as alternativas isentas. A imprensa especializada cita que LCIs e LCAs de 12 meses pagam, em média, cerca de 88% do CDI em 2026, em levantamento da Quantum Finance. Para rever o CDI, leia [O que é o CDI](#materia-o-que-e-o-cdi-entenda-por-que-cdbs-e-lcis-pagam-um-percentual-do-cdi)."},
+  {"type": "image", "src": "assets/figuras/cdb-a-15-61-ao-ano-lci-lca-e-cpr-como-co-2.jpg", "alt": "Silos metálicos e plantações verdes ao nascer do sol, representando o agronegócio brasileiro", "caption": "Letras e cédulas do agro ajudam a financiar a produção rural. Imagem ilustrativa."},
+  {"type": "h2", "text": "A conta da equivalência"},
+  {"type": "p", "text": "O CDB paga Imposto de Renda pela tabela regressiva: **22,5%** (até 180 dias), **20%** (181 a 360 dias), **17,5%** (361 a 720 dias) e **15%** (acima de 720 dias). Para saber qual CDB equivale a uma LCI, divida o percentual do CDI da LCI por (1 menos a alíquota). Uma LCI a 90% do CDI equivale a um CDB de cerca de **116,1%** do CDI em até 180 dias, **112,5%** de 181 a 360 dias, **109,1%** de 361 a 720 dias e **105,9%** acima de 720 dias."},
+  {"type": "giga", "title": "Giga explica: R$ 1.000 em um CDB a 15,61% ao ano", "blocks": [
+   {"type": "p", "text": "Exemplo **ilustrativo e hipotético**: R$ 1.000 em um CDB prefixado a 15,61% ao ano por 365 dias rendem R$ 156,10 brutos. Como o prazo está na faixa de 361 a 720 dias, o IR é de 17,5%, ou R$ 27,32. Sobram **R$ 128,78 líquidos** (cerca de 12,88% no ano)."},
+   {"type": "p", "text": "Já uma LCI que pague a mesma taxa bruta não desconta IR. Mas taxas assim raramente aparecem em papéis isentos. O que importa é comparar a taxa **líquida**, o prazo e quem emite."}
+  ]},
+  {"type": "h2", "text": "Liquidez e risco: o que a taxa não mostra"},
+  {"type": "ul", "items": [
+   "**FGC:** o Fundo Garantidor de Crédito cobre até R$ 250 mil por CPF por instituição em produtos como CDB, LCI e LCA. Em regra, a CPR não conta com essa garantia, e o risco é do emissor.",
+   "**Liquidez:** muitos títulos só podem ser resgatados no vencimento. Veja se cabe no seu plano, junto com a [reserva de emergência](#materia-reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro).",
+   "**Prazo:** a isenção tende a ser mais vantajosa em prazos curtos; em prazos longos, o título tributado pode render mais."
+  ]},
+  {"type": "h2", "text": "E os FIIs abaixo de R$ 10?"},
+  {"type": "p", "text": "Os FIIs entram na comparação por pagarem renda mensal, em regra isenta de IR para pessoa física. **MXRF11** (R$ 8,79) distribuiu entre R$ 0,095 e R$ 0,10 por cota, e **GARE11** (R$ 8,20), entre R$ 0,080 e R$ 0,083, segundo o Clube FII News. Em um exemplo **ilustrativo**, 100 cotas de MXRF11 (R$ 879) renderiam de R$ 9,50 a R$ 10,00 por mês. A diferença: os FIIs não têm renda garantida, as cotas oscilam e não contam com o FGC. Veja o passo a passo em [MXRF11: como calcular a renda mensal de um FII](#materia-mxrf11-anuncia-r-0-10-por-cota-como-calcular-a-renda-mensal-de-um-fii-com-r-100). Os ativos citados servem de exemplo, não de indicação de compra."},
+  {"type": "mindmap", "title": "Mapa mental: renda fixa isenta ou tributada", "center": "CDB x LCI/LCA/CPR", "branches": [
+   {"label": "Tributada", "items": ["CDB até 15,61% a.a.", "IR de 22,5% a 15%"]},
+   {"label": "Isentas", "items": ["LCI e LCA", "CPR", "Sem IR para pessoa física"]},
+   {"label": "Cuidados", "items": ["FGC até R$ 250 mil", "Liquidez no vencimento", "Risco do emissor na CPR"]},
+   {"label": "Alternativa", "items": ["FIIs: MXRF11 e GARE11", "Renda mensal variável", "Cotas oscilam"]}
+  ]},
+  {"type": "callout", "text": "**Conteúdo educativo:** este texto explica conceitos e não recomenda a compra ou a venda de nenhum ativo. A rentabilidade passada não garante resultados futuros, e cada situação pede uma análise individual."},
+  {"type": "faq", "title": "Perguntas frequentes sobre CDB, LCI, LCA e CPR", "items": [
+   {"q": "LCI e LCA pagam Imposto de Renda?", "a": "Para pessoa física, não: os rendimentos são isentos de IR. O CDB, por sua vez, segue a tabela regressiva de 22,5% a 15%."},
+   {"q": "Como saber se uma LCI rende mais que um CDB?", "a": "Divida o percentual do CDI da LCI por (1 menos a alíquota do IR do CDB no mesmo prazo) e compare com o percentual do CDB."},
+   {"q": "O que é CPR?", "a": "É a Cédula de Produtor Rural, título de crédito ligado à produção agrícola. Em regra, não tem a garantia do FGC."},
+   {"q": "CDB de 15,61% ao ano é garantido?", "a": "A taxa é a contratada na aplicação, mas o título depende do emissor; o FGC cobre até R$ 250 mil por CPF por instituição. Taxas anunciadas variam por prazo e emissor."}
+  ]},
+  {"type": "cta", "title": "Quer aprofundar a comparação?", "text": "Leia [CDB, LCI e LCA: como comparar rendimento, imposto e segurança do FGC](#materia-cdb-lci-e-lca-como-comparar-rendimento-imposto-e-seguranca-do-fgc), veja [Inflação desacelera em outubro e Selic a 13,75%](#materia-inflacao-desacelera-em-outubro-e-selic-a-13-75-quanto-sobra-do-rendimento-da-renda-fixa) e rediscuta o básico em [O que é a taxa Selic](#materia-o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes)."}
+ ],
+ "image": "assets/covers/cdb-a-15-61-ao-ano-lci-lca-e-cpr-como-comparar-renda-fi.jpg",
+ "canva_media_id": "MAHbQ8-UcM0",
+ "image_alt": "Ilustração: moedas e notas de real, escudo verde de isenção, milharal, prédios e gráfico em alta"
+}

@@ -1,0 +1,56 @@
+{
+ "slug": "ata-do-fed-e-balanco-da-nvidia-como-decisoes-nos-eua-chegam-ao-dolar-e-aos-juros-no-brasil",
+ "title": "Ata do Fed e balanço da Nvidia: como o que acontece nos EUA chega ao dólar e aos juros no Brasil",
+ "subtitle": "A ata do Fed sai hoje à tarde e o balanço da Nvidia segue no radar. Entenda, em linguagem simples, por que esses eventos mexem com câmbio e bolsa por aqui.",
+ "category": "educacao",
+ "date": "2026-11-18",
+ "time": "08:20",
+ "sentiment": "Alerta",
+ "meta": "Ata do Fed e balanço da Nvidia: entenda o que é o FOMC, por que juros nos EUA afetam o dólar e a bolsa no Brasil, com exemplo em reais para iniciantes.",
+ "focus_kw": "ata do Fed",
+ "tags": ["Ata do Fed", "FOMC", "Nvidia", "Dólar", "Juros nos EUA", "Educação Financeira"],
+ "sources": [
+  {"t": "Money Times: agenda econômica, o que pode mexer com a bolsa e o dólar nesta quarta-feira", "url": "https://www.moneytimes.com.br/agenda-economica-o-que-pode-mexer-com-a-bolsa-e-o-dolar-nesta-quarta-feira-mlem-2/", "at": "18/11/2026 06:30"},
+  {"t": "TradeMap: notícias de mercado", "url": "https://trademap.com.br/noticias", "at": "18/11/2026 08:04"}
+ ],
+ "source_doc": "109wsEK477zuaGIkfijPA0JLJboBaxZ2PbgClDe53fEE",
+ "source_topic": "Ata do Fed (FOMC) e balanço da Nvidia",
+ "trend": {"rank": 3, "term": "Ata do Fed (FOMC) e balanço da Nvidia", "ref": "18/11"},
+ "body": [
+  {"type": "p", "text": "Nesta quarta-feira (18/11), a **ata do Fed** é um dos assuntos em alta. A agenda do Money Times marca a divulgação do documento para as **16h (horário de Brasília)**, e o balanço da Nvidia também segue no radar dos mercados de tecnologia e câmbio. Parece distante, mas esses dois eventos podem influenciar o dólar, a bolsa e até os juros no Brasil."},
+  {"type": "h2", "text": "O que é o Fed, o FOMC e a ata"},
+  {"type": "p", "text": "O **Fed** é o banco central dos Estados Unidos. O **FOMC** é o comitê que decide os juros do país. A **ata** é o registro do que foi discutido na reunião mais recente, divulgado algumas semanas depois. Segundo o Money Times, o mercado a analisa em busca de pistas sobre a visão do Fed sobre inflação, atividade econômica e trajetória dos juros nos EUA."},
+  {"type": "h2", "text": "Por que os juros americanos mexem com o Brasil"},
+  {"type": "p", "text": "Quando os juros nos EUA ficam altos ou podem demorar a cair, investimentos americanos tendem a ficar mais atraentes, e parte do dinheiro estrangeiro pode sair de países emergentes. Isso costuma pressionar o dólar para cima e deixar a bolsa mais cautelosa. Por isso, a ata é lida com atenção por quem acompanha o câmbio. Veja o raciocínio completo em [Dólar a R$ 5,77: por que o dólar sobe quando o mundo foge do risco](#materia-dolar-a-r-5-77-por-que-o-dolar-sobe-quando-o-mundo-foge-do-risco)."},
+  {"type": "giga", "title": "Giga explica: a conta do dólar no seu bolso", "blocks": [
+   {"type": "p", "text": "Exemplo **ilustrativo e hipotético**, usando como referência o dólar de R$ 5,782 do fechamento de 17/11: R$ 1.000 compram cerca de **US$ 172,95**. Se o dólar subir 2%, para R$ 5,90, os mesmos R$ 1.000 compram cerca de **US$ 169,56**. Foram US$ 3,39 a menos, apenas pela variação do câmbio."},
+   {"type": "p", "text": "A cotação do dia muda a toda hora e o exemplo serve só para mostrar a conta, não para prever o que vai acontecer."}
+  ]},
+  {"type": "h2", "text": "E a Nvidia nessa história?"},
+  {"type": "p", "text": "A Nvidia é uma das empresas mais ligadas à inteligência artificial, e seu balanço costuma servir de termômetro para as ações de tecnologia nos EUA. Como o mercado global anda junto, a reação das bolsas americanas pode se refletir no Ibovespa, como mostramos em [Ibovespa cai 1,83%: por que a bolsa brasileira acompanha Nasdaq e Nvidia](#materia-ibovespa-cai-1-83-por-que-a-bolsa-brasileira-acompanha-nasdaq-e-nvidia). Para ver o resultado, consulte o comunicado oficial da própria empresa e a cobertura do dia; este texto não traz números do balanço."},
+  {"type": "h2", "text": "O que observar como investidor iniciante"},
+  {"type": "ul", "items": [
+   "**Separe curto e longo prazo.** Uma ata não muda seus objetivos de vida.",
+   "**Diversifique.** Distribuir entre tipos de ativo reduz o peso de um único evento. Veja [renda fixa ou renda variável](#materia-renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona).",
+   "**Tenha reserva.** Uma [reserva de emergência](#materia-reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro) evita ter de vender ativos em dias ruins.",
+   "**Acompanhe a Selic.** Revise [O que é a taxa Selic](#materia-o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes) para entender a ligação entre juros aqui e lá fora."
+  ]},
+  {"type": "mindmap", "title": "Mapa mental: ata do Fed e Nvidia", "center": "EUA e Brasil", "branches": [
+   {"label": "Ata do Fed", "items": ["Registro da reunião do FOMC", "Divulgação às 16h", "Pistas sobre juros dos EUA"]},
+   {"label": "Nvidia", "items": ["Foco em inteligência artificial", "Termômetro de tecnologia", "Balanço no radar"]},
+   {"label": "Canais para o Brasil", "items": ["Dólar", "Bolsa (Ibovespa)", "Juros futuros"]},
+   {"label": "Como se proteger", "items": ["Diversificar", "Reserva de emergência", "Visão de longo prazo"]}
+  ]},
+  {"type": "callout", "text": "**Conteúdo educativo:** este texto explica conceitos e não recomenda a compra ou a venda de nenhum ativo. A rentabilidade passada não garante resultados futuros, e cada situação pede uma análise individual."},
+  {"type": "faq", "title": "Perguntas frequentes sobre a ata do Fed", "items": [
+   {"q": "O que é a ata do Fed?", "a": "É o documento que resume as discussões do comitê de política monetária dos EUA (FOMC) em sua reunião mais recente."},
+   {"q": "Por que a ata do Fed mexe com o dólar?", "a": "Porque ela traz pistas sobre os juros americanos, que influenciam o fluxo de dinheiro entre os países."},
+   {"q": "O balanço da Nvidia afeta o Ibovespa?", "a": "Pode afetar indiretamente, porque a reação das bolsas americanas de tecnologia costuma influenciar o humor dos investidores no mundo todo."},
+   {"q": "Preciso reagir a cada notícia do Fed?", "a": "Não. Para quem investe no longo prazo, o mais importante é manter uma estratégia alinhada a seus objetivos e à sua tolerância a riscos."}
+  ]},
+  {"type": "cta", "title": "Continue aprendendo", "text": "Leia [Dólar alto: como ele afeta preços, juros e investimentos](#materia-dolar-alto-como-ele-afeta-precos-juros-e-investimentos) e veja o [Boletim Focus](#materia-boletim-focus-o-que-o-mercado-espera-para-selic-e-inflacao) para entender o que o mercado espera para a Selic."}
+ ],
+ "image": "assets/covers/ata-do-fed-e-balanco-da-nvidia-como-decisoes-nos-eua-ch.jpg",
+ "canva_media_id": "MAHbQ_HPOlI",
+ "image_alt": "Ilustração: globo ligando EUA e Brasil, chip de inteligência artificial, ata com gráfico, moedas e notas de real"
+}

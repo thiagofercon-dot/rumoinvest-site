@@ -1,0 +1,62 @@
+{
+ "capa": "dia",
+ "slug": "abertura-de-mercado-dolar-renova-maxima-a-r-5-78-ibovespa-segura-169-mil-pontos-e-ata-do-fed-no-radar",
+ "title": "Abertura de mercado: dólar renova máxima a R$ 5,78, Ibovespa segura os 169 mil pontos e Ata do Fed está no radar",
+ "subtitle": "Depois de uma alta tímida de 0,31% na terça, a Bolsa espera a votação dos destaques do ajuste fiscal no Senado e, no fim da tarde, a ata da última reunião do Fed, o banco central dos EUA.",
+ "category": "mercado",
+ "date": "2026-11-18",
+ "time": "08:05",
+ "sentiment": "Alerta",
+ "meta": "Abertura de 18/11: Ibovespa fechou a 169.817 pts (+0,31%), dólar a R$ 5,7824 (maior fechamento desde abril de 2025); veja a agenda com Ata do Fed.",
+ "focus_kw": "abertura de mercado",
+ "tags": ["Abertura de Mercado", "Ibovespa", "Dólar Hoje", "Ajuste fiscal", "Ata do Fed", "MXRF11"],
+ "sources": [
+  {"t": "Itaú Investimentos: Fechamento da Bolsa, dólar e juros em 17/11", "url": "https://www.itau.com.br/investimentos/noticias/fechamento-bolsa-dolar-juros-17-11-26/", "at": "17/11/2026 18:17"},
+  {"t": "Money Times: Agenda econômica, o que pode mexer com a Bolsa e o dólar nesta quarta-feira", "url": "https://www.moneytimes.com.br/agenda-economica-o-que-pode-mexer-com-a-bolsa-e-o-dolar-nesta-quarta-feira-mlem-2/", "at": "18/11/2026"},
+  {"t": "Google Finance: cotações de referência (dólar à vista, Ibovespa, S&P 500)", "url": "https://www.google.com/finance", "at": "18/11/2026 07:10"}
+ ],
+ "source_doc": "Relatório de Mercado - 18/11 - 07h (Drive id 18alEjZi73E2f97SYXkKZr_2rlCEmwpCKMG4nxf9ovIk)",
+ "source_topic": "abertura",
+ "image": "assets/covers/abertura-de-mercado-dolar-renova-maxima-a-r-5-78-ibovespa-segura-169-mil.jpg",
+ "image_alt": "Ilustração: prédios de São Paulo ao amanhecer com gráfico oscilando, seta de alta do dólar, notas e moedas douradas e a formiga mascote",
+ "canva_media_id": "MAHbQ4GzOiE",
+ "body": [
+  {"type": "p", "text": "O mercado abre a quarta-feira (18) com cautela fiscal e externa. Na terça (17), o **Ibovespa**, principal índice da Bolsa brasileira, chegou a subir 1,45% pela manhã, mas perdeu força e fechou em alta de apenas **0,31%**, aos **169.817 pontos**, segundo o Itaú Investimentos. O **dólar** fechou a **R$ 5,7824** (+0,10%), a maior cotação de fechamento desde abril de 2025, e opera nesta manhã perto de **R$ 5,7878**."},
+  {"type": "image", "src": "assets/figuras/abertura-de-mercado-18-11-1.jpg", "alt": "Analista observa telas com gráficos do mercado financeiro ao amanhecer, com prédios de São Paulo ao fundo", "caption": "Os investidores acompanham fiscal, câmbio e a Ata do Fed. Imagem ilustrativa."},
+  {"type": "h2", "text": "O que está no radar antes da abertura"},
+  {"type": "ul", "items": [
+   "**Ajuste fiscal:** a votação dos destaques do projeto de lei complementar (PLP) fiscal no Senado ficou para esta quarta, à tarde.",
+   "**Exterior:** o S&P 500, índice das maiores empresas dos EUA, fechou a 7.340,53 pontos (-1,03%) na terça.",
+   "**Futuro do Ibovespa:** o contrato futuro, que indica o ânimo antes da abertura, aparece em 171.468 pontos (+0,36%) na referência da manhã.",
+   "**Juros:** a Selic está em 13,75% ao ano e a taxa DI de janeiro de 2028 aparece em 14,43%."
+  ]},
+  {"type": "h2", "text": "Agenda do dia"},
+  {"type": "p", "text": "Segundo a Money Times, o principal evento é a **ata da reunião do Fomc**, o comitê de juros do Fed (banco central americano), às 16h. Antes disso, saem a inflação ao consumidor da zona do euro e do Reino Unido, dados do setor imobiliário dos EUA e, às 14h30, o fluxo cambial semanal do Brasil."},
+  {"type": "table", "head": ["Horário", "Evento"], "rows": [
+   ["07h00", "Inflação ao consumidor (CPI) de outubro na zona do euro"],
+   ["10h30", "Construção de novas casas e licenças de construção nos EUA (outubro)"],
+   ["12h00", "Vendas pendentes de imóveis nos EUA (outubro)"],
+   ["14h30", "Fluxo cambial semanal no Brasil"],
+   ["16h00", "Ata da reunião do Fomc (Fed)"]
+  ]},
+  {"type": "h2", "text": "Radar da tese RumoInvest"},
+  {"type": "p", "text": "Entre as ações de dividendos, o **BBAS3** (Banco do Brasil) caiu 2,21% na terça e é cotado a R$ 14,62, enquanto a **TAEE4** (Taesa) fechou a R$ 13,70. A Taesa tem pagamento de R$ 0,2001 por ação em 26/11. Entre os fundos imobiliários, o **MXRF11** tem cota de referência a R$ 8,79 e o **GARE11**, a R$ 8,20. Para entender a relação entre câmbio e juros, veja [Dólar alto: como ele afeta preços, juros e investimentos](#materia-dolar-alto-como-ele-afeta-precos-juros-e-investimentos)."},
+  {"type": "giga", "title": "Giga explica: o que significa o dólar a R$ 5,78", "blocks": [
+   {"type": "p", "text": "Exemplo **ilustrativo**: para comprar US$ 100 com o dólar a R$ 5,7878, você precisaria de cerca de **R$ 578,78**, sem contar taxas e impostos. No fechamento de terça (R$ 5,7824), seriam R$ 578,24."},
+   {"type": "p", "text": "E um Ibovespa que sobe 0,31% faria R$ 100 acompanhando o índice virarem R$ 100,31. Rentabilidade passada não garante resultados futuros."}
+  ]},
+  {"type": "callout", "text": "**Para o investidor iniciante:** abertura com cautela é momento de acompanhar o noticiário, não de agir por impulso. Os números são de referência da manhã e mudam ao longo do pregão. Conteúdo educativo e informativo, sem recomendação de compra ou venda."},
+  {"type": "mindmap", "title": "Mapa mental: abertura de 18/11", "center": "Mercado na abertura", "branches": [
+   {"label": "Fechamento de terça", "items": ["Ibovespa: 169.817 pts (+0,31%)", "Dólar: R$ 5,7824 (+0,10%)"]},
+   {"label": "Brasil hoje", "items": ["Destaques do ajuste fiscal no Senado", "Fluxo cambial às 14h30"]},
+   {"label": "Exterior", "items": ["S&P 500: -1,03% na terça", "Ata do Fed às 16h"]},
+   {"label": "Juros", "items": ["Selic: 13,75% ao ano", "DI Jan/28: 14,43%"]}
+  ]},
+  {"type": "faq", "title": "Perguntas frequentes sobre a abertura", "items": [
+   {"q": "Como o Ibovespa fechou na terça-feira (17)?", "a": "Em alta de 0,31%, aos 169.817 pontos, segundo o Itaú Investimentos."},
+   {"q": "Qual foi o fechamento do dólar?", "a": "R$ 5,7824 (+0,10%), a maior cotação de fechamento desde abril de 2025, segundo o relatório do portal."},
+   {"q": "O que é a Ata do Fed?", "a": "É o resumo da última reunião de juros do banco central dos EUA. O mercado lê o documento em busca de pistas sobre os próximos passos dos juros americanos, que influenciam o dólar."}
+  ]},
+  {"type": "cta", "title": "Continue por dentro", "text": "Releia o [fechamento de ontem](#materia-ibovespa-sobe-0-31-e-dolar-fecha-a-r-5-78-fechamento-de-17-11-o-que-pesou) e entenda [o que é a taxa Selic](#materia-o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes)."}
+ ]
+}

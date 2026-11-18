@@ -1,0 +1,66 @@
+{
+ "slug": "pacote-fiscal-plano-moretti-entenda-a-meta-fiscal-e-por-que-a-votacao-no-senado-mexe-com-juros-e-dolar",
+ "title": "Pacote fiscal (Plano Moretti): entenda a meta fiscal e por que a votação no Senado mexe com juros e dólar",
+ "subtitle": "O projeto de ajuste das contas públicas é assunto em alta. Veja, sem economês, o que é resultado primário, o que o pacote propõe e como isso pode chegar ao seu bolso.",
+ "category": "educacao",
+ "date": "2026-11-18",
+ "time": "08:20",
+ "sentiment": "Alerta",
+ "meta": "Pacote fiscal (Plano Moretti): entenda meta fiscal e resultado primário e por que a votação no Senado mexe com juros, dólar e investimentos.",
+ "focus_kw": "pacote fiscal Plano Moretti",
+ "tags": ["Pacote fiscal", "Plano Moretti", "Meta fiscal", "Resultado primário", "Juros e dólar", "Educação Financeira"],
+ "sources": [
+  {"t": "Correio da Manhã: pressa por aprovação das medidas de ajuste esbarra em resistências no Senado", "url": "https://www.correiodamanha.com.br/politica/2026/11/334543-pressa-por-aprovacao-das-medidas-de-ajuste-esbarra-em-resistencias-no-senado.html", "at": "12/11/2026"},
+  {"t": "Agência Brasil (via Diário de Pernambuco): projeto quer retirar R$ 10,5 bi em subsídios ao diesel da meta fiscal", "url": "https://www.diariodepernambuco.com.br/economia/2026/11/11728925-projeto-quer-retirar-rs-105-bi-em-subsidios-ao-diesel-da-meta-fiscal.html", "at": "11/11/2026 21:38"},
+  {"t": "Folha de S.Paulo: Durigan se distancia das negociações enquanto Alckmin sai em defesa de Plano Moretti", "url": "https://www1.folha.uol.com.br/mercado/2026/11/durigan-se-distancia-das-negociacoes-enquanto-alckmin-sai-em-defesa-de-plano-moretti.shtml", "at": "18/11/2026 08:04"}
+ ],
+ "source_doc": "109wsEK477zuaGIkfijPA0JLJboBaxZ2PbgClDe53fEE",
+ "source_topic": "Impasses no Pacote Fiscal (Plano Moretti)",
+ "trend": {"rank": 1, "term": "Impasses no Pacote Fiscal (Plano Moretti)", "ref": "18/11"},
+ "body": [
+  {"type": "p", "text": "O **pacote fiscal**, que a imprensa chama de **Plano Moretti**, é um dos assuntos em alta desta quarta-feira (18/11). A votação final de medidas do ajuste das contas públicas no Senado foi adiada, e há divergências sobre como tratar gastos com a subvenção ao diesel. Mas o que isso significa para quem está começando a investir? Vamos por partes, em poucos minutos."},
+  {"type": "h2", "text": "O que é meta fiscal e resultado primário"},
+  {"type": "p", "text": "O **resultado primário** é a diferença entre o que o governo arrecada e o que gasta, sem contar os juros da dívida. A **meta fiscal** é o resultado que o governo se compromete a buscar no ano. Quando as contas ficam muito abaixo da meta, cresce a preocupação com o endividamento do país."},
+  {"type": "h2", "text": "O que o pacote propõe"},
+  {"type": "p", "text": "Segundo o Correio da Manhã (12/11), o projeto altera o arcabouço fiscal e prevê, entre outros pontos:"},
+  {"type": "ul", "items": [
+   "reduzir de 2,5% para 2% o limite de crescimento real das despesas primárias, em certas condições;",
+   "revisar benefícios tributários e limitar a compensação de créditos tributários;",
+   "permitir desvincular até 40% de determinados superávits financeiros, preservando saúde, educação e segurança.",
+   "O ganho estimado no resultado primário de 2027 fica entre **R$ 43 bilhões e R$ 54 bilhões**, e Bruno Moretti, do Planejamento, citou impacto de até R$ 60 bilhões."
+  ]},
+  {"type": "p", "text": "Há ainda o tema do diesel: o governo quer deixar de fora da verificação da meta de 2026 até **R$ 10,5 bilhões** em subsídios, segundo a Agência Brasil (11/11). Os gastos continuam existindo; muda apenas a forma de contá-los. Especialistas ouvidos na reportagem criticam a ideia por flexibilizar a regra."},
+  {"type": "h2", "text": "Por que a votação mexe com juros e dólar"},
+  {"type": "p", "text": "Quando o mercado teme que as contas públicas fiquem desequilibradas, tende a exigir juros mais altos para financiar o governo e pode ficar mais cauteloso com o real. Por isso, notícias sobre o ajuste fiscal costumam aparecer junto com oscilações nos juros futuros e no câmbio. Para rever como a Selic entra nessa história, leia [O que é a taxa Selic](#materia-o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes), e para entender o câmbio, veja [Dólar alto: como ele afeta preços, juros e investimentos](#materia-dolar-alto-como-ele-afeta-precos-juros-e-investimentos)."},
+  {"type": "giga", "title": "Giga explica: a conta do ajuste fiscal em casa", "blocks": [
+   {"type": "p", "text": "Exemplo **ilustrativo e hipotético**: uma família ganha R$ 5.000 por mês e gasta R$ 5.300 só com contas do dia a dia, sem contar as parcelas de dívidas. Fecha o mês com R$ 300 a menos e precisa se endividar. Para voltar ao equilíbrio, pode gastar menos, ganhar mais ou os dois."},
+   {"type": "p", "text": "O governo enfrenta o mesmo dilema em escala bem maior: cortar despesas, rever benefícios ou arrecadar mais. O impasse está em **como** fazer isso e em quanto tempo."}
+  ]},
+  {"type": "h2", "text": "O que acontece agora"},
+  {"type": "p", "text": "Para valer, o texto precisa de pelo menos 41 votos no Senado e 257 na Câmara, e a votação final do Orçamento de 2027 está prevista para 17 de dezembro, segundo o Correio da Manhã. Se houver mudanças na Câmara, o projeto volta ao Senado. Ou seja: o assunto deve seguir em pauta nas próximas semanas."},
+  {"type": "h2", "text": "O que observar como investidor iniciante"},
+  {"type": "ul", "items": [
+   "**Não decida por manchete.** Uma notícia do dia não define sua estratégia de longo prazo.",
+   "**Revise sua base.** Uma [reserva de emergência](#materia-reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro) bem montada ajuda a atravessar períodos de volatilidade.",
+   "**Entenda seus ativos.** Veja a diferença entre [renda fixa ou renda variável](#materia-renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona) e como cada uma reage a juros e câmbio.",
+   "**Acompanhe fontes oficiais.** O Congresso, o Ministério da Fazenda e o Banco Central divulgam as informações primárias."
+  ]},
+  {"type": "mindmap", "title": "Mapa mental: pacote fiscal", "center": "Pacote fiscal", "branches": [
+   {"label": "Conceitos", "items": ["Resultado primário", "Meta fiscal", "Arcabouço fiscal"]},
+   {"label": "Medidas", "items": ["Teto de gastos 2,5% para 2%", "Revisão de benefícios", "Desvinculação de até 40%"]},
+   {"label": "Impasse", "items": ["Votação adiada", "Subvenção ao diesel", "Quórum: 41 no Senado"]},
+   {"label": "Efeito no bolso", "items": ["Juros futuros", "Dólar", "Cautela do mercado"]}
+  ]},
+  {"type": "callout", "text": "**Conteúdo educativo:** este texto explica conceitos e não recomenda a compra ou a venda de nenhum ativo. A rentabilidade passada não garante resultados futuros, e cada situação pede uma análise individual."},
+  {"type": "faq", "title": "Perguntas frequentes sobre o pacote fiscal", "items": [
+   {"q": "O que é o Plano Moretti?", "a": "É o nome dado pela imprensa ao conjunto de medidas de ajuste fiscal apresentado ao Congresso e ligado a Bruno Moretti, do Ministério do Planejamento."},
+   {"q": "O que é resultado primário?", "a": "É a diferença entre as receitas e as despesas do governo, sem contar os juros da dívida."},
+   {"q": "Por que o ajuste fiscal afeta os juros?", "a": "Porque, quando o mercado vê risco no equilíbrio das contas públicas, tende a pedir juros maiores para financiar o governo."},
+   {"q": "O pacote já foi aprovado?", "a": "Não. Segundo a cobertura do dia, a votação final no Senado foi adiada, e o texto ainda precisa passar pela Câmara."}
+  ]},
+  {"type": "cta", "title": "Quer entender como os juros afetam seu dinheiro?", "text": "Continue pelo básico: [O que é a taxa Selic](#materia-o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes) e [Ata do Copom: juros altos por mais tempo](#materia-ata-do-copom-juros-altos-por-mais-tempo-o-que-muda-na-renda-fixa). Leia também o [Boletim Focus](#materia-boletim-focus-o-que-o-mercado-espera-para-selic-e-inflacao)."}
+ ],
+ "image": "assets/covers/pacote-fiscal-plano-moretti-entenda-a-meta-fiscal-e-por.jpg",
+ "canva_media_id": "MAHbQxDx4nY",
+ "image_alt": "Ilustração: balança com moedas e notas de real, Congresso ao fundo, gráfico em alta e caminhão de diesel"
+}

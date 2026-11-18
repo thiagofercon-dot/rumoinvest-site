@@ -1,0 +1,66 @@
+{
+ "capa": "dia",
+ "slug": "inflacao-implicita-no-tesouro-direto-chega-a-7-ao-ano-o-que-o-mercado-embute-nos-precos",
+ "title": "Inflação implícita no Tesouro Direto chega a 7% ao ano: o que o mercado embute nos preços",
+ "subtitle": "Prefixado e IPCA+ de 2032 sugerem uma inflação média de cerca de 7% ao ano; entenda a conta, o que ela mistura e o que muda no seu rendimento.",
+ "category": "renda-fixa",
+ "date": "2026-11-18",
+ "time": "13:10",
+ "sentiment": "Alerta",
+ "meta": "Inflação implícita: Prefixado 2032 a 15,28% e IPCA+ 2032 a IPCA + 7,74% indicam cerca de 7% ao ano. Entenda a conta, com exemplo ilustrativo de R$ 100.",
+ "focus_kw": "inflação implícita",
+ "tags": ["Inflação implícita", "Tesouro Direto", "Tesouro Prefixado", "Tesouro IPCA+", "Juro Real", "Renda Fixa"],
+ "sources": [
+  {"t": "InvestNews: Tesouro Direto hoje, prefixados sobem e IPCA+ cai (taxas e inflação implícita)", "url": "https://investnews.com.br/investimentos/tesouro-direto-taxas-rendimento-hoje-inflacao-implicita-18112026/", "at": "18/11/2026 11:01"},
+  {"t": "Jornal do Comércio: IPCA de outubro sobe 0,14%, revela IBGE", "url": "https://www.jornaldocomercio.com/economia/2026/11/1270245-ipca-de-outubro-sobe-014-ante-alta-de-082-em-setembro-revela-ibge.html", "at": "12/11/2026"},
+  {"t": "Brasil Indicadores: taxa Selic (meta de 13,75% e próxima reunião do Copom)", "url": "https://brasilindicadores.com.br/selic/", "at": "18/11/2026"},
+  "Relatório de Mercado RumoInvest, edição intradia de 18/11 às 12h (curva de juros DI, referência de fechamento de 17/11, B3/Itaú)"
+ ],
+ "source_doc": "1tXV_D3LUS45UoZZ9DajoYcqKOeKc4bda6TY9kJUSCTo",
+ "source_topic": "Inflação implícita nos títulos do Tesouro Direto",
+ "image": "assets/covers/inflacao-implicita-no-tesouro-direto-chega-a-7-ao.jpg",
+ "image_alt": "Ilustração: balança com notas e moedas de real de um lado e cesta de compras com alimentos do outro, gráfico em alta ao fundo e a formiga Giga observando",
+ "canva_media_id": "MAHbSPOL9BA",
+ "body": [
+  {"type": "p", "text": "Quando o Tesouro oferece um título **Prefixado** e outro **IPCA+** com o mesmo vencimento, a diferença entre as duas taxas revela a **inflação implícita**: a alta média de preços que o mercado está embutindo até aquela data. Nesta quarta-feira (18), segundo o InvestNews, o Prefixado 2032 pagava **15,28% ao ano** e o IPCA+ 2032, **IPCA + 7,74%**. A conta resulta em cerca de **7% ao ano**."},
+  {"type": "h2", "text": "Como a conta é feita"},
+  {"type": "p", "text": "Divide-se a taxa prefixada pela taxa real e subtrai-se 1: 1,1528 ÷ 1,0774 − 1 ≈ 0,070, ou 7,0%. É uma conta simples e, por isso, aproximada. O número não é uma previsão oficial do Banco Central. Ele mistura a **expectativa de inflação** com o **prêmio de risco** que os investidores pedem para carregar títulos longos, algo que, segundo a própria matéria do InvestNews, cresceu com a desconfiança em relação às contas públicas."},
+  {"type": "table", "head": ["Referência", "Valor", "Fonte"], "rows": [
+   ["Prefixado 2032", "15,28% ao ano", "InvestNews, 18/11"],
+   ["IPCA+ 2032", "IPCA + 7,74%", "InvestNews, 18/11"],
+   ["Inflação implícita (cálculo)", "cerca de 7% ao ano", "Cálculo a partir das taxas acima"],
+   ["IPCA em 12 meses (outubro)", "4,63%", "IBGE, divulgado em 12/11"],
+   ["Selic (meta)", "13,75% ao ano", "Copom, decisão de 4/11"]
+  ]},
+  {"type": "p", "text": "Repare no contraste: a inflação já medida em 12 meses é de 4,63%, mas o mercado cobra um prêmio que embute algo perto de 7% ao ano até 2032. Os juros futuros (DI) contam a mesma história de cautela: o relatório do dia registra, com referência ao fechamento de 17/11, **DI Jan/28 em 14,43%**, **Jan/29 em 14,825%** e **Jan/31 em 15,04%**, todos acima da Selic de 13,75%."},
+  {"type": "giga", "title": "Giga explica: Prefixado ou IPCA+ em R$ 100?", "blocks": [
+   {"type": "p", "text": "Exemplo **ilustrativo**, em base anual, sem Imposto de Renda e ignorando a oscilação de preço antes do vencimento. Imagine R$ 100 em cada título e três cenários de inflação média:"},
+   {"type": "table", "head": ["Inflação média no período", "Prefixado 15,28%", "IPCA+ 7,74%"], "rows": [
+    ["5% ao ano", "R$ 115,28", "cerca de R$ 113,13"],
+    ["7% ao ano", "R$ 115,28", "cerca de R$ 115,28"],
+    ["9% ao ano", "R$ 115,28", "cerca de R$ 117,44"]
+   ]},
+   {"type": "p", "text": "Ou seja: se a inflação ficar abaixo da implícita, o prefixado rende mais; se ficar acima, o IPCA+ leva vantagem. O ponto de equilíbrio é justamente a inflação implícita. São contas simplificadas, e rentabilidade passada não garante resultados futuros."}
+  ]},
+  {"type": "h2", "text": "O que olhar antes de tirar conclusões"},
+  {"type": "ul", "items": [
+   "**Prazo:** a conta vale para quem segura o título **até o vencimento**; vendendo antes, o preço de mercado pode ser maior ou menor. Veja por que em [Tesouro Direto com a Selic em 13,75%](#materia-tesouro-direto-com-selic-a-13-75-entenda-tesouro-selic-prefixado-e-ipca).",
+   "**Taxas mudam o dia todo:** os números aqui são de 18/11 pela manhã; confira os valores atuais no site do Tesouro Direto.",
+   "**Meta de inflação:** o Copom persegue 3%, e o que o mercado projeta para os próximos anos está acima disso. O Focus traz o detalhe em [Boletim Focus: o que o mercado espera](#materia-boletim-focus-o-que-o-mercado-espera-para-selic-e-inflacao)."
+  ]},
+  {"type": "mindmap", "title": "Mapa mental: inflação implícita", "center": "Inflação implícita", "branches": [
+   {"label": "Como se calcula", "items": ["Taxa do Prefixado", "Taxa real do IPCA+", "Mesmo vencimento"]},
+   {"label": "O que mistura", "items": ["Expectativa de inflação", "Prêmio de risco", "Cautela fiscal"]},
+   {"label": "Números de 18/11", "items": ["Prefixado 2032: 15,28%", "IPCA+ 2032: 7,74%", "Resultado: cerca de 7%"]},
+   {"label": "Como usar", "items": ["Compare com o IPCA esperado", "Veja o prazo até o vencimento", "Considere o Imposto de Renda"]}
+  ]},
+  {"type": "callout", "text": "**Para ficar de olho:** a decisão do Copom de 8 e 9 de dezembro e o próximo IPCA. A renda fixa serve de régua para outros ativos, como os FIIs MXRF11 e GARE11 e as ações pagadoras de dividendos BBAS3 e TAEE4. Conteúdo educativo, sem recomendação de investimento."},
+  {"type": "faq", "title": "Perguntas frequentes sobre inflação implícita", "items": [
+   {"q": "O que é inflação implícita?", "a": "É a inflação média que o mercado embute nos preços dos títulos, calculada pela diferença entre a taxa de um título prefixado e a de um título IPCA+ com o mesmo vencimento."},
+   {"q": "Inflação implícita de 7% significa que a inflação será de 7%?", "a": "Não. O número mistura expectativa de inflação com prêmio de risco e muda diariamente. Ele é um termômetro do mercado, não uma previsão."},
+   {"q": "Quando o IPCA+ rende mais que o Prefixado?", "a": "Quando a inflação média até o vencimento fica acima da inflação implícita no momento da compra."},
+   {"q": "Onde consulto as taxas atuais?", "a": "No site do Tesouro Direto, que mostra as taxas em tempo real durante o horário de funcionamento."}
+  ]},
+  {"type": "cta", "title": "Continue aprendendo", "text": "Entenda a base de tudo em [O que é a taxa Selic](#materia-o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes) e veja o que sobra do rendimento em [Inflação desacelera em outubro](#materia-inflacao-desacelera-em-outubro-e-selic-a-13-75-quanto-sobra-do-rendimento-da-renda-fixa). Conteúdo educativo, sem recomendação de investimento."}
+ ]
+}
