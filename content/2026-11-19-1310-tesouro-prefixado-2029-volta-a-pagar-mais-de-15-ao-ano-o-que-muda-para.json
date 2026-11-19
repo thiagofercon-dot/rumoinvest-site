@@ -1,0 +1,204 @@
+{
+ "capa": "dia",
+ "slug": "tesouro-prefixado-2029-volta-a-pagar-mais-de-15-ao-ano-o-que-muda-para-quem-investe",
+ "title": "Tesouro Prefixado 2029 volta a pagar mais de 15% ao ano: o que muda para quem investe",
+ "subtitle": "Pressão fiscal e juros nos EUA elevaram as taxas dos títulos prefixados; entenda a diferença entre a taxa que você trava e o preço do título antes do vencimento.",
+ "category": "renda-fixa",
+ "date": "2026-11-19",
+ "time": "13:10",
+ "sentiment": "Alerta",
+ "meta": "Tesouro Prefixado 2029 volta a pagar mais de 15% ao ano. Entenda a marcação a mercado, o Imposto de Renda e um exemplo ilustrativo de R$ 100.",
+ "focus_kw": "Tesouro Prefixado 2029",
+ "tags": [
+  "Tesouro Prefixado 2029",
+  "Tesouro Direto",
+  "Marcação a mercado",
+  "Renda Fixa",
+  "Juros futuros",
+  "Imposto de Renda renda fixa"
+ ],
+ "sources": [
+  {
+   "t": "Money Times: Tesouro Direto hoje, Prefixado 2029 volta a pagar mais de 15% ao ano com pressão fiscal e juros dos EUA",
+   "url": "https://www.moneytimes.com.br/tesouro-direto-hoje-prefixado-2029-volta-a-pagar-mais-de-15-ao-ano-com-pressao-fiscal-e-juros-dos-eua-mlim/",
+   "at": "19/11/2026 12:40"
+  },
+  {
+   "t": "InvestNews: Tesouro Direto hoje, taxas recuam e Prefixado 2029 volta a pagar menos de 15% (taxas do Tesouro Nacional de 17/11)",
+   "url": "https://investnews.com.br/investimentos/tesouro-direto-taxas-rendimento-hoje-queda-17112026/",
+   "at": "17/11/2026 09:42"
+  },
+  "Relatório de Mercado RumoInvest, edição intradia de 19/11 às 12h (juros futuros DI, manhã de 19/11)"
+ ],
+ "source_doc": "Pesquisa própria do Claude (sem relatório do Drive com seção de renda fixa em 19/11 13:10; relatório de mercado das 12h usado só para os juros futuros)",
+ "source_topic": "Tesouro Prefixado 2029 acima de 15% e marcação a mercado",
+ "image": "assets/covers/tesouro-prefixado-2029-volta-a-pagar-mais-de-15.jpg",
+ "image_alt": "Foto de mesa com notas e moedas de real ao lado de um laptop com gráfico de linha em alta",
+ "canva_media_id": "MAHbYBAf1qY",
+ "body": [
+  {
+   "type": "p",
+   "text": "O **Tesouro Prefixado 2029** voltou a pagar mais de 15% ao ano. Segundo o Money Times, na abertura desta quinta-feira (19) o título oferecia **15,07% ao ano**, acima dos 14,94% do fechamento anterior. Na terça-feira (17), segundo as taxas do Tesouro Nacional publicadas pelo InvestNews, ele pagava 14,98%, perto das máximas desde 2004, de acordo com a mesma reportagem."
+  },
+  {
+   "type": "h2",
+   "text": "O que empurrou as taxas para cima"
+  },
+  {
+   "type": "p",
+   "text": "A reportagem aponta dois fatores. No Brasil, a aprovação do pacote de ajuste fiscal no Senado, com votação na Câmara marcada para segunda-feira (23): agentes financeiros consideram as medidas insuficientes, e isso pesa nos juros futuros. No exterior, a repercussão da ata do Federal Reserve, que reforçou a possibilidade de novas altas de juros nos EUA; os Treasuries de 10 anos pagavam 5,08%. Os juros futuros (DI) brasileiros acompanharam: o relatório do dia registra o contrato de junho de 2027 em **14,040%** na manhã de 19/11."
+  },
+  {
+   "type": "table",
+   "head": [
+    "Título",
+    "Taxa em 19/11 (manhã)",
+    "Fonte"
+   ],
+   "rows": [
+    [
+     "Tesouro Prefixado 2029",
+     "15,07% ao ano",
+     "Money Times"
+    ],
+    [
+     "Tesouro Prefixado 2032",
+     "15,44% ao ano",
+     "Money Times"
+    ],
+    [
+     "Tesouro Prefixado 2037 (juros semestrais)",
+     "15,36% ao ano",
+     "Money Times"
+    ],
+    [
+     "Tesouro IPCA+ 2032",
+     "IPCA + 7,82% ao ano",
+     "Money Times"
+    ],
+    [
+     "Tesouro IPCA+ 2040",
+     "IPCA + 7,54% ao ano",
+     "Money Times"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Taxa travada não é o mesmo que preço estável"
+  },
+  {
+   "type": "p",
+   "text": "No prefixado, a taxa que você contrata na compra fica travada até o vencimento. Mas, se precisar vender **antes**, o Tesouro recompra pelo preço de mercado, e esse preço cai quando as taxas sobem. É a chamada **marcação a mercado**: quem comprou com taxa menor vê o título valer menos no papel, e quem compra hoje trava a taxa mais alta. Quem segura até o vencimento recebe o combinado."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: R$ 100 no Prefixado 2029",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo**, aproximado e sem custos: R$ 100 aplicados a 15,07% ao ano até janeiro de 2029 (cerca de 2 anos e 1 mês) cresceriam para algo perto de **R$ 134,66** brutos, antes do Imposto de Renda. Já o preço antes do vencimento oscila com as taxas:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Se a taxa de mercado for...",
+      "Valor de um título que vale R$ 1.000 no vencimento"
+     ],
+     "rows": [
+      [
+       "14,07% (1 ponto a menos)",
+       "cerca de R$ 756"
+      ],
+      [
+       "15,07% (taxa de hoje)",
+       "cerca de R$ 743"
+      ],
+      [
+       "16,07% (1 ponto a mais)",
+       "cerca de R$ 729"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Ou seja: uma alta de 1 ponto percentual nas taxas derruba o preço em cerca de 1,8% neste vencimento. Cálculo simplificado; rentabilidade passada não garante resultados futuros."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Imposto de Renda e prazo"
+  },
+  {
+   "type": "p",
+   "text": "O rendimento dos títulos do Tesouro tem Imposto de Renda regressivo sobre o ganho: **22,5%** até 180 dias, 20% de 181 a 360 dias, 17,5% de 361 a 720 dias e **15%** acima de 720 dias. Há ainda taxa de custódia da B3 (0,20% ao ano). Compare com os títulos bancários no guia [CDB, LCI e LCA](#materia-cdb-lci-e-lca-como-comparar-rendimento-imposto-e-seguranca-do-fgc), onde LCI e LCA são isentas para pessoa física."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: Prefixado 2029",
+   "center": "Tesouro Prefixado 2029",
+   "branches": [
+    {
+     "label": "O que é",
+     "items": [
+      "Taxa travada na compra",
+      "Vence em 2029"
+     ]
+    },
+    {
+     "label": "Por que a taxa subiu",
+     "items": [
+      "Pacote fiscal",
+      "Fed e juros dos EUA"
+     ]
+    },
+    {
+     "label": "Riscos",
+     "items": [
+      "Marcação a mercado",
+      "Venda antes do prazo"
+     ]
+    },
+    {
+     "label": "Custos",
+     "items": [
+      "IR regressivo",
+      "Custódia da B3"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "**Para ficar de olho:** a votação do pacote fiscal na Câmara (23/11) e a decisão do Copom de dezembro. Entender a base ajuda: veja [O que é a taxa Selic](#materia-o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes) e [Tesouro Direto com a Selic em 13,75%](#materia-tesouro-direto-com-selic-a-13-75-entenda-tesouro-selic-prefixado-e-ipca). Conteúdo educativo, sem recomendação de investimento."
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes sobre o Tesouro Prefixado",
+   "items": [
+    {
+     "q": "O que é o Tesouro Prefixado?",
+     "a": "É um título público em que a taxa de juros é definida no dia da compra e fica travada até o vencimento."
+    },
+    {
+     "q": "Posso perder dinheiro com o Prefixado?",
+     "a": "Se vender antes do vencimento com as taxas de mercado mais altas do que a que você contratou, o preço pode ser menor que o esperado. Mantido até o vencimento, a taxa contratada é recebida."
+    },
+    {
+     "q": "A taxa de 15% é líquida?",
+     "a": "Não. É a taxa bruta anual; incidem Imposto de Renda regressivo sobre o ganho e a taxa de custódia da B3."
+    },
+    {
+     "q": "Onde vejo a taxa de hoje?",
+     "a": "No site do Tesouro Direto, que atualiza as taxas durante o horário de funcionamento."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Continue aprendendo",
+   "text": "Compare as alternativas em [Renda fixa ou renda variável](#materia-renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona) e monte sua base em [Reserva de emergência](#materia-reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro). Conteúdo educativo, sem recomendação de investimento."
+  }
+ ]
+}
