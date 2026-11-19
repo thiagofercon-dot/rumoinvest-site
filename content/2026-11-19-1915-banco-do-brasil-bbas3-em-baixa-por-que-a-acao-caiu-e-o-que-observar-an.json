@@ -1,0 +1,199 @@
+{
+ "slug": "banco-do-brasil-bbas3-em-baixa-por-que-a-acao-caiu-e-o-que-observar-antes-de-decidir",
+ "title": "Banco do Brasil (BBAS3) em baixa: por que a ação caiu e o que observar antes de decidir",
+ "subtitle": "O banco é assunto em alta e a ação chegou ao menor nível desde 2023. Entenda, sem economês, o que pesou no preço e como dividendos e preço se relacionam.",
+ "category": "educacao",
+ "date": "2026-11-19",
+ "time": "19:15",
+ "sentiment": "Alerta",
+ "meta": "Banco do Brasil (BBAS3) em baixa: entenda por que a ação caiu, o que é dividend yield e o que o investidor iniciante deve observar. Conteúdo educativo.",
+ "focus_kw": "Banco do Brasil BBAS3 em baixa",
+ "tags": [
+  "Banco do Brasil",
+  "BBAS3 hoje",
+  "Por que BBAS3 cai",
+  "Dividend yield",
+  "Ações de dividendos",
+  "Educação Financeira"
+ ],
+ "sources": [
+  {
+   "t": "Investidor10: Governo avalia trocar presidente do BB (BBAS3) e ação chega ao menor nível desde 2023",
+   "url": "https://investidor10.com.br/noticias/governo-avalia-trocar-presidente-do-bb-bbas3-e-acao-chega-ao-menor-nivel-desde-2023-123933/",
+   "at": "17/11/2026 07:40"
+  },
+  {
+   "t": "B3: informações sobre ações e dividendos",
+   "url": "https://www.b3.com.br",
+   "at": "19/11/2026"
+  }
+ ],
+ "trend": {
+  "rank": 1,
+  "term": "Banco do Brasil (BBAS3)",
+  "ref": "19/11"
+ },
+ "source_doc": "Relatório de Tendências - 19/11 - 12h20 (Drive id 1pXMLMXWKIBm3TycPCmxDasFAXbl2kn5QxK6hS_l3qzA); sem relatório novo para 19:15, pesquisa complementar do Claude",
+ "source_topic": "Banco do Brasil (BBAS3) em alta e ação em baixa",
+ "image": "assets/covers/banco-do-brasil-bbas3-em-baixa-por-que-a-acao-caiu-e-o-que-obser.jpg",
+ "image_alt": "Fachada de agência bancária moderna ao fim da tarde, em foto realista",
+ "body": [
+  {
+   "type": "p",
+   "text": "O **Banco do Brasil (BBAS3)** é um dos assuntos em alta nesta quinta-feira (19/11), e o motivo é a ação: segundo o Investidor10, o papel fechou a segunda-feira (16/11) a **R$ 14,95**, o menor valor desde março de 2023. Quando uma empresa tão conhecida cai, surgem perguntas boas para quem está começando: por que o preço despenca, o que isso muda nos dividendos e o que olhar antes de qualquer decisão? Vamos por partes."
+  },
+  {
+   "type": "h2",
+   "text": "O que pesou no preço da ação"
+  },
+  {
+   "type": "p",
+   "text": "De acordo com a mesma reportagem, o balanço do terceiro trimestre de 2026 mostrou lucro de cerca de **R$ 1,3 bilhão**, queda de aproximadamente 66%. A matéria também aponta que a inadimplência no agronegócio, importante carteira do banco, está perto dos maiores níveis em 15 anos, e que a Bloomberg noticiou que o governo avalia trocar a presidente da instituição, sem decisão final tomada."
+  },
+  {
+   "type": "p",
+   "text": "Em resumo: **resultado mais fraco, risco de crédito e incerteza sobre a gestão**. O mercado tende a reduzir o preço quando enxerga lucros menores à frente, mesmo que o banco continue grande e relevante."
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/banco-do-brasil-bbas3-em-baixa-por-que-a-acao-caiu-e-o-que-obser-1.jpg",
+   "alt": "Investidor analisando gráficos no computador em escritório com vista da cidade",
+   "caption": "Acompanhar resultados e fatos relevantes ajuda a entender o preço, mas uma notícia do dia não define uma estratégia."
+  },
+  {
+   "type": "h2",
+   "text": "Preço, dividendos e dividend yield: a conta que confunde"
+  },
+  {
+   "type": "p",
+   "text": "O **dividend yield (DY)** mostra quanto a empresa distribuiu de dividendos em relação ao preço da ação. Como o preço está no denominador, quando a ação cai e o dividendo se mantém, o DY **sobe no papel**. Isso parece atraente, mas é uma armadilha comum: o dividendo vem do lucro, e se o lucro cai, o dividendo futuro pode diminuir também."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: por que um DY alto pode enganar",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo e hipotético**, com números inventados só para mostrar a lógica. Imagine uma ação que paga R$ 1,00 de dividendos por ano."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Preço da ação",
+      "Dividendo anual",
+      "Dividend yield"
+     ],
+     "rows": [
+      [
+       "R$ 20,00",
+       "R$ 1,00",
+       "5,0%"
+      ],
+      [
+       "R$ 15,00",
+       "R$ 1,00",
+       "6,7%"
+      ],
+      [
+       "R$ 15,00",
+       "R$ 0,60 (lucro menor)",
+       "4,0%"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Perceba: o preço caiu de R$ 20 para R$ 15 e o DY pareceu melhorar. Mas se o dividendo também cair para R$ 0,60, o DY real fica em 4%, menor do que antes. Por isso olhamos o lucro e a política de dividendos, não só o preço."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Segundo o Investidor10, o banco mantém a distribuição no mínimo regulamentar de 25% do lucro. Para entender datas e regras de pagamento, veja [como funcionam os dividendos](#materia-dividendos-como-funcionam-data-com-e-pagamento-e-por-que-bbas3-e-taee4-sao-observadas) e o [raio-x do balanço do Banco do Brasil](#materia-raio-x-do-balanco-do-banco-do-brasil-bbas3-como-analisar-os-resultados-do-trimestre)."
+  },
+  {
+   "type": "h2",
+   "text": "O que observar como investidor iniciante"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Lucro e tendência:** os próximos balanços mostram se a queda foi pontual ou se continua.",
+    "**Qualidade da carteira:** inadimplência alta reduz o lucro futuro do banco.",
+    "**Política de dividendos:** confira os comunicados oficiais na B3 e no site de relações com investidores.",
+    "**Seu plano e sua reserva:** antes de qualquer ação, tenha uma [reserva de emergência](#materia-reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro) e entenda a diferença entre [renda fixa e renda variável](#materia-renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona)."
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "**Conteúdo educativo:** este texto explica conceitos e não recomenda a compra ou a venda de BBAS3 ou de qualquer ativo. Rentabilidade passada não garante resultados futuros."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: Banco do Brasil em baixa",
+   "center": "BBAS3 em baixa",
+   "branches": [
+    {
+     "label": "Por que caiu",
+     "items": [
+      "Lucro menor no 3T26",
+      "Inadimplência no agro",
+      "Incerteza na gestão"
+     ]
+    },
+    {
+     "label": "Dividendos",
+     "items": [
+      "Vêm do lucro",
+      "DY sobe quando preço cai",
+      "Dividendo pode diminuir"
+     ]
+    },
+    {
+     "label": "O que observar",
+     "items": [
+      "Próximos balanços",
+      "Qualidade da carteira",
+      "Fatos relevantes"
+     ]
+    },
+    {
+     "label": "Cuidados",
+     "items": [
+      "Não decidir por manchete",
+      "Ter reserva antes",
+      "Diversificar"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes sobre BBAS3 em baixa",
+   "items": [
+    {
+     "q": "Por que as ações do Banco do Brasil caíram?",
+     "a": "Segundo o Investidor10, pesaram o lucro menor no terceiro trimestre de 2026, a inadimplência no agronegócio e a notícia de que o governo avalia trocar a presidência do banco. Nenhuma decisão final havia sido tomada."
+    },
+    {
+     "q": "Ação mais barata significa dividendo maior?",
+     "a": "Não necessariamente. O dividend yield sobe quando o preço cai, mas o valor pago depende do lucro e da política de dividendos da empresa."
+    },
+    {
+     "q": "Uma ação em queda é oportunidade?",
+     "a": "Depende dos fundamentos e do seu objetivo. Este texto não recomenda compra ou venda: o caminho é estudar os balanços e respeitar seu perfil de risco."
+    },
+    {
+     "q": "Onde acompanho os resultados oficiais?",
+     "a": "Nos comunicados e fatos relevantes publicados pela própria empresa, na B3 e na CVM."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Quer aprender a analisar um balanço?",
+   "text": "Continue com o [raio-x do balanço do Banco do Brasil](#materia-raio-x-do-balanco-do-banco-do-brasil-bbas3-como-analisar-os-resultados-do-trimestre) e com o guia [como começar a investir com pouco dinheiro](#materia-como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes)."
+  }
+ ],
+ "canva_media_id": "MAHbZoioUfI"
+}

@@ -1,0 +1,197 @@
+{
+ "slug": "ipo-da-anthropic-na-nasdaq-o-que-e-abertura-de-capital-e-o-que-sao-bdrs",
+ "title": "IPO da Anthropic na Nasdaq: o que é abertura de capital e o que são BDRs, em 5 minutos",
+ "subtitle": "A estreia da empresa na bolsa americana é assunto em alta. Entenda o que é um IPO, por que o preço do primeiro dia oscila e como o brasileiro pode acompanhar empresas de fora.",
+ "category": "educacao",
+ "date": "2026-11-19",
+ "time": "19:15",
+ "sentiment": "Neutro",
+ "meta": "IPO da Anthropic na Nasdaq: entenda o que é abertura de capital, o que são BDRs e os riscos de investir em empresas de tecnologia no exterior.",
+ "focus_kw": "IPO da Anthropic na Nasdaq",
+ "tags": [
+  "IPO da Anthropic",
+  "O que é IPO",
+  "O que são BDRs",
+  "Nasdaq",
+  "Investir no exterior",
+  "Educação Financeira"
+ ],
+ "sources": [
+  {
+   "t": "Nasdaq Newsroom: Anthropic Marks its IPO at Nasdaq",
+   "url": "https://www.nasdaq.com/newsroom/anthropic-marks-ipo-at-nasdaq",
+   "at": "19/11/2026 15:30 (EST)"
+  },
+  {
+   "t": "B3: BDRs (Brazilian Depositary Receipts)",
+   "url": "https://www.b3.com.br",
+   "at": "19/11/2026"
+  }
+ ],
+ "trend": {
+  "rank": 2,
+  "term": "Estreia da Anthropic na Nasdaq (IPO)",
+  "ref": "19/11"
+ },
+ "source_doc": "Relatório de Tendências - 19/11 - 12h20 (Drive id 1pXMLMXWKIBm3TycPCmxDasFAXbl2kn5QxK6hS_l3qzA); sem relatório novo para 19:15, pesquisa complementar do Claude",
+ "source_topic": "Estreia da Anthropic na Nasdaq (IPO)",
+ "image": "assets/covers/ipo-da-anthropic-na-nasdaq-o-que-e-abertura-de-capital-e-o-que-s.jpg",
+ "image_alt": "Corredor de data center com servidores iluminados e skyline ao fundo, em foto realista",
+ "body": [
+  {
+   "type": "p",
+   "text": "O **IPO da Anthropic na Nasdaq** é um dos assuntos em alta desta quinta-feira (19/11). Segundo o site da Nasdaq, a empresa, criadora do Claude, começou a ser negociada na bolsa americana com o código **ANT**, e o papel abriu a US$ 111,50 por ação. Mas o que é um IPO, por que esse preço de estreia chama tanta atenção e o que isso tem a ver com o investidor brasileiro? Veja em 5 minutos."
+  },
+  {
+   "type": "h2",
+   "text": "O que é um IPO (abertura de capital)"
+  },
+  {
+   "type": "p",
+   "text": "**IPO** vem do inglês *Initial Public Offering*, a oferta pública inicial de ações. É quando uma empresa que antes tinha poucos donos passa a vender pedaços de si (ações) ao público em uma bolsa de valores. Quem compra vira sócio, mesmo que de uma fatia minúscula. A empresa pode usar o dinheiro captado para crescer, e antigos sócios podem vender parte de suas ações."
+  },
+  {
+   "type": "p",
+   "text": "Existem dois preços que costumam ser confundidos: o **preço da oferta**, definido antes da estreia, e o **preço de abertura**, formado pelo mercado quando as negociações começam. Eles podem ser bem diferentes, e o preço continua mudando ao longo do dia."
+  },
+  {
+   "type": "h2",
+   "text": "Por que o primeiro dia é tão volátil"
+  },
+  {
+   "type": "p",
+   "text": "No começo, há muita curiosidade e pouca história de preços. Compradores e vendedores ainda estão descobrindo quanto a empresa vale, e por isso os preços podem oscilar bastante. Notícias sobre estreias grandes costumam atrair investidores iniciantes, e esse é justamente o momento de mais cautela."
+  },
+  {
+   "type": "h2",
+   "text": "Como o brasileiro acompanha empresas de fora: BDRs"
+  },
+  {
+   "type": "p",
+   "text": "O **BDR** (*Brazilian Depositary Receipt*) é um certificado negociado na B3 que representa ações de empresas estrangeiras. Assim, o investidor compra em reais, pela corretora brasileira, algo ligado a uma empresa de fora. Nem toda empresa estrangeira tem BDR: a disponibilidade depende de emissão e aprovação, então confira na B3 se existe um certificado para o papel que você quer acompanhar."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: o efeito do dólar nos BDRs",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo e hipotético**, com números inventados. Suponha que um ativo vale US$ 10 e o dólar está a R$ 5,00: ele equivale a R$ 50. Se o preço em dólar não muda, mas o dólar vai a R$ 6,00, o mesmo ativo passa a equivaler a R$ 60. Se o dólar cair para R$ 4,00, equivale a R$ 40."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Preço em US$",
+      "Dólar",
+      "Equivale em R$"
+     ],
+     "rows": [
+      [
+       "US$ 10",
+       "R$ 4,00",
+       "R$ 40"
+      ],
+      [
+       "US$ 10",
+       "R$ 5,00",
+       "R$ 50"
+      ],
+      [
+       "US$ 10",
+       "R$ 6,00",
+       "R$ 60"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Ou seja, o câmbio pode ajudar ou atrapalhar, além da variação do próprio preço da ação."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Cuidados e como isso conversa com a tese do portal"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Risco de empresa nova na bolsa:** poucos balanços públicos para comparar e preços instáveis no início.",
+    "**Risco cambial:** o dólar muda o valor em reais, para cima ou para baixo.",
+    "**Diversificação:** uma carteira equilibrada costuma combinar renda fixa, ações de dividendos como as discutidas em [dividendos: como funcionam](#materia-dividendos-como-funcionam-data-com-e-pagamento-e-por-que-bbas3-e-taee4-sao-observadas) e outros ativos, conforme o perfil de cada pessoa.",
+    "**Base primeiro:** antes de olhar o exterior, veja [como começar a investir com pouco dinheiro](#materia-como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes) e monte sua [reserva de emergência](#materia-reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro)."
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "**Conteúdo educativo:** este texto explica conceitos e não recomenda a compra ou a venda de ações da Anthropic, de BDRs ou de qualquer ativo. Rentabilidade passada não garante resultados futuros."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: IPO e BDRs",
+   "center": "IPO e BDRs",
+   "branches": [
+    {
+     "label": "O que é IPO",
+     "items": [
+      "Oferta pública inicial",
+      "Empresa vende ações",
+      "Preço da oferta x abertura"
+     ]
+    },
+    {
+     "label": "Primeiro dia",
+     "items": [
+      "Preço volátil",
+      "Muita curiosidade",
+      "Pouco histórico"
+     ]
+    },
+    {
+     "label": "BDRs",
+     "items": [
+      "Negociados na B3",
+      "Compra em reais",
+      "Nem toda empresa tem"
+     ]
+    },
+    {
+     "label": "Riscos",
+     "items": [
+      "Câmbio",
+      "Empresa nova",
+      "Concentração"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes sobre IPO e BDRs",
+   "items": [
+    {
+     "q": "Qual é o código da Anthropic na Nasdaq?",
+     "a": "Segundo o site da Nasdaq, a empresa negocia sob o código ANT e o papel abriu a US$ 111,50 na estreia."
+    },
+    {
+     "q": "O que é um IPO?",
+     "a": "É a oferta pública inicial de ações, quando uma empresa passa a ter ações negociadas em bolsa e abre seu capital ao público."
+    },
+    {
+     "q": "Posso investir em empresas dos EUA pela B3?",
+     "a": "Sim, por meio de BDRs, quando a empresa tem certificado emitido. Verifique a disponibilidade na B3."
+    },
+    {
+     "q": "Estreia em bolsa garante lucro?",
+     "a": "Não. O preço pode subir ou cair, inclusive no primeiro dia. Rentabilidade passada não garante resultados futuros."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Quer montar uma base sólida antes de olhar o exterior?",
+   "text": "Comece por [renda fixa ou renda variável: qual a diferença](#materia-renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona) e siga com o guia [como começar a investir com pouco dinheiro](#materia-como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes)."
+  }
+ ],
+ "canva_media_id": "MAHbZlLJkXE"
+}
