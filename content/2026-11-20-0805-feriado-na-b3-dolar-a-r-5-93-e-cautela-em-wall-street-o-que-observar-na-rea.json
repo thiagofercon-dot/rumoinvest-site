@@ -1,0 +1,153 @@
+{
+ "slug": "feriado-na-b3-dolar-a-r-5-93-e-cautela-em-wall-street-o-que-observar-na-reabertura",
+ "title": "Feriado na B3, dólar a R$ 5,93 e cautela em Wall Street: o que observar na reabertura de segunda",
+ "subtitle": "Sem pregão na bolsa brasileira nem no Tesouro Direto nesta sexta, o mercado lá fora segue nervoso: S&P 500 caiu 2,02% ontem e o Bitcoin toca mínima de quase cinco meses.",
+ "category": "mercado",
+ "date": "2026-11-20",
+ "time": "08:05",
+ "sentiment": "Alerta",
+ "meta": "Panorama 20/11: feriado na B3, dólar a R$ 5,93, futuros dos EUA em queda e Bitcoin abaixo de US$ 62 mil. Veja o que acompanhar na reabertura.",
+ "focus_kw": "mercado financeiro hoje feriado 20/11",
+ "tags": [
+  "feriado B3 20 de novembro",
+  "dólar hoje",
+  "Bitcoin hoje",
+  "dividendos novembro 2026",
+  "FIIs e renda fixa"
+ ],
+ "capa": "dia",
+ "image": "assets/covers/feriado-na-b3-dolar-a-r-5-93-e-cautela-em-wall-street-o-que-observar-na-reabertura.jpg",
+ "image_alt": "Amanhecer sobre uma cidade com telas de gráficos ao fundo, em clima de cautela no mercado",
+ "canva_media_id": "MAHbc4P_Qkk",
+ "sources": [
+  {
+   "t": "B3: funcionamento no feriado do Dia Nacional de Zumbi e da Consciência Negra",
+   "url": "https://www.b3.com.br/pt_br/noticias/confira-o-funcionamento-da-b3-no-feriado-do-dia-nacional-de-zumbi-e-da-consciencia-negra.htm",
+   "at": "20/11/2026 07:16"
+  },
+  {
+   "t": "Estadão E-Investidor: calendário econômico da semana curta",
+   "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/calendario-economico-previa-do-pib-abre-semana-curta-que-passa-por-varejo-dos-eua-e-ata-do-fed/",
+   "at": "20/11/2026 07:16"
+  },
+  {
+   "t": "XTB: calendário econômico, confiança do consumidor nos EUA e discursos do Fed",
+   "url": "https://www.xtb.com/pt/analise-de-mercado/noticias-de-mercado/calendario-economico-dados-finais-sobre-a-confianca-dos-consumidores-nos-eua-e-discursos-de-responsaveis-da-reserva-federal",
+   "at": "20/11/2026 07:16"
+  },
+  {
+   "t": "Banco Central do Brasil: histórico da taxa Selic",
+   "url": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros",
+   "at": "20/11/2026 07:16"
+  },
+  {
+   "t": "Investing.com: criptomoedas e futuros",
+   "url": "https://br.investing.com/crypto",
+   "at": "20/11/2026 07:16"
+  },
+  {
+   "t": "Google Finance: cotações",
+   "url": "https://www.google.com/finance",
+   "at": "20/11/2026 07:16"
+  }
+ ],
+ "source_doc": "1hUzxXcwIImglt5QQH_9CLFF3y-Xcq_7aPuO9nqgEZUU",
+ "source_topic": "abertura",
+ "body": [
+  {
+   "type": "p",
+   "text": "Nesta sexta-feira (20/11/2026), o **mercado financeiro hoje** tem uma particularidade: é feriado nacional do Dia de Zumbi e da Consciência Negra, e não há negociação na **B3** nem operações no **Tesouro Direto**. Já os mercados internacionais e as criptomoedas funcionam normalmente, e é de lá que vêm os sinais de cautela."
+  },
+  {
+   "type": "h2",
+   "text": "O que aconteceu lá fora"
+  },
+  {
+   "type": "p",
+   "text": "O **S&P 500**, principal índice da bolsa americana, fechou ontem a 7.175,83 pontos, queda de 2,02%. Nesta manhã, os contratos futuros do índice, que indicam a expectativa para a abertura, operam em baixa de 0,28%, perto de 7.155,60 pontos. O **VIX**, conhecido como \"índice do medo\" por medir a expectativa de oscilação das bolsas americanas, avança para 28,69 pontos. A agenda de hoje traz os dados finais da confiança do consumidor da Universidade de Michigan e discursos de dirigentes do Fed e do BCE."
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/feriado-na-b3-dolar-a-r-5-93-e-cautela-em-wall-street-o-que-observar-na-reabertura-1.jpg",
+   "alt": "Analista acompanhando telas com gráficos de mercados internacionais ao amanhecer",
+   "caption": "Com a B3 fechada, os olhos se voltam para os mercados internacionais. Imagem ilustrativa."
+  },
+  {
+   "type": "h2",
+   "text": "Dólar, Ibovespa e Bitcoin"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Indicador",
+    "Referência",
+    "Variação"
+   ],
+   "rows": [
+    [
+     "Ibovespa (fech. 19/11)",
+     "166.376,44 pontos",
+     "-0,69%"
+    ],
+    [
+     "Dólar (20/11, 07h16)",
+     "R$ 5,9367",
+     "+0,03% na madrugada, após +1,16% em 19/11"
+    ],
+    [
+     "Bitcoin (20/11, 07h16)",
+     "US$ 61.733,84 (R$ 366.322,17)",
+     "-0,29% em dólar desde 00h UTC"
+    ],
+    [
+     "Ethereum (20/11, 07h16)",
+     "US$ 1.749,57 (R$ 10.386,48)",
+     "-0,32% desde 00h UTC"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "O **Ibovespa** não opera hoje, então o número acima é o do último pregão. O dólar, que negocia no exterior, segue perto de R$ 5,94. Já o **Bitcoin** caiu para a mínima de quase cinco meses, abaixo de US$ 62 mil."
+  },
+  {
+   "type": "h2",
+   "text": "Juros e renda fixa em pausa"
+  },
+  {
+   "type": "p",
+   "text": "A **Selic** meta está em 13,75% ao ano e a taxa DI Over da B3, em 13,65%. Com o Tesouro Direto fechado, a última referência disponível é de 17/11: o **Tesouro Prefixado 2029** aparecia a 14,98% ao ano e o **Tesouro Selic 2031**, a Selic + 0,11%."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: o que vale R$ 100 em um CDB que paga 100% do CDI?",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "**Exemplo ilustrativo:** com o CDI em 13,65% ao ano, R$ 100 aplicados por 12 meses em um CDB a 100% do CDI renderiam R$ 13,65 brutos. Descontado o Imposto de Renda de 17,5%, ficam cerca de R$ 11,26. É uma conta de referência: a taxa muda com o tempo e rentabilidade passada não garante resultados futuros."
+    },
+    {
+     "type": "p",
+     "text": "Esses títulos privados contam com a proteção do FGC, de até R$ 250 mil por CPF e por instituição."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Dividendos e FIIs: a agenda da próxima semana"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Petrobras (PETR3/PETR4):** JCP de R$ 0,6741 por ação, pagamento em 23/11.",
+    "**Taesa (TAEE4):** R$ 0,2001 por ação (R$ 0,6003 por unit), pagamento em 26/11; a ação fechou a R$ 13,45 (-0,88%) em 19/11.",
+    "**Mitre Realty (MTRE3):** R$ 0,0378 por ação, pagamento em 27/11, em ação negociada abaixo de R$ 10.",
+    "**FIIs:** XPML11 e BTLG11 têm pagamentos de rendimentos em 25/11 (R$ 0,80 e R$ 0,81 por cota). O MXRF11 fechou a R$ 8,50 (-0,70%) e o GARE11, a R$ 7,91 (-0,75%) em 19/11."
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "**O que observar na segunda (23/11):** a reação da bolsa brasileira ao pregão americano de hoje, o dólar perto de R$ 5,94 e as datas-com de BMG (BMGB4) e Cambuci (CAMB3). Conteúdo informativo, sem recomendação de compra ou venda."
+  }
+ ]
+}
