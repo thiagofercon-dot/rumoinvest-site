@@ -1,0 +1,229 @@
+{
+ "capa": "noite",
+ "slug": "wall-street-despenca-3-70-bitcoin-cai-a-us-58-mil-e-dolar-fecha-a-r-5-95-fechamento-de-20-11",
+ "title": "Wall Street despenca 3,70%, Bitcoin cai a US$ 58,6 mil e dólar fecha a R$ 5,95 com a B3 parada: o que pesou em 20/11",
+ "subtitle": "Com a bolsa brasileira fechada no feriado, o S&P 500 e o VIX sinalizaram forte aversão ao risco; a B3 reabre na segunda (23) com ajuste fiscal na pauta.",
+ "category": "mercado",
+ "date": "2026-11-20",
+ "time": "19:00",
+ "sentiment": "Pessimista",
+ "meta": "Fechamento 20/11: S&P 500 cai 3,70% e Bitcoin recua a US$ 58,6 mil com a B3 fechada no feriado. Veja dólar, FIIs e dividendos da próxima semana.",
+ "focus_kw": "fechamento de mercado 20 de novembro 2026",
+ "tags": [
+  "Fechamento de mercado",
+  "S&P 500 hoje",
+  "Bitcoin hoje",
+  "Dólar hoje",
+  "Dividendos novembro 2026",
+  "FIIs MXRF11 XPML11"
+ ],
+ "sources": [
+  {
+   "t": "B3: funcionamento no feriado do Dia Nacional de Zumbi e da Consciência Negra",
+   "url": "https://www.b3.com.br/pt_br/noticias/confira-o-funcionamento-da-b3-no-feriado-do-dia-nacional-de-zumbi-e-da-consciencia-negra.htm",
+   "at": "20/11/2026"
+  },
+  {
+   "t": "Google Finance: S&P 500, dólar, Ibovespa e criptomoedas",
+   "url": "https://www.google.com/finance",
+   "at": "20/11/2026 18:35"
+  },
+  {
+   "t": "Investing.com: VIX e criptomoedas",
+   "url": "https://br.investing.com/crypto",
+   "at": "20/11/2026 18:35"
+  },
+  {
+   "t": "BitNotícias: IBIT perde US$ 541 milhões com queda do Bitcoin",
+   "url": "https://bitnoticias.com.br/mercado/ibit-perde-541-milhoes-queda-bitcoin/",
+   "at": "20/11/2026"
+  },
+  {
+   "t": "G1 Economia",
+   "url": "https://g1.globo.com/economia/",
+   "at": "20/11/2026"
+  },
+  {
+   "t": "Banco Central do Brasil: histórico das taxas de juros",
+   "url": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros",
+   "at": "20/11/2026"
+  },
+  {
+   "t": "XP Investimentos: calendário de dividendos de novembro de 2026",
+   "url": "https://conteudos.xpi.com.br/acoes/relatorios/acoes-confira-o-calendario-de-dividendos-de-novembro-de-2026/",
+   "at": "20/11/2026"
+  },
+  {
+   "t": "Status Invest: proventos",
+   "url": "https://statusinvest.com.br/acoes/proventos",
+   "at": "20/11/2026"
+  }
+ ],
+ "source_doc": "Relatório de Mercado - 20/11 - 18h (Drive id 1ZQaOA_5zpxfzjHt2cGw_IPtUZx7um9o7a_7pmSmIIzM)",
+ "source_topic": "fechamento",
+ "image": "assets/covers/wall-street-despenca-3-70-bitcoin-cai-a-us-58-mil-e-dolar-fecha-a-r-5-95-fechamento-de-20-11.jpg",
+ "image_alt": "Foto noturna de metrópole com arranha-céus iluminados e telas de bolsa em vermelho",
+ "canva_media_id": "MAHbfvOPKxk",
+ "body": [
+  {
+   "type": "p",
+   "text": "A **sexta-feira (20)** teve a **B3 fechada** pelo feriado nacional do Dia de Zumbi e da Consciência Negra, mas o mundo seguiu operando, e o recado foi de **forte aversão ao risco**. Em Nova York, o **S&P 500** despencou **3,70%**, para **6.910,39 pontos**, e o índice de volatilidade **VIX**, conhecido como \"termômetro do medo\", saltou **30,34%**, a **37,07 pontos**, segundo Google Finance e Investing.com. O **dólar** terminou a **R$ 5,9491** e o **Bitcoin** caiu a **US$ 58.609,56**."
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/wall-street-despenca-3-70-bitcoin-cai-a-us-58-mil-e-dolar-fecha-a-r-5-95-fechamento-de-20-11-1.jpg",
+   "alt": "Operador diante de telas com gráficos financeiros em escritório de São Paulo ao entardecer",
+   "caption": "Mesa de operações em São Paulo ao fim do dia. Imagem ilustrativa."
+  },
+  {
+   "type": "h2",
+   "text": "Os números do dia"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Indicador",
+    "Cotação",
+    "Variação"
+   ],
+   "rows": [
+    [
+     "Ibovespa",
+     "166.376,44 pontos",
+     "Sem pregão (último fechamento, 19/11: -0,69%)"
+    ],
+    [
+     "Dólar (USD/BRL)",
+     "R$ 5,9491",
+     "+0,24% sobre a abertura em UTC"
+    ],
+    [
+     "S&P 500 (EUA)",
+     "6.910,39 pontos",
+     "-3,70% (-265,44 pontos)"
+    ],
+    [
+     "VIX (volatilidade)",
+     "37,07 pontos",
+     "+30,34%"
+    ],
+    [
+     "Bitcoin (BTC)",
+     "US$ 58.609,56 (R$ 348.674,13)",
+     "-5,98% em 24h"
+    ],
+    [
+     "Ethereum (ETH)",
+     "US$ 1.607,19 (R$ 9.561,34)",
+     "-9,05% em 24h"
+    ],
+    [
+     "Selic meta / DI Over",
+     "13,75% / 13,65% ao ano",
+     "Estável"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Nos Estados Unidos, o dia foi pressionado pelo **impasse fiscal**, pelos temores de que os juros sigam altos por mais tempo e pela **forte saída de recursos de ETFs de Bitcoin**, com destaque para o resgate no **IBIT**, segundo G1 Economia e BitNotícias. Em Brasília, nada de pregão: bancos, Tesouro Direto e DI futuro também ficaram parados."
+  },
+  {
+   "type": "h2",
+   "text": "Criptomoedas: Bitcoin e Ethereum sofrem"
+  },
+  {
+   "type": "p",
+   "text": "O **Bitcoin** recuou cerca de **6%** em 24 horas, a **US$ 58.609,56**, e o **Ethereum** caiu mais de **9%**, a **US$ 1.607,19**. O **BNB** perdeu **8,39%** no período. As moedas atreladas ao dólar, **USDT** e **USDC**, ficaram praticamente estáveis, como esperado. Como o mercado cripto funciona **24 horas por dia, inclusive no fim de semana**, as oscilações podem continuar mesmo com as bolsas fechadas."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: por que o \"termômetro do medo\" importa",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "O **VIX** mede o quanto o mercado espera que as bolsas americanas oscilem. Quando ele dispara, investidores costumam vender ativos considerados mais arriscados, como ações e criptomoedas, e buscar proteção. Isso tende a **encarecer o dólar** e a afetar a bolsa brasileira quando ela reabre."
+    },
+    {
+     "type": "p",
+     "text": "**Exemplo ilustrativo (não é previsão):** se R$ 100 estivessem em um ativo que caiu 6% em um dia, o valor passaria a R$ 94. Para voltar aos R$ 100, o ativo precisaria subir cerca de 6,4% (R$ 6 divididos por R$ 94). Por isso a **diversificação** e a **reserva de emergência** em renda fixa são tão importantes. Veja o [guia para investir com pouco dinheiro](#como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes)."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Dividendos e FIIs: o que vem na próxima semana"
+  },
+  {
+   "type": "p",
+   "text": "Não houve novos anúncios de proventos nesta sexta. Pelo calendário da XP Investimentos, a **Petrobras (PETR3 e PETR4)** paga JCP de **R$ 0,6741 por ação** em **23/11**; a **Taesa (TAEE4)** paga **R$ 0,2001 por ação** em **26/11** (data-com em 14/08); e a **Mitre Realty (MTRE3)**, ação abaixo de R$ 10, paga **R$ 0,0378 por ação** em **27/11**. Em **30/11**, há pagamentos de **MDIA3**, **SAUD3** e **RAIL3**. O **Banco do Brasil (BBAS3)** fechou em **R$ 14,30** em 19/11, sem data-com nem pagamento previsto em novembro."
+  },
+  {
+   "type": "p",
+   "text": "Quem quiser receber um provento precisa ter o papel na carteira até a **data-com**. Na reabertura, em **23/11**, **BMGB4** (JCP de R$ 0,10) e **CAMB3** (R$ 0,10) têm data-com; **ISAE4** (JCP de R$ 0,188959) tem em **25/11**. Quem compra depois dessa data não recebe aquele valor."
+  },
+  {
+   "type": "table",
+   "head": [
+    "FII",
+    "Último fechamento (19/11)",
+    "Rendimento por cota",
+    "Pagamento"
+   ],
+   "rows": [
+    [
+     "MXRF11",
+     "R$ 8,50",
+     "R$ 0,095 a R$ 0,10",
+     "16/11"
+    ],
+    [
+     "GARE11",
+     "R$ 7,91",
+     "R$ 0,080 a R$ 0,083",
+     "09/11"
+    ],
+    [
+     "HGLG11",
+     "R$ 141,80",
+     "R$ 1,17",
+     "16/11"
+    ],
+    [
+     "XPML11",
+     "R$ 81,99",
+     "R$ 0,80",
+     "25/11"
+    ],
+    [
+     "BTLG11",
+     "R$ 94,80",
+     "R$ 0,81",
+     "25/11"
+    ],
+    [
+     "KNRI11",
+     "R$ 143,11",
+     "R$ 1,10",
+     "16/11"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Exemplo ilustrativo:** com R$ 100, dá para comprar 11 cotas de **MXRF11** a R$ 8,50 (R$ 93,50) e receber, a cada rendimento de cerca de R$ 0,10 por cota, perto de R$ 1,10. Rendimentos variam todo mês e **não são garantidos**; rentabilidade passada não garante resultados futuros."
+  },
+  {
+   "type": "h2",
+   "text": "O que observar na segunda-feira (23/11)"
+  },
+  {
+   "type": "p",
+   "text": "A B3 reabre na **segunda-feira (23/11)** com o foco doméstico na **votação do ajuste fiscal na Câmara dos Deputados**, e com os investidores digerindo a queda de Wall Street. No sábado, só o mercado de criptomoedas opera. Para entender o cenário de juros e dólar, leia também o [fechamento de 19/11](#dolar-sobe-pela-6a-sessao-a-r-5-93-ibovespa-cai-0-69-fechamento-de-19-11) e a matéria sobre o [risco de paralisação do governo dos EUA](#paralisacao-do-governo-dos-eua-shutdown-o-que-e-e-como-pode-afetar-dolar-e-bolsa)."
+  },
+  {
+   "type": "callout",
+   "text": "Conteúdo informativo e educativo. Os números são de 20/11/2026 (EUA e criptomoedas, às 18h35) e de 19/11 (B3); os exemplos em reais são ilustrativos. Nada aqui é recomendação de compra, venda ou alocação."
+  }
+ ]
+}
