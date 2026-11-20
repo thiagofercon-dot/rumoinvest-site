@@ -1,0 +1,196 @@
+{
+ "slug": "bitcoin-em-queda-o-que-e-etf-de-bitcoin-e-como-equilibrar-risco-na-carteira",
+ "title": "Bitcoin em queda: o que é um ETF de bitcoin e como equilibrar o risco da carteira",
+ "subtitle": "Saída recorde do ETF da BlackRock e o preço perto de US$ 60 mil colocaram o bitcoin entre os assuntos em alta. Entenda o que está acontecendo e por que investidores iniciantes olham para a diversificação.",
+ "category": "educacao",
+ "date": "2026-11-20",
+ "time": "13:25",
+ "sentiment": "Alerta",
+ "meta": "Queda do Bitcoin e saída recorde de ETF: entenda o que é um ETF de bitcoin, a volatilidade e como equilibrar o risco da carteira com renda fixa e FIIs.",
+ "focus_kw": "queda do Bitcoin como proteger a carteira",
+ "tags": [
+  "Bitcoin hoje",
+  "Queda criptomoedas",
+  "O que é ETF de bitcoin",
+  "Diversificação de carteira",
+  "Renda fixa 2026"
+ ],
+ "sources": [
+  {
+   "t": "Livecoins: ETF da BlackRock registra a sua maior venda da história e adiciona pressão ao Bitcoin",
+   "url": "https://livecoins.com.br/etf-da-blackrock-registra-a-sua-maior-venda-da-historia-e-adiciona-pressao-ao-bitcoin/",
+   "at": "20/11/2026 12:45"
+  },
+  {
+   "t": "Banco Central do Brasil: Selic",
+   "url": "https://www.bcb.gov.br/controleinflacao/taxaselic",
+   "at": "20/11/2026"
+  }
+ ],
+ "trend": {
+  "rank": 1,
+  "term": "Queda do Bitcoin e saída recorde do ETF da BlackRock (IBIT)",
+  "ref": "20/11"
+ },
+ "source_doc": "Relatório de Tendências - 20/11 - 12h20 (Drive id 1VWLNnSEmxyq0BZ9oks5OfbMvHuXez_RKEdIOAUgGHLQ)",
+ "source_topic": "Queda do Bitcoin e saída recorde do ETF da BlackRock (IBIT)",
+ "image": "assets/covers/bitcoin-em-queda-etf-capa.jpg",
+ "image_alt": "Investidor em casa analisando gráfico em queda no notebook com caderno de anotações",
+ "canva_media_id": "MAHbeNNsfgg",
+ "body": [
+  {
+   "type": "p",
+   "text": "A **queda do Bitcoin** é um dos assuntos em alta desta sexta-feira (20/11). Segundo o site Livecoins, o ETF de bitcoin da BlackRock (IBIT) teve saída de US$ 541 milhões na quinta-feira (19), a maior venda diária desde o lançamento do fundo, em janeiro de 2024, e o bitcoin passou perto de US$ 60 mil, o menor preço em 141 dias. Mas o que é um ETF de bitcoin e o que um investidor iniciante pode aprender com esse movimento? Veja em poucos minutos."
+  },
+  {
+   "type": "h2",
+   "text": "O que é um ETF de bitcoin"
+  },
+  {
+   "type": "p",
+   "text": "Um **ETF** (*Exchange Traded Fund*) é um fundo negociado em bolsa, como se fosse uma ação. O ETF de bitcoin permite ter exposição ao preço da moeda sem comprar e guardar o bitcoin diretamente. Quando muitos investidores resgatam suas cotas ao mesmo tempo, o fundo registra uma **saída** (resgates líquidos). É um termômetro de humor do mercado, mas não diz, sozinho, para onde o preço vai."
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/bitcoin-em-queda-etf-e-carteira-1.jpg",
+   "alt": "Investidor brasileiro anotando em um caderno ao lado de um notebook com gráficos de criptomoedas",
+   "caption": "Ilustração: acompanhar o mercado com calma e anotar o próprio plano ajuda a decidir com menos emoção."
+  },
+  {
+   "type": "h2",
+   "text": "O que aconteceu nesta semana"
+  },
+  {
+   "type": "p",
+   "text": "De acordo com a mesma reportagem, o bitcoin caía 4,7% em 24 horas, perto de US$ 60 mil, e acumulava perda de 31,2% em relação ao topo de setembro. Os ETFs de bitcoin somavam saídas de US$ 3,47 bilhões em novembro. Esses números mostram o quanto um ativo de **alta volatilidade** pode oscilar em poucas semanas."
+  },
+  {
+   "type": "h2",
+   "text": "Volatilidade: por que importa para quem está começando"
+  },
+  {
+   "type": "p",
+   "text": "**Volatilidade** é o tamanho das oscilações de preço. Quanto maior, mais o valor investido pode subir ou cair em pouco tempo, e maior a chance de decisões por impulso, como vender no pior momento. Por isso, a pergunta útil não é 'o bitcoin vai subir ou cair?', e sim 'quanto de oscilação eu aguento sem perder o sono?'. Veja também o guia [Renda fixa ou renda variável](#renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona)."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: o efeito da queda em reais (exemplo ilustrativo)",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Imagine, de forma **ilustrativa**, que você tenha R$ 1.000 e coloque R$ 100 em um ativo muito volátil, deixando R$ 900 em renda fixa. Se o ativo volátil perdesse 31% (como a queda do bitcoin desde o topo de setembro), a perda seria de R$ 31 no total, ou 3,1% do seu patrimônio. Se você tivesse colocado os R$ 1.000 inteiros nele, a perda seria de R$ 310. **O tamanho da fatia importa mais do que a manchete.**"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Cenário ilustrativo",
+      "Fatia no ativo volátil",
+      "Perda com queda de 31%"
+     ],
+     "rows": [
+      [
+       "Cautelosa",
+       "R$ 100 de R$ 1.000",
+       "R$ 31"
+      ],
+      [
+       "Concentrada",
+       "R$ 1.000 de R$ 1.000",
+       "R$ 310"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Onde entram renda fixa e FIIs na conversa"
+  },
+  {
+   "type": "p",
+   "text": "Diversificar é não depender de um só tipo de ativo. A renda fixa, como o Tesouro Selic ou CDBs com cobertura do FGC, costuma oscilar menos e serve de base para a reserva de emergência (veja o guia sobre [reserva de emergência](#reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro) e o que é a [taxa Selic](#o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes)). Já os fundos imobiliários, como **MXRF11** e **HGLG11**, distribuem rendimentos periódicos, mas também variam de preço e não têm garantia de renda. Nenhuma dessas classes é recomendação de compra: são exemplos de como o risco pode ser repartido."
+  },
+  {
+   "type": "h2",
+   "text": "Erros comuns diante de uma queda forte"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Vender por pânico** sem ter um plano definido antes.",
+    "**Concentrar tudo** em um único ativo porque 'está barato' ou 'está subindo'.",
+    "**Usar dinheiro da reserva de emergência** em ativos voláteis.",
+    "**Seguir manchetes** como se fossem recomendação: saída de ETF é um dado, não uma previsão."
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "Conteúdo educativo, sem recomendação de compra ou venda. Rentabilidade passada não garante resultados futuros, e criptomoedas podem gerar perdas relevantes."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: queda do Bitcoin e diversificação",
+   "center": "Queda do Bitcoin",
+   "branches": [
+    {
+     "label": "O que houve",
+     "items": [
+      "Saída de US$ 541 milhões no IBIT",
+      "Preço perto de US$ 60 mil"
+     ]
+    },
+    {
+     "label": "Conceitos",
+     "items": [
+      "ETF de bitcoin",
+      "Volatilidade",
+      "Resgate líquido"
+     ]
+    },
+    {
+     "label": "Gestão de risco",
+     "items": [
+      "Tamanho da fatia",
+      "Plano antes da queda",
+      "Não usar a reserva"
+     ]
+    },
+    {
+     "label": "Base da carteira",
+     "items": [
+      "Renda fixa e Selic",
+      "FIIs com rendimentos",
+      "Diversificação"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes",
+   "items": [
+    {
+     "q": "O que é um ETF de bitcoin?",
+     "a": "É um fundo negociado em bolsa que dá exposição ao preço do bitcoin sem exigir que o investidor compre e guarde a moeda diretamente."
+    },
+    {
+     "q": "Saída recorde de um ETF significa que o preço vai cair mais?",
+     "a": "Não necessariamente. É um indicador de humor do mercado naquele dia, mas não prevê o preço futuro."
+    },
+    {
+     "q": "Posso usar minha reserva de emergência em criptomoedas?",
+     "a": "Não é o indicado. A reserva deve ficar em ativos de baixa oscilação e liquidez, justamente para imprevistos."
+    },
+    {
+     "q": "Diversificar elimina o risco?",
+     "a": "Não. Diversificar ajuda a reduzir a dependência de um único ativo, mas todo investimento envolve risco de perdas."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Quer montar a base antes de pensar em risco?",
+   "text": "Comece pelo guia [Como começar a investir com pouco dinheiro](#como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes) e entenda a [reserva de emergência](#reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro)."
+  }
+ ]
+}
