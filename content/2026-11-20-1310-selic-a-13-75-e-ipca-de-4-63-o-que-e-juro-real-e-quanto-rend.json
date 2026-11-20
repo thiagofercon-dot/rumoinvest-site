@@ -1,0 +1,203 @@
+{
+ "capa": "dia",
+ "slug": "selic-a-13-75-e-ipca-de-4-63-o-que-e-juro-real-e-quanto-rende-r-100-no-cdb",
+ "title": "Selic a 13,75% e inflação de 4,63%: o que é juro real e quanto rende R$ 100 no CDB",
+ "subtitle": "Com o Copom mantendo a Selic e o IPCA em desaceleração, entenda por que o que sobra depois da inflação importa mais do que a taxa anunciada.",
+ "category": "renda-fixa",
+ "date": "2026-11-20",
+ "time": "13:10",
+ "sentiment": "Neutro",
+ "meta": "Selic em 13,75% e IPCA em 4,63% em 12 meses: entenda o juro real e veja um exemplo ilustrativo de R$ 100 em CDB a 100% do CDI, com IR.",
+ "focus_kw": "juro real Selic",
+ "tags": [
+  "Selic 13,75%",
+  "Juro real",
+  "CDB 100% do CDI",
+  "IPCA outubro",
+  "Renda Fixa",
+  "Copom"
+ ],
+ "sources": [
+  {
+   "t": "Agência Gov/IBGE: Inflação desacelera e fica em 0,14% em outubro",
+   "url": "https://agenciagov.ebc.com.br/noticias/202611/inflacao-desacelera-e-fica-em-0-14-em-outubro",
+   "at": "12/11/2026 09:44"
+  },
+  {
+   "t": "ISTOÉ: Copom mantém Selic em 13,75% (reunião de 4/11)",
+   "url": "https://istoe.com.br/copom-mantem-selic-1375-novembro-2026",
+   "at": "10/11/2026 09:38"
+  },
+  {
+   "t": "Diario de Pernambuco: Ata do Copom reforça cenário de juros altos por mais tempo",
+   "url": "https://www.diariodepernambuco.com.br/economia/2026/11/11728775-ata-do-copom-reforca-cenario-de-juros-altos-por-mais-tempo.html",
+   "at": "10/11/2026 11:43"
+  },
+  {
+   "t": "Banco Central: Ata do Copom nº 282",
+   "url": "https://www.bcb.gov.br/content/copom/atascopom/Copom282-not20261104282.pdf",
+   "at": "04/11/2026"
+  },
+  "Relatório de Mercado RumoInvest de 20/11, 12h (Taxa DI Over de 13,65% a.a. e feriado nacional na B3 e no Tesouro Direto)"
+ ],
+ "source_doc": "1pKTYvCYSPDYA6OirTDWn0zJl78_9Gs5SlqcYXsjyYdc (Relatório de Mercado - 20/11 - 12h, usado só para a taxa DI e o contexto do feriado) + pesquisa web",
+ "source_topic": "Juro real: Selic aplicada, IPCA e CDB a 100% do CDI",
+ "image": "assets/covers/selic-a-13-75-e-ipca-de-4-63-o-que-e-juro-real-e-q.jpg",
+ "image_alt": "Foto de mesa com notas de real, calculadora, cofre e laptop com gráfico de linha",
+ "canva_media_id": "MAHbeD5r6mA",
+ "body": [
+  {
+   "type": "p",
+   "text": "A **Selic** está em **13,75% ao ano**: o Copom manteve a taxa na reunião de 4 de novembro, interrompendo a sequência de cortes, e a decisão foi unânime, segundo a cobertura da ata. Ao mesmo tempo, o IBGE informou que o IPCA de outubro subiu 0,14%, com inflação de **4,63% em 12 meses**. A pergunta útil para quem investe em renda fixa é: quanto sobra depois da inflação? Esse resultado é o **juro real**."
+  },
+  {
+   "type": "h2",
+   "text": "O que o Copom disse"
+  },
+  {
+   "type": "p",
+   "text": "Segundo o Diario de Pernambuco, a ata reforçou a preocupação com a piora das perspectivas para a inflação: a expectativa para o segundo trimestre de 2028 subiu de 3,2% para 3,5%, com centro da meta em 3%. As projeções do Copom para a inflação foram de 5,2% para 5,6% em 2026 e de 3,9% para 4,7% em 2027. A próxima reunião está marcada para dezembro, e a ata não sinaliza manutenção nem alta. Hoje (20/11) o Tesouro Direto e a B3 estão fechados pelo feriado nacional."
+  },
+  {
+   "type": "table",
+   "head": [
+    "Indicador",
+    "Valor",
+    "Fonte"
+   ],
+   "rows": [
+    [
+     "Selic (meta)",
+     "13,75% ao ano",
+     "Copom, 4/11"
+    ],
+    [
+     "Taxa DI Over",
+     "13,65% ao ano",
+     "Relatório RumoInvest, 20/11"
+    ],
+    [
+     "IPCA de outubro",
+     "0,14% no mês",
+     "IBGE, 12/11"
+    ],
+    [
+     "IPCA em 12 meses",
+     "4,63%",
+     "IBGE, 12/11"
+    ],
+    [
+     "IPCA no ano",
+     "4,10%",
+     "IBGE, 12/11"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Juro real: o que a inflação não come"
+  },
+  {
+   "type": "p",
+   "text": "O juro real é o rendimento acima da inflação. A conta é dividir: (1 + juro) ÷ (1 + inflação) − 1. Com a Selic em 13,75% e o IPCA de 12 meses em 4,63%, o juro real bruto fica perto de **8,7% ao ano**. É uma referência de política monetária: o que você recebe de fato depende do produto, do prazo, do Imposto de Renda e da inflação do período da sua aplicação."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: R$ 100 em um CDB de 100% do CDI",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo**, sem custos e supondo que a taxa DI de 13,65% ao ano se mantenha por 12 meses (o que não é garantido):"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Etapa",
+      "Valor"
+     ],
+     "rows": [
+      [
+       "R$ 100 aplicados a 100% do CDI",
+       "R$ 113,65 brutos"
+      ],
+      [
+       "Rendimento bruto",
+       "R$ 13,65"
+      ],
+      [
+       "IR de 17,5% (aplicação de 361 a 720 dias) sobre o rendimento",
+       "cerca de R$ 2,39"
+      ],
+      [
+       "Rendimento líquido",
+       "cerca de R$ 11,26"
+      ],
+      [
+       "Juro real líquido, com IPCA de 4,63%",
+       "cerca de 6,3% ao ano"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Ou seja: de cada R$ 100, a inflação de 4,63% corrói quase R$ 4,63 do poder de compra, e sobram cerca de R$ 6,3 de ganho real depois do IR. Se a inflação futura for maior ou o CDI menor, o resultado muda. Rentabilidade passada não garante resultados futuros."
+    }
+   ]
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: juro real",
+   "center": "Juro real",
+   "branches": [
+    {
+     "label": "Taxa nominal",
+     "items": [
+      "Selic 13,75%",
+      "CDI perto de 13,65%"
+     ]
+    },
+    {
+     "label": "Inflação",
+     "items": [
+      "IPCA 12 meses: 4,63%",
+      "Outubro: 0,14%"
+     ]
+    },
+    {
+     "label": "Descontos",
+     "items": [
+      "IR regressivo",
+      "Custos do produto"
+     ]
+    },
+    {
+     "label": "Para observar",
+     "items": [
+      "Próxima reunião do Copom em dezembro",
+      "Expectativas de inflação"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "O que observar daqui para a frente"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Decisão do Copom em dezembro:** a ata não indica o próximo passo; acompanhe o comunicado oficial.",
+    "**IPCA de novembro:** será divulgado pelo IBGE em 11 de dezembro e mostra se a desaceleração de outubro continua. Em outubro, a queda de energia elétrica e passagens aéreas ajudou, enquanto alimentos subiram 1,04%.",
+    "**Prazo e liquidez:** o CDB de liquidez diária e o Tesouro Selic seguem a taxa básica; títulos prefixados e IPCA+ oscilam de preço antes do vencimento."
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "Conteúdo educativo e informativo. Não é recomendação de investimento. Os valores em R$ são exemplos ilustrativos."
+  },
+  {
+   "type": "p",
+   "text": "Para entender a base, veja também: [O que é a taxa Selic](#o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes) e [Renda fixa ou renda variável](#renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona)."
+  }
+ ]
+}
