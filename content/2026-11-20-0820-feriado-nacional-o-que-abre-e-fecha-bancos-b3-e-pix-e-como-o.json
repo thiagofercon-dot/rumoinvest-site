@@ -1,0 +1,164 @@
+{
+ "category": "educacao",
+ "date": "2026-11-20",
+ "time": "08:20",
+ "source_doc": "Relatório de Tendências - 20/11 - 07h20 (Drive id 1aopo1eG5hp5zpGYCmlJVcufI1u9CB482OysQ_VioTgM)",
+ "slug": "feriado-nacional-o-que-abre-e-fecha-bancos-b3-e-pix-e-como-organizar-seu-dinheiro",
+ "title": "Feriado nacional: o que abre e o que fecha (bancos, B3 e Pix) e como organizar seu dinheiro",
+ "subtitle": "O feriado da Consciência Negra é assunto em alta. Entenda por que bolsa e bancos param, por que o Pix continua e como planejar pagamentos e investimentos.",
+ "sentiment": "Neutro",
+ "meta": "Feriado nacional de 20 de novembro: veja o que abre e fecha, como ficam B3, bancos e Pix e como organizar boletos e investimentos. Conteúdo educativo.",
+ "focus_kw": "feriado 20 de novembro o que abre e fecha",
+ "tags": [
+  "Feriado 20 de novembro",
+  "B3 no feriado",
+  "Bancos no feriado",
+  "Pix no feriado",
+  "Educação financeira"
+ ],
+ "sources": [
+  {
+   "t": "Poder360: saiba o que abre e o que fecha no feriado de 20 de novembro",
+   "url": "https://www.poder360.com.br/poder-brasil/saiba-o-que-abre-e-o-que-fecha-no-feriado-de-20-de-novembro-2/",
+   "at": "20/11/2026 07:40"
+  },
+  {
+   "t": "B3: calendário de negociação",
+   "url": "https://www.b3.com.br",
+   "at": "20/11/2026"
+  }
+ ],
+ "trend": {
+  "rank": 1,
+  "term": "Feriado nacional de 20 de novembro: o que abre e fecha",
+  "ref": "20/11"
+ },
+ "source_topic": "Feriado de 20 de novembro, B3, bancos e Pix",
+ "image": "assets/covers/feriado-nacional-o-que-abre-e-fecha.jpg",
+ "image_alt": "Rua de bairro com lojas fechadas ao amanhecer, em foto realista",
+ "canva_media_id": "MAHbc9sBtWw",
+ "body": [
+  {
+   "type": "p",
+   "text": "Nesta sexta-feira (20/11), feriado nacional da Consciência Negra, muita gente quer saber **o que abre e o que fecha no feriado**: bancos, agências do INSS, Correios e a bolsa de valores (B3). Este guia explica, em linguagem simples, como o calendário afeta o seu dinheiro e como se organizar."
+  },
+  {
+   "type": "h2",
+   "text": "Por que bancos e bolsa param no feriado"
+  },
+  {
+   "type": "p",
+   "text": "Em feriado nacional, as agências bancárias não abrem e a **B3**, a bolsa brasileira, não realiza negociações de ações e fundos imobiliários. Isso significa que você não consegue comprar nem vender ações ou cotas de FIIs naquele dia, e os preços só voltam a ser formados no próximo dia útil. Para confirmar horários e exceções, consulte sempre o calendário oficial da B3 e o site do seu banco."
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/feriado-nacional-o-que-abre-e-fecha-1.jpg",
+   "alt": "Investidor em casa observando calendário e gráficos em tablet durante o feriado",
+   "caption": "Ilustração: no feriado, a bolsa fecha, mas o planejamento financeiro continua."
+  },
+  {
+   "type": "h2",
+   "text": "E o Pix? Funciona no feriado?"
+  },
+  {
+   "type": "p",
+   "text": "O **Pix** foi criado para funcionar 24 horas por dia, todos os dias, inclusive em feriados e fins de semana. Já **boletos e transferências do tipo TED** dependem do sistema bancário em dias úteis e podem ser compensados só no próximo dia útil. Por isso, o feriado exige atenção com datas de vencimento."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: o relógio do feriado e o seu boleto",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo e hipotético**: um boleto de R$ 300 vence hoje, no feriado. Em geral, o pagamento pode ser feito pelo aplicativo e ser processado no próximo dia útil, conforme as regras do banco. Mas, se você deixar para a última hora e houver multa por atraso, a conta pode ficar mais cara. Antecipar o pagamento em um dia útil anterior evita esse risco."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Como o feriado se conecta aos seus investimentos"
+  },
+  {
+   "type": "p",
+   "text": "Quem investe em ações e FIIs, como os populares MXRF11 e GARE11, não consegue operar na B3 durante o feriado, mas as notícias continuam saindo e o mercado pode reagir na reabertura. Já a **renda fixa** segue seu curso: a remuneração de títulos ligados à Selic, hoje em 13,75% ao ano, é calculada pelos dias úteis, então o feriado não faz o dinheiro \"parar\", apenas não conta como dia útil. Rentabilidade passada não garante resultados futuros."
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Antecipe contas** que vencem no feriado ou logo após, para evitar atraso.",
+    "**Deixe uma reserva líquida:** veja [como montar a reserva de emergência](#materia-reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro).",
+    "**Evite decidir no impulso:** com a bolsa fechada, use o tempo para estudar, não para correr atrás de notícia."
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "**Conteúdo educativo:** este texto explica o funcionamento do calendário e não recomenda a compra ou a venda de qualquer ativo."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: feriado e dinheiro",
+   "center": "Feriado nacional",
+   "branches": [
+    {
+     "label": "O que fecha",
+     "items": [
+      "Agências bancárias",
+      "B3 (ações e FIIs)",
+      "Boletos e TED compensam depois"
+     ]
+    },
+    {
+     "label": "O que segue",
+     "items": [
+      "Pix 24h",
+      "Aplicativos de banco",
+      "Criptomoedas negociam"
+     ]
+    },
+    {
+     "label": "Como se organizar",
+     "items": [
+      "Antecipar contas",
+      "Conferir calendário oficial",
+      "Manter reserva líquida"
+     ]
+    },
+    {
+     "label": "Investimentos",
+     "items": [
+      "Sem negociação na B3",
+      "Renda fixa conta dias úteis",
+      "Evitar decisão por impulso"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes sobre o feriado",
+   "items": [
+    {
+     "q": "A bolsa de valores abre no feriado de 20 de novembro?",
+     "a": "Não. Em feriado nacional a B3 não realiza negociação. Confira o calendário oficial no site da B3."
+    },
+    {
+     "q": "O Pix funciona no feriado?",
+     "a": "Sim. O Pix opera 24 horas por dia, todos os dias, inclusive em feriados."
+    },
+    {
+     "q": "Boleto que vence no feriado pode ser pago?",
+     "a": "Em geral, o pagamento pode ser feito e processado no próximo dia útil, conforme as regras do banco. Para evitar atraso, antecipe sempre que possível."
+    },
+    {
+     "q": "O feriado atrapalha o rendimento da renda fixa?",
+     "a": "O rendimento de muitos títulos é contado em dias úteis, então o feriado não é um dia útil, mas o dinheiro aplicado não é perdido. Confira as regras do seu título."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Quer começar a organizar seu dinheiro?",
+   "text": "Leia o guia [como começar a investir com pouco dinheiro](#materia-como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes) e entenda a diferença entre [renda fixa e renda variável](#materia-renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona)."
+  }
+ ]
+}

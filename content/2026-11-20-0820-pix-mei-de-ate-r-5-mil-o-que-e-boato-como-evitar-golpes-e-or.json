@@ -1,0 +1,165 @@
+{
+ "category": "educacao",
+ "date": "2026-11-20",
+ "time": "08:20",
+ "source_doc": "Relatório de Tendências - 20/11 - 07h20 (Drive id 1aopo1eG5hp5zpGYCmlJVcufI1u9CB482OysQ_VioTgM)",
+ "slug": "pix-mei-de-ate-r-5-mil-o-que-e-boato-como-evitar-golpes-e-organizar-o-caixa-do-pequeno-negocio",
+ "title": "Pix MEI de até R$ 5 mil: o que é boato, como evitar golpes e organizar o caixa do pequeno negócio",
+ "subtitle": "O governo alertou contra boatos sobre o Pix MEI. Entenda como checar informações, evitar golpes e onde guardar o caixa do seu negócio com segurança.",
+ "sentiment": "Alerta",
+ "meta": "Pix MEI de até R$ 5 mil: veja o que é boato, como não cair em golpes e como organizar o caixa do pequeno negócio e a reserva. Conteúdo educativo.",
+ "focus_kw": "Pix MEI de até R$ 5 mil",
+ "tags": [
+  "Pix MEI",
+  "MEI",
+  "Golpe Pix MEI",
+  "Caixa do MEI",
+  "Educação financeira",
+  "Reserva de emergência"
+ ],
+ "sources": [
+  {
+   "t": "G1 Economia: alerta contra boatos sobre o Pix MEI",
+   "url": "https://g1.globo.com/economia/",
+   "at": "20/11/2026 07:40"
+  },
+  {
+   "t": "Aos Fatos: Pix MEI",
+   "url": "https://www.aosfatos.org/noticias/governo-5000-mas-so-vai-pagar-363-pix-mei/",
+   "at": "20/11/2026"
+  }
+ ],
+ "trend": {
+  "rank": 2,
+  "term": "Pix MEI de até R$ 5 mil (alerta contra boatos)",
+  "ref": "20/11"
+ },
+ "source_topic": "Pix MEI de até R$ 5 mil e alerta contra boatos",
+ "image": "assets/covers/pix-mei-de-ate-r-5-mil-boato-golpes-caixa.jpg",
+ "image_alt": "Microempreendedor brasileiro atendendo em loja de bairro com pagamento por aproximação, em foto realista",
+ "canva_media_id": "MAHbc_O6Ufw",
+ "body": [
+  {
+   "type": "p",
+   "text": "O **Pix MEI de até R$ 5 mil** é um dos assuntos em alta, e o motivo é o excesso de boatos. Segundo o G1 Economia, a Secom (Secretaria de Comunicação do governo) desmentiu o boato de que o benefício teria sido reduzido para R$ 363, e informou que a política prevê atender cerca de 1 milhão de microempreendedores. Este guia ensina a separar informação de boato e a cuidar do caixa do seu negócio."
+  },
+  {
+   "type": "h2",
+   "text": "Como checar se a notícia é verdadeira"
+  },
+  {
+   "type": "p",
+   "text": "Antes de repassar uma mensagem ou fornecer dados, confira em **canais oficiais**: sites do governo federal, Portal do Empreendedor e Sebrae. Desconfie de links recebidos por WhatsApp, SMS ou redes sociais, de pedidos de senha, código ou \"taxa\" para liberar dinheiro. Nenhum órgão oficial pede senha do banco por mensagem."
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Fonte oficial:** a informação aparece em site do governo ou veículo confiável?",
+    "**Pedido de dinheiro ou senha:** é sinal clássico de golpe.",
+    "**Urgência exagerada:** \"só hoje\" ou \"cadastre agora\" é pressão para você agir sem pensar."
+   ]
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/pix-mei-de-ate-r-5-mil-boato-golpes-caixa-1.jpg",
+   "alt": "Microempreendedor organizando contas com caderno, calculadora e celular",
+   "caption": "Ilustração: separar o caixa do negócio ajuda a evitar surpresas."
+  },
+  {
+   "type": "h2",
+   "text": "Organize o caixa antes de qualquer benefício"
+  },
+  {
+   "type": "p",
+   "text": "Seja qual for o desfecho dessa política, o pequeno empreendedor se beneficia de separar o dinheiro da empresa do dinheiro pessoal e de ter uma **reserva**. Veja [quanto guardar na reserva de emergência](#materia-reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro) e [como a Selic afeta o seu dinheiro](#materia-o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes)."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: caixa do negócio em 3 partes",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo e hipotético**: um MEI que fatura R$ 4.000 em um mês pode separar R$ 2.800 para custos e retirada, R$ 800 para impostos e imprevistos do negócio e R$ 400 para uma reserva. Os valores são só para ilustrar; cada negócio tem sua realidade."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Onde guardar a reserva com segurança"
+  },
+  {
+   "type": "p",
+   "text": "Com a Selic em 13,75% ao ano, aplicações de renda fixa de liquidez diária, como o Tesouro Selic e CDBs com cobertura do FGC, são opções comuns para reserva. Entenda a diferença entre [renda fixa e renda variável](#materia-renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona). Rentabilidade passada não garante resultados futuros."
+  },
+  {
+   "type": "callout",
+   "text": "**Conteúdo educativo:** este texto não recomenda investimentos nem confirma regras de benefício. Consulte sempre fontes oficiais."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: Pix MEI e segurança",
+   "center": "Pix MEI",
+   "branches": [
+    {
+     "label": "Boatos",
+     "items": [
+      "Valor de R$ 363 desmentido",
+      "Cerca de 1 milhão de MEIs",
+      "Checar fonte oficial"
+     ]
+    },
+    {
+     "label": "Golpes",
+     "items": [
+      "Links por WhatsApp e SMS",
+      "Pedido de senha ou taxa",
+      "Urgência falsa"
+     ]
+    },
+    {
+     "label": "Caixa do negócio",
+     "items": [
+      "Separar PF e PJ",
+      "Reservar impostos",
+      "Controle simples"
+     ]
+    },
+    {
+     "label": "Reserva",
+     "items": [
+      "Tesouro Selic",
+      "CDB com FGC",
+      "Liquidez diária"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes sobre o Pix MEI",
+   "items": [
+    {
+     "q": "O Pix MEI foi reduzido para R$ 363?",
+     "a": "Segundo o G1 Economia, a Secom desmentiu esse boato e informou que a política prevê atender cerca de 1 milhão de microempreendedores."
+    },
+    {
+     "q": "Como não cair em golpe do Pix MEI?",
+     "a": "Use só canais oficiais, não clique em links recebidos por mensagem e nunca informe senha ou código."
+    },
+    {
+     "q": "Onde acompanhar informações oficiais?",
+     "a": "No site do governo federal, no Portal do Empreendedor e no Sebrae."
+    },
+    {
+     "q": "MEI deve ter reserva de emergência?",
+     "a": "É uma boa prática de educação financeira, pois a renda do pequeno negócio pode variar de mês a mês."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Comece pela base",
+   "text": "Leia [reserva de emergência: quanto guardar](#materia-reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro) e [como começar a investir com pouco dinheiro](#materia-como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes)."
+  }
+ ]
+}
