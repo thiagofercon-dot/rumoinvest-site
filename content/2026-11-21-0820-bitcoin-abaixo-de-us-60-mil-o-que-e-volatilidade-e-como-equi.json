@@ -1,0 +1,168 @@
+{
+ "slug": "bitcoin-abaixo-de-us-60-mil-o-que-e-volatilidade-e-como-equilibrar-o-risco",
+ "title": "Bitcoin abaixo de US$ 60 mil: o que é volatilidade e como equilibrar o risco da carteira",
+ "subtitle": "O bitcoin recuou para a faixa de US$ 57 mil a US$ 58,6 mil, a mínima em mais de dois anos. Entenda por que ativos voláteis exigem cuidado com o tamanho da fatia.",
+ "category": "educacao",
+ "date": "2026-11-21",
+ "time": "08:20",
+ "sentiment": "Alerta",
+ "meta": "Bitcoin abaixo de US$ 60 mil: entenda volatilidade, risco e diversificação com exemplo em reais, renda fixa e dividendos. Guia educativo para iniciantes.",
+ "focus_kw": "bitcoin abaixo de 60 mil o que fazer",
+ "tags": [
+  "Bitcoin hoje",
+  "Bitcoin abaixo de US$ 60 mil",
+  "O que é volatilidade",
+  "Diversificação de carteira",
+  "Dividendos"
+ ],
+ "sources": [
+  {
+   "t": "InfoMoney: Bitcoin cai abaixo de US$ 60 mil pela primeira vez desde julho",
+   "url": "https://www.infomoney.com.br/mercados/bitcoin-cai-abaixo-de-us-60-mil-pela-primeira-vez-desde-julho/",
+   "at": "21/11/2026 07:25"
+  },
+  {
+   "t": "Seu Dinheiro: maior tombo mensal desde 2022",
+   "url": "https://www.seudinheiro.com/2026/criptomoedas/maior-tombo-mensal-desde-2022-bitcoin-btc-fura-o-piso-cai-abaixo-de-us-60-mil-e-arrasta-outras-criptomoedas-ccgg/",
+   "at": "21/11/2026 07:25"
+  }
+ ],
+ "trend": {
+  "rank": 2,
+  "term": "Bitcoin cai abaixo de US$ 60 mil e ações de tecnologia/IA recuam",
+  "ref": "21/11"
+ },
+ "source_doc": "Relatório de Tendências - 21/11 - 07h20 (Drive id 1R7J6NHfct16iGOphYbpj_SKptMqYq5IAuQM2VR85QYo)",
+ "source_topic": "Bitcoin cai abaixo de US$ 60 mil e ações de tecnologia/IA recuam",
+ "image": "assets/covers/bitcoin-abaixo-de-60-mil-capa.jpg",
+ "image_alt": "Moeda dourada genérica ao lado de monitor com gráfico em queda",
+ "body": [
+  {
+   "type": "p",
+   "text": "O **bitcoin abaixo de US$ 60 mil** é um dos assuntos em alta. Segundo o InfoMoney e o Seu Dinheiro, a moeda recuou para a faixa de US$ 57 mil a US$ 58,6 mil, a mínima em mais de dois anos, em meio a uma forte aversão ao risco global que também derrubou o Nasdaq em 5% e pressionou papéis ligados à inteligência artificial, como a Nvidia. O que um iniciante pode aprender com isso? Principalmente sobre volatilidade."
+  },
+  {
+   "type": "h2",
+   "text": "O que é volatilidade"
+  },
+  {
+   "type": "p",
+   "text": "**Volatilidade** é o tamanho das oscilações de preço de um ativo. Ativos muito voláteis podem subir ou cair bastante em poucos dias. Isso não significa que vão se recuperar ou continuar caindo: ninguém sabe."
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/bitcoin-abaixo-de-60-mil-1.jpg",
+   "alt": "Mesa de trabalho em escritório com laptop mostrando gráficos de mercado em queda",
+   "caption": "Ilustração: oscilações fortes testam a paciência e o plano do investidor."
+  },
+  {
+   "type": "h2",
+   "text": "Por que a fatia importa mais que a manchete"
+  },
+  {
+   "type": "p",
+   "text": "O impacto de uma queda na sua carteira depende de quanto do patrimônio está naquele ativo. É por isso que se fala em **diversificação**: não depender de um único tipo de investimento. Veja a diferença entre [renda fixa e renda variável](#renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona)."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: o efeito de uma queda em reais (exemplo ilustrativo)",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Imagine, de forma **ilustrativa**, que um ativo caia 20%. Se você tem R$ 100 nele, a perda é de R$ 20. Se tem R$ 1.000, a perda é de R$ 200. A queda percentual é a mesma, mas o efeito no bolso é dez vezes maior."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Valor no ativo (ilustrativo)",
+      "Queda de 20%",
+      "Perda"
+     ],
+     "rows": [
+      [
+       "R$ 100",
+       "20%",
+       "R$ 20"
+      ],
+      [
+       "R$ 1.000",
+       "20%",
+       "R$ 200"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Onde entram dividendos e ações baratas"
+  },
+  {
+   "type": "p",
+   "text": "Ativos que geram fluxo de caixa, como ações pagadoras de dividendos (BBAS3, TAEE4) e FIIs (MXRF11, GARE11), também oscilam e não têm retorno garantido, mas seguem lógica diferente da de uma moeda digital. Estude cada um antes de decidir e mantenha a [reserva de emergência](#reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro) em local seguro."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: risco e bitcoin",
+   "center": "Bitcoin em queda",
+   "branches": [
+    {
+     "label": "Volatilidade",
+     "items": [
+      "Oscilação forte",
+      "Sem previsão"
+     ]
+    },
+    {
+     "label": "Tamanho da fatia",
+     "items": [
+      "Perda em R$",
+      "Exemplo ilustrativo"
+     ]
+    },
+    {
+     "label": "Diversificação",
+     "items": [
+      "Renda fixa",
+      "Dividendos"
+     ]
+    },
+    {
+     "label": "Reserva",
+     "items": [
+      "Liquidez",
+      "Segurança"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes",
+   "items": [
+    {
+     "q": "O que é volatilidade?",
+     "a": "É o tamanho das oscilações de preço de um ativo em determinado período."
+    },
+    {
+     "q": "Queda do bitcoin significa que vai subir de novo?",
+     "a": "Não há garantia. Preços passados não indicam resultados futuros."
+    },
+    {
+     "q": "Diversificar elimina o risco?",
+     "a": "Não elimina, mas reduz a dependência de um só ativo."
+    },
+    {
+     "q": "Isso é recomendação de compra ou venda?",
+     "a": "Não. É conteúdo educativo."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Continue aprendendo",
+   "text": "Leia o guia [renda fixa ou renda variável](#renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona) e entenda quanto risco faz sentido para você."
+  }
+ ],
+ "canva_media_id": "MAHbi_GK-5Y"
+}

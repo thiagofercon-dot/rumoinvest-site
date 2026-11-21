@@ -1,0 +1,168 @@
+{
+ "slug": "dolar-perto-de-r-6-o-que-faz-o-cambio-subir-e-como-isso-afeta-o-seu-bolso",
+ "title": "Dólar perto de R$ 6: o que faz o câmbio subir e como isso afeta o seu bolso",
+ "subtitle": "O dólar acumulou alta de cerca de 4% na semana e encostou em R$ 5,93 a R$ 5,95. Entenda o que move o câmbio e o que observar sem cair em decisões por impulso.",
+ "category": "educacao",
+ "date": "2026-11-21",
+ "time": "08:20",
+ "sentiment": "Alerta",
+ "meta": "Dólar perto de R$ 6: entenda o que faz o câmbio subir, como afeta preços e investimentos, com exemplo em reais. Guia educativo para iniciantes.",
+ "focus_kw": "dólar perto de R$ 6 o que significa",
+ "tags": [
+  "Dólar hoje",
+  "Dólar alto",
+  "O que move o câmbio",
+  "Ajuste fiscal",
+  "Diversificação"
+ ],
+ "sources": [
+  {
+   "t": "InfoMoney: mercados globais desabam em feriado na B3",
+   "url": "https://www.infomoney.com.br/mercados/mercados-globais-desabam-em-feriado-na-b3-e-goldman-alerta-quedas-devem-continuar/",
+   "at": "21/11/2026 07:25"
+  },
+  {
+   "t": "G1 Economia",
+   "url": "https://g1.globo.com/economia/",
+   "at": "21/11/2026 07:25"
+  },
+  {
+   "t": "Banco Central do Brasil: Selic",
+   "url": "https://www.bcb.gov.br/controleinflacao/taxaselic",
+   "at": "21/11/2026"
+  }
+ ],
+ "trend": {
+  "rank": 3,
+  "term": "Disparada do dólar (R$ 5,93 a R$ 5,95) e ajuste fiscal no Brasil",
+  "ref": "21/11"
+ },
+ "source_doc": "Relatório de Tendências - 21/11 - 07h20 (Drive id 1R7J6NHfct16iGOphYbpj_SKptMqYq5IAuQM2VR85QYo)",
+ "source_topic": "Disparada do dólar (R$ 5,93 a R$ 5,95) e ajuste fiscal no Brasil",
+ "image": "assets/covers/dolar-perto-de-r-6-capa.jpg",
+ "image_alt": "Notas de real e de dólar sobre uma mesa",
+ "body": [
+  {
+   "type": "p",
+   "text": "O **dólar perto de R$ 6** é um dos assuntos em alta. Segundo o G1 e o InfoMoney, a moeda americana acumulou alta de cerca de 4% na semana e encostou em R$ 5,93 a R$ 5,95, o maior patamar desde abril de 2025, com expectativa de juros altos nos EUA e incertezas sobre o ajuste fiscal brasileiro. Mas por que o câmbio sobe e o que muda para você?"
+  },
+  {
+   "type": "h2",
+   "text": "O que é câmbio e o que o move"
+  },
+  {
+   "type": "p",
+   "text": "**Câmbio** é o preço de uma moeda em outra. O dólar tende a subir quando investidores buscam segurança no exterior, quando os juros americanos ficam atraentes ou quando há dúvidas sobre as contas públicas de um país. Nenhum fator isolado explica tudo."
+  },
+  {
+   "type": "h2",
+   "text": "Como o dólar chega ao seu bolso"
+  },
+  {
+   "type": "p",
+   "text": "Produtos importados e insumos cotados em dólar podem ficar mais caros, o que pode pressionar preços. O Banco Central acompanha esse efeito na política de juros; entenda o papel da [taxa Selic](#o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes)."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: viagem de R$ 5,50 para R$ 5,95 (exemplo ilustrativo)",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Imagine, de forma **ilustrativa**, uma compra de US$ 100. Com o dólar a R$ 5,50, custaria R$ 550. Com o dólar a R$ 5,95, custaria R$ 595: R$ 45 a mais pelo mesmo produto."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Dólar (ilustrativo)",
+      "Compra de US$ 100"
+     ],
+     "rows": [
+      [
+       "R$ 5,50",
+       "R$ 550"
+      ],
+      [
+       "R$ 5,95",
+       "R$ 595"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "O que observar sem agir por impulso"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Evite decidir por manchete: o dólar oscila e ninguém acerta o preço do dia seguinte.",
+    "Mantenha a [reserva de emergência](#reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro) em ativo seguro e líquido.",
+    "Diversificar entre renda fixa, ações pagadoras de dividendos (como BBAS3 e TAEE4) e FIIs pode reduzir a dependência de um só fator, sem eliminar riscos. Veja [como começar a investir com pouco dinheiro](#como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes)."
+   ]
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: dólar alto",
+   "center": "Dólar perto de R$ 6",
+   "branches": [
+    {
+     "label": "Causas",
+     "items": [
+      "Juros nos EUA",
+      "Ajuste fiscal"
+     ]
+    },
+    {
+     "label": "Efeitos",
+     "items": [
+      "Importados mais caros",
+      "Pressão nos preços"
+     ]
+    },
+    {
+     "label": "Cuidados",
+     "items": [
+      "Evitar impulso",
+      "Reserva segura"
+     ]
+    },
+    {
+     "label": "Diversificação",
+     "items": [
+      "Renda fixa",
+      "Dividendos"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes",
+   "items": [
+    {
+     "q": "Por que o dólar sobe?",
+     "a": "Por vários fatores, como juros nos EUA, aversão ao risco global e incertezas fiscais locais."
+    },
+    {
+     "q": "Dólar alto sempre pesa no meu bolso?",
+     "a": "Pode encarecer importados e insumos, mas o efeito varia por produto."
+    },
+    {
+     "q": "Devo comprar dólar agora?",
+     "a": "Este conteúdo é educativo e não recomenda compra ou venda."
+    },
+    {
+     "q": "Rentabilidade passada garante o futuro?",
+     "a": "Não, a rentabilidade passada não garante resultados futuros."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Aprenda mais",
+   "text": "Leia o guia [o que é a taxa Selic](#o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes) e entenda como os juros se relacionam com o câmbio."
+  }
+ ],
+ "canva_media_id": "MAHbi7LH9EU"
+}
