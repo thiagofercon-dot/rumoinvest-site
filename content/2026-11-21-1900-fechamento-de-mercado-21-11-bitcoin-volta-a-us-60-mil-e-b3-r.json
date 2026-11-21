@@ -1,0 +1,212 @@
+{
+ "capa": "noite",
+ "slug": "fechamento-de-mercado-21-11-bitcoin-volta-a-us-60-mil-e-b3-reabre-na-segunda",
+ "title": "Fechamento de 21/11: Bitcoin volta a US$ 60 mil e Ethereum sobe quase 5% com a B3 fechada; bolsa reabre na segunda",
+ "subtitle": "Sem pregão no sábado, as criptomoedas se recuperam da queda de sexta; na segunda, a B3 reabre com ajuste fiscal e dividendos na agenda.",
+ "category": "mercado",
+ "date": "2026-11-21",
+ "time": "19:00",
+ "sentiment": "Neutro",
+ "meta": "Fechamento 21/11: Bitcoin volta a US$ 60,3 mil e Ethereum sobe quase 5% com B3 fechada. Veja dólar, FIIs e agenda de dividendos da próxima semana.",
+ "focus_kw": "fechamento de mercado 21 de novembro 2026",
+ "tags": [
+  "Fechamento de mercado",
+  "Bitcoin hoje",
+  "Ethereum hoje",
+  "Dividendos novembro 2026",
+  "FIIs MXRF11 XPML11"
+ ],
+ "sources": [
+  {
+   "t": "Investing.com: criptomoedas",
+   "url": "https://br.investing.com/crypto",
+   "at": "21/11/2026 18:02"
+  },
+  {
+   "t": "Google Finance: dólar, S&P 500, Ibovespa e criptomoedas",
+   "url": "https://www.google.com/finance",
+   "at": "21/11/2026 18:04"
+  },
+  {
+   "t": "G1 Economia",
+   "url": "https://g1.globo.com/economia/",
+   "at": "21/11/2026"
+  },
+  {
+   "t": "MEC / Gov.br: Pé-de-Meia de novembro",
+   "url": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/novembro/parcela-do-pe-de-meia-comeca-a-ser-paga-segunda-23",
+   "at": "21/11/2026"
+  },
+  {
+   "t": "XP Investimentos: calendário de dividendos de novembro de 2026",
+   "url": "https://conteudos.xpi.com.br/acoes/relatorios/acoes-confira-o-calendario-de-dividendos-de-novembro-de-2026/",
+   "at": "21/11/2026"
+  },
+  {
+   "t": "Status Invest: proventos",
+   "url": "https://statusinvest.com.br/acoes/proventos",
+   "at": "21/11/2026"
+  }
+ ],
+ "source_doc": "Relatório de Mercado - 21/11 - 18h (Drive id 1iyK_suaN-P_UbM3hRZc6Zqk9P4z6r-RRCinipE52nu8)",
+ "source_topic": "fechamento",
+ "image": "assets/covers/fechamento-de-mercado-21-11-bitcoin-volta-a-us-60-mil-e-b3-reabre-na-segunda.jpg",
+ "image_alt": "Foto noturna de metrópole com arranha-céus iluminados e celular exibindo gráfico em recuperação",
+ "canva_media_id": "MAHblhZJNSc",
+ "body": [
+  {
+   "type": "p",
+   "text": "Com a **B3 e Wall Street fechadas neste sábado (21)**, o destaque do dia ficou com as **criptomoedas**, que operam 24 horas. O **Bitcoin** voltou a **US$ 60.365,56**, alta de **3,19% em 24 horas**, depois de ter testado mínimas abaixo de US$ 56.000 na madrugada, segundo Google Finance e Investing.com. O **Ethereum** subiu **4,99%**, a **US$ 1.683,70**. O termômetro do dia é **Neutro**: cautela nas bolsas tradicionais, compensada pela recuperação digital."
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/fechamento-de-mercado-21-11-bitcoin-volta-a-us-60-mil-e-b3-reabre-na-segunda-1.jpg",
+   "alt": "Panorama ao entardecer dos prédios financeiros de São Paulo em sábado de fim de semana antes da reabertura do mercado",
+   "caption": "São Paulo ao entardecer, antes da reabertura da B3 na segunda-feira. Imagem ilustrativa."
+  },
+  {
+   "type": "h2",
+   "text": "Os números do dia"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Indicador",
+    "Cotação",
+    "Variação"
+   ],
+   "rows": [
+    [
+     "Ibovespa",
+     "166.376 pontos",
+     "Sem pregão (último fechamento, 19/11: -0,69%)"
+    ],
+    [
+     "Dólar (USD/BRL)",
+     "R$ 5,9495",
+     "+2,89% na semana (último fechamento: 20/11, 20h58)"
+    ],
+    [
+     "S&P 500 (EUA)",
+     "6.910,39 pontos",
+     "-3,70% em 20/11"
+    ],
+    [
+     "Selic meta / DI Over",
+     "13,75% / 13,65% ao ano",
+     "Estável"
+    ],
+    [
+     "Bitcoin (BTC)",
+     "US$ 60.365,56 (R$ 359.144,90)",
+     "+3,19% em 24h"
+    ],
+    [
+     "Ethereum (ETH)",
+     "US$ 1.683,70 (R$ 10.017,17)",
+     "+4,99% em 24h"
+    ],
+    [
+     "BNB",
+     "US$ 548,77 (R$ 3.264,91)",
+     "+2,99% em 24h"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Os números das bolsas são os do último pregão: **19/11** na B3 e **20/11** em Nova York, onde o S&P 500 recuou **3,70%**. Já as criptomoedas foram apuradas às **18h BRT** deste sábado. As moedas atreladas ao dólar, **USDT** (US$ 0,9977) e **USDC** (US$ 0,9999), ficaram praticamente estáveis, como esperado."
+  },
+  {
+   "type": "h2",
+   "text": "Cripto sustenta a recuperação, mas segue volátil"
+  },
+  {
+   "type": "p",
+   "text": "A virada deste sábado veio depois de uma sexta-feira de forte estresse, quando o Bitcoin chegou perto de **US$ 58,6 mil**. Como o mercado digital **não fecha**, os preços reagem na hora a qualquer notícia, inclusive no fim de semana. Isso ajuda a explicar por que, em poucas horas, o Bitcoin pode oscilar vários por cento. Veja como ficou o dia anterior em [Wall Street despenca 3,70%](#wall-street-despenca-3-70-bitcoin-cai-a-us-58-mil-e-dolar-fecha-a-r-5-95-fechamento-de-20-11)."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: por que uma queda pesa mais que uma alta igual",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Se um ativo cai e depois sobe o mesmo percentual, você não volta ao ponto de partida. **Exemplo ilustrativo (não é previsão):** R$ 100 que caem 6% viram R$ 94. Se o ativo subir 6% depois, vai a R$ 99,64, ainda abaixo de R$ 100. Por isso a **volatilidade** importa: oscilações grandes exigem recuperações proporcionalmente maiores."
+    },
+    {
+     "type": "p",
+     "text": "Vale para criptomoedas, ações e fundos. Quanto maior a oscilação, maior o cuidado com o dinheiro que não pode faltar no curto prazo."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Dividendos e FIIs: agenda da última semana de novembro"
+  },
+  {
+   "type": "p",
+   "text": "Não houve novos anúncios de proventos, já que a B3 está fechada. Pelo calendário da XP Investimentos, a **Petrobras (PETR3 e PETR4)** paga JCP de **R$ 0,6741 por ação** em **23/11**; a **Taesa (TAEE4)** paga **R$ 0,2001 por ação** em **26/11**; e a **Mitre Realty (MTRE3)**, ação abaixo de R$ 10, paga **R$ 0,0378 por ação** em **27/11**. Em **30/11** há pagamentos de **MDIA3**, **SAUD3** e **RAIL3**. O **Banco do Brasil (BBAS3)** fechou a **R$ 14,30** em 19/11, sem pagamento previsto em novembro."
+  },
+  {
+   "type": "p",
+   "text": "Na segunda-feira (23/11), **BMGB4** (ação abaixo de R$ 10) tem **data-com** de JCP de **R$ 0,10 por ação**, com pagamento em 04/12, segundo o Status Invest. Quem compra depois da data-com não recebe aquele provento. **CAMB3** (R$ 0,10) também tem data-com em 23/11, e **ISAE4** (JCP de R$ 0,188959), em 25/11."
+  },
+  {
+   "type": "table",
+   "head": [
+    "FII",
+    "Último fechamento (19/11)",
+    "Rendimento por cota",
+    "Próximo pagamento citado"
+   ],
+   "rows": [
+    [
+     "MXRF11",
+     "R$ 8,50",
+     "R$ 0,095 a R$ 0,10",
+     "16/11 (pago)"
+    ],
+    [
+     "GARE11",
+     "R$ 7,91",
+     "R$ 0,080 a R$ 0,083",
+     "09/11 (pago)"
+    ],
+    [
+     "HGLG11",
+     "R$ 141,80",
+     "R$ 1,17",
+     "16/11 (pago)"
+    ],
+    [
+     "XPML11",
+     "R$ 81,99",
+     "R$ 0,80",
+     "25/11"
+    ],
+    [
+     "BTLG11",
+     "R$ 94,80",
+     "R$ 0,81",
+     "25/11"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Exemplo ilustrativo:** com R$ 100, dá para comprar 11 cotas de **MXRF11** a R$ 8,50 (R$ 93,50). A cerca de R$ 0,10 por cota, o rendimento de um mês seria perto de R$ 1,10. Rendimentos variam e **não são garantidos**; rentabilidade passada não garante resultados futuros."
+  },
+  {
+   "type": "h2",
+   "text": "O que observar na segunda-feira (23/11)"
+  },
+  {
+   "type": "p",
+   "text": "A B3 reabre às **10h** com atenção à **tramitação do ajuste fiscal na Câmara dos Deputados** e ao início dos pagamentos do **Pé-de-Meia de novembro**, segundo G1 Economia e MEC. Domingo, só as criptomoedas operam. Para entender o pano de fundo, leia também o [fechamento de 19/11](#dolar-sobe-pela-6a-sessao-a-r-5-93-ibovespa-cai-0-69-fechamento-de-19-11)."
+  },
+  {
+   "type": "callout",
+   "text": "Conteúdo informativo e educativo. Dados de criptomoedas de 21/11 às 18h; bolsas, de 19/11 (B3) e 20/11 (EUA). Exemplos em reais são ilustrativos. Nada aqui é recomendação de compra, venda ou alocação."
+  }
+ ]
+}
