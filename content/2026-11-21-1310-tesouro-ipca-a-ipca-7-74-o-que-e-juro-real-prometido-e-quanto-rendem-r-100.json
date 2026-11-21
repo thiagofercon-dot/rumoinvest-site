@@ -1,0 +1,174 @@
+{
+ "capa": "dia",
+ "slug": "tesouro-ipca-a-ipca-7-74-o-que-e-juro-real-prometido-e-quanto-rendem-r-100",
+ "title": "Tesouro IPCA+ a IPCA + 7,74%: o que é juro real prometido e quanto rendem R$ 100",
+ "subtitle": "O título que acompanha a inflação paga uma taxa fixa acima do IPCA. Entenda como ler essa taxa, o exemplo em reais e os cuidados antes do vencimento.",
+ "category": "renda-fixa",
+ "date": "2026-11-21",
+ "time": "13:10",
+ "sentiment": "Neutro",
+ "meta": "Tesouro IPCA+ 2032 em IPCA + 7,74% ao ano (18/11): entenda o juro real prometido, veja o exemplo ilustrativo de R$ 100 e os riscos antes do vencimento.",
+ "focus_kw": "Tesouro IPCA+",
+ "tags": [
+  "Tesouro IPCA+",
+  "Juro real",
+  "IPCA + 7,74%",
+  "Tesouro Direto",
+  "Renda Fixa",
+  "Boletim Focus"
+ ],
+ "sources": [
+  {
+   "t": "InvestNews: Tesouro Direto hoje: prefixados sobem e IPCA+ cai (taxas do Tesouro Nacional de 18/11/2026)",
+   "url": "https://investnews.com.br/investimentos/tesouro-direto-taxas-rendimento-hoje-inflacao-implicita-18112026/",
+   "at": "18/11/2026 11:01"
+  },
+  {
+   "t": "InfoMoney: Focus eleva projeção de inflação e Selic para 2027, mas corta IPCA em 2026",
+   "url": "https://www.infomoney.com.br/mercados/boletim-focus-projecoes-16112026/",
+   "at": "16/11/2026 08:36"
+  }
+ ],
+ "source_doc": "Pesquisa própria do Claude (sem relatório de renda fixa do Drive em 21/11 13:10; relatório de mercado de 21/11 12h sem seção de renda fixa)",
+ "source_topic": "Tesouro IPCA+ a IPCA + 7,74%: juro real prometido e R$ 100",
+ "image": "assets/covers/tesouro-ipca-7-74-juro-real-prometido-r-100.jpg",
+ "image_alt": "Foto de mesa com notas de real, cofre pequeno, calculadora e uma planta em vaso",
+ "canva_media_id": "MAHbkMqS76I",
+ "body": [
+  {
+   "type": "p",
+   "text": "O **Tesouro IPCA+** é o título do Tesouro Direto que paga uma taxa fixa **mais** a inflação do período. Segundo as taxas do Tesouro Nacional de 18/11, divulgadas pelo InvestNews, o Tesouro IPCA+ 2032 estava em **IPCA + 7,74% ao ano** (na véspera, IPCA + 7,81%). Em linguagem simples: se o preço dos produtos subir, seu dinheiro é corrigido por essa alta, e ainda rende 7,74% ao ano acima dela, se o título for levado até o vencimento."
+  },
+  {
+   "type": "h2",
+   "text": "Como ler a taxa: o juro real prometido"
+  },
+  {
+   "type": "p",
+   "text": "Os 7,74% são o **juro real**: o ganho acima da inflação, travado no dia da compra. Já o IPCA é variável e só se conhece depois. Por isso o retorno final em reais não é conhecido de antemão, apenas a parte acima da inflação. Outros vencimentos aparecem na mesma tabela: IPCA+ com Juros Semestrais 2037 em IPCA + 7,66%, IPCA+ 2040 em IPCA + 7,49% e IPCA+ 2050 em IPCA + 7,51%."
+  },
+  {
+   "type": "table",
+   "head": [
+    "Título (18/11)",
+    "Taxa"
+   ],
+   "rows": [
+    [
+     "Tesouro IPCA+ 2032",
+     "IPCA + 7,74%"
+    ],
+    [
+     "Tesouro IPCA+ c/ Juros Semestrais 2037",
+     "IPCA + 7,66%"
+    ],
+    [
+     "Tesouro IPCA+ 2040",
+     "IPCA + 7,49%"
+    ],
+    [
+     "Tesouro IPCA+ 2050",
+     "IPCA + 7,51%"
+    ],
+    [
+     "Tesouro Prefixado 2032",
+     "15,28% ao ano"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Que inflação está embutida nos preços?"
+  },
+  {
+   "type": "p",
+   "text": "Comparando o Prefixado 2032 (15,28% ao ano) com o IPCA+ 2032 (IPCA + 7,74%), a conta (1,1528 ÷ 1,0774 − 1) dá cerca de **7,0% ao ano**: é a chamada inflação implícita, que o InvestNews também destacou. Ela é bem maior do que a projeção do Boletim Focus de 16/11, que apontou IPCA de **5,11% em 2026** e **5,00% em 2027**, com a Selic em 13,75% em 2026 e 12,75% em 2027. Quem vai acertar? Ninguém sabe, e é essa diferença que torna cada título uma escolha diferente. Veja também [a inflação implícita no Tesouro Direto](#inflacao-implicita-no-tesouro-direto-chega-a-7-ao-ano-o-que-o-mercado-embute-nos-precos) e [o Prefixado 2029](#tesouro-prefixado-2029-volta-a-pagar-mais-de-15-ao-ano-o-que-muda-para-quem-investe)."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: R$ 100 no Tesouro IPCA+ 2032",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo**: suponha taxa de IPCA + 7,74% e um IPCA hipotético de 5,11% em um ano (igual à projeção do Focus para 2026, apenas como cenário). Não considera Imposto de Renda, taxa de custódia da B3 nem a variação do preço do título."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Etapa",
+      "Valor"
+     ],
+     "rows": [
+      [
+       "R$ 100 corrigidos pelo IPCA de 5,11%",
+       "R$ 105,11"
+      ],
+      [
+       "Mais juro real de 7,74% sobre esse valor",
+       "R$ 113,25"
+      ],
+      [
+       "Ganho bruto em um ano (ilustrativo)",
+       "R$ 13,25"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "A conta é 100 × 1,0511 × 1,0774. Se a inflação for outra, o resultado muda. Rentabilidade passada não garante resultados futuros."
+    }
+   ]
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: Tesouro IPCA+",
+   "center": "Tesouro IPCA+",
+   "branches": [
+    {
+     "label": "Como paga",
+     "items": [
+      "Taxa fixa acima do IPCA",
+      "Ex.: IPCA + 7,74% (2032)"
+     ]
+    },
+    {
+     "label": "Inflação",
+     "items": [
+      "Focus 2026: 5,11%",
+      "Implícita: cerca de 7%"
+     ]
+    },
+    {
+     "label": "Riscos",
+     "items": [
+      "Preço oscila antes do vencimento",
+      "IPCA futuro é incerto"
+     ]
+    },
+    {
+     "label": "Custos",
+     "items": [
+      "IR regressivo",
+      "Taxa de custódia da B3"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Cuidados antes de comprar"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Marcação a mercado:** se precisar vender antes do vencimento, o preço pode estar abaixo do que você pagou, porque ele varia com as taxas de juros. A taxa travada vale para quem leva até o fim.",
+    "**Prazo:** vencimentos longos oscilam mais. Dinheiro de emergência costuma ficar em liquidez diária, como mostra o guia de [reserva de emergência](#reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro).",
+    "**Compare com o resto:** veja as diferenças entre os títulos em [Tesouro Selic, Prefixado e IPCA+](#tesouro-direto-com-selic-a-13-75-entenda-tesouro-selic-prefixado-e-ipca) e entenda a [taxa Selic](#o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes)."
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "Conteúdo educativo e informativo, sem recomendação de compra ou venda. As taxas citadas são do dia 18/11 e mudam ao longo do dia; confira as taxas atuais no site do Tesouro Direto."
+  }
+ ]
+}
