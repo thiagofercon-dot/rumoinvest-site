@@ -1,0 +1,212 @@
+{
+ "slug": "tributacao-de-lci-e-lca-o-que-esta-em-discussao-e-como-comparar-com-cdb-e-fiis",
+ "title": "Tributação de LCI e LCA: o que está em discussão e como comparar com CDB e FIIs",
+ "subtitle": "O debate sobre cobrar imposto de títulos hoje isentos volta ao radar. Entenda o que é fato, o que é só estudo e como fazer a conta de equivalência em reais.",
+ "category": "educacao",
+ "date": "2026-11-21",
+ "time": "13:25",
+ "sentiment": "Alerta",
+ "meta": "Tributação de LCI e LCA: entenda o que está em discussão, como calcular a equivalência com CDB e o que muda (ou não) para FIIs como XPML11, BTLG11 e MXRF11.",
+ "focus_kw": "tributação LCI LCA o que muda",
+ "tags": [
+  "LCI e LCA",
+  "Tributação renda fixa",
+  "FIIs XPML11 BTLG11",
+  "Tesouro Direto",
+  "Dividendos isentos"
+ ],
+ "sources": [
+  {
+   "t": "InfoMoney: Tributação de títulos isentos, como o imposto pode mexer com o seu bolso",
+   "url": "https://www.infomoney.com.br/onde-investir/tributacao-de-titulos-isentos-como-o-imposto-pode-mexer-com-o-seu-bolso/",
+   "at": "21/11/2026 13:02"
+  },
+  {
+   "t": "Seu Dinheiro: LCIs, LCAs e outros isentos voltam à mira do governo e podem passar a ter IOF, diz jornal",
+   "url": "https://www.seudinheiro.com/2026/renda-fixa/lcis-lcas-e-outros-isentos-voltam-a-mira-do-governo-e-podem-passar-a-ter-iof-diz-jornal-mlim/",
+   "at": "28/10/2026 11:49"
+  },
+  {
+   "t": "InvesTalk (BB): relatório da MP do IOF mantém isenção para CRI e CRA, mas eleva IR sobre LCI e LCA",
+   "url": "https://investalk.bb.com.br/noticias/economia/relatorio-da-mp-do-iof-mantem-isencao-para-cri-e-cra-mas-eleva-ir-sobre-lci-e-lca-veja-detalhes",
+   "at": "24/09/2025 15:33"
+  }
+ ],
+ "trend": {
+  "rank": 2,
+  "term": "Tributação de títulos isentos (LCI, LCA, CRI e CRA) no radar do investidor",
+  "ref": "21/11"
+ },
+ "source_doc": "Relatório de Tendências - 21/11 - 12h20 (Drive id 1wMGeFVJmlMKGBCpZ_eGeqxUtkq6i5AF-WUa5twn4hXw)",
+ "source_topic": "Tributação de títulos isentos (LCI, LCA, CRI, CRA) e FIIs",
+ "image": "assets/covers/tributacao-de-lci-e-lca-o-que-esta-em-discussao-e-como-comparar-com-cdb-e-fiis.jpg",
+ "image_alt": "Mesa com notas de real, calculadora e caderno de anotações",
+ "canva_media_id": "MAHbkB81-88",
+ "body": [
+  {
+   "type": "p",
+   "text": "A **tributação de LCI e LCA** voltou a ser assunto entre investidores. A dúvida é simples: se o governo passar a cobrar imposto desses papéis, ainda compensa mantê-los? Este guia separa o que é fato do que é apenas discussão e mostra, com contas em reais, como comparar com CDB, Tesouro Direto e FIIs. Não é recomendação de compra ou venda."
+  },
+  {
+   "type": "h2",
+   "text": "O que já aconteceu e o que é só estudo"
+  },
+  {
+   "type": "p",
+   "text": "Em 2025, a MP 1.303 chegou a prever imposto de renda de 5% sobre novas emissões de LCI, LCA, CRI, CRA e debêntures incentivadas. O relatório no Congresso elevou a alíquota das letras bancárias (LCI e LCA) para 7,5% e manteve a isenção de CRI, CRA e debêntures incentivadas, mas a MP perdeu a validade em outubro de 2025, segundo a imprensa especializada."
+  },
+  {
+   "type": "p",
+   "text": "Em 28/10/2026, reportagem de O Globo, repercutida pelo Seu Dinheiro, informou que a equipe econômica estuda cobrar **IOF** sobre esses títulos, instrumento que pode ser alterado por decreto. O próprio texto ressalta que **não há proposta formal anunciada** e que o Ministério da Fazenda não se pronunciou. Ou seja: hoje é debate, não regra nova. Acompanhe fontes oficiais antes de decidir qualquer coisa."
+  },
+  {
+   "type": "h2",
+   "text": "Por que isenção importa: a conta de equivalência"
+  },
+  {
+   "type": "p",
+   "text": "Um CDB paga imposto de renda pela tabela regressiva: 22,5% (até 180 dias), 20% (181 a 360), 17,5% (361 a 720) e 15% (acima de 720 dias). LCI e LCA, para pessoa física, são hoje isentas. Para comparar, converta tudo em retorno líquido."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: quanto um CDB precisa pagar para empatar (exemplo ilustrativo)",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo**, sem relação com taxas reais de hoje: uma LCI paga 90% do CDI, isenta. Um CDB com prazo acima de 720 dias paga imposto de 15%, ficando com 85% do rendimento bruto. Para empatar: 90% ÷ 0,85 = cerca de **105,9% do CDI**."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Prazo do CDB",
+      "Imposto",
+      "CDB precisa render (ilustrativo)"
+     ],
+     "rows": [
+      [
+       "Até 180 dias",
+       "22,5%",
+       "90% ÷ 0,775 ≈ 116,1% do CDI"
+      ],
+      [
+       "181 a 360 dias",
+       "20%",
+       "90% ÷ 0,80 = 112,5% do CDI"
+      ],
+      [
+       "361 a 720 dias",
+       "17,5%",
+       "90% ÷ 0,825 ≈ 109,1% do CDI"
+      ],
+      [
+       "Acima de 720 dias",
+       "15%",
+       "90% ÷ 0,85 ≈ 105,9% do CDI"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Se a LCI passasse a pagar 7,5% de IR (hipótese usada no relatório de 2025), o líquido cairia para 92,5% do bruto: 90% × 0,925 = 83,25% do CDI líquido. Rentabilidade passada não garante resultados futuros."
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/tributacao-lci-lca-o-que-muda-1.jpg",
+   "alt": "Investidor revisando documentos de renda fixa ao lado de tablet com gráficos",
+   "caption": "Comparar o retorno líquido, e não só a taxa bruta, é o primeiro passo."
+  },
+  {
+   "type": "h2",
+   "text": "E os FIIs como XPML11, BTLG11 e MXRF11?"
+  },
+  {
+   "type": "p",
+   "text": "FIIs são um caso à parte: não são LCI nem LCA. Em regra, os rendimentos distribuídos a pessoa física são isentos de IR quando cumpridas as condições previstas em lei (como cotas negociadas em bolsa e número mínimo de cotistas), mas o ganho na venda das cotas é tributado. A isenção dos rendimentos não é garantia de retorno, e o preço da cota oscila. Qualquer mudança nas regras de FIIs também precisaria ser confirmada em fonte oficial. Veja o comparativo em [CDB a 15,61%, LCI, LCA e CPR](#cdb-a-15-61-ao-ano-lci-lca-e-cpr-como-comparar-renda-fixa-isenta-e-tributada-com-fiis)."
+  },
+  {
+   "type": "h2",
+   "text": "O que observar sem pânico"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Prazo e liquidez:** papel isento costuma ter carência; confira quando o dinheiro volta.",
+    "**Garantia do FGC:** LCI e LCA têm cobertura do FGC dentro dos limites; veja as regras vigentes.",
+    "**Regra para títulos já emitidos:** em propostas anteriores, mudanças valeriam para emissões novas; acompanhe se isso se repetir.",
+    "**Diversificação:** concentrar tudo em um único tipo de papel aumenta o risco, seja qual for o imposto."
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "Conteúdo educativo, sem recomendação de investimento. Para a base do tema, leia [Renda fixa ou renda variável](#renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona) e [O que é a taxa Selic](#o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-pa)."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: tributação de LCI e LCA",
+   "center": "LCI e LCA",
+   "branches": [
+    {
+     "label": "Situação",
+     "items": [
+      "Hoje isentas para pessoa física",
+      "IOF só em estudo",
+      "Sem proposta formal anunciada"
+     ]
+    },
+    {
+     "label": "Histórico",
+     "items": [
+      "MP 1.303 em 2025",
+      "Alíquotas de 5% e 7,5% discutidas",
+      "MP perdeu a validade"
+     ]
+    },
+    {
+     "label": "Como comparar",
+     "items": [
+      "Retorno líquido",
+      "Tabela regressiva do CDB",
+      "Prazo e liquidez"
+     ]
+    },
+    {
+     "label": "FIIs",
+     "items": [
+      "Rendimentos em regra isentos",
+      "Ganho na venda é tributado",
+      "Preço da cota oscila"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes sobre tributação de LCI e LCA",
+   "items": [
+    {
+     "q": "LCI e LCA já são tributadas?",
+     "a": "Para pessoa física, continuam isentas de imposto de renda. O que existe é discussão sobre mudar isso."
+    },
+    {
+     "q": "O governo anunciou cobrança de IOF?",
+     "a": "Não há proposta formal anunciada. A informação publicada em 28/10/2026 diz que a equipe econômica estuda a medida, sem confirmação oficial."
+    },
+    {
+     "q": "Como saber se o CDB compensa mais que a LCI?",
+     "a": "Compare o retorno líquido: divida a taxa da LCI (% do CDI) por 1 menos a alíquota de IR do CDB para o prazo escolhido."
+    },
+    {
+     "q": "Isso afeta os FIIs?",
+     "a": "Não diretamente. FIIs seguem regras próprias; confirme em fonte oficial qualquer mudança."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Continue aprendendo",
+   "text": "Refaça a conta com as taxas do seu caso e leia [Reserva de emergência](#reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro) antes de pensar em prazos longos."
+  }
+ ]
+}
