@@ -1,0 +1,156 @@
+{
+ "capa": "dia",
+ "slug": "abertura-de-mercado-21-11-dolar-perto-de-r-5-95-sp-500-em-queda-e-bitcoin-abaixo-de-us-58-mil",
+ "title": "Abertura de mercado 21/11: dólar perto de R$ 5,95, S&P 500 em queda de 3,70% e Bitcoin abaixo de US$ 58 mil",
+ "subtitle": "Com B3 e Wall Street fechadas no sábado, o mercado repercute o tombo da sexta em Nova York e se prepara para a reabertura na segunda (23/11).",
+ "category": "mercado",
+ "date": "2026-11-21",
+ "time": "08:05",
+ "sentiment": "Pessimista",
+ "meta": "Panorama de 21/11: Bitcoin abaixo de US$ 58 mil, dólar perto de R$ 5,95 e agenda de dividendos e FIIs para a segunda-feira. Veja o que observar.",
+ "focus_kw": "abertura de mercado 21 de novembro 2026",
+ "tags": [
+  "Abertura de mercado",
+  "Bitcoin hoje",
+  "Dólar hoje",
+  "Dividendos novembro 2026",
+  "FIIs e Tesouro Direto"
+ ],
+ "sources": [
+  {
+   "t": "Google Finance: S&P 500, dólar e criptomoedas",
+   "url": "https://www.google.com/finance",
+   "at": "21/11/2026 07:55"
+  },
+  {
+   "t": "Investing.com: Ibovespa e criptomoedas",
+   "url": "https://br.investing.com/crypto",
+   "at": "21/11/2026 07:55"
+  },
+  {
+   "t": "B3: indicadores financeiros (DI Over)",
+   "url": "https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/consultas/mercado-de-derivativos/indicadores/indicadores-financeiros/",
+   "at": "21/11/2026"
+  },
+  {
+   "t": "XP Investimentos: calendário de dividendos de novembro de 2026",
+   "url": "https://conteudos.xpi.com.br/acoes/relatorios/acoes-confira-o-calendario-de-dividendos-de-novembro-de-2026/",
+   "at": "21/11/2026"
+  },
+  {
+   "t": "Status Invest: proventos",
+   "url": "https://statusinvest.com.br/acoes/proventos",
+   "at": "21/11/2026"
+  },
+  {
+   "t": "Calculadoras: Tesouro Direto",
+   "url": "https://www.calculadora.com.br/tesouro/",
+   "at": "18/11/2026"
+  }
+ ],
+ "source_doc": "Relatório de Mercado - 21/11 - 07h (Drive id 1JwpHgOnUuMF7iKo--JnkOlfh2AdBq7qlrD0WugcrgkQ)",
+ "source_topic": "abertura",
+ "image": "assets/covers/abertura-de-mercado-21-11-dolar-perto-de-r-5-95-sp-500-em-queda-e-bitcoin-abaixo-de-us-58-mil.jpg",
+ "image_alt": "Foto de avenida financeira de São Paulo ao amanhecer, com prédios de vidro e luz dourada",
+ "canva_media_id": "MAHbi4Se-TM",
+ "body": [
+  {
+   "type": "p",
+   "text": "Com a **B3 e Wall Street fechadas neste sábado (21/11)**, o mercado olha para o retrovisor e para a segunda-feira. O **S&P 500** caiu **3,70%** na sexta (20/11), o **dólar** ficou perto de **R$ 5,95** e o **Bitcoin** segue abaixo de **US$ 58 mil**. A B3 reabre na **segunda-feira (23/11)**, e o termômetro de humor do dia é **Pessimista**."
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/abertura-de-mercado-21-11-dolar-perto-de-r-5-95-sp-500-em-queda-e-bitcoin-abaixo-de-us-58-mil-1.jpg",
+   "alt": "Avenida de São Paulo com prédios de vidro ao amanhecer, com pouco movimento",
+   "caption": "Região financeira de São Paulo em manhã de sábado. Imagem ilustrativa."
+  },
+  {
+   "type": "h2",
+   "text": "Os números para a reabertura"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Indicador",
+    "Valor",
+    "Referência"
+   ],
+   "rows": [
+    [
+     "Ibovespa (à vista)",
+     "166.376 pontos",
+     "-0,69% no último pregão (19/11)"
+    ],
+    [
+     "Dólar (USD/BRL)",
+     "R$ 5,9495",
+     "+2,89% na semana; referência de 20/11, 20h58"
+    ],
+    [
+     "S&P 500 (EUA)",
+     "6.910,39 pontos",
+     "-3,70% (-265,44 pontos) em 20/11"
+    ],
+    [
+     "Selic / DI Over",
+     "13,75% / 13,65% ao ano",
+     "Estáveis"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Como a bolsa brasileira não operou na sexta, a queda de Nova York ainda **não foi precificada** na B3. É por isso que, na segunda, os preços podem se ajustar ao movimento externo e ao noticiário fiscal no Congresso. Isso é um **cenário de atenção**, não uma previsão."
+  },
+  {
+   "type": "h2",
+   "text": "Criptomoedas: o único mercado aberto"
+  },
+  {
+   "type": "p",
+   "text": "As criptomoedas negociam 24 horas, e a pressão continuou. Às **07h55**, o **Bitcoin** valia **US$ 57.925,32** (cerca de **R$ 344,6 mil**), queda de **6,29%** em 24 horas. O **Ethereum** recuou **6,55%**, a **US$ 1.640,84**, e a **BNB** caiu **8,39%**, a **US$ 522,64**. Já as moedas atreladas ao dólar, **Tether (USDT)** e **USDC**, ficaram praticamente estáveis."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: o que significa uma queda de 6% em 24 horas",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Quando o preço cai, a conta para voltar ao ponto de partida é maior do que a queda. **Exemplo ilustrativo (não é previsão):** se R$ 100 estivessem em um ativo que perdeu 6,29% em um dia, restariam cerca de R$ 93,71. Para voltar aos R$ 100, o ativo precisaria subir cerca de 6,7%."
+    },
+    {
+     "type": "p",
+     "text": "Por isso, ativos muito voláteis exigem cautela e **diversificação**. Para saber mais sobre a diferença de risco entre as classes, veja [Renda fixa ou renda variável](#renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona)."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Agenda de dividendos da semana"
+  },
+  {
+   "type": "p",
+   "text": "Mesmo com o mercado parado, a agenda de proventos segue. Segundo o calendário consultado, a **Taesa (TAEE4)** paga **R$ 0,2001 por ação em 26/11** para quem tinha posição na data-com. A **Mitre Realty (MTRE3)**, ação abaixo de R$ 10, paga **R$ 0,0378 em 27/11**. O **Banco BMG (BMGB4)**, também abaixo de R$ 10, tem data-com em **23/11** para **R$ 0,10 em JCP**. O **Banco do Brasil (BBAS3)** não tem pagamento previsto em novembro."
+  },
+  {
+   "type": "p",
+   "text": "Entre os fundos imobiliários, o **XPML11** (R$ 0,80 por cota) e o **BTLG11** (R$ 0,81 por cota) pagam em **25/11**. **MXRF11** (R$ 8,50) e **GARE11** (R$ 7,91) fecharam em queda de 0,70% e 0,75%, respectivamente, em 19/11."
+  },
+  {
+   "type": "h2",
+   "text": "Renda fixa como referência"
+  },
+  {
+   "type": "p",
+   "text": "Com a Selic em **13,75% ao ano**, o **Tesouro Selic 2031** paga Selic + 0,11% ao ano, e o **Tesouro Prefixado 2029** aparece a **14,94% ao ano**. O **Tesouro IPCA+ 2032** oferece IPCA + 7,74% ao ano (referência de 18/11). Para entender como os juros afetam o seu bolso, leia [O que é a taxa Selic](#o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes)."
+  },
+  {
+   "type": "callout",
+   "text": "**Exemplo ilustrativo:** com R$ 100, cinco cotas de MXRF11 custariam R$ 42,50 e cinco de GARE11, R$ 39,55, pelos preços de fechamento de 19/11. Rendimentos mensais variam e **rentabilidade passada não garante resultados futuros**."
+  },
+  {
+   "type": "p",
+   "text": "O que observar na segunda: a reação da B3 ao tombo de Nova York, o dólar acima de R$ 5,90 e a evolução do noticiário fiscal. O conteúdo é informativo e não é recomendação de compra ou venda."
+  }
+ ]
+}
