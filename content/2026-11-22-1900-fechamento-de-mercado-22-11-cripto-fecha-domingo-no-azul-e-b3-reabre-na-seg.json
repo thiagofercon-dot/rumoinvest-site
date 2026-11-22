@@ -1,0 +1,213 @@
+{
+ "capa": "noite",
+ "slug": "fechamento-de-mercado-22-11-cripto-fecha-domingo-no-azul-e-b3-reabre-na-segunda-com-focus",
+ "title": "Fechamento de 22/11: Bitcoin mantém US$ 60,8 mil e Ethereum sobe 2,27% no domingo; B3 reabre na segunda com Focus e dividendos",
+ "subtitle": "Com as bolsas fechadas, as criptomoedas fecham o domingo no azul; na segunda-feira, a B3 volta às 10h com Boletim Focus, Pé-de-Meia e datas de proventos na agenda.",
+ "category": "mercado",
+ "date": "2026-11-22",
+ "time": "19:00",
+ "sentiment": "Neutro",
+ "meta": "Fechamento 22/11: Bitcoin mantém US$ 60,8 mil e Ethereum sobe 2,27% com a B3 fechada. Veja Focus, dividendos e FIIs da segunda-feira, 23/11.",
+ "focus_kw": "fechamento de mercado 22 de novembro 2026",
+ "tags": [
+  "Fechamento de mercado",
+  "Bitcoin hoje",
+  "Boletim Focus",
+  "Dividendos novembro 2026",
+  "FIIs MXRF11 XPML11"
+ ],
+ "sources": [
+  {
+   "t": "Investing.com: criptomoedas",
+   "url": "https://br.investing.com/crypto",
+   "at": "22/11/2026 18:55"
+  },
+  {
+   "t": "Google Finance: dólar, S&P 500, Ibovespa e criptomoedas",
+   "url": "https://www.google.com/finance",
+   "at": "22/11/2026 18:55"
+  },
+  {
+   "t": "Agência Brasil: Boletim Focus",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mercado-reduz-projecoes-para-inflacao-e-crescimento-da-economia-em-202",
+   "at": "22/11/2026"
+  },
+  {
+   "t": "MEC / Gov.br: Pé-de-Meia de novembro",
+   "url": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/novembro/parcela-do-pe-de-meia-comeca-a-ser-paga-segunda-23",
+   "at": "22/11/2026"
+  },
+  {
+   "t": "XP Investimentos: calendário de dividendos de novembro de 2026",
+   "url": "https://conteudos.xpi.com.br/acoes/relatorios/acoes-confira-o-calendario-de-dividendos-de-novembro-de-2026/",
+   "at": "22/11/2026"
+  },
+  {
+   "t": "Status Invest: proventos",
+   "url": "https://statusinvest.com.br/acoes/proventos",
+   "at": "22/11/2026"
+  }
+ ],
+ "source_doc": "Relatório de Mercado - 22/11 - 18h (Drive id 1_46xUT97UH7UdexyrZPl6wkOvGWdYwPJxRGUwumqJ0w)",
+ "source_topic": "fechamento",
+ "image": "assets/covers/fechamento-de-mercado-22-11-cripto-fecha-domingo-no-azul-e-b3-reabre-na-segunda-com-focus.jpg",
+ "image_alt": "Foto noturna de metrópole com arranha-céus iluminados e celular exibindo gráfico em alta sobre uma mesa",
+ "canva_media_id": "MAHbruBqS7Q",
+ "body": [
+  {
+   "type": "p",
+   "text": "Com **B3 e Wall Street fechadas neste domingo (22)**, o mercado digital concentrou os negócios. O **Bitcoin** ficou em **US$ 60.831,66** (R$ 361.917,96), alta de **1,00% em 24 horas**, e o **Ethereum** subiu **2,27%**, a **US$ 1.717,89**, segundo Google Finance e Investing.com, às 18h55. O termômetro do dia é **Neutro**: cautela para a reabertura da bolsa, equilibrada pelo bom desempenho cripto."
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/fechamento-de-mercado-22-11-cripto-fecha-domingo-no-azul-e-b3-reabre-na-segunda-com-focus-1.jpg",
+   "alt": "Avenida Faria Lima ao entardecer de domingo, com prédios iluminados antes da abertura da bolsa na segunda-feira",
+   "caption": "Avenida Faria Lima ao entardecer, antes da reabertura da B3 na segunda-feira. Imagem ilustrativa."
+  },
+  {
+   "type": "h2",
+   "text": "Os números do dia"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Indicador",
+    "Cotação",
+    "Variação"
+   ],
+   "rows": [
+    [
+     "Ibovespa",
+     "166.376 pontos",
+     "Sem pregão (último fechamento, 19/11: -0,69%)"
+    ],
+    [
+     "Dólar (USD/BRL)",
+     "R$ 5,9495",
+     "+2,89% na semana (último fechamento: 20/11, 20h58)"
+    ],
+    [
+     "S&P 500 (EUA)",
+     "6.910,39 pontos",
+     "-3,70% em 20/11"
+    ],
+    [
+     "Selic meta / DI Over",
+     "13,75% / 13,65% ao ano",
+     "Estável"
+    ],
+    [
+     "Bitcoin (BTC)",
+     "US$ 60.831,66 (R$ 361.917,96)",
+     "+1,00% em 24h"
+    ],
+    [
+     "Ethereum (ETH)",
+     "US$ 1.717,89 (R$ 10.220,59)",
+     "+2,27% em 24h"
+    ],
+    [
+     "BNB",
+     "US$ 557,09 (R$ 3.314,41)",
+     "+1,68% em 24h"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Os números das bolsas são os do último pregão: **19/11** na B3 e **20/11** em Nova York. As criptomoedas foram apuradas às **18h55 BRT**. As moedas atreladas ao dólar, **USDT** (US$ 0,9984) e **USDC** (US$ 1,0000), seguem praticamente estáveis, como esperado."
+  },
+  {
+   "type": "h2",
+   "text": "O que o domingo mostrou"
+  },
+  {
+   "type": "p",
+   "text": "Como o mercado cripto **não fecha**, ele reage na hora a qualquer notícia, inclusive no fim de semana. No Brasil, investidores acompanharam as declarações do presidente Lula sobre o pacote fiscal, segundo a Folha, às vésperas da última semana completa de novembro. Para ver como o sábado terminou, leia o [fechamento de 21/11](#fechamento-de-mercado-21-11-bitcoin-volta-a-us-60-mil-e-b3-reabre-na-segunda)."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: o que é data-com",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "A **data-com** é o último dia em que comprar uma ação garante o direito a um provento já anunciado. **Exemplo ilustrativo (não é previsão):** se uma empresa anuncia R$ 0,10 por ação e você tem 10 ações na data-com, receberia R$ 1,00 na data de pagamento. Quem compra depois não recebe aquele valor. Por isso a data-com não é motivo para decidir nada às pressas: o preço da ação costuma se ajustar depois dela."
+    },
+    {
+     "type": "p",
+     "text": "Dividendos e JCP não são garantidos e variam a cada anúncio da empresa."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Agenda da segunda-feira (23/11)"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**08h25:** Boletim Focus do Banco Central, com as expectativas de IPCA, PIB, Selic e câmbio.",
+    "**10h:** reabertura da B3, que ajusta os preços ao recuo de 3,70% do S&P 500 e acompanha a tramitação do ajuste fiscal no Congresso.",
+    "**Pé-de-Meia:** início do pagamento da 3ª parcela de novembro, segundo o MEC.",
+    "**Proventos:** JCP de **PETR4/PETR3** (R$ 0,6741 por ação) e data-com de **BMGB4** (ação abaixo de R$ 10, R$ 0,10 de JCP, pagamento em 04/12) e **CAMB3** (R$ 0,10)."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Dividendos e FIIs da semana"
+  },
+  {
+   "type": "p",
+   "text": "Pelo calendário da XP Investimentos, a **Taesa (TAEE4)** paga **R$ 0,2001 por ação** na quinta-feira (26/11), e a **Mitre Realty (MTRE3)**, ação abaixo de R$ 10, paga **R$ 0,0378** em 27/11. A **ISAE4** tem data-com de JCP (R$ 0,188959) em 25/11. O **BBAS3** fechou em R$ 14,30 em 19/11 (+1,27%) e não tem data-com nem pagamento previsto em novembro."
+  },
+  {
+   "type": "table",
+   "head": [
+    "FII",
+    "Último fechamento (19/11)",
+    "Rendimento por cota",
+    "Pagamento (nov/2026)"
+   ],
+   "rows": [
+    [
+     "MXRF11",
+     "R$ 8,50",
+     "R$ 0,095 a R$ 0,10",
+     "16/11 (pago)"
+    ],
+    [
+     "GARE11",
+     "R$ 7,91",
+     "R$ 0,080 a R$ 0,083",
+     "09/11 (pago)"
+    ],
+    [
+     "HGLG11",
+     "R$ 141,80",
+     "R$ 1,17",
+     "16/11 (pago)"
+    ],
+    [
+     "XPML11",
+     "R$ 81,99",
+     "R$ 0,80",
+     "25/11"
+    ],
+    [
+     "BTLG11",
+     "R$ 94,80",
+     "R$ 0,81",
+     "25/11"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Exemplo ilustrativo:** com R$ 100, dá para comprar 5 cotas de **MXRF11** a R$ 8,50 (R$ 42,50) e 5 cotas de **GARE11** a R$ 7,91 (R$ 39,55), o que soma R$ 82,05. Com rendimentos recentes de de R$ 0,095 a R$ 0,10 (MXRF11) e R$ 0,080 a R$ 0,083 (GARE11) por cota ao mês, o total mensal ficaria entre R$ 0,88 e R$ 0,92. Os valores variam e **não são garantidos**; rentabilidade passada não garante resultados futuros."
+  },
+  {
+   "type": "callout",
+   "text": "Conteúdo informativo e educativo. Criptomoedas apuradas em 22/11 às 18h55; bolsas, de 19/11 (B3) e 20/11 (EUA). Exemplos em reais são ilustrativos. Nada aqui é recomendação de compra, venda ou alocação."
+  }
+ ]
+}
