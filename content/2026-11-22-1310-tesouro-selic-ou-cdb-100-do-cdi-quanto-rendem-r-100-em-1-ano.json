@@ -1,0 +1,191 @@
+{
+ "capa": "dia",
+ "slug": "tesouro-selic-ou-cdb-100-do-cdi-quanto-rendem-r-100-em-1-ano",
+ "title": "Tesouro Selic ou CDB a 100% do CDI: quanto rendem R$ 100 em 1 ano com a Selic a 13,75%",
+ "subtitle": "Com a Selic mantida em 13,75%, três aplicações simples ficam bem próximas. Veja a comparação em reais, o papel do IR e o que pesa na escolha.",
+ "category": "renda-fixa",
+ "date": "2026-11-22",
+ "time": "13:10",
+ "sentiment": "Neutro",
+ "meta": "Tesouro Selic, CDB 100% CDI, LCI/LCA e poupança com a Selic a 13,75%: veja o exemplo ilustrativo de R$ 100 em 1 ano e o que pesa na escolha.",
+ "focus_kw": "Tesouro Selic",
+ "tags": [
+  "Tesouro Selic",
+  "CDB 100% do CDI",
+  "LCI e LCA",
+  "Poupança",
+  "Selic 13,75%",
+  "Renda Fixa"
+ ],
+ "sources": [
+  {
+   "t": "InfoMoney: Selic fica em 13,75%: veja quanto rendem R$ 10 mil em CDB, Tesouro Selic e poupança (simulação Research XP)",
+   "url": "https://www.infomoney.com.br/onde-investir/selic-fica-em-1375-veja-quanto-rendem-r-10-mil-em-cdb-tesouro-selic-e-poupanca/",
+   "at": "04/11/2026 18:45"
+  },
+  {
+   "t": "CNN Brasil: Selic a 13,75%: quanto rendem R$ 1 mil na poupança, Tesouro Direto ou CDB?",
+   "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/selic-a-1375-quanto-rendem-r-1-mil-na-poupanca-tesouro-direto-ou-cdb/",
+   "at": "04/11/2026 18:42"
+  }
+ ],
+ "source_doc": "Pesquisa própria do Claude (sem relatório de renda fixa do Drive em 22/11 13:10; relatório de mercado de 22/11 12h sem seção de renda fixa)",
+ "source_topic": "Tesouro Selic x CDB 100% CDI x LCI/LCA x poupança: R$ 100 em 1 ano",
+ "image": "assets/covers/tesouro-selic-ou-cdb-100-do-cdi-r-100.jpg",
+ "image_alt": "Foto de mesa com notas de real, calculadora, caderno aberto e um pequeno cofre",
+ "canva_media_id": "MAHbqOE6jng",
+ "body": [
+  {
+   "type": "p",
+   "text": "O **Tesouro Selic** acompanha a taxa básica de juros, e o Copom a manteve em **13,75% ao ano** na reunião de 4 de novembro, encerrando cinco cortes seguidos iniciados em março, segundo InfoMoney e CNN Brasil. Com a Selic parada, uma dúvida comum de quem começa é: o título público rende mais do que um CDB, uma LCI/LCA ou a poupança? A simulação da Research da XP, divulgada pelo InfoMoney, ajuda a enxergar a diferença."
+  },
+  {
+   "type": "h2",
+   "text": "Quatro aplicações, quatro formas de ganhar"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Tesouro Selic:** título do governo que paga a Selic do período. Na simulação, foi usado o Tesouro Selic 2031 a 100% da Selic mais 0,11% ao ano, com taxa de custódia da B3 de 0,2% ao ano.",
+    "**CDB a 100% do CDI:** o CDI anda muito perto da Selic. O ganho paga Imposto de Renda pela tabela regressiva.",
+    "**LCI/LCA a 85% do CDI:** rende menos que o CDB, mas na simulação não desconta IR, sem desconto de IR nas premissas da simulação.",
+    "**Poupança:** rende 0,5% ao mês mais TR (a simulação usa TR de 0,1% ao mês), isenta de IR."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "A comparação em reais após 1 ano"
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: R$ 100 em 1 ano com a Selic fixa em 13,75%",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo**, proporcional à simulação da XP para R$ 10 mil (valores líquidos, início em 04/11/2026, Selic mantida em 13,75% durante todo o período, o que na prática pode não acontecer):"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Aplicação",
+      "R$ 10 mil em 1 ano",
+      "Equivale a R$ 100"
+     ],
+     "rows": [
+      [
+       "Tesouro Selic 2031",
+       "R$ 11.116,24",
+       "R$ 111,16"
+      ],
+      [
+       "CDB a 100% do CDI",
+       "R$ 11.121,37",
+       "R$ 111,21"
+      ],
+      [
+       "LCI/LCA a 85% do CDI",
+       "R$ 11.155,30",
+       "R$ 111,55"
+      ],
+      [
+       "Poupança",
+       "R$ 10.755,58",
+       "R$ 107,56"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "A diferença entre as três primeiras é de poucos centavos a cada R$ 100. A poupança fica cerca de R$ 3,60 atrás do Tesouro Selic no mesmo cenário. Rentabilidade passada ou simulada não garante resultados futuros."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Por que o resultado fica tão parecido?"
+  },
+  {
+   "type": "p",
+   "text": "Com a Selic alta, o rendimento bruto é grande, e o IR e a taxa de custódia puxam o líquido para perto. No prazo de 1 ano, o CDB paga IR de 17,5% sobre o ganho (a tabela vai de 22,5% até 180 dias a 15% acima de 720 dias). A LCI/LCA, mesmo pagando só 85% do CDI, escapa do imposto na simulação, e por isso chega ao mesmo patamar. Se a Selic mudar nos próximos meses, os números mudam. Esse é o principal limite de qualquer simulação."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: onde deixar o dinheiro com Selic a 13,75%",
+   "center": "Selic a 13,75%",
+   "branches": [
+    {
+     "label": "Tesouro Selic",
+     "items": [
+      "Título do governo",
+      "Custódia B3 de 0,2% ao ano"
+     ]
+    },
+    {
+     "label": "CDB 100% CDI",
+     "items": [
+      "IR regressivo",
+      "Garantia do FGC dentro do limite"
+     ]
+    },
+    {
+     "label": "LCI/LCA",
+     "items": [
+      "Sem IR na simulação",
+      "Carência mínima de 3 meses"
+     ]
+    },
+    {
+     "label": "Poupança",
+     "items": [
+      "0,5% ao mês mais TR",
+      "Isenta de IR"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "O que pesa além da taxa"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Liquidez:** o Tesouro Selic pode ser vendido a qualquer momento, com resgate no dia útil seguinte. Já o CDB e a LCI/LCA podem ter carência ou prazo fixo, o que muda o uso do dinheiro. Veja o guia de [reserva de emergência](#reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro).",
+    "**Imposto:** a tributação de LCI e LCA está em discussão. Entenda em [LCI e LCA: o que está em discussão](#tributacao-de-lci-e-lca-o-que-esta-em-discussao-e-como-comparar-com-cdb-e-fiis).",
+    "**Percentual do CDI:** um CDB que paga 100% do CDI é diferente de um que paga 90% ou 105%. Confira sempre o percentual antes de comparar.",
+    "**Segurança:** o Tesouro tem garantia do governo; CDB e LCI/LCA contam com a proteção do FGC dentro dos limites da regra."
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "Conteúdo educativo e informativo. Não é recomendação de investimento. Os valores são simulações com premissas simplificadas (Selic fixa, início em 04/11/2026) e podem diferir do que você encontrar na sua corretora ou banco."
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes",
+   "items": [
+    {
+     "q": "O Tesouro Selic rende mais que a poupança?",
+     "a": "Na simulação da XP com Selic a 13,75%, sim: R$ 100 viraram cerca de R$ 111,16 no Tesouro Selic 2031 e R$ 107,56 na poupança em 1 ano. Se a Selic mudar, o resultado muda."
+    },
+    {
+     "q": "O Tesouro Selic tem risco de perder dinheiro?",
+     "a": "É considerado um dos títulos de menor oscilação, mas há custos como a taxa de custódia da B3 e o IR sobre o ganho. Para detalhes, veja o [guia sobre Tesouro Selic, prefixado e IPCA+](#tesouro-direto-com-selic-a-13-75-entenda-tesouro-selic-prefixado-e-ipca)."
+    },
+    {
+     "q": "CDB a 100% do CDI é melhor que o Tesouro Selic?",
+     "a": "Na simulação, o resultado foi quase igual (R$ 111,21 contra R$ 111,16 a cada R$ 100). A escolha costuma pesar mais em liquidez, prazo e confiança no emissor."
+    },
+    {
+     "q": "O que é juro real?",
+     "a": "É o ganho acima da inflação. Veja no artigo [Selic a 13,75% e IPCA de 4,63%](#selic-a-13-75-e-ipca-de-4-63-o-que-e-juro-real-e-quanto-rende-r-100-no-cdb)."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Compare com calma antes de escolher",
+   "text": "Leia também [como a Selic afeta seu dinheiro](#o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes) e monte sua reserva com liquidez primeiro."
+  }
+ ]
+}
