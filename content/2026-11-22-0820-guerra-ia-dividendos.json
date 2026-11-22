@@ -1,0 +1,167 @@
+{
+ "slug": "guerra-da-ia-e-queda-da-nvidia-o-que-e-volatilidade-e-por-que-dividendos-dao-previsibilidade",
+ "title": "Guerra da IA e queda da Nvidia: o que é volatilidade e por que dividendos dão previsibilidade",
+ "subtitle": "A notícia de que a Amazon negocia comprar uma startup de IA por US$ 7,5 bilhões reacendeu o debate. Entenda volatilidade e a diferença entre ativos de crescimento e de renda.",
+ "category": "educacao",
+ "date": "2026-11-22",
+ "time": "08:20",
+ "sentiment": "Alerta",
+ "meta": "Amazon negocia startup de IA por US$ 7,5 bi em meio à queda da Nvidia. Entenda volatilidade e como dividendos e ações abaixo de R$ 10 entram na conversa.",
+ "focus_kw": "ações de IA ou dividendos onde investir",
+ "tags": [
+  "Ações de IA",
+  "Volatilidade",
+  "Dividendos novembro 2026",
+  "Ações abaixo de R$ 10",
+  "Renda passiva"
+ ],
+ "sources": [
+  {
+   "t": "InfoMoney",
+   "url": "https://www.infomoney.com.br/",
+   "at": "22/11/2026 07:50"
+  },
+  {
+   "t": "Banco Central do Brasil: Selic",
+   "url": "https://www.bcb.gov.br/controleinflacao/taxaselic",
+   "at": "22/11/2026"
+  }
+ ],
+ "trend": {
+  "rank": 2,
+  "term": "Amazon negocia compra de startup de IA por US$ 7,5 bilhões",
+  "ref": "22/11"
+ },
+ "source_doc": "Relatório de Tendências - 22/11 - 07h20 (Drive id 1t6_VsxtWyXqYCtClyT2kGp2DiFHwrOzKdkIhHHdJzKE)",
+ "source_topic": "Guerra da IA, volatilidade e dividendos",
+ "image": "assets/covers/capa-guerra-ia-dividendos.jpg",
+ "image_alt": "Chips de computador de IA ao lado de caderno e moedas",
+ "body": [
+  {
+   "type": "p",
+   "text": "A **guerra da inteligência artificial** é assunto em alta. Segundo reportagem do Financial Times repercutida pelo InfoMoney, a Amazon negocia a compra de uma startup de IA por US$ 7,5 bilhões, em meio à forte correção das ações da Nvidia e do setor. O que isso ensina a quem está começando?"
+  },
+  {
+   "type": "h2",
+   "text": "O que é volatilidade"
+  },
+  {
+   "type": "p",
+   "text": "**Volatilidade** é o quanto o preço de um ativo sobe e desce em pouco tempo. Ações de tecnologia e criptomoedas costumam ter volatilidade alta: podem subir muito, mas também cair forte. Isso não é bom nem ruim por si só; é risco que precisa caber no seu perfil."
+  },
+  {
+   "type": "h2",
+   "text": "Ativos de crescimento x ativos de renda"
+  },
+  {
+   "type": "p",
+   "text": "Ativos de **crescimento** dependem de expectativas sobre o futuro. Ativos de **renda**, como empresas e fundos que distribuem proventos, têm fluxo de caixa mais visível, mas também oscilam e podem reduzir pagamentos. Segundo o relatório, a agenda da semana inclui dividendos de PETR4 (23/11) e TAEE4 (26/11); entre ações abaixo de R$ 10, MTRE3 com pagamento em 27/11 e BMGB4 com Data-Com em 23/11. Para entender os prazos, veja [como funcionam os dividendos](#dividendos-como-funcionam-data-com-e-pagamento-e-por-que-bbas3-e-taee4-sao-observadas)."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: queda de 20% e a conta da recuperação (exemplo ilustrativo)",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Imagine, de forma **ilustrativa**, R$ 100 aplicados em um ativo que cai 20%: sobram R$ 80. Para voltar a R$ 100, ele precisaria subir 25%. Por isso, quedas fortes exigem atenção ao risco."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Situação (ilustrativa)",
+      "Valor"
+     ],
+     "rows": [
+      [
+       "Investimento inicial",
+       "R$ 100"
+      ],
+      [
+       "Após queda de 20%",
+       "R$ 80"
+      ],
+      [
+       "Alta necessária para recuperar",
+       "25%"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "O que observar antes de decidir"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Dividendo anunciado não é garantido para sempre: empresas podem mudar a política de proventos.",
+    "Preço baixo não significa ação barata: observe a empresa, não só a cotação.",
+    "Monte antes a [reserva de emergência](#reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro) e conheça [renda fixa ou renda variável](#renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona). Veja também [como começar a investir com pouco dinheiro](#como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes)."
+   ]
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: IA e dividendos",
+   "center": "Volatilidade",
+   "branches": [
+    {
+     "label": "Crescimento",
+     "items": [
+      "Big techs de IA",
+      "Criptomoedas"
+     ]
+    },
+    {
+     "label": "Renda",
+     "items": [
+      "Dividendos",
+      "FIIs"
+     ]
+    },
+    {
+     "label": "Risco",
+     "items": [
+      "Quedas fortes",
+      "Dividendo não garantido"
+     ]
+    },
+    {
+     "label": "Cuidados",
+     "items": [
+      "Reserva primeiro",
+      "Diversificar"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes",
+   "items": [
+    {
+     "q": "O que é volatilidade?",
+     "a": "É a intensidade das oscilações de preço de um ativo em um período."
+    },
+    {
+     "q": "Dividendos eliminam o risco?",
+     "a": "Não. As ações oscilam e os proventos podem mudar."
+    },
+    {
+     "q": "Vale correr atrás das ações de IA?",
+     "a": "Este conteúdo é educativo e não recomenda compra ou venda."
+    },
+    {
+     "q": "Rentabilidade passada garante o futuro?",
+     "a": "Não, a rentabilidade passada não garante resultados futuros."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Aprenda mais",
+   "text": "Leia [como funcionam os dividendos](#dividendos-como-funcionam-data-com-e-pagamento-e-por-que-bbas3-e-taee4-sao-observadas) e o guia de [renda fixa ou renda variável](#renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona)."
+  }
+ ],
+ "canva_media_id": "MAHbo5D0s4w"
+}

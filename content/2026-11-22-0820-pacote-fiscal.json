@@ -1,0 +1,168 @@
+{
+ "slug": "pacote-fiscal-e-selic-a-13-75-o-que-significa-para-tesouro-direto-e-fiis",
+ "title": "Pacote fiscal e Selic a 13,75%: o que significa para Tesouro Direto e FIIs",
+ "subtitle": "O debate sobre o pacote fiscal movimenta o noticiário. Entenda, em 5 minutos, como o ruído político se conecta aos juros e como iniciantes costumam equilibrar Tesouro e FIIs.",
+ "category": "educacao",
+ "date": "2026-11-22",
+ "time": "08:20",
+ "sentiment": "Alerta",
+ "meta": "Pacote fiscal e Selic a 13,75%: entenda como o ruído político afeta juros, Tesouro Direto e FIIs como MXRF11 e GARE11, com exemplo em reais.",
+ "focus_kw": "pacote fiscal e Selic alta onde investir",
+ "tags": [
+  "Pacote fiscal",
+  "Selic 13,75",
+  "Tesouro Direto",
+  "FIIs MXRF11 GARE11",
+  "Onde investir com juros altos"
+ ],
+ "sources": [
+  {
+   "t": "Folha Mercado",
+   "url": "https://www1.folha.uol.com.br/mercado/",
+   "at": "22/11/2026 07:50"
+  },
+  {
+   "t": "Agência Brasil: mercado reduz projeções para inflação e crescimento",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mercado-reduz-projecoes-para-inflacao-e-crescimento-da-economia-em-202",
+   "at": "22/11/2026 07:50"
+  },
+  {
+   "t": "Banco Central do Brasil: Selic",
+   "url": "https://www.bcb.gov.br/controleinflacao/taxaselic",
+   "at": "22/11/2026"
+  }
+ ],
+ "trend": {
+  "rank": 1,
+  "term": "Lula defende pacote fiscal e critica setor financeiro",
+  "ref": "22/11"
+ },
+ "source_doc": "Relatório de Tendências - 22/11 - 07h20 (Drive id 1t6_VsxtWyXqYCtClyT2kGp2DiFHwrOzKdkIhHHdJzKE)",
+ "source_topic": "Pacote fiscal, Selic a 13,75% e proteção do patrimônio",
+ "image": "assets/covers/capa-pacote-fiscal.jpg",
+ "image_alt": "Notas de real, calculadora e gráficos sobre uma mesa",
+ "body": [
+  {
+   "type": "p",
+   "text": "O **pacote fiscal** é um dos assuntos em alta neste domingo. Segundo a Folha e o InfoMoney, declarações do presidente Lula ao defender o pacote, com críticas ao setor financeiro, aumentaram a atenção dos investidores sobre a abertura da B3 e do dólar na segunda-feira (23/11). Ao mesmo tempo, o Boletim Focus, citado pela Agência Brasil, aponta Selic mantida em 13,75% ao ano e IPCA de 5,11% em 2026. Mas o que isso tem a ver com o seu dinheiro?"
+  },
+  {
+   "type": "h2",
+   "text": "O que é pacote fiscal e por que ele mexe com os juros"
+  },
+  {
+   "type": "p",
+   "text": "**Pacote fiscal** é um conjunto de medidas do governo para equilibrar receitas e despesas. Quando o mercado tem dúvidas sobre as contas públicas, costuma exigir juros maiores para financiar o governo, o que pode pressionar títulos públicos e o dólar. Nenhuma notícia isolada define o rumo: é preciso olhar o conjunto. Para entender a base, veja o guia sobre a [taxa Selic](#o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes)."
+  },
+  {
+   "type": "h2",
+   "text": "Tesouro Direto e FIIs: duas funções diferentes"
+  },
+  {
+   "type": "p",
+   "text": "O **Tesouro Selic** acompanha a taxa básica de juros e é muito usado como porto seguro de curto prazo. Já os **FIIs** (fundos imobiliários) distribuem rendimentos periodicamente, mas suas cotas oscilam todos os dias e o rendimento não é garantido. Como referência de preço no relatório: MXRF11 a R$ 8,50 e GARE11 a R$ 7,91."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: R$ 1.000 em juros altos (exemplo ilustrativo)",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Imagine, de forma **ilustrativa**, uma taxa de 13,75% ao ano sobre R$ 1.000, sem considerar impostos e taxas: seria cerca de R$ 137,50 em um ano. Já um FII que pague, por exemplo, R$ 0,08 por cota por mês, com 100 cotas, geraria R$ 8,00 no mês, mas esse valor pode mudar de um mês para outro."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Ativo (ilustrativo)",
+      "Característica"
+     ],
+     "rows": [
+      [
+       "Tesouro Selic",
+       "Acompanha a Selic; previsibilidade maior"
+      ],
+      [
+       "FII de papel ou tijolo",
+       "Renda mensal variável; cota oscila"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Erros comuns em momentos de ruído político"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Decidir por manchete: o noticiário muda todo dia e ninguém acerta a reação do mercado.",
+    "Esquecer a [reserva de emergência](#reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro): ela deve ficar em ativo seguro e de liquidez diária antes de qualquer risco.",
+    "Concentrar tudo em um só ativo. Entenda a diferença entre [renda fixa ou renda variável](#renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona) e veja [como começar a investir com pouco dinheiro](#como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes)."
+   ]
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: pacote fiscal e juros",
+   "center": "Pacote fiscal",
+   "branches": [
+    {
+     "label": "O que é",
+     "items": [
+      "Medidas de receitas e despesas",
+      "Impacta confiança"
+     ]
+    },
+    {
+     "label": "Efeitos",
+     "items": [
+      "Juros",
+      "Dólar"
+     ]
+    },
+    {
+     "label": "Ativos",
+     "items": [
+      "Tesouro Selic",
+      "FIIs MXRF11 e GARE11"
+     ]
+    },
+    {
+     "label": "Cuidados",
+     "items": [
+      "Reserva primeiro",
+      "Evitar impulso"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes",
+   "items": [
+    {
+     "q": "O que é o pacote fiscal?",
+     "a": "É um conjunto de medidas do governo para equilibrar receitas e despesas públicas."
+    },
+    {
+     "q": "A Selic em 13,75% garante retorno?",
+     "a": "Não. A taxa define a referência dos juros, mas rentabilidade passada não garante resultados futuros."
+    },
+    {
+     "q": "FII é melhor que Tesouro?",
+     "a": "Depende do objetivo e do risco. Este conteúdo é educativo e não recomenda compra ou venda."
+    },
+    {
+     "q": "Notícia política muda o preço dos FIIs?",
+     "a": "Pode influenciar expectativas de juros, o que afeta preços, mas o efeito varia por fundo."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Aprenda mais",
+   "text": "Comece pelo guia da [taxa Selic](#o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes) e veja também [como funcionam os dividendos](#dividendos-como-funcionam-data-com-e-pagamento-e-por-que-bbas3-e-taee4-sao-observadas)."
+  }
+ ],
+ "canva_media_id": "MAHbo9zYDcQ"
+}

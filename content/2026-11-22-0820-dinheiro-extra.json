@@ -1,0 +1,166 @@
+{
+ "slug": "auxilio-ou-indenizacao-extra-como-organizar-o-dinheiro-que-entra-de-uma-vez",
+ "title": "Auxílio ou indenização extra: como organizar o dinheiro que entra de uma vez",
+ "subtitle": "A decisão do STF que libera a retomada de auxílio a mais de 51 mil atingidos por Brumadinho chama atenção. Veja princípios gerais de organização financeira para quem recebe valores extras.",
+ "category": "educacao",
+ "date": "2026-11-22",
+ "time": "08:20",
+ "sentiment": "Neutro",
+ "meta": "Auxílio ou indenização extra: veja como organizar o dinheiro que entra de uma vez, com orçamento, reserva de emergência e exemplo em reais. Guia.",
+ "focus_kw": "como organizar dinheiro extra auxílio",
+ "tags": [
+  "Dinheiro extra",
+  "Organização financeira",
+  "Reserva de emergência",
+  "Orçamento",
+  "Brumadinho auxílio"
+ ],
+ "sources": [
+  {
+   "t": "InfoMoney",
+   "url": "https://www.infomoney.com.br/",
+   "at": "22/11/2026 07:50"
+  }
+ ],
+ "trend": {
+  "rank": 3,
+  "term": "STF libera retomada de auxílio a atingidos por Brumadinho",
+  "ref": "22/11"
+ },
+ "source_doc": "Relatório de Tendências - 22/11 - 07h20 (Drive id 1t6_VsxtWyXqYCtClyT2kGp2DiFHwrOzKdkIhHHdJzKE)",
+ "source_topic": "Organização financeira de valores extras",
+ "image": "assets/covers/capa-dinheiro-extra.jpg",
+ "image_alt": "Mãos organizando notas de real ao lado de caderno de orçamento",
+ "body": [
+  {
+   "type": "p",
+   "text": "O **dinheiro extra** é o tema de fundo de um assunto em alta. Segundo o InfoMoney, o Supremo Tribunal Federal liberou a retomada do pagamento de auxílio a mais de 51 mil pessoas atingidas pela tragédia de Brumadinho (MG). Este artigo não trata de regras desse auxílio; apresenta princípios gerais para qualquer pessoa que receba valores que entram de uma vez, como auxílios, restituições ou 13º salário."
+  },
+  {
+   "type": "h2",
+   "text": "Por que valor extra pede planejamento"
+  },
+  {
+   "type": "p",
+   "text": "Quando uma quantia maior entra de uma vez, é comum gastá-la sem perceber. Dar um destino a cada parte do valor ajuda a evitar arrependimentos e dívidas."
+  },
+  {
+   "type": "h2",
+   "text": "Uma ordem simples de prioridades"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Primeiro, contas essenciais e dívidas caras (como cartão e cheque especial).",
+    "Depois, a [reserva de emergência](#reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro): valor que cobre meses de despesas, em ativo seguro e líquido.",
+    "Só então, objetivos futuros. Veja [como começar a investir com pouco dinheiro](#como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes) e [renda fixa ou renda variável](#renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona)."
+   ]
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: dividindo R$ 3.000 (exemplo ilustrativo)",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Imagine, de forma **ilustrativa**, que entram R$ 3.000. Uma divisão possível, que cada pessoa deve adaptar à sua realidade, é destinar parte às contas e dívidas, parte à reserva e parte a um objetivo."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Destino (ilustrativo)",
+      "Valor"
+     ],
+     "rows": [
+      [
+       "Contas e dívidas",
+       "R$ 1.200"
+      ],
+      [
+       "Reserva de emergência",
+       "R$ 1.200"
+      ],
+      [
+       "Objetivo ou lazer",
+       "R$ 600"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Erros comuns"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Tratar o valor extra como renda mensal fixa.",
+    "Investir sem reserva e sem entender o risco.",
+    "Aceitar ofertas de retorno garantido ou alto demais: desconfie e confira a instituição."
+   ]
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: dinheiro extra",
+   "center": "Valor que entra de uma vez",
+   "branches": [
+    {
+     "label": "Primeiro",
+     "items": [
+      "Contas essenciais",
+      "Dívidas caras"
+     ]
+    },
+    {
+     "label": "Reserva",
+     "items": [
+      "Meses de despesas",
+      "Liquidez"
+     ]
+    },
+    {
+     "label": "Depois",
+     "items": [
+      "Objetivos",
+      "Investir aos poucos"
+     ]
+    },
+    {
+     "label": "Cuidados",
+     "items": [
+      "Evitar golpes",
+      "Sem promessa de ganho"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes",
+   "items": [
+    {
+     "q": "Preciso investir todo o valor extra?",
+     "a": "Não. Priorize contas, dívidas caras e reserva antes de investir."
+    },
+    {
+     "q": "Onde deixar a reserva?",
+     "a": "Em ativo seguro e de liquidez diária; veja o guia de reserva de emergência."
+    },
+    {
+     "q": "Este texto explica regras do auxílio?",
+     "a": "Não. É educativo e trata de organização financeira geral."
+    },
+    {
+     "q": "Existe investimento com retorno garantido alto?",
+     "a": "Desconfie. Este conteúdo não promete ganhos; rentabilidade passada não garante o futuro."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Aprenda mais",
+   "text": "Leia o guia da [reserva de emergência](#reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro) e veja [como começar a investir com pouco dinheiro](#como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes)."
+  }
+ ],
+ "canva_media_id": "MAHbo5ZvowQ"
+}
