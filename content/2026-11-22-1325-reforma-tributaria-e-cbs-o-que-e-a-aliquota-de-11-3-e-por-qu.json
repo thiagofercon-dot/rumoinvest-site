@@ -1,0 +1,196 @@
+{
+ "slug": "reforma-tributaria-e-cbs-o-que-e-a-aliquota-de-11-3-e-por-que-o-senado-pediu-explicacoes",
+ "title": "Reforma tributária e CBS: o que é a alíquota de 11,3% e por que o Senado pediu explicações ao TCU",
+ "subtitle": "Entenda de forma simples o que muda com a CBS em 2027, quem define a alíquota e o que isso significa para o investidor iniciante.",
+ "category": "educacao",
+ "date": "2026-11-22",
+ "time": "13:25",
+ "sentiment": "Alerta",
+ "meta": "Reforma tributária e CBS: entenda a alíquota de referência de 11,3%, o pedido do Senado ao TCU e o que observar como investidor, sem recomendação.",
+ "focus_kw": "reforma tributária CBS alíquota 11,3%",
+ "tags": [
+  "reforma tributária 2026",
+  "CBS alíquota 11,3%",
+  "TCU Senado CBS",
+  "imposto sobre consumo",
+  "educação financeira"
+ ],
+ "sources": [
+  {
+   "t": "TCU: calcula alíquota de referência de 11,3% para novo tributo sobre consumo",
+   "url": "https://portal.tcu.gov.br/imprensa/noticias/tcu-calcula-aliquota-de-referencia-de-113-para-novo-tributo-sobre-consumo",
+   "at": "28/10/2026"
+  },
+  {
+   "t": "O Povo / Agência Brasil: Senado pede explicações a TCU sobre alíquota de 11,3% da CBS",
+   "url": "https://www.opovo.com.br/noticias/economia/2026/11/18/senado-pede-explicacoes-a-tcu-sobre-aliquota-de-113-da-cbs.html",
+   "at": "18/11/2026 18:56"
+  }
+ ],
+ "trend": {
+  "rank": 3,
+  "term": "Reforma tributária: Senado questiona alíquota de 11,3% da CBS",
+  "ref": "22/11"
+ },
+ "source_doc": "Relatório de Tendências - 22/11 - 12h20 (Drive id 1eGZa8q8z8PHVPtaYStahu_b7z5LevYXwqX4xuN3pIvI)",
+ "source_topic": "Reforma tributária: alíquota de 11,3% da CBS e pedido do Senado ao TCU",
+ "image": "assets/covers/reforma-tributaria-e-cbs-o-que-e-a-aliquota-de-11-3-e-por-que-o-senado-pediu-explicacoes.jpg",
+ "image_alt": "Mesa com calculadora, documentos, tablet com gráficos e cédulas de real",
+ "canva_media_id": "MAHbqGU3wOo",
+ "body": [
+  {
+   "type": "p",
+   "text": "A **reforma tributária** voltou ao centro do debate: o Tribunal de Contas da União (TCU) calculou em **11,3%** a alíquota de referência da **CBS**, novo tributo federal sobre consumo, e, em 18/11, a Comissão de Assuntos Econômicos (CAE) do Senado aprovou requerimento pedindo explicações ao tribunal. Este texto explica os conceitos, sem opinião sobre quem tem razão."
+  },
+  {
+   "type": "h2",
+   "text": "O que é a CBS"
+  },
+  {
+   "type": "p",
+   "text": "A CBS (Contribuição sobre Bens e Serviços) faz parte da reforma tributária aprovada em 2023, regulamentada pela Lei Complementar 214/2025. Segundo o TCU, ela começa a ser cobrada efetivamente em **2027** e substitui tributos federais sobre consumo, como PIS e Cofins."
+  },
+  {
+   "type": "h2",
+   "text": "O que é a alíquota de referência de 11,3%"
+  },
+  {
+   "type": "p",
+   "text": "Segundo o TCU, a alíquota de referência busca **preservar o equilíbrio da arrecadação federal** durante a transição, com base em receitas de 2012 a 2021 dos tributos que serão extintos ou reduzidos. O próprio tribunal ressalva que os 11,3% **não correspondem, necessariamente, ao percentual efetivamente cobrado** dos contribuintes, pois há reduções e isenções. O cálculo foi aprovado em 28/10/2026; a estimativa inicial da equipe econômica era de 9,21%, e subiu para 11,3468% (arredondado para 11,3%) com os benefícios e regimes diferenciados aprovados pelo Congresso."
+  },
+  {
+   "type": "h2",
+   "text": "Quem decide e até quando"
+  },
+  {
+   "type": "p",
+   "text": "A divisão de papéis, segundo o TCU: a Receita elabora a metodologia e a proposta, o TCU homologa e calcula, e o **Senado fixa a alíquota por resolução, até 15 de dezembro**. Se não houver decisão no prazo, prevalece o percentual calculado pelo tribunal, segundo a Agência Brasil."
+  },
+  {
+   "type": "h2",
+   "text": "Por que o Senado pediu explicações"
+  },
+  {
+   "type": "p",
+   "text": "O requerimento, de autoria do senador Eduardo Braga, pede acesso a estudos, metodologias e atas que fundamentaram a recomendação, e informações ao Ministério da Fazenda. Um ponto central é o chamado **hiato de conformidade**, adotado pelo TCU em 15,9%, que o relator considera conservador. Ele pediu simulações com 12,5%, 11% e 10%. O ministro da Fazenda defendeu os 11,3% e estimou tributação efetiva média de cerca de 8,5%, por causa de isenções e reduções. As fontes consultadas **não trazem projeção de efeito sobre preços ou inflação**."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: por que um imposto pode mexer no preço (exemplo ilustrativo)",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo**, sem relação com a alíquota real: se um produto custa R$ 100 sem imposto e a alíquota fosse 10%, o imposto seria R$ 10 e o preço final, R$ 110. Se a alíquota mudar, o imposto muda; mas o efeito no preço de verdade depende dos tributos que saem, das isenções e da concorrência."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Alíquota (ilustrativa)",
+      "Imposto sobre R$ 100",
+      "Preço final"
+     ],
+     "rows": [
+      [
+       "8%",
+       "R$ 8",
+       "R$ 108"
+      ],
+      [
+       "10%",
+       "R$ 10",
+       "R$ 110"
+      ],
+      [
+       "12%",
+       "R$ 12",
+       "R$ 112"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "O que o investidor iniciante pode observar"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Inflação e juros:** mudanças de preços podem influenciar a Selic; entenda em [o que é a taxa Selic](#o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes).",
+    "**Renda fixa:** o debate sobre tributação já alcança títulos como LCI e LCA; veja [tributação de LCI e LCA](#tributacao-de-lci-e-lca-o-que-esta-em-discussao-e-como-comparar-com-cdb-e-fiis).",
+    "**Dividendos e FIIs:** regras tributárias podem mudar o que sobra no bolso; acompanhe o tema em [dividendos: como funcionam](#dividendos-como-funcionam-data-com-e-pagamento-e-por-que-bbas3-e-taee4-sao-observadas).",
+    "**Fontes oficiais:** acompanhe TCU, Senado e Receita para os fatos, em vez de boatos."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Conteúdo educativo, sem recomendação de investimento. Rentabilidade passada não garante resultados futuros."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: CBS e reforma tributária",
+   "center": "CBS",
+   "branches": [
+    {
+     "label": "O que é",
+     "items": [
+      "Tributo federal sobre consumo",
+      "Substitui PIS e Cofins",
+      "Cobrança efetiva em 2027"
+     ]
+    },
+    {
+     "label": "Alíquota",
+     "items": [
+      "Referência de 11,3%",
+      "Cálculo feito pelo TCU",
+      "Não é necessariamente a cobrada"
+     ]
+    },
+    {
+     "label": "Decisão",
+     "items": [
+      "Senado por resolução",
+      "Prazo até 15/12",
+      "Sem decisão, vale o do TCU"
+     ]
+    },
+    {
+     "label": "O que observar",
+     "items": [
+      "Inflação e juros",
+      "Tributação de renda fixa",
+      "Fontes oficiais"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes sobre a CBS",
+   "items": [
+    {
+     "q": "O que é a CBS?",
+     "a": "Um tributo federal sobre consumo, parte da reforma tributária, que substitui PIS e Cofins e começa a valer de fato em 2027."
+    },
+    {
+     "q": "Os 11,3% serão o que vou pagar?",
+     "a": "Não necessariamente. É a alíquota de referência; há reduções e isenções, e a decisão final é do Senado."
+    },
+    {
+     "q": "Quem define a alíquota?",
+     "a": "O Senado, por resolução, até 15 de dezembro, com base no cálculo do TCU."
+    },
+    {
+     "q": "A CBS vai aumentar os preços?",
+     "a": "As fontes consultadas não apresentam projeção de efeito sobre preços ou inflação. Acompanhe os dados oficiais."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Continue aprendendo",
+   "text": "Veja o guia [Renda fixa ou renda variável](#renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona) e como começar com [pouco dinheiro](#como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes)."
+  }
+ ]
+}
