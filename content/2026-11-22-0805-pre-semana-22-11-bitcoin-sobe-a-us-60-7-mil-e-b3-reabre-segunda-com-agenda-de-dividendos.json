@@ -1,0 +1,246 @@
+{
+ "capa": "dia",
+ "slug": "pre-semana-22-11-bitcoin-sobe-a-us-60-7-mil-e-b3-reabre-segunda-com-agenda-de-dividendos",
+ "title": "Pré-semana 22/11: Bitcoin sobe a US$ 60,7 mil e B3 reabre segunda com agenda de dividendos",
+ "subtitle": "Com B3 e Wall Street fechadas no domingo, só as criptomoedas negociam: o Bitcoin avançou 3,93% em 24 horas, e a bolsa brasileira volta na segunda (23/11).",
+ "category": "mercado",
+ "date": "2026-11-22",
+ "time": "08:05",
+ "sentiment": "Neutro",
+ "meta": "Panorama de domingo (22/11): Bitcoin sobe para US$ 60,7 mil, Ethereum passa de R$ 10,1 mil; veja a agenda de dividendos, FIIs e Tesouro Direto da semana.",
+ "focus_kw": "abertura de mercado 22 de novembro 2026",
+ "tags": [
+  "Abertura de mercado",
+  "Bitcoin hoje",
+  "Ethereum hoje",
+  "Dividendos novembro 2026",
+  "FIIs e Tesouro Direto"
+ ],
+ "sources": [
+  {
+   "t": "Google Finance: S&P 500, dólar e criptomoedas",
+   "url": "https://www.google.com/finance",
+   "at": "22/11/2026 07:50"
+  },
+  {
+   "t": "Investing.com: Ibovespa e criptomoedas",
+   "url": "https://br.investing.com/crypto",
+   "at": "22/11/2026 07:50"
+  },
+  {
+   "t": "B3: indicadores financeiros (DI Over)",
+   "url": "https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/consultas/mercado-de-derivativos/indicadores/indicadores-financeiros/",
+   "at": "22/11/2026"
+  },
+  {
+   "t": "XP Investimentos: calendário de dividendos de novembro de 2026",
+   "url": "https://conteudos.xpi.com.br/acoes/relatorios/acoes-confira-o-calendario-de-dividendos-de-novembro-de-2026/",
+   "at": "22/11/2026"
+  },
+  {
+   "t": "Status Invest: proventos",
+   "url": "https://statusinvest.com.br/acoes/proventos",
+   "at": "22/11/2026"
+  },
+  {
+   "t": "Calculadoras: Tesouro Direto",
+   "url": "https://www.calculadora.com.br/tesouro/",
+   "at": "18/11/2026"
+  }
+ ],
+ "source_doc": "Relatório de Mercado - 22/11 - 07h (Drive id 1zS0jWq9cU11x4wGEercF56qY7kbrwLNQX4ewyhcThcQ)",
+ "source_topic": "abertura",
+ "image": "assets/covers/pre-semana-22-11-bitcoin-sobe-a-us-60-7-mil-e-b3-reabre-segunda-com-agenda-de-dividendos.jpg",
+ "image_alt": "Foto de mesa com notas de real, café e tablet com gráficos em alta diante de prédios de São Paulo",
+ "canva_media_id": "MAHbo__FyS4",
+ "body": [
+  {
+   "type": "p",
+   "text": "Neste **domingo (22/11)**, a **B3 e Wall Street estão fechadas** e só as criptomoedas negociam. O **Bitcoin** subiu **3,93%** em 24 horas e chegou a **US$ 60.779,39** (cerca de **R$ 361,6 mil**), às 07h50. A bolsa brasileira reabre na **segunda-feira (23/11)**, às 10h, e o termômetro de humor do dia é **Neutro**."
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/pre-semana-22-11-bitcoin-sobe-a-us-60-7-mil-e-b3-reabre-segunda-com-agenda-de-dividendos-1.jpg",
+   "alt": "Avenida Paulista vazia ao amanhecer de domingo, antes da abertura semanal do mercado",
+   "caption": "Avenida Paulista ao amanhecer de domingo, antes da reabertura do mercado. Imagem ilustrativa."
+  },
+  {
+   "type": "h2",
+   "text": "Os números para a reabertura"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Indicador",
+    "Valor",
+    "Referência"
+   ],
+   "rows": [
+    [
+     "Ibovespa (à vista)",
+     "166.376 pontos",
+     "-0,69% no último pregão (19/11)"
+    ],
+    [
+     "Dólar (USD/BRL)",
+     "R$ 5,9495",
+     "+2,89% na semana; referência de 20/11, 20h58"
+    ],
+    [
+     "S&P 500 (EUA)",
+     "6.910,39 pontos",
+     "-3,70% (-265,44 pontos) em 20/11"
+    ],
+    [
+     "Selic / DI Over",
+     "13,75% / 13,65% ao ano",
+     "Estáveis"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Como a B3 não operou na sexta, a queda de **3,70%** do S&P 500 em Nova York ainda **não foi refletida** nos preços da bolsa brasileira. Na segunda, o mercado pode ajustar o Ibovespa ao movimento externo e ao noticiário fiscal. Isso é um **ponto de atenção**, não uma previsão."
+  },
+  {
+   "type": "h2",
+   "text": "Criptomoedas: o único mercado aberto"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Moeda",
+    "Em US$",
+    "Em R$",
+    "Variação 24h"
+   ],
+   "rows": [
+    [
+     "Bitcoin (BTC)",
+     "US$ 60.779,39",
+     "R$ 361.606,98",
+     "+3,93%"
+    ],
+    [
+     "Ethereum (ETH)",
+     "US$ 1.708,53",
+     "R$ 10.164,90",
+     "+3,40%"
+    ],
+    [
+     "BNB",
+     "US$ 547,47",
+     "R$ 3.257,17",
+     "+4,39%"
+    ],
+    [
+     "Tether (USDT)",
+     "US$ 0,9984",
+     "R$ 5,94",
+     "+0,04%"
+    ],
+    [
+     "USDC",
+     "US$ 0,9999",
+     "R$ 5,9489",
+     "+0,01%"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Os valores em reais usam o dólar a R$ 5,9495. **Tether (USDT)** e **USDC**, atrelados ao dólar, ficaram praticamente estáveis, como esperado de moedas desse tipo."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: o que significa subir 3,93% em um dia",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "**Exemplo ilustrativo (não é previsão):** se R$ 100 estivessem em um ativo que subiu 3,93% em 24 horas, valeriam cerca de R$ 103,93. Mas ativos muito voláteis também podem cair na mesma proporção, e o Bitcoin ainda está abaixo do patamar que tinha antes da queda recente."
+    },
+    {
+     "type": "p",
+     "text": "Por isso, a volatilidade pede cautela e **diversificação**. Para entender a diferença de risco entre as classes, veja [Renda fixa ou renda variável](#renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona)."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Agenda de dividendos da semana"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Ativo",
+    "Valor",
+    "Data-com",
+    "Pagamento"
+   ],
+   "rows": [
+    [
+     "Petrobras (PETR4/PETR3), JCP",
+     "R$ 0,6741",
+     "11/08/2026",
+     "23/11/2026"
+    ],
+    [
+     "Banco BMG (BMGB4), JCP, abaixo de R$ 10",
+     "R$ 0,10",
+     "23/11/2026",
+     "04/12/2026"
+    ],
+    [
+     "Isa Energia (ISAE4), JCP",
+     "R$ 0,188959",
+     "25/11/2026",
+     "07/12/2026"
+    ],
+    [
+     "Taesa (TAEE4)",
+     "R$ 0,2001",
+     "14/08/2026",
+     "26/11/2026"
+    ],
+    [
+     "Mitre Realty (MTRE3), abaixo de R$ 10",
+     "R$ 0,0378",
+     "13/11/2026",
+     "27/11/2026"
+    ],
+    [
+     "M. Dias Branco (MDIA3)",
+     "R$ 0,0300",
+     "18/11/2026",
+     "30/11/2026"
+    ],
+    [
+     "Rumo (RAIL3)",
+     "R$ 0,1084",
+     "13/11/2026",
+     "30/11/2026"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "O **Banco do Brasil (BBAS3)** não tem pagamento previsto em novembro. Entre os fundos imobiliários, **XPML11** (R$ 0,80 por cota) e **BTLG11** (R$ 0,81 por cota) pagam em **25/11**. No último pregão (19/11), **MXRF11** fechou a R$ 8,50 e **GARE11** a R$ 7,91."
+  },
+  {
+   "type": "h2",
+   "text": "Renda fixa como referência"
+  },
+  {
+   "type": "p",
+   "text": "Com a Selic em **13,75% ao ano**, o **Tesouro Selic 2031** paga Selic + 0,11% ao ano. O **Tesouro Prefixado 2029** aparece a **14,94% ao ano** e o **Tesouro IPCA+ 2032** a IPCA + **7,74% ao ano** (referência de 18/11). Para entender como os juros afetam o seu bolso, leia [O que é a taxa Selic](#o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes)."
+  },
+  {
+   "type": "callout",
+   "text": "**Exemplo ilustrativo:** com R$ 100, cinco cotas de MXRF11 custariam R$ 42,50 e cinco de GARE11, R$ 39,55, pelos preços de fechamento de 19/11, sobrando R$ 17,95. É só uma conta para entender os valores, não uma recomendação. Rentabilidade passada não garante resultados futuros."
+  },
+  {
+   "type": "p",
+   "text": "**O que observar na segunda:** a reação da B3 à queda de Nova York, o dólar em torno de R$ 5,95 e o noticiário fiscal. Os dados são de referência e podem mudar na abertura."
+  }
+ ]
+}
