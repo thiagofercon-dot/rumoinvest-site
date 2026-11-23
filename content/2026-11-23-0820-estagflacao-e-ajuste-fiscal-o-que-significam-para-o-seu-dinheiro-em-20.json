@@ -1,0 +1,186 @@
+{
+ "slug": "estagflacao-e-ajuste-fiscal-o-que-significam-para-o-seu-dinheiro-em-2027",
+ "title": "Estagflação e ajuste fiscal: o que significam para o seu dinheiro em 2027 (guia em 5 minutos)",
+ "subtitle": "A Câmara vota o projeto de ajuste fiscal e um relatório do UBS fala em risco de estagflação. Entenda os dois termos, sem economês, e como Tesouro IPCA+ e FIIs entram na conversa.",
+ "category": "educacao",
+ "date": "2026-11-23",
+ "time": "08:20",
+ "sentiment": "Alerta",
+ "meta": "Estagflação e ajuste fiscal em 2027: entenda os termos, o que o IPCA-15 tem a ver e como Tesouro IPCA+ e FIIs são usados para proteger o poder de compra.",
+ "focus_kw": "estagflação e ajuste fiscal 2027",
+ "tags": [
+  "Estagflação",
+  "Ajuste fiscal 2027",
+  "Tesouro IPCA+",
+  "IPCA-15",
+  "Proteção contra inflação",
+  "FIIs MXRF11 GARE11"
+ ],
+ "sources": [
+  {
+   "t": "InfoMoney: UBS vê possibilidade de estagflação no Brasil em 2027",
+   "url": "https://www.infomoney.com.br/onde-investir/ubs-ve-possibilidade-de-estagflacao-no-brasil-em-2027-como-balancear-o-portfolio/",
+   "at": "23/11/2026 08:02"
+  },
+  {
+   "t": "InfoMoney: calendário econômico da semana (IPCA-15 e PCE)",
+   "url": "https://www.infomoney.com.br/mercados/calendario-economico-da-semana-ipca-15-e-pce-nos-eua-estarao-no-radar-dos-mercados/",
+   "at": "23/11/2026 08:02"
+  },
+  {
+   "t": "G1 Economia",
+   "url": "https://g1.globo.com/economia/",
+   "at": "23/11/2026 08:02"
+  }
+ ],
+ "trend": {
+  "rank": 1,
+  "term": "Câmara vota ajuste fiscal de R$ 50 bi e risco de estagflação em 2027",
+  "ref": "23/11"
+ },
+ "source_doc": "Relatório de Tendências - 23/11 - 07h20 (Drive id 10hcLmxBqWWTZxkU7DnWiOzWHwrVra5Rn0-GjMXlYUJU)",
+ "source_topic": "Ajuste fiscal de R$ 50 bi e risco de estagflação em 2027",
+ "image": "assets/covers/estagflacao-ajuste-fiscal-2027.jpg",
+ "image_alt": "Calculadora, gráfico de barras impresso e notas de real sobre uma mesa",
+ "canva_media_id": "MAHbuwOVnAg",
+ "body": [
+  {
+   "type": "p",
+   "text": "**Estagflação e ajuste fiscal** são dois assuntos em alta nesta segunda-feira (23/11). Segundo o G1 e o InfoMoney, a Câmara dos Deputados vota hoje um projeto de ajuste fiscal com economia projetada de R$ 50 bilhões em 2027, e um relatório do UBS aponta a possibilidade de estagflação no Brasil em 2027. Ao mesmo tempo, a semana traz o Boletim Focus, o IPCA-15 e o índice de inflação PCE dos Estados Unidos. Vamos traduzir tudo isso em linguagem simples."
+  },
+  {
+   "type": "h2",
+   "text": "O que é estagflação?"
+  },
+  {
+   "type": "p",
+   "text": "**Estagflação** é a combinação de dois problemas ao mesmo tempo: inflação alta (preços subindo rápido) e economia fraca (crescimento baixo, com menos emprego e renda). É incômoda porque as saídas habituais se atrapalham: juros mais altos combatem a inflação, mas podem frear ainda mais o crescimento. O relatório do UBS fala em **possibilidade** desse cenário em 2027, não em certeza. Para entender o papel dos juros, veja o guia sobre a [taxa Selic](#o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes)."
+  },
+  {
+   "type": "h2",
+   "text": "O que é ajuste fiscal e por que o mercado acompanha"
+  },
+  {
+   "type": "p",
+   "text": "**Ajuste fiscal** é o esforço do governo para aproximar receitas e despesas, seja cortando gastos, seja arrecadando mais. Quando o mercado confia que as contas estão no rumo, tende a pedir juros menores para financiar o governo; quando duvida, pede mais. Por isso a votação de hoje é acompanhada de perto. O resultado e a reação do mercado são incertos, e nenhuma votação isolada define o futuro dos preços. Para um panorama anterior do tema, leia [pacote fiscal e Selic: o que significa para Tesouro e FIIs](#pacote-fiscal-e-selic-a-13-75-o-que-significa-para-tesouro-direto-e-fiis)."
+  },
+  {
+   "type": "h2",
+   "text": "Como o Tesouro IPCA+ e os FIIs entram na conversa"
+  },
+  {
+   "type": "p",
+   "text": "O **Tesouro IPCA+** paga a inflação medida pelo IPCA mais uma taxa fixa combinada na compra. No relatório do dia, os títulos aparecem com taxas de IPCA + 7,51% a IPCA + 7,74% ao ano. Isso busca preservar o poder de compra se o título for levado até o vencimento, mas antes disso o preço pode oscilar. Já os **fundos imobiliários (FIIs)** distribuem rendimentos mensais isentos de imposto de renda para pessoa física, porém sem garantia: HGLG11, XPML11, MXRF11 e GARE11 têm cotas que sobem e descem todos os dias. O XPML11, por exemplo, tem R$ 0,80 por cota de rendimento previsto para 25/11, segundo o relatório."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: R$ 1.000 no IPCA+ (exemplo ilustrativo)",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Imagine, de forma **ilustrativa**, que você aplique R$ 1.000 em um título que paga IPCA + 7,5% ao ano e que a inflação do ano seja de 4%. O ganho seria de cerca de 11,8%: 1,04 × 1,075 = 1,118, ou seja, R$ 1.118 (antes de impostos e taxas). Se a inflação for maior, o valor nominal cresce mais; se for menor, cresce menos, mas a parte real (7,5%) continua combinada. Rentabilidade passada não garante resultados futuros."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Cenário (ilustrativo)",
+      "Inflação",
+      "Valor após 1 ano"
+     ],
+     "rows": [
+      [
+       "Inflação menor",
+       "3%",
+       "R$ 1.107,25"
+      ],
+      [
+       "Inflação intermediária",
+       "4%",
+       "R$ 1.118,00"
+      ],
+      [
+       "Inflação maior",
+       "6%",
+       "R$ 1.139,50"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Erros comuns em tempos de manchete"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Tomar decisão por manchete: o noticiário muda todo dia e ninguém acerta a reação do mercado.",
+    "Esquecer a [reserva de emergência](#reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro): ela vem antes de qualquer risco e deve ficar em ativo seguro e de liquidez diária.",
+    "Concentrar tudo em um só ativo. Entenda a diferença entre [renda fixa e renda variável](#renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona) e veja [como começar com pouco dinheiro](#como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes)."
+   ]
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: estagflação e ajuste fiscal",
+   "center": "Estagflação",
+   "branches": [
+    {
+     "label": "O que é",
+     "items": [
+      "Inflação alta",
+      "Crescimento fraco"
+     ]
+    },
+    {
+     "label": "Ajuste fiscal",
+     "items": [
+      "Receitas e despesas",
+      "Votação na Câmara"
+     ]
+    },
+    {
+     "label": "Ativos",
+     "items": [
+      "Tesouro IPCA+",
+      "FIIs de renda mensal"
+     ]
+    },
+    {
+     "label": "Cuidados",
+     "items": [
+      "Reserva primeiro",
+      "Diversificar",
+      "Evitar impulso"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes",
+   "items": [
+    {
+     "q": "Estagflação já está acontecendo no Brasil?",
+     "a": "Não há essa confirmação. O relatório do UBS aponta apenas a possibilidade para 2027."
+    },
+    {
+     "q": "O que é IPCA-15?",
+     "a": "É uma prévia da inflação oficial, medida pelo IBGE, que ajuda a mostrar a direção dos preços no mês."
+    },
+    {
+     "q": "Tesouro IPCA+ protege da inflação?",
+     "a": "Busca preservar o poder de compra se mantido até o vencimento, mas pode oscilar de preço antes disso."
+    },
+    {
+     "q": "FIIs pagam renda garantida?",
+     "a": "Não. Os rendimentos variam e as cotas oscilam. Este conteúdo é educativo e não recomenda compra ou venda."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Continue aprendendo",
+   "text": "Antes de qualquer decisão, monte sua base: leia o guia da [reserva de emergência](#reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro) e o passo a passo para [começar a investir](#como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes)."
+  }
+ ]
+}
