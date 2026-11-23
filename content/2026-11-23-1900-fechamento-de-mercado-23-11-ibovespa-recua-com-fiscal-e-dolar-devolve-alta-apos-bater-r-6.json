@@ -1,0 +1,250 @@
+{
+ "capa": "noite",
+ "slug": "fechamento-de-mercado-23-11-ibovespa-recua-com-fiscal-e-dolar-devolve-alta-apos-bater-r-6",
+ "title": "Fechamento de 23/11: Ibovespa recua 0,92% com fiscal e Focus, e dólar devolve alta após bater R$ 6,00",
+ "subtitle": "Bolsa fecha aos 164.843 pontos na contramão de Wall Street (S&P 500 +4,73%); dólar termina a R$ 5,93 e, entre FIIs, só XPML11 sobe.",
+ "category": "mercado",
+ "date": "2026-11-23",
+ "time": "19:00",
+ "sentiment": "Alerta",
+ "meta": "Ibovespa fecha aos 164.843 pts (-0,92%) e dólar recua a R$ 5,93 após bater R$ 6; veja fechamento de S&P 500, FIIs e dividendos em 23/11.",
+ "focus_kw": "fechamento do mercado hoje 23 de novembro",
+ "tags": [
+  "Fechamento Ibovespa",
+  "Dólar hoje",
+  "Dividendos novembro 2026",
+  "Fundos Imobiliários",
+  "Boletim Focus"
+ ],
+ "sources": [
+  {
+   "t": "Google Finance: Ibovespa, dólar, S&P 500, ações e FIIs",
+   "url": "https://www.google.com/finance",
+   "at": "23/11/2026 18:10"
+  },
+  {
+   "t": "InfoMoney",
+   "url": "https://www.infomoney.com.br/",
+   "at": "23/11/2026"
+  },
+  {
+   "t": "TradeMap: fechamento e juros futuros",
+   "url": "https://trademap.com.br/noticias/news-8629809",
+   "at": "23/11/2026"
+  },
+  {
+   "t": "B3: indicadores financeiros (DI Over)",
+   "url": "https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/consultas/mercado-de-derivativos/indicadores/indicadores-financeiros/",
+   "at": "23/11/2026 18:00"
+  },
+  {
+   "t": "Banco Central: histórico da Selic",
+   "url": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros",
+   "at": "23/11/2026"
+  },
+  {
+   "t": "XP Investimentos: calendário de dividendos de novembro de 2026",
+   "url": "https://conteudos.xpi.com.br/acoes/relatorios/acoes-confira-o-calendario-de-dividendos-de-novembro-de-2026/",
+   "at": "23/11/2026"
+  },
+  {
+   "t": "Status Invest: proventos",
+   "url": "https://statusinvest.com.br/acoes/proventos",
+   "at": "23/11/2026"
+  },
+  {
+   "t": "Clube FII News: agenda econômica semanal",
+   "url": "https://www.clubefiinews.com.br/mercado/agenda-economica-semanal-inclui-ipca-15-igp-m-e-pnad",
+   "at": "23/11/2026"
+  }
+ ],
+ "source_doc": "Relatório de Mercado - 23/11 - 18h (Drive id 1pWGSy0vjd5-JyFx3rDeAwfs4dK1VOWg4yHOekDu2b1E)",
+ "source_topic": "fechamento",
+ "image": "assets/covers/fechamento-de-mercado-23-11-ibovespa-recua-com-fiscal-e-dolar-devolve-alta-apos-bater-r-6.jpg",
+ "image_alt": "Foto noturna de mesa com tablet exibindo gráfico em leve queda, notas de real e skyline iluminada ao fundo",
+ "canva_media_id": "MAHbxiXBci4",
+ "body": [
+  {
+   "type": "p",
+   "text": "A **Bolsa brasileira fechou em queda nesta segunda-feira (23)**: o **Ibovespa** recuou **0,92%**, aos **164.843,98 pontos**, enquanto o **dólar** chegou a bater **R$ 6,00** na máxima do dia, mas devolveu a alta e fechou a **R$ 5,9316** (-0,29%). O termômetro do dia é **Alerta**: o pacote fiscal ainda aguarda votação e o Boletim Focus veio mais duro, mesmo com Wall Street em forte alta."
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/fechamento-de-mercado-23-11-ibovespa-recua-com-fiscal-e-dolar-devolve-alta-apos-bater-r-6-1.jpg",
+   "alt": "Mesa de operações financeiras com operadores e telas de cotações ao entardecer, em prédio de São Paulo",
+   "caption": "Mesa de operações no fim do pregão. Imagem ilustrativa."
+  },
+  {
+   "type": "h2",
+   "text": "Os números do fechamento"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Indicador",
+    "Fechamento",
+    "Variação"
+   ],
+   "rows": [
+    [
+     "Ibovespa",
+     "164.843,98 pontos",
+     "-0,92% (mín. 164.129,33 / máx. 166.373,69)"
+    ],
+    [
+     "Dólar (USD/BRL)",
+     "R$ 5,9316",
+     "-0,29% (máxima do dia: R$ 6,0013)"
+    ],
+    [
+     "S&P 500 (EUA)",
+     "7.237,17 pontos",
+     "+4,73% (fechamento anterior: 6.910,39)"
+    ],
+    [
+     "Selic meta / DI Over",
+     "13,75% / 13,65% ao ano",
+     "Referências vigentes"
+    ],
+    [
+     "IFIX (fundos imobiliários)",
+     "3.452 pontos",
+     "-0,95%"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "As cotações são de **23/11/2026**, coletadas entre **17h53 e 18h10 (horário de Brasília)**, segundo Google Finance, InfoMoney e B3."
+  },
+  {
+   "type": "h2",
+   "text": "Por que a bolsa foi na contramão de Nova York"
+  },
+  {
+   "type": "p",
+   "text": "Em Wall Street, o **S&P 500 subiu 4,73%**, impulsionado pela recondução de Jensen Huang ao comando da Nvidia, segundo o InfoMoney. No Brasil, o clima foi outro: investidores aguardam a **votação do pacote de ajuste fiscal de R$ 50 bilhões na Câmara** e a definição do **próximo ministro da Fazenda**."
+  },
+  {
+   "type": "p",
+   "text": "O **Boletim Focus** também pesou. Segundo o relatório, o mercado elevou a projeção do **IPCA de 2026 para 5,15%**, do **dólar para R$ 5,55** e da **Selic de 2027 para 13,00%**. A **Petrobras (PETR4)** caiu antes da divulgação do **Plano de Negócios 2027–2031**, prevista para depois do fechamento."
+  },
+  {
+   "type": "p",
+   "text": "No câmbio, o dólar oscilou forte e rompeu os R$ 6,00 na máxima, mas recuou na reta final em meio a especulações sobre indicações para a área econômica. As taxas dos juros futuros (DIs) também aliviaram no fim do dia, segundo a TradeMap."
+  },
+  {
+   "type": "callout",
+   "text": "**Termômetro: Alerta.** Fiscal, juros e câmbio seguem no centro das atenções. Este conteúdo é informativo e não é recomendação de compra ou venda."
+  },
+  {
+   "type": "h2",
+   "text": "Dividendos e FIIs no radar"
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/fechamento-de-mercado-23-11-ibovespa-recua-com-fiscal-e-dolar-devolve-alta-apos-bater-r-6-2.jpg",
+   "alt": "Prédios corporativos da Avenida Paulista ao entardecer, com pessoas caminhando",
+   "caption": "Avenida Paulista ao entardecer, em São Paulo. Imagem ilustrativa."
+  },
+  {
+   "type": "p",
+   "text": "**BBAS3 (Banco do Brasil)** fechou a **R$ 14,26** (-0,28%), sem data-com nem pagamento programado em novembro. **TAEE4 (Taesa)** fechou a **R$ 13,19** (-1,93%) e tem pagamento de **R$ 0,2001 por ação em 26/11**, segundo a XP Investimentos."
+  },
+  {
+   "type": "p",
+   "text": "Entre as ações abaixo de R$ 10: **BMGB4 (Banco BMG)** fechou a **R$ 5,03** (+0,20%), e hoje foi a **data-com** de **R$ 0,10 por ação em JCP**, com pagamento em 04/12. **MTRE3 (Mitre Realty)** fechou a **R$ 3,04** (-0,98%) e paga **R$ 0,0378 por ação em 27/11**."
+  },
+  {
+   "type": "p",
+   "text": "Entre os fundos imobiliários, **XPML11** foi o único do grupo acompanhado a subir (**+1,18%**, a R$ 82,96). **MXRF11** fechou a **R$ 8,31** (-2,24%), **GARE11** a **R$ 7,84** (-0,88%) e **HGLG11** a **R$ 140,69** (-0,78%)."
+  },
+  {
+   "type": "table",
+   "head": [
+    "FII",
+    "Fechamento",
+    "Variação do dia"
+   ],
+   "rows": [
+    [
+     "MXRF11",
+     "R$ 8,31",
+     "-2,24%"
+    ],
+    [
+     "GARE11",
+     "R$ 7,84",
+     "-0,88%"
+    ],
+    [
+     "HGLG11",
+     "R$ 140,69",
+     "-0,78%"
+    ],
+    [
+     "XPML11",
+     "R$ 82,96",
+     "+1,18%"
+    ],
+    [
+     "KNCR11",
+     "R$ 101,71",
+     "-1,11%"
+    ],
+    [
+     "BTLG11",
+     "R$ 94,05",
+     "-0,79%"
+    ],
+    [
+     "KNRI11",
+     "R$ 140,50",
+     "-1,82%"
+    ],
+    [
+     "VISC11",
+     "R$ 93,95",
+     "-2,14%"
+    ]
+   ]
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: o que é data-com",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "A **data-com** é o último dia em que ter o ativo na carteira dá direito ao provento (dividendo ou JCP) anunciado. Quem compra depois fica sem aquele pagamento, e o preço costuma ser ajustado no dia seguinte."
+    },
+    {
+     "type": "p",
+     "text": "**Exemplo ilustrativo:** se uma empresa anuncia R$ 0,10 por ação e você tinha 100 ações na data-com, receberia R$ 10,00 na data de pagamento (antes de eventual imposto). É um exemplo didático, não uma projeção."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Exemplo prático com R$ 100 (ilustrativo)"
+  },
+  {
+   "type": "p",
+   "text": "Só para visualizar a diversificação, com os preços de fechamento de hoje: **5 cotas de MXRF11** (R$ 41,55), **5 de GARE11** (R$ 39,20), **2 ações de BMGB4** (R$ 10,06) e **3 de MTRE3** (R$ 9,12) somam **R$ 99,93**, sobrando R$ 0,07. É uma simulação educativa, **sem indicação de compra ou venda**."
+  },
+  {
+   "type": "h2",
+   "text": "Agenda de terça-feira (24/11)"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Brasil:** Relatório Bimestral de Receitas e Despesas Primárias (set/out, sem horário fixo) e Confiança do Consumidor FGV de novembro, às 08h00 (anterior: 84,7).",
+    "**EUA:** emprego semanal ADP (10h15), preços de imóveis S&P/CS (11h00) e Confiança do Consumidor do Conference Board (12h00; anterior: 91,7)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Quer entender melhor a sequência dos últimos dias? Leia o [fechamento de 22/11](#fechamento-de-mercado-22-11-cripto-fecha-domingo-no-azul-e-b3-reabre-na-segunda-com-focus). Rentabilidade passada não garante resultados futuros."
+  }
+ ]
+}
