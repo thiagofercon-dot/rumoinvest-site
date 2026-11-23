@@ -1,0 +1,157 @@
+{
+ "capa": "dia",
+ "slug": "abertura-23-11-futuros-de-ny-sobem-mas-dolar-a-r-5-96-e-pauta-fiscal-mantem-b3-em-alerta",
+ "title": "Abertura 23/11: futuros de NY sobem, mas dólar a R$ 5,96 e pauta fiscal mantêm B3 em alerta",
+ "subtitle": "Futuros do S&P 500 ensaiam recuperação após o tombo da semana passada e o Bitcoin passa de US$ 61 mil, mas o câmbio segue pressionado antes da abertura da bolsa, às 10h.",
+ "category": "mercado",
+ "date": "2026-11-23",
+ "time": "08:05",
+ "sentiment": "Alerta",
+ "meta": "Abertura de 23/11: futuros de NY sobem 2,74% e Bitcoin supera US$ 61,2 mil, enquanto dólar a R$ 5,96 e ajuste fiscal deixam a B3 em alerta.",
+ "focus_kw": "abertura de mercado 23 de novembro 2026",
+ "tags": [
+  "abertura de mercado",
+  "Ibovespa hoje",
+  "dólar hoje",
+  "Bitcoin hoje",
+  "dividendos novembro 2026"
+ ],
+ "sources": [
+  {
+   "t": "Google Finance: dólar, S&P 500 e criptomoedas",
+   "url": "https://www.google.com/finance",
+   "at": "23/11/2026 07:25"
+  },
+  {
+   "t": "Investing.com: Ibovespa, futuros e criptomoedas",
+   "url": "https://br.investing.com/crypto",
+   "at": "23/11/2026 07:25"
+  },
+  {
+   "t": "B3: indicadores financeiros (DI Over)",
+   "url": "https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/consultas/mercado-de-derivativos/indicadores/indicadores-financeiros/",
+   "at": "23/11/2026"
+  },
+  {
+   "t": "InfoMoney: mercado e câmbio",
+   "url": "https://www.infomoney.com.br/",
+   "at": "23/11/2026 07:25"
+  },
+  {
+   "t": "Status Invest: proventos",
+   "url": "https://statusinvest.com.br/acoes/proventos",
+   "at": "23/11/2026"
+  },
+  {
+   "t": "Calculadoras: Tesouro Direto",
+   "url": "https://www.calculadora.com.br/tesouro/",
+   "at": "18/11/2026"
+  }
+ ],
+ "source_doc": "Relatório de Mercado - 23/11 - 07h (Drive id 1PIcpaBtAW-knZB5YsYh0rjN0vLA3wARe_HmRq3c8ZQ0)",
+ "source_topic": "abertura",
+ "image": "assets/covers/abertura-23-11-futuros-de-ny-sobem-mas-dolar-a-r-5-96-e-pauta-fiscal-mantem-b3-em-alerta.jpg",
+ "image_alt": "Foto de mesa com notas de real, café e tablet com gráfico diante de prédios de São Paulo ao amanhecer",
+ "canva_media_id": "MAHbuzePHBs",
+ "body": [
+  {
+   "type": "p",
+   "text": "Nesta **segunda-feira (23/11)**, o mercado abre em **alerta**. Os **futuros de Nova York** sobem cerca de **2,74%** às 07h25, depois da queda de **3,70%** do S&P 500 na sexta, mas o **dólar** segue perto de **R$ 5,97** e a votação do ajuste fiscal na Câmara mantém a cautela. A B3 abre às 10h."
+  },
+  {
+   "type": "h2",
+   "text": "Os números antes da abertura"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Indicador",
+    "Valor",
+    "Referência"
+   ],
+   "rows": [
+    [
+     "Ibovespa (à vista)",
+     "166.376 pontos",
+     "-0,69% no último fechamento (19/11)"
+    ],
+    [
+     "Ibovespa futuro",
+     "167.666 pontos",
+     "Referência pré-abertura"
+    ],
+    [
+     "Dólar (USD/BRL)",
+     "R$ 5,9654",
+     "+0,28% frente à abertura em UTC, às 07h25"
+    ],
+    [
+     "S&P 500 (EUA)",
+     "Fech. 20/11: 6.910,39 pts",
+     "Futuros hoje: +2,74% (7.099,90 pts)"
+    ],
+    [
+     "Selic / DI Over",
+     "13,75% / 13,65% ao ano",
+     "Estáveis"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "O índice de volatilidade **VIX**, conhecido como \"termômetro do medo\" de Wall Street, recuou **15,02%**, para **30,50 pontos**. Mesmo assim, a B3 ainda precisa **absorver** a queda externa de sexta, que não refletiu no Ibovespa. Isso é um **ponto de atenção**, não uma previsão."
+  },
+  {
+   "type": "h2",
+   "text": "Criptomoedas em alta"
+  },
+  {
+   "type": "p",
+   "text": "O **Bitcoin** avançou **3,46%** em 24 horas e chegou a **US$ 61.282,25** (cerca de **R$ 365,6 mil**). O **Ethereum** subiu **2,87%**, a **US$ 1.719,58** (R$ 10.257,98), e o **BNB** ganhou **2,79%**, a **US$ 560,37**. **Tether (USDT)** e **USDC**, atrelados ao dólar, ficaram estáveis."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: por que o dólar alto pesa na bolsa",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Quando o dólar sobe, produtos e dívidas em moeda estrangeira ficam mais caros no Brasil, e investidores estrangeiros costumam ficar mais cautelosos com o país. **Exemplo ilustrativo (não é previsão):** uma compra de US$ 100 custa cerca de R$ 596,54 com o dólar a R$ 5,9654. Se ele fosse a R$ 6,10, o mesmo valor custaria R$ 610,00."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Agenda de dividendos da semana"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**PETR4 e PETR3 (Petrobras):** pagamento de **R$ 0,6741** por ação em JCP **hoje (23/11)**. PETR4 fechou a R$ 42,67 em 19/11.",
+    "**BMGB4 (Banco BMG):** data-com **hoje**, JCP de **R$ 0,10** por ação, pago em 04/12. A data-com é o último dia para ter direito ao provento.",
+    "**CAMB3 (Cambuci):** data-com **hoje**, **R$ 0,10** por ação, com pagamento em 07/12.",
+    "**TAEE4 (Taesa):** pagamento de **R$ 0,2001** por ação na **quinta (26/11)**; fechou a R$ 13,45 em 19/11.",
+    "**MTRE3 (Mitre Realty):** pagamento de **R$ 0,0378** na **sexta (27/11)**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Entre os FIIs, **XPML11** e **BTLG11** têm pagamento de rendimentos em **25/11**. **MXRF11** fechou a **R$ 8,50** e **GARE11** a **R$ 7,91** em 19/11. Para quem acompanha **BBAS3**, o relatório não aponta pagamento em novembro; a ação fechou a R$ 14,30."
+  },
+  {
+   "type": "callout",
+   "text": "**Exemplo ilustrativo:** com R$ 100, cinco cotas de MXRF11 custariam R$ 42,50 e, com rendimento mensal de R$ 0,095 a R$ 0,10 por cota, gerariam cerca de R$ 0,48 a R$ 0,50 no mês, isentos de IR para pessoa física. Rendimentos variam e rentabilidade passada não garante resultados futuros."
+  },
+  {
+   "type": "h2",
+   "text": "Renda fixa"
+  },
+  {
+   "type": "p",
+   "text": "Com a Selic em **13,75%**, o **Tesouro Selic 2031** paga Selic + 0,11% ao ano, e o **Tesouro IPCA+ 2032** oferece IPCA + 7,74% (referência de 18/11). O **CDI** está em 13,65%. CDBs com garantia do **FGC** (até R$ 250 mil por CPF e instituição) chegam a pagar até 16,59% ao ano em algumas plataformas."
+  },
+  {
+   "type": "p",
+   "text": "Este conteúdo é informativo e educativo, sem recomendação de compra ou venda. Para entender melhor o impacto dos juros, leia o guia [O que é a taxa Selic](#o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes)."
+  }
+ ]
+}
