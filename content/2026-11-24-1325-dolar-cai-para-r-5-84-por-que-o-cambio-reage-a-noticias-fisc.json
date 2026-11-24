@@ -1,0 +1,150 @@
+{
+ "slug": "dolar-cai-para-r-5-84-por-que-o-cambio-reage-a-noticias-fiscais-e-o-que-isso-muda-para-o-investidor",
+ "title": "Dólar cai para R$ 5,84: por que o câmbio reage a notícias fiscais e o que isso muda para o investidor",
+ "subtitle": "Depois de tocar R$ 6,00 na véspera, o dólar recuou com o aval a uma PEC de gastos. Entenda o que move o câmbio e como isso aparece no seu bolso.",
+ "category": "educacao",
+ "date": "2026-11-24",
+ "time": "13:25",
+ "sentiment": "Neutro",
+ "meta": "Dólar cai para a faixa de R$ 5,80 a R$ 5,85 após sinal fiscal. Entenda por que o câmbio reage a notícias do governo e o que isso muda para investir.",
+ "focus_kw": "por que o dólar cai com notícia fiscal",
+ "tags": [
+  "Dólar hoje",
+  "Câmbio",
+  "PEC de gastos",
+  "Tesouro Direto",
+  "Educação financeira"
+ ],
+ "sources": [
+  {
+   "t": "g1 Economia: dólar e mercado",
+   "url": "https://g1.globo.com/economia/",
+   "at": "24/11/2026 13:20"
+  },
+  {
+   "t": "Money Times: tempo real, 24/11/2026",
+   "url": "https://www.moneytimes.com.br/tempo-real-24-11-2026-davs/",
+   "at": "24/11/2026 13:20"
+  }
+ ],
+ "trend": {
+  "rank": 2,
+  "term": "Dólar cai quase 2% para R$ 5,80–5,85",
+  "ref": "24/11"
+ },
+ "source_doc": "Relatório de Tendências - 24/11 - 12h20 (Drive id 1ro7YKAL2V_n_QBQivzCEv0N4Ao1sk8n9Z7w50SJ_UkE)",
+ "source_topic": "Dólar em queda: por que o câmbio reage a notícias fiscais",
+ "image": "assets/covers/dolar-cai-r-5-84-cambio-fiscal.jpg",
+ "image_alt": "Mesa de câmbio com monitores de gráficos, notas de real e moedas",
+ "canva_media_id": "MAHb2AixD70",
+ "body": [
+  {
+   "type": "p",
+   "text": "O **dólar em queda** chamou atenção nesta terça-feira (24/11): depois de bater R$ 6,00 na máxima da véspera, a moeda americana recuou para a faixa de R$ 5,80 a R$ 5,85, segundo o noticiário do dia, após o aval a uma PEC para conter despesas obrigatórias. Mas por que uma notícia sobre contas públicas muda o preço de uma moeda?"
+  },
+  {
+   "type": "h2",
+   "text": "O que move o dólar"
+  },
+  {
+   "type": "p",
+   "text": "O preço do dólar é resultado de **oferta e demanda**. Quando investidores estrangeiros e brasileiros confiam no país, mais dinheiro entra e o dólar tende a perder força. Quando surgem dúvidas, o movimento se inverte: quem tem recursos aplicados aqui compra dólar para se proteger. Por isso, sinais de controle de gastos tendem a acalmar o câmbio, e dúvidas fiscais tendem a pressioná-lo."
+  },
+  {
+   "type": "h2",
+   "text": "Do câmbio para os juros e para o seu bolso"
+  },
+  {
+   "type": "p",
+   "text": "O dólar mais baixo costuma aliviar preços de produtos importados e de insumos, e a queda do risco fiscal também aparece nos **juros futuros**. No mesmo dia, as taxas do Tesouro Direto recuaram até 28 pontos-base, e o Tesouro Prefixado 2029 passou a pagar menos de 15% ao ano, conforme o noticiário. Com a Selic em 13,75% ao ano, a renda fixa segue em evidência."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: o que é pagar menos dólar",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo ilustrativo: se o dólar vai de R$ 6,00 para R$ 5,84, um produto que custa US$ 100 sai de R$ 600 para R$ 584, ou seja, R$ 16 a menos. Parece pouco, mas em compras grandes ou em empresas que importam muito a diferença aparece. E dólar mais baixo não significa que ele vai continuar caindo: o câmbio oscila todos os dias."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Erros comuns"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Tentar adivinhar o dólar de amanhã: nem os profissionais acertam sempre.",
+    "Comprar dólar ou vender investimentos por impulso por causa de uma manchete.",
+    "Ignorar que parte da sua carteira, como a renda fixa, também reage ao cenário fiscal."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Para o investidor iniciante, o mais importante é ter objetivos claros e uma reserva de segurança. Veja o guia de [reserva de emergência](#reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro) e a matéria sobre [onde investir com dólar alto e Selic em alta](#onde-investir-com-dolar-a-r-6-e-selic-alta-renda-fixa-ou-fiis-que-pagam-todo-mes). Conteúdo educativo, sem recomendação de compra ou venda; rentabilidade passada não garante resultados futuros."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: câmbio e notícias fiscais",
+   "center": "Dólar em queda",
+   "branches": [
+    {
+     "label": "O que move",
+     "items": [
+      "Oferta e demanda",
+      "Confiança no país"
+     ]
+    },
+    {
+     "label": "Gatilho do dia",
+     "items": [
+      "Aval a PEC de gastos",
+      "Pacote fiscal na Câmara"
+     ]
+    },
+    {
+     "label": "Efeitos",
+     "items": [
+      "Importados mais baratos",
+      "Juros futuros em queda"
+     ]
+    },
+    {
+     "label": "Cuidados",
+     "items": [
+      "Não prever o câmbio",
+      "Manter reserva e foco no prazo"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes",
+   "items": [
+    {
+     "q": "Por que o dólar cai quando há notícia fiscal positiva?",
+     "a": "Porque aumenta a confiança no país, o que atrai recursos e reduz a procura por dólar como proteção."
+    },
+    {
+     "q": "Dólar baixo é sempre bom?",
+     "a": "Depende. Ajuda quem compra produtos importados e viaja, mas pode pesar para exportadores."
+    },
+    {
+     "q": "O dólar vai continuar caindo?",
+     "a": "Ninguém sabe. O câmbio oscila diariamente e depende de fatores internos e externos."
+    },
+    {
+     "q": "O que o iniciante deve fazer?",
+     "a": "Definir objetivos, manter reserva de emergência e evitar decisões por impulso a cada manchete."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Dê o próximo passo",
+   "text": "Entenda também o papel da taxa básica de juros: [o que é a taxa Selic](#o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes)."
+  }
+ ]
+}
