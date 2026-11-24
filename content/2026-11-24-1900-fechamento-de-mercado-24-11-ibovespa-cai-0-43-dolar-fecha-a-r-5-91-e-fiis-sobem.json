@@ -1,0 +1,266 @@
+{
+ "capa": "noite",
+ "slug": "fechamento-de-mercado-24-11-ibovespa-cai-0-43-dolar-fecha-a-r-5-91-e-fiis-sobem",
+ "title": "Fechamento de 24/11: Ibovespa cai 0,43% após chegar a subir 1,69%, dólar fecha a R$ 5,91 e FIIs sobem com IFIX +0,84%",
+ "subtitle": "Bolsa devolveu os ganhos da manhã com o recuo de Vale e Petrobras e o temor de novas tarifas dos EUA; juros futuros caíram após a sanção do pacote fiscal.",
+ "category": "mercado",
+ "date": "2026-11-24",
+ "time": "19:00",
+ "sentiment": "Neutro",
+ "meta": "Ibovespa fecha a 164.090 pts (-0,43%) e dólar a R$ 5,91; veja IFIX, Bitcoin, agenda de 25/11 e dividendos de TAEE4, BMGB4, XPML11 e BTLG11.",
+ "focus_kw": "fechamento de mercado hoje 24 novembro 2026",
+ "tags": [
+  "Fechamento de mercado",
+  "Ibovespa hoje",
+  "Dividendos novembro 2026",
+  "FIIs hoje",
+  "Cotação Bitcoin"
+ ],
+ "sources": [
+  {
+   "t": "UOL Economia: dólar e Ibovespa no fechamento de 24/11/2026",
+   "url": "https://economia.uol.com.br/cotacoes/noticias/redacao/2026/11/24/dolar-ibovespa-fechamento-24-novembro-2026.ghtm",
+   "at": "24/11/2026 18:07"
+  },
+  {
+   "t": "Google Finance: Ibovespa, dólar, S&P 500, ações e FIIs",
+   "url": "https://www.google.com/finance",
+   "at": "24/11/2026 18:07"
+  },
+  {
+   "t": "InfoMoney: mercado e IFIX",
+   "url": "https://www.infomoney.com.br/",
+   "at": "24/11/2026"
+  },
+  {
+   "t": "Investing.com Brasil: criptomoedas",
+   "url": "https://br.investing.com/crypto",
+   "at": "24/11/2026 18:21"
+  },
+  {
+   "t": "Clube FII News: agenda econômica semanal",
+   "url": "https://www.clubefiinews.com.br/mercado/agenda-economica-semanal-inclui-ipca-15-igp-m-e-pnad",
+   "at": "24/11/2026"
+  },
+  {
+   "t": "XP Investimentos: calendário de dividendos de novembro de 2026",
+   "url": "https://conteudos.xpi.com.br/acoes/relatorios/acoes-confira-o-calendario-de-dividendos-de-novembro-de-2026/",
+   "at": "24/11/2026"
+  },
+  {
+   "t": "Status Invest: proventos",
+   "url": "https://statusinvest.com.br/acoes/proventos",
+   "at": "24/11/2026"
+  },
+  {
+   "t": "Rico: calendário de dividendos de FIIs",
+   "url": "https://riconnect.rico.com.vc/analises/fiis-calendario-de-dividendos/",
+   "at": "24/11/2026"
+  }
+ ],
+ "source_doc": "Relatório de Mercado - 24/11 - 18h (Drive id 1XsCwrb0ajLqPORd49JcZidxZW5Y3h2BseWTunRexkRY)",
+ "source_topic": "fechamento",
+ "image": "assets/covers/fechamento-de-mercado-24-11-ibovespa-cai-0-43-dolar-fecha-a-r-5-91-e-fiis-sobem.jpg",
+ "image_alt": "Foto noturna de mesa com tablet exibindo gráfico, notas de real e skyline de cidade iluminada ao fundo",
+ "canva_media_id": "MAHb3neFVUA",
+ "body": [
+  {
+   "type": "p",
+   "text": "O **Ibovespa** fechou a terça-feira (24) em queda de **0,43%**, aos **164.089,81 pontos**, depois de chegar a subir **1,69%** pela manhã (máxima de 167.579,78 pontos). O **dólar** terminou a **R$ 5,9107** (-0,26%). O termômetro do dia é **Neutro**, com viés de cautela: o alívio fiscal ajudou cedo, mas a tarde trouxe queda de commodities e temor com tarifas americanas."
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/fechamento-de-mercado-24-11-ibovespa-cai-0-43-dolar-fecha-a-r-5-91-e-fiis-sobem-1.jpg",
+   "alt": "Escritório com mesas de operações e telas de cotações, com a skyline de São Paulo ao entardecer ao fundo",
+   "caption": "Mesa de operações no fim do pregão. Imagem ilustrativa."
+  },
+  {
+   "type": "h2",
+   "text": "Os números do fechamento"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Indicador",
+    "Fechamento",
+    "Variação"
+   ],
+   "rows": [
+    [
+     "Ibovespa",
+     "164.089,81 pontos",
+     "-0,43% (mín. 164.023,39 / máx. 167.579,78)"
+    ],
+    [
+     "Dólar (USD/BRL)",
+     "R$ 5,9107",
+     "-0,26% (entre R$ 5,8014 e R$ 5,9550)"
+    ],
+    [
+     "S&P 500 (EUA)",
+     "7.201,09 pontos",
+     "-0,50%"
+    ],
+    [
+     "Nasdaq / Dow Jones",
+     "23.733,54 / 50.018,70 pontos",
+     "-1,48% / +0,85%"
+    ],
+    [
+     "IFIX (fundos imobiliários)",
+     "3.469 pontos",
+     "+0,84%"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Cotações de **24/11/2026**, coletadas entre **17h54 e 18h23 (horário de Brasília)**, segundo UOL Economia, Google Finance e InfoMoney. Os dados do Ibovespa e do dólar seguem o fechamento oficial reportado pelo UOL."
+  },
+  {
+   "type": "h2",
+   "text": "O que mexeu com a bolsa"
+  },
+  {
+   "type": "p",
+   "text": "Pela manhã, a **sanção do pacote fiscal sem vetos** e a discussão de uma **PEC para limitar despesas obrigatórias a 2% acima da inflação em 2027** aliviaram o dólar e os juros. À tarde, o Ibovespa devolveu os ganhos, pressionado pelas **blue chips de commodities**: **VALE3 caiu 5,51%** e **PETR4 recuou 1,82%**, a R$ 40,55. Também pesaram os **temores renovados com novas tarifas comerciais dos EUA**, segundo o UOL Economia."
+  },
+  {
+   "type": "p",
+   "text": "Nos **juros futuros**, as taxas de DI recuaram em toda a curva: **13,684% ao ano** para janeiro de 2027, **14,455%** para 2028, **14,900%** para 2029, **15,155%** para 2031 e **15,295%** para 2033. Em Nova York, o S&P 500 e o Nasdaq fecharam em queda, enquanto o Dow Jones subiu."
+  },
+  {
+   "type": "callout",
+   "text": "**Termômetro: Neutro.** Alívio fiscal e pressão externa se compensaram no dia. Conteúdo informativo, sem recomendação de compra ou venda."
+  },
+  {
+   "type": "h2",
+   "text": "Dividendos e FIIs: o que vem por aí"
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/fechamento-de-mercado-24-11-ibovespa-cai-0-43-dolar-fecha-a-r-5-91-e-fiis-sobem-2.jpg",
+   "alt": "Complexo de edifícios corporativos e comerciais ao entardecer, com ruas movimentadas ao redor",
+   "caption": "Imóveis corporativos e de varejo, base de muitos FIIs. Imagem ilustrativa."
+  },
+  {
+   "type": "p",
+   "text": "O **IFIX** subiu **0,84%**, aos **3.469 pontos**, e os oito fundos acompanhados fecharam no azul. Veja os preços de fechamento e os proventos de novembro:"
+  },
+  {
+   "type": "table",
+   "head": [
+    "FII",
+    "Fechamento",
+    "Variação",
+    "Rendimento/cota (nov.)",
+    "Pagamento"
+   ],
+   "rows": [
+    [
+     "MXRF11",
+     "R$ 8,37",
+     "+0,60%",
+     "R$ 0,095 a R$ 0,10",
+     "16/11/2026"
+    ],
+    [
+     "GARE11",
+     "R$ 7,91",
+     "+0,89%",
+     "R$ 0,080 a R$ 0,083",
+     "09/11/2026"
+    ],
+    [
+     "HGLG11",
+     "R$ 141,74",
+     "+0,75%",
+     "R$ 1,17",
+     "16/11/2026"
+    ],
+    [
+     "XPML11",
+     "R$ 83,75",
+     "+0,90%",
+     "R$ 0,80",
+     "25/11/2026 (amanhã)"
+    ],
+    [
+     "KNCR11",
+     "R$ 102,40",
+     "+0,68%",
+     "R$ 1,10",
+     "13/11/2026"
+    ],
+    [
+     "BTLG11",
+     "R$ 94,55",
+     "+0,31%",
+     "R$ 0,81",
+     "25/11/2026 (amanhã)"
+    ],
+    [
+     "KNRI11",
+     "R$ 142,00",
+     "+1,07%",
+     "R$ 1,10",
+     "16/11/2026"
+    ],
+    [
+     "VISC11",
+     "R$ 94,93",
+     "+1,31%",
+     "R$ 0,84",
+     "16/11/2026"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Entre as ações de dividendos: **TAEE4 (Taesa)** fechou a **R$ 13,27** (+0,30%) e paga **R$ 0,2001 por ação nesta quinta-feira (26/11)**. **BBAS3 (Banco do Brasil)** ficou estável, a **R$ 14,20**. Entre as ações abaixo de R$ 10, **BMGB4 (Banco BMG)** fechou a **R$ 4,87** (-0,97%), com data-com encerrada ontem para **R$ 0,10 por ação em JCP** (pagamento em 04/12), e **MTRE3 (Mitre Realty)** ficou em **R$ 3,01**, com pagamento de **R$ 0,0378 por ação na sexta (27/11)**. A **ISAE4** tem data-com **amanhã (25/11)** para **R$ 0,188959 por ação** em JCP."
+  },
+  {
+   "type": "p",
+   "text": "Também no radar corporativo: a **RD Saúde (RADL3)** aprovou recompra de ações de até **R$ 600 milhões**, e a **Petrobras** detalhou o Plano de Negócios 2027-2031, com **US$ 122 bilhões em investimentos** e previsão de **R$ 15,6 bilhões em dividendos extras**, segundo o InfoMoney."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: data-com e data de pagamento",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "**Data-com** é o último dia em que é preciso ter o ativo para ter direito ao provento. O **pagamento** sai depois, em outra data. Exemplo ilustrativo: se um fundo paga **R$ 0,10 por cota** e você tem **100 cotas** na data-com, receberá **R$ 10,00** no dia do pagamento. Como o provento é definido pela empresa ou pelo fundo, ele pode mudar de um mês para outro."
+    },
+    {
+     "type": "p",
+     "text": "Exemplo didático com **R$ 100** nos preços de hoje, só para entender as contas: 5 cotas de MXRF11 (R$ 41,85) + 5 de GARE11 (R$ 39,55) + 2 ações de BMGB4 (R$ 9,74) + 2 de MTRE3 (R$ 6,02) somam **R$ 97,16**, sobrando R$ 2,84. Isto é uma ilustração, não uma sugestão de carteira."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Cripto no fechamento"
+  },
+  {
+   "type": "p",
+   "text": "Os criptoativos fecharam o dia em queda. Às 18h21, o **Bitcoin** valia **US$ 59.887** (cerca de R$ 353.836), com recuo de **4,95%** em 24 horas; o **Ethereum**, **US$ 1.679,78** (-5,34%); e o **BNB**, **US$ 546,48** (-3,79%). As stablecoins USDT e USDC ficaram praticamente estáveis, perto de US$ 1. Conversões em reais feitas com o dólar de R$ 5,9084."
+  },
+  {
+   "type": "h2",
+   "text": "Agenda de quarta-feira (25/11)"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Brasil:** Relatório Mensal da Dívida Pública (outubro), sem horário fixo.",
+    "**EUA, 10h30:** índice de preços PCE e núcleo do PCE (outubro), prévia do PIB do 3º trimestre, pedidos de seguro-desemprego e de bens duráveis.",
+    "**EUA, 12h:** venda de casas novas; **12h30:** estoques de petróleo (EIA).",
+    "**EUA, 16h:** divulgação do Livro Bege do Federal Reserve."
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "Rentabilidade passada e proventos históricos não garantem resultados futuros. Avalie seu perfil de risco antes de investir."
+  }
+ ]
+}
