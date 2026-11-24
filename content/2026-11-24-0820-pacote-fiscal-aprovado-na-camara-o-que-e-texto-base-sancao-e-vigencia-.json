@@ -1,0 +1,181 @@
+{
+ "category": "educacao",
+ "date": "2026-11-24",
+ "time": "08:20",
+ "source_doc": "Relatório de Tendências - 24/11 - 07h20 (Drive id 11a1UlucPDpFNBdsqzY0l9tpDu5AqaibQHF3EeKTdOn4)",
+ "slug": "pacote-fiscal-aprovado-na-camara-o-que-e-texto-base-sancao-e-vigencia-em-2027",
+ "title": "Pacote fiscal aprovado na Câmara: o que são texto-base, sanção e vigência em 2027",
+ "subtitle": "A Câmara aprovou o texto-base do ajuste fiscal do governo. Entenda, em linguagem simples, o que ainda falta acontecer e por que isso mexe com dólar e juros.",
+ "sentiment": "Neutro",
+ "meta": "Pacote fiscal aprovado na Câmara: entenda texto-base, destaques, sanção e vigência em 2027 e o que isso muda para juros, dólar e seu dinheiro.",
+ "focus_kw": "pacote fiscal aprovado na Câmara texto-base sanção",
+ "tags": [
+  "Pacote fiscal",
+  "Texto-base",
+  "Sanção e vigência 2027",
+  "Ajuste fiscal",
+  "Dólar e juros"
+ ],
+ "sources": [
+  {
+   "t": "InfoMoney: ajuste fiscal, Petrobras e confiança do consumidor",
+   "url": "https://www.infomoney.com.br/mercados/ajuste-fiscal-petrobras-confianca-consumidor-24112026/",
+   "at": "24/11/2026 07:33"
+  },
+  {
+   "t": "Bloomberg Línea: plano fiscal passa na Câmara após dólar superar R$ 6",
+   "url": "https://www.bloomberglinea.com.br/brasil/plano-fiscal-de-lula-passa-na-camara-apos-dolar-superar-r-6/",
+   "at": "24/11/2026 07:33"
+  },
+  {
+   "t": "InfoMoney Política: sanção e vigência em 2027, próximos passos do pacote fiscal",
+   "url": "https://www.infomoney.com.br/politica/sancao-e-vigencia-em-2027-entenda-os-proximos-passos-do-pacote-fiscal-de-lula/",
+   "at": "24/11/2026 07:33"
+  }
+ ],
+ "trend": {
+  "rank": 1,
+  "term": "Aprovação do pacote fiscal na Câmara dos Deputados",
+  "ref": "24/11"
+ },
+ "source_topic": "Aprovação do pacote fiscal na Câmara: texto-base, destaques, sanção e vigência em 2027",
+ "image": "assets/covers/pacote-fiscal-aprovado-camara-texto-base.jpg",
+ "image_alt": "Congresso Nacional em Brasília ao amanhecer",
+ "body": [
+  {
+   "type": "p",
+   "text": "O **pacote fiscal aprovado na Câmara** é um dos assuntos em alta desta terça-feira (24/11). Segundo InfoMoney e Bloomberg Línea, os deputados aprovaram na madrugada, por 318 votos, o texto-base do projeto de ajuste fiscal do governo, e a análise dos destaques e os próximos passos até a sanção e a vigência em 2027 são acompanhados pelos investidores. Se você ouviu esses termos e ficou perdido, este guia explica cada etapa."
+  },
+  {
+   "type": "h2",
+   "text": "O que significa \"texto-base aprovado\"?"
+  },
+  {
+   "type": "p",
+   "text": "No Legislativo, o **texto-base** é a versão principal do projeto, votada primeiro. Aprová-lo quer dizer que a ideia central passou, mas ainda não terminou: depois vêm os **destaques**, votações separadas que podem mudar ou retirar trechos específicos. Só depois dessa fase o texto fica pronto para seguir adiante."
+  },
+  {
+   "type": "h2",
+   "text": "Sanção e vigência: o caminho até 2027"
+  },
+  {
+   "type": "p",
+   "text": "Concluída a votação, o projeto segue para a **sanção**, que é a aprovação final do presidente da República. A **vigência** é o momento em que a regra passa a valer na prática. Conforme a InfoMoney, a expectativa é de vigência em 2027, então não há efeito imediato no seu bolso hoje. Para detalhes de prazos e eventuais mudanças, acompanhe as fontes oficiais, como o site da Câmara dos Deputados."
+  },
+  {
+   "type": "h2",
+   "text": "Por que isso mexe com dólar e juros?"
+  },
+  {
+   "type": "p",
+   "text": "Quando o governo mostra que consegue controlar gastos e arrecadar mais, o mercado tende a enxergar menos risco nas contas públicas, o que pode influenciar o dólar e os juros futuros. Ontem a moeda americana chegou a R$ 6,00 na máxima e fechou a R$ 5,93, segundo o relatório do dia. Isso não é garantia de nada: o mercado reage a muitas coisas ao mesmo tempo. Para entender a relação com os juros, veja o guia sobre a [taxa Selic](#o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes)."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: o caminho de um projeto de lei (exemplo ilustrativo)",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Pense numa receita de bolo em família: primeiro todo mundo aprova a receita principal (texto-base), depois cada um sugere trocar um ingrediente (destaques), e só então o dono da casa dá o aval final (sanção). Só quando o bolo vai ao forno ele começa a existir de fato (vigência). Como exemplo ilustrativo em reais: uma regra que passe a valer só em 2027 não muda hoje o rendimento de R$ 100 aplicados em um CDB, mas pode influenciar as expectativas do mercado sobre juros ao longo do caminho."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Etapa",
+      "O que acontece"
+     ],
+     "rows": [
+      [
+       "Texto-base",
+       "Aprovação da ideia principal"
+      ],
+      [
+       "Destaques",
+       "Votações para mudar trechos"
+      ],
+      [
+       "Sanção",
+       "Aval final do presidente"
+      ],
+      [
+       "Vigência",
+       "A regra passa a valer"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "E o investidor iniciante, o que faz com isso?"
+  },
+  {
+   "type": "p",
+   "text": "Notícia política é um fator de volatilidade, não um sinal de compra ou venda. Para quem está começando, o caminho mais seguro é manter a [reserva de emergência](#reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro) em dia, entender a diferença entre [renda fixa e renda variável](#renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona) e ler a análise de [como o ajuste fiscal e a estagflação afetam 2027](#estagflacao-e-ajuste-fiscal-o-que-significam-para-o-seu-dinheiro-em-2027). Este conteúdo é educativo e não recomenda compra ou venda de ativos."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: pacote fiscal na Câmara",
+   "center": "Pacote fiscal",
+   "branches": [
+    {
+     "label": "Texto-base",
+     "items": [
+      "Ideia central aprovada",
+      "318 votos"
+     ]
+    },
+    {
+     "label": "Próximas etapas",
+     "items": [
+      "Destaques",
+      "Sanção",
+      "Vigência em 2027"
+     ]
+    },
+    {
+     "label": "Mercado",
+     "items": [
+      "Dólar",
+      "Juros futuros"
+     ]
+    },
+    {
+     "label": "Cuidados",
+     "items": [
+      "Notícia não é recomendação",
+      "Acompanhar fontes oficiais"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes",
+   "items": [
+    {
+     "q": "O pacote fiscal já está valendo?",
+     "a": "Não. Segundo a InfoMoney, ainda faltam etapas como a análise de destaques e a sanção, com vigência prevista para 2027."
+    },
+    {
+     "q": "Texto-base aprovado é o mesmo que lei aprovada?",
+     "a": "Não. É a primeira parte da votação; ainda há destaques e a sanção presidencial."
+    },
+    {
+     "q": "O ajuste fiscal faz o dólar cair?",
+     "a": "Pode influenciar as expectativas, mas o dólar depende de muitos fatores e não há garantia."
+    },
+    {
+     "q": "Onde acompanhar a tramitação?",
+     "a": "No site da Câmara dos Deputados e em veículos de imprensa confiáveis."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Continue aprendendo",
+   "text": "Veja também o guia de [como começar a investir com pouco dinheiro](#como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes) e a explicação sobre [pacote fiscal e Selic a 13,75%](#pacote-fiscal-e-selic-a-13-75-o-que-significa-para-tesouro-direto-e-fiis). Rentabilidade passada não garante resultados futuros."
+  }
+ ],
+ "canva_media_id": "MAHb08faFhI"
+}
