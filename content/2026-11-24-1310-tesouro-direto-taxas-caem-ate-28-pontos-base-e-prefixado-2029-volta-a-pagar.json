@@ -1,0 +1,185 @@
+{
+ "slug": "tesouro-direto-taxas-caem-ate-28-pontos-base-e-prefixado-2029-volta-a-pagar-menos-de-15",
+ "capa": "dia",
+ "title": "Tesouro Direto: taxas caem até 28 pontos-base e Prefixado 2029 volta a pagar menos de 15%",
+ "subtitle": "Aprovação do pacote fiscal e aval a uma PEC de gastos derrubaram as taxas dos títulos nesta terça (24/11). Entenda o que isso muda, com um exemplo de R$ 100.",
+ "category": "renda-fixa",
+ "date": "2026-11-24",
+ "time": "13:10",
+ "sentiment": "Neutro",
+ "meta": "Taxas do Tesouro Direto caem até 28 pontos-base em 24/11 com o pacote fiscal; Prefixado 2029 vai a 14,87%. Veja o que muda na renda fixa, com R$ 100 de exemplo.",
+ "focus_kw": "Tesouro Direto taxas hoje",
+ "tags": [
+  "Tesouro Direto",
+  "Tesouro Prefixado 2029",
+  "Tesouro IPCA+",
+  "Pacote fiscal",
+  "Juros futuros",
+  "Renda Fixa"
+ ],
+ "sources": [
+  {
+   "t": "Money Times: Taxas do Tesouro Direto despencam após aprovação de ajuste fiscal e sinalização de nova contenção de gastos",
+   "url": "https://www.moneytimes.com.br/taxas-do-tesouro-direto-despencam-apos-aprovacao-de-ajuste-fiscal-mlim/",
+   "at": "24/11/2026 11:51"
+  },
+  {
+   "t": "BPMoney: Taxas do Tesouro Direto desabam até 28 pontos após aval de Lula a PEC de gastos",
+   "url": "https://bpmoney.com.br/mercado/renda-fixa/tesouro-direto-taxas-caem-pec-gastos-pacote-fiscal/",
+   "at": "24/11/2026 11:18"
+  },
+  {
+   "t": "Tesouro Direto (Tesouro Nacional): taxas e preços dos títulos (tabela citada pelo Money Times)",
+   "url": "https://www.tesourodireto.com.br/",
+   "at": "24/11/2026 11:35"
+  },
+  {
+   "t": "Banco Central: Copom (Selic em 13,75% ao ano, decisão de 04/11)",
+   "url": "https://www.brasildefato.com.br/2026/11/04/banco-central-surpreende-e-mantem-juros-basicos-em-1375-ao-ano/",
+   "at": "04/11/2026"
+  }
+ ],
+ "source_doc": "Pesquisa própria do Claude (sem relatório de renda fixa do Drive em 24/11 13:10; relatório de mercado de 24/11 12h usado só como apoio, sem seção de renda fixa nem imagem do Gemini para o tema)",
+ "source_topic": "Tesouro Direto: taxas caem até 28 pontos-base com pacote fiscal e PEC de gastos (24/11)",
+ "image": "assets/covers/tesouro-direto-taxas-caem-pacote-fiscal.jpg",
+ "image_alt": "Foto de notas e moedas de real ao lado de um notebook com gráfico em queda suave",
+ "canva_media_id": "MAHb2JXJdqM",
+ "body": [
+  {
+   "type": "p",
+   "text": "As taxas do **Tesouro Direto** recuaram forte na manhã desta terça-feira (24/11). Segundo o Money Times, com dados da plataforma do Tesouro por volta das 11h35, o **Tesouro Prefixado 2029** pagava **14,87% ao ano**, queda de 28 pontos-base em relação ao fechamento da véspera. Na quinta-feira anterior ao feriado (19/11), o mesmo título pagava mais de 15,33%. O movimento veio depois da aprovação do pacote fiscal no Congresso e da sinalização de que o presidente Lula autorizou o envio de uma PEC para conter o crescimento das despesas obrigatórias."
+  },
+  {
+   "type": "h2",
+   "text": "O que aconteceu com as taxas"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Prefixado 2029:** 14,87% ao ano (queda de 28 pontos-base sobre a véspera, segundo o Money Times e o BPMoney).",
+    "**Prefixado 2032:** 15,22% ao ano, ante 15,48% na véspera.",
+    "**IPCA+ 2032:** IPCA + 7,79% ao ano, ante IPCA + 7,92% no fechamento anterior.",
+    "**IPCA+ 2050:** IPCA + 7,48% ao ano, queda de 8 pontos-base, segundo o BPMoney.",
+    "**Tesouro Selic 2031:** Selic + 0,1093% ao ano na tabela das 11h35. A Selic segue em 13,75% ao ano."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Um ponto-base é 0,01 ponto percentual: 28 pontos-base equivalem a 0,28 ponto percentual. As duas reportagens também registram que o Tesouro suspendeu por um tempo a negociação dos prefixados e dos títulos ligados à inflação, mantendo só o Tesouro Selic 2031, e retomou as operações pouco antes das 11h. Isso acontece quando o mercado se move rápido demais."
+  },
+  {
+   "type": "h2",
+   "text": "Por que taxa caindo importa para você"
+  },
+  {
+   "type": "p",
+   "text": "O **preço** de um título e a sua **taxa** andam em sentidos opostos. Quando as taxas caem, os títulos já comprados valem mais no mercado. Isso é a marcação a mercado: só aparece de fato se você vender antes do vencimento. Quem leva o título até o fim recebe a taxa contratada na compra. Já quem pensa em comprar agora encontra taxas menores do que as de poucos dias atrás."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: R$ 100 em um prefixado (ilustrativo)",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "**Exemplo ilustrativo, não é promessa de retorno.** Se R$ 100 rendessem 14,87% ao ano por um ano, o valor bruto seria **R$ 114,87**. Com 15,33%, seria R$ 115,33. A diferença de R$ 0,46 em cada R$ 100 mostra o efeito de a taxa cair em poucos dias. Os valores são brutos: descontam-se o Imposto de Renda regressivo (de 22,5% a 15% sobre o rendimento, conforme o prazo) e a taxa de custódia da B3. Os títulos têm prazos maiores que um ano, então a conta serve só para comparar."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Referência (24/11, ~11h35)",
+      "Taxa",
+      "R$ 100 em 1 ano (bruto, ilustrativo)"
+     ],
+     "rows": [
+      [
+       "Prefixado 2029",
+       "14,87% a.a.",
+       "R$ 114,87"
+      ],
+      [
+       "Prefixado 2032",
+       "15,22% a.a.",
+       "R$ 115,22"
+      ],
+      [
+       "Selic (taxa básica)",
+       "13,75% a.a.",
+       "R$ 113,75"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "O que observar daqui para frente"
+  },
+  {
+   "type": "p",
+   "text": "Taxas de títulos públicos refletem o risco fiscal e a expectativa de juros. Por isso, a votação da PEC, o dólar e o próximo Copom podem mudar o quadro de novo, para cima ou para baixo. Os números acima são de uma manhã e variam ao longo do dia. Para entender a base, leia [O que é a taxa Selic](#o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes) e [Renda fixa ou renda variável](#renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona)."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: taxas do Tesouro em queda",
+   "center": "Taxas do Tesouro caem",
+   "branches": [
+    {
+     "label": "Causa",
+     "items": [
+      "Pacote fiscal aprovado",
+      "Aval a PEC de gastos"
+     ]
+    },
+    {
+     "label": "Prefixados",
+     "items": [
+      "2029 a 14,87%",
+      "2032 a 15,22%"
+     ]
+    },
+    {
+     "label": "IPCA+",
+     "items": [
+      "2032: IPCA + 7,79%",
+      "2050: IPCA + 7,48%"
+     ]
+    },
+    {
+     "label": "Para o investidor",
+     "items": [
+      "Preço sobe, taxa cai",
+      "Marcação a mercado",
+      "Taxa nova é menor"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "Conteúdo educativo e informativo. Não é recomendação de investimento. Rentabilidade passada não garante resultados futuros. Os números de exemplo são ilustrativos."
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes",
+   "items": [
+    {
+     "q": "O que é um ponto-base?",
+     "a": "É um centésimo de ponto percentual. Uma queda de 28 pontos-base equivale a 0,28 ponto percentual na taxa."
+    },
+    {
+     "q": "Taxa menor significa que perdi dinheiro?",
+     "a": "Não. Quem já tem título prefixado mantém a taxa contratada se levar até o vencimento. A taxa menor afeta quem compra agora."
+    },
+    {
+     "q": "O que é marcação a mercado?",
+     "a": "É o preço do título no mercado antes do vencimento. Ele sobe quando as taxas caem e desce quando sobem."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Aprenda o básico antes de decidir",
+   "text": "Veja o guia gratuito [O que é a taxa Selic](#o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes) e entenda como os juros afetam a renda fixa."
+  }
+ ]
+}
