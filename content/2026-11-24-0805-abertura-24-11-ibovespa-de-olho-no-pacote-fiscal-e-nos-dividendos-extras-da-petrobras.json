@@ -1,0 +1,227 @@
+{
+ "capa": "dia",
+ "slug": "abertura-24-11-ibovespa-de-olho-no-pacote-fiscal-e-nos-dividendos-extras-da-petrobras",
+ "title": "Abertura 24/11: Ibovespa de olho no pacote fiscal e nos dividendos extras da Petrobras, com NY no vermelho",
+ "subtitle": "Câmara aprovou o texto-base do ajuste fiscal e a Petrobras anunciou R$ 15,6 bilhões em remuneração extra, mas os futuros de Nova York recuam e o Bitcoin está abaixo de US$ 60 mil.",
+ "category": "mercado",
+ "date": "2026-11-24",
+ "time": "08:05",
+ "sentiment": "Neutro",
+ "meta": "Ibovespa abre de olho no pacote fiscal e dividendos extras da Petrobras; veja dólar, Bitcoin, Tesouro Direto, FIIs e agenda de 24/11.",
+ "focus_kw": "abertura de mercado hoje 24 de novembro",
+ "tags": [
+  "Abertura de mercado",
+  "Ibovespa hoje",
+  "Dólar hoje",
+  "Dividendos Petrobras",
+  "Tesouro Direto"
+ ],
+ "sources": [
+  {
+   "t": "InfoMoney: ajuste fiscal, Petrobras e confiança do consumidor",
+   "url": "https://www.infomoney.com.br/mercados/ajuste-fiscal-petrobras-confianca-consumidor-24112026/",
+   "at": "24/11/2026 07:35"
+  },
+  {
+   "t": "Estadão E-Investidor: futuros de NY",
+   "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/dow-jones-hoje-futuros-de-ny-passam-a-cair-com-queda-de-acoes-de-chips-no-pre-mercado/",
+   "at": "24/11/2026 07:35"
+  },
+  {
+   "t": "Google Finance: Ibovespa, dólar, S&P 500, criptomoedas e cotações",
+   "url": "https://www.google.com/finance",
+   "at": "24/11/2026 07:35"
+  },
+  {
+   "t": "B3: indicadores financeiros (DI Over)",
+   "url": "https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/consultas/mercado-de-derivativos/indicadores/indicadores-financeiros/",
+   "at": "24/11/2026 07:35"
+  },
+  {
+   "t": "Banco Central: histórico das taxas de juros",
+   "url": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros",
+   "at": "24/11/2026 07:35"
+  },
+  {
+   "t": "Agência Petrobras: Plano de Negócios 2027–2031",
+   "url": "https://agencia.petrobras.com.br/w/negocio/petrobras-aprova-plano-de-neg%C3%B3cios-2027-2031",
+   "at": "24/11/2026"
+  },
+  {
+   "t": "Investidor10: taxas do Tesouro Direto",
+   "url": "https://investidor10.com.br/tesouro-direto/investir/",
+   "at": "24/11/2026 07:35"
+  },
+  {
+   "t": "Investing.com: Ibovespa futuro",
+   "url": "https://br.investing.com/indices/ibovespa-futures",
+   "at": "24/11/2026 07:35"
+  }
+ ],
+ "source_doc": "Relatório de Mercado - 24/11 - 07h (Drive id 1uR3iA_kf_SE6RTA6Y1b174-P8wQtLljDx8bq_-gHkhg)",
+ "source_topic": "abertura",
+ "image": "assets/covers/abertura-24-11-ibovespa-de-olho-no-pacote-fiscal-e-nos-dividendos-extras-da-petrobras.jpg",
+ "image_alt": "Foto de mesa com notas, café e tablet com gráfico diante de prédios de São Paulo ao amanhecer",
+ "canva_media_id": "MAHb0yfrxCU",
+ "body": [
+  {
+   "type": "p",
+   "text": "Nesta **terça-feira (24/11)**, o mercado brasileiro abre **dividido**. De um lado, a Câmara aprovou o **texto-base do pacote de ajuste fiscal** (318 votos) e a **Petrobras** anunciou **R$ 15,6 bilhões** em remuneração extraordinária a acionistas no Plano de Negócios 2027–2031. De outro, os **futuros de Nova York** recuam e o **Bitcoin** caiu abaixo de **US$ 60 mil**. Termômetro: **Neutro**."
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/abertura-24-11-ibovespa-de-olho-no-pacote-fiscal-e-nos-dividendos-extras-da-petrobras-1.jpg",
+   "alt": "Analistas em mesa de operações acompanhando a abertura da bolsa e o câmbio ao amanhecer",
+   "caption": "Mesas de operações acompanham a abertura da bolsa brasileira e o câmbio. Imagem ilustrativa."
+  },
+  {
+   "type": "h2",
+   "text": "Os números antes da abertura"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Indicador",
+    "Valor",
+    "Referência"
+   ],
+   "rows": [
+    [
+     "Ibovespa (à vista)",
+     "164.796,05 pontos",
+     "-0,95% no fechamento de 23/11"
+    ],
+    [
+     "Ibovespa futuro",
+     "166.795 pontos",
+     "-0,87% (fech. anterior: 166.206)"
+    ],
+    [
+     "Dólar (USD/BRL)",
+     "R$ 5,9310",
+     "Estável após bater R$ 6,00 na véspera"
+    ],
+    [
+     "S&P 500 (EUA)",
+     "7.237,17 pontos",
+     "+4,73% no fechamento de 23/11; futuros -0,30%"
+    ],
+    [
+     "Selic / DI Over",
+     "13,75% / 13,65% ao ano",
+     "CDI acumulado em 12 meses: 14,24%"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Os futuros do S&P 500 recuam **0,30%** (06h35), pressionados pela queda de **3,7%** das ações da Nvidia no pré-mercado. Às **8h**, sai a **Confiança do Consumidor da FGV**, um dos dados que o mercado acompanha na manhã. Isso é **ponto de atenção**, não previsão."
+  },
+  {
+   "type": "h2",
+   "text": "Criptomoedas: Bitcoin perde os US$ 60 mil"
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/abertura-24-11-ibovespa-de-olho-no-pacote-fiscal-e-nos-dividendos-extras-da-petrobras-2.jpg",
+   "alt": "Tablet e smartphone sobre mesa de madeira exibindo gráficos de criptomoedas pela manhã",
+   "caption": "Gráficos de criptomoedas em tablet e celular. Imagem ilustrativa."
+  },
+  {
+   "type": "p",
+   "text": "O **Bitcoin** (BTC) está em **US$ 59.753,38** (cerca de **R$ 354,4 mil**), queda de **2,36%** (UTC). O **Ethereum** (ETH) recua **1,53%**, a **US$ 1.683,48** (R$ 9.984,72). O **BNB** sobe **0,42%**, a **US$ 560,56**. **Tether (USDT)** e **USDC**, atrelados ao dólar, ficam praticamente estáveis."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: o que é remuneração extraordinária",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "É o dinheiro que a empresa distribui aos acionistas **além** dos dividendos normais. Não é garantido e pode mudar a cada ano. **Exemplo ilustrativo (não é previsão):** se uma empresa pagasse R$ 0,50 por ação a mais e você tivesse 100 ações, receberia R$ 50,00 extras antes de impostos e regras específicas."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Dividendos: Petrobras e agenda da semana"
+  },
+  {
+   "type": "p",
+   "text": "A **Petrobras (PETR4)** aprovou **R$ 15,6 bilhões** em remuneração extraordinária junto ao Plano de Negócios 2027–2031. A **Porto (PSSA3)** paga dividendos adicionais na **sexta (27/11)**. Veja a agenda de ativos da tese do portal:"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Ativo",
+    "Cotação ref.",
+    "Provento",
+    "Pagamento"
+   ],
+   "rows": [
+    [
+     "TAEE4 (Taesa)",
+     "R$ 13,23",
+     "R$ 0,2001 por ação",
+     "26/11 (quinta)"
+    ],
+    [
+     "BMGB4 (< R$ 10)",
+     "R$ 5,00",
+     "R$ 0,10 (JCP); data-com 23/11 encerrada",
+     "04/12"
+    ],
+    [
+     "MTRE3 (< R$ 10)",
+     "R$ 3,01",
+     "R$ 0,0378 por ação",
+     "27/11 (sexta)"
+    ],
+    [
+     "BBAS3 (BB)",
+     "R$ 14,20",
+     "Sem data em novembro",
+     "—"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Atenção à **ISAE4**: o último dia para garantir o JCP de **R$ 0,188959** por ação é **amanhã (25/11)**, com pagamento em 07/12. A **data-com** é o último dia em que quem tem a ação garante o provento."
+  },
+  {
+   "type": "h2",
+   "text": "FIIs: XPML11 e BTLG11 pagam amanhã"
+  },
+  {
+   "type": "p",
+   "text": "Segundo o relatório, **XPML11** (R$ 83,00; rendimento de **R$ 0,80** por cota) e **BTLG11** (R$ 94,26; **R$ 0,81**) pagam em **25/11**. Referências do último fechamento: **MXRF11** a R$ 8,32, **GARE11** a R$ 7,84 e **HGLG11** a R$ 140,69."
+  },
+  {
+   "type": "h2",
+   "text": "Renda fixa: taxas de referência"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Tesouro Selic 2031:** Selic + 0,1086% ao ano; **Tesouro Reserva 2036:** 100% da Selic.",
+    "**Tesouro Prefixado 2032:** 15,48% ao ano; **Prefixado com juros semestrais 2037:** 15,40% ao ano.",
+    "**Tesouro IPCA+ com juros semestrais 2037:** IPCA + 7,80% ao ano; **Educa+ 2044:** IPCA + 7,57% ao ano.",
+    "**CDBs de bancos médios:** até 15,51% ao ano, com proteção do **FGC** de até R$ 250 mil por CPF e instituição."
+   ]
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: R$ 100 na prática",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "**Exemplo ilustrativo, sem recomendação:** com R$ 100,00 e as cotações de referência, seria possível comprar 5 cotas de MXRF11 (R$ 41,60), 5 de GARE11 (R$ 39,20), 2 ações de BMGB4 (R$ 10,00) e 3 de MTRE3 (R$ 9,03). Total: **R$ 99,83**, sobrando R$ 0,17. Os preços mudam o tempo todo e há risco de perda."
+    }
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "Conteúdo educativo e informativo, sem recomendação de compra ou venda. Os dados são de referência na coleta das 07h35 e podem mudar até a abertura. Rentabilidade passada não garante resultados futuros."
+  }
+ ]
+}
