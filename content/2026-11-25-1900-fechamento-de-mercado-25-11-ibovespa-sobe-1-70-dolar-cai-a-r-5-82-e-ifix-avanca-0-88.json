@@ -1,0 +1,273 @@
+{
+ "capa": "noite",
+ "slug": "fechamento-de-mercado-25-11-ibovespa-sobe-1-70-dolar-cai-a-r-5-82-e-ifix-avanca-0-88",
+ "title": "Fechamento de 25/11: Ibovespa sobe 1,70% aos 166,9 mil pontos, dólar cai a R$ 5,82 e IFIX avança 0,88%",
+ "subtitle": "Expectativa de medidas fiscais e especulação sobre nomes para a equipe econômica aliviaram dólar e juros futuros; FIIs fecharam em alta e XPML11 e BTLG11 pagaram proventos hoje.",
+ "category": "mercado",
+ "date": "2026-11-25",
+ "time": "19:00",
+ "sentiment": "Otimista",
+ "meta": "Fechamento 25/11/2026: Ibovespa salta 1,70% aos 166.880 pts, dólar cai a R$ 5,82, Bitcoin volta a US$ 60 mil e FIIs fecham em forte alta.",
+ "focus_kw": "fechamento de mercado hoje 25 novembro 2026",
+ "tags": [
+  "Fechamento de mercado",
+  "Ibovespa hoje",
+  "Dólar hoje",
+  "FIIs hoje",
+  "Dividendos novembro 2026"
+ ],
+ "sources": [
+  {
+   "t": "UOL Economia: dólar e Ibovespa no fechamento de 25/11/2026",
+   "url": "https://economia.uol.com.br/cotacoes/noticias/redacao/2026/11/25/dolar-ibovespa-fechamento-25-novembro-2026.ghtm",
+   "at": "25/11/2026 18:17"
+  },
+  {
+   "t": "InfoMoney: mercado e IFIX",
+   "url": "https://www.infomoney.com.br/",
+   "at": "25/11/2026"
+  },
+  {
+   "t": "Clube FII News: agenda econômica semanal",
+   "url": "https://www.clubefiinews.com.br/mercado/agenda-economica-semanal-inclui-ipca-15-igp-m-e-pnad",
+   "at": "25/11/2026"
+  },
+  {
+   "t": "Investing.com Brasil: criptomoedas",
+   "url": "https://br.investing.com/crypto",
+   "at": "25/11/2026 18:17"
+  },
+  {
+   "t": "Status Invest: agenda de dividendos",
+   "url": "https://statusinvest.com.br/acoes/proventos/ibovespa",
+   "at": "25/11/2026"
+  },
+  {
+   "t": "XP Investimentos: calendário de dividendos de novembro de 2026",
+   "url": "https://conteudos.xpi.com.br/acoes/relatorios/acoes-confira-o-calendario-de-dividendos-de-novembro-de-2026/",
+   "at": "25/11/2026"
+  },
+  {
+   "t": "Rico: calendário de dividendos de FIIs",
+   "url": "https://riconnect.rico.com.vc/analises/fiis-calendario-de-dividendos/",
+   "at": "25/11/2026"
+  },
+  {
+   "t": "FIIs.com.br: XPML11, dividendo de novembro de 2026",
+   "url": "https://fiis.com.br/noticias/fundo-xpml11-dividendo-novembro-2026/",
+   "at": "25/11/2026"
+  },
+  {
+   "t": "FIIs.com.br: BTLG11 anuncia dividendos de novembro",
+   "url": "https://fiis.com.br/noticias/btlg11-anuncia-dividendos-novembro-veja/",
+   "at": "25/11/2026"
+  },
+  {
+   "t": "Google Finance: cotações de encerramento",
+   "url": "https://www.google.com/finance",
+   "at": "25/11/2026 18:17"
+  }
+ ],
+ "source_doc": "Relatório de Mercado - 25/11 - 18h (Drive id 1kp7aHM-hy0wx74ijOPZNjCi9_VoRoB9xvUUN54Sn2fU)",
+ "source_topic": "fechamento",
+ "image": "assets/covers/fechamento-de-mercado-25-11-ibovespa-sobe-1-70-dolar-cai-a-r-5-82-e-ifix-avanca-0-88.jpg",
+ "image_alt": "Foto de tela de pregão com gráfico verde em alta, notas de real em primeiro plano e skyline de cidade ao entardecer",
+ "canva_media_id": "MAHb9r6Q_3Y",
+ "body": [
+  {
+   "type": "p",
+   "text": "O **Ibovespa** fechou a quarta-feira (25) em alta de **1,70%**, aos **166.880,13 pontos**, descolando-se da cautela em Nova York. O **dólar** caiu **1,58%** e encerrou a **R$ 5,817**, segundo o UOL Economia. O termômetro do dia é **Otimista**: a expectativa de medidas de contenção de gastos públicos e a especulação sobre nomes para a equipe econômica reduziram a percepção de risco fiscal."
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/fechamento-de-mercado-25-11-ibovespa-sobe-1-70-dolar-cai-a-r-5-82-e-ifix-avanca-0-88-1.jpg",
+   "alt": "Avenida de São Paulo ao entardecer, com prédios corporativos iluminados e trânsito intenso",
+   "caption": "Região financeira de São Paulo ao fim do pregão. Imagem ilustrativa."
+  },
+  {
+   "type": "h2",
+   "text": "Os números do fechamento"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Indicador",
+    "Fechamento",
+    "Variação"
+   ],
+   "rows": [
+    [
+     "Ibovespa",
+     "166.880,13 pontos",
+     "+1,70% (mín. 164.042,13 / máx. 167.105,33)"
+    ],
+    [
+     "Dólar (USD/BRL)",
+     "R$ 5,817 (UOL Economia)",
+     "-1,58% (Google Finance: R$ 5,8251 às 18h17)"
+    ],
+    [
+     "S&P 500 (EUA)",
+     "7.182,78 pontos",
+     "-0,25% (às 18h13)"
+    ],
+    [
+     "IFIX (fundos imobiliários)",
+     "3.498 pontos",
+     "+0,88%"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Cotações de **25/11/2026**, coletadas entre **17h54 e 18h17 (horário de Brasília)**, segundo UOL Economia, InfoMoney e Google Finance. A véspera do Ibovespa fechou em 164.089,81 pontos."
+  },
+  {
+   "type": "h2",
+   "text": "O que mexeu com a bolsa"
+  },
+  {
+   "type": "p",
+   "text": "A combinação de **expectativas por novas medidas de contenção de gastos** e de **especulações sobre a eventual participação de Luiz Carlos Trabuco no Ministério da Fazenda**, além de nomes ligados ao mercado para o Banco Central, derrubou o dólar e aliviou os juros futuros médios e longos, segundo o UOL Economia. Varejistas e construtoras lideraram os ganhos: **Natura +7,28%**, **Azzas +7,26%** e **Magazine Luiza +6,74%**, junto com **Vale** e **Petrobras**. A **Embraer (EMBJ3)** amenizou perdas depois de cair até 9% com a proposta tarifária dos EUA."
+  },
+  {
+   "type": "p",
+   "text": "Nos **juros futuros**, as taxas de DI recuaram: **13,686% ao ano** para janeiro de 2027 (praticamente estável), **14,675%** para janeiro de 2029 (ante 14,900% na véspera) e **14,910%** para janeiro de 2031 (ante 15,155%). Em Nova York, o S&P 500 recuperou parte da queda da manhã, que veio após o PCE de 3,8% em 12 meses e o PIB de 4,3% no 3º trimestre."
+  },
+  {
+   "type": "callout",
+   "text": "**Termômetro: Otimista.** Alívio fiscal e dólar mais fraco marcaram o dia. Conteúdo informativo, sem recomendação de compra ou venda."
+  },
+  {
+   "type": "h2",
+   "text": "Dividendos e FIIs do dia"
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/fechamento-de-mercado-25-11-ibovespa-sobe-1-70-dolar-cai-a-r-5-82-e-ifix-avanca-0-88-2.jpg",
+   "alt": "Torre corporativa e shopping iluminados no crepúsculo, com pessoas circulando pela praça",
+   "caption": "Imóveis corporativos e de varejo, base de muitos FIIs. Imagem ilustrativa."
+  },
+  {
+   "type": "p",
+   "text": "O **IFIX** avançou **0,88%**, aos **3.498 pontos**, acompanhando o alívio da curva de juros. Veja o fechamento dos oito fundos acompanhados e os proventos de novembro:"
+  },
+  {
+   "type": "table",
+   "head": [
+    "FII",
+    "Fechamento",
+    "Variação",
+    "Rendimento/cota (nov.)",
+    "Pagamento"
+   ],
+   "rows": [
+    [
+     "MXRF11",
+     "R$ 8,45",
+     "+0,96%",
+     "R$ 0,095 a R$ 0,10",
+     "16/11/2026"
+    ],
+    [
+     "GARE11",
+     "R$ 8,01",
+     "+1,26%",
+     "R$ 0,080 a R$ 0,083",
+     "09/11/2026"
+    ],
+    [
+     "HGLG11",
+     "R$ 143,61",
+     "+2,00%",
+     "R$ 1,17",
+     "16/11/2026"
+    ],
+    [
+     "XPML11",
+     "R$ 86,97",
+     "+3,84%",
+     "R$ 0,80",
+     "25/11/2026 (hoje)"
+    ],
+    [
+     "KNCR11",
+     "R$ 103,20",
+     "+0,78%",
+     "R$ 1,10",
+     "13/11/2026"
+    ],
+    [
+     "BTLG11",
+     "R$ 97,00",
+     "+2,59%",
+     "R$ 0,81",
+     "25/11/2026 (hoje)"
+    ],
+    [
+     "KNRI11",
+     "R$ 144,87",
+     "+2,02%",
+     "R$ 1,10",
+     "16/11/2026"
+    ],
+    [
+     "VISC11",
+     "R$ 97,14",
+     "+2,33%",
+     "R$ 0,84",
+     "16/11/2026"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Entre as ações de dividendos: a **ISAE4 (ISA Energia Brasil)** fechou a **R$ 26,22** (+0,81%) e teve hoje a data-com para **R$ 0,188959 por ação** em JCP, com pagamento em 07/12. A **TAEE4 (Taesa)** fechou a **R$ 13,25** (-0,15%) e paga **R$ 0,2001 por ação amanhã (26/11)**. O **BBAS3 (Banco do Brasil)** subiu **4,02%**, a **R$ 14,75**, sem data-com ou pagamento em novembro."
+  },
+  {
+   "type": "p",
+   "text": "Entre as ações abaixo de R$ 10, a **MTRE3 (Mitre Realty)** subiu **2,99%**, a **R$ 3,10**, e paga **R$ 0,0378 por ação na sexta (27/11)**. O **BMGB4 (Banco BMG)** caiu **3,49%**, a **R$ 4,70**; a data-com foi em 23/11, para **R$ 0,10 por ação** em JCP, com pagamento em 04/12. Outros pagamentos da semana: Porto (PSSA3), dia 27; MDIA3, SAUD3 e RAIL3, dia 30."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: por que o dólar cai quando o risco fiscal diminui",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Quando o mercado acredita que o governo vai controlar melhor os gastos, o risco de a dívida pública crescer demais diminui. Com menos risco, investidores estrangeiros e locais pedem menos prêmio para manter dinheiro no Brasil, o que tende a enfraquecer o dólar frente ao real e a reduzir as taxas de juros futuros."
+    },
+    {
+     "type": "p",
+     "text": "Exemplo ilustrativo: se o dólar cai de R$ 5,91 para R$ 5,82, um produto importado de US$ 100 passa de R$ 591 para R$ 582, uma diferença de R$ 9. É só uma conta didática; o efeito real nos preços depende de muitos outros fatores."
+    },
+    {
+     "type": "p",
+     "text": "Exemplo didático com **R$ 100** nos preços de hoje, só para entender as contas: 5 cotas de MXRF11 (R$ 42,25) + 5 de GARE11 (R$ 40,05) + 2 ações de BMGB4 (R$ 9,40) + 2 de MTRE3 (R$ 6,20) somam **R$ 97,90**, sobrando R$ 2,10. Isto é uma ilustração, não uma sugestão de carteira."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Cripto no fechamento"
+  },
+  {
+   "type": "p",
+   "text": "Às 18h17, o **Bitcoin** valia **US$ 60.161,67** (cerca de R$ 350.448), com alta de 0,70% no dia (horário UTC) e queda de 2,02% em 24 horas; o **Ethereum**, **US$ 1.685,25** (R$ 9.817); o **BNB**, **US$ 535,71** (-1,55% em 24 horas). As stablecoins USDT e USDC ficaram praticamente estáveis, perto de US$ 1. Conversões em reais feitas com o dólar de R$ 5,8251 (Google Finance)."
+  },
+  {
+   "type": "h2",
+   "text": "Agenda de quinta-feira (26/11)"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Brasil:** divulgação do **IPCA-15 de novembro**, a prévia da inflação oficial e o principal teste das expectativas do mercado, segundo o UOL Economia.",
+    "**Estados Unidos:** mercados fechados pelo feriado de Ação de Graças (*Thanksgiving*), o que reduz a liquidez global."
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "Rentabilidade passada e proventos históricos não garantem resultados futuros. Avalie seu perfil de risco antes de investir."
+  }
+ ]
+}
