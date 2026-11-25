@@ -1,0 +1,185 @@
+{
+ "capa": "dia",
+ "slug": "abertura-25-11-pce-e-livro-bege-nos-eua-colocam-ibovespa-e-dolar-no-radar-isae4-tem-data-com-hoje",
+ "title": "Abertura 25/11: PCE e Livro Bege nos EUA colocam Ibovespa e dólar no radar; ISAE4 tem Data-Com hoje e XPML11 e BTLG11 pagam",
+ "subtitle": "Bolsa brasileira espera dados de inflação e PIB dos EUA, o Livro Bege do Fed e a coletiva do relatório bimestral do governo, enquanto o Bitcoin recua para perto de US$ 58,9 mil.",
+ "category": "mercado",
+ "date": "2026-11-25",
+ "time": "08:05",
+ "sentiment": "Alerta",
+ "meta": "Abertura de 25/11/2026: Ibovespa futuro, dólar a R$ 5,91, Selic a 13,75%, Bitcoin a US$ 58,8 mil, Data-Com de ISAE4 hoje e FIIs XPML11 e BTLG11.",
+ "focus_kw": "abertura de mercado hoje 25 novembro 2026",
+ "tags": [
+  "Abertura de mercado",
+  "Ibovespa hoje",
+  "Selic e Tesouro Direto",
+  "Dividendos novembro 2026",
+  "Bitcoin hoje"
+ ],
+ "sources": [
+  {
+   "t": "Money Times: Morning Times 25/11/2026",
+   "url": "https://www.moneytimes.com.br/pce-e-livro-bege-nos-eua-mexem-com-bolsas-hoje-ibovespa-em-dolar-cai-nesta-quarta-feira-25-rens/",
+   "at": "25/11/2026 07:40"
+  },
+  {
+   "t": "InfoMoney: Radar do Pregão 25/11/2026",
+   "url": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-25112026/",
+   "at": "25/11/2026 07:40"
+  },
+  {
+   "t": "Banco Central: histórico das taxas de juros",
+   "url": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros",
+   "at": "25/11/2026 07:40"
+  },
+  {
+   "t": "Banco Central: Comunicado nº 46.230 (Copom)",
+   "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Comunicado&numero=46230",
+   "at": "25/11/2026 07:40"
+  },
+  {
+   "t": "Tesouro Direto: preços e taxas",
+   "url": "https://www.tesourodireto.com.br/titulos/precos-e-taxas.htm",
+   "at": "25/11/2026 07:40"
+  },
+  {
+   "t": "Investing.com Brasil: criptomoedas e futuros",
+   "url": "https://br.investing.com/crypto",
+   "at": "25/11/2026 07:40"
+  },
+  {
+   "t": "Status Invest: agenda de dividendos",
+   "url": "https://statusinvest.com.br/acoes/proventos/ibovespa",
+   "at": "25/11/2026 07:40"
+  },
+  {
+   "t": "XP Investimentos: calendário de dividendos de novembro de 2026",
+   "url": "https://conteudos.xpi.com.br/acoes/relatorios/acoes-confira-o-calendario-de-dividendos-de-novembro-de-2026/",
+   "at": "25/11/2026 07:40"
+  },
+  {
+   "t": "FIIs.com.br: XPML11 em novembro de 2026",
+   "url": "https://fiis.com.br/noticias/fundo-xpml11-dividendo-novembro-2026/",
+   "at": "25/11/2026 07:40"
+  },
+  {
+   "t": "FIIs.com.br: BTLG11 em novembro de 2026",
+   "url": "https://fiis.com.br/noticias/btlg11-anuncia-dividendos-novembro-veja/",
+   "at": "25/11/2026 07:40"
+  }
+ ],
+ "source_doc": "Relatório de Mercado - 25/11 - 07h (Drive id 1VIlKjehNZOF3UAHIC7_W-UBzD2xjSRNVn_AovaGgNYs)",
+ "source_topic": "abertura",
+ "image": "assets/covers/abertura-25-11-pce-e-livro-bege-nos-eua-colocam-ibovespa-e-dolar-no-radar-isae4-tem-data-com-hoje.jpg",
+ "image_alt": "Foto de mesa com notas de real, café e tablet diante de prédios de São Paulo ao amanhecer",
+ "canva_media_id": "MAHb66WQ6Sw",
+ "body": [
+  {
+   "type": "p",
+   "text": "Nesta **quarta-feira (25/11)**, o mercado abre em **compasso de espera**. Os investidores aguardam, às **10h30**, o índice de preços **PCE** de outubro (a medida de inflação preferida do Fed, o banco central dos EUA) e a segunda estimativa do **PIB** americano do 3º trimestre; às **16h**, sai o **Livro Bege** do Fed. Termômetro: **Alerta**."
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/abertura-25-11-pce-e-livro-bege-nos-eua-colocam-ibovespa-e-dolar-no-radar-isae4-tem-data-com-hoje-1.jpg",
+   "alt": "Avenida de São Paulo ao amanhecer, cercada por prédios comerciais, simbolizando a abertura do mercado",
+   "caption": "Amanhecer em avenida da capital paulista, centro financeiro do país. Imagem ilustrativa."
+  },
+  {
+   "type": "h2",
+   "text": "Os números antes da abertura"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Indicador",
+    "Valor",
+    "Referência"
+   ],
+   "rows": [
+    [
+     "Ibovespa (à vista)",
+     "164.089,81 pontos",
+     "-0,43% no fechamento de 24/11"
+    ],
+    [
+     "Ibovespa futuro",
+     "165.397 pontos",
+     "-0,49% na pré-abertura"
+    ],
+    [
+     "Dólar (USD/BRL)",
+     "R$ 5,9125",
+     "Google Finance, 07h40"
+    ],
+    [
+     "S&P 500 (EUA)",
+     "7.201,09 pontos",
+     "-0,50% no fechamento de 24/11; futuros em queda"
+    ],
+    [
+     "Selic meta / CDI",
+     "13,75% / 13,65% ao ano",
+     "Selic mantida pelo Copom em 04/11"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Em Nova York, o ETF que reúne ações brasileiras, o **EWZ**, recuava **0,68%** às 7h18. Os futuros do S&P 500 também operavam no vermelho, mas a intensidade da queda varia conforme a fonte consultada. No Brasil, o mercado acompanha a coletiva do **Relatório Bimestral de Avaliação de Receitas e Despesas** e os desdobramentos da PEC de contenção de gastos; o fluxo cambial semanal sai às **14h30**. Esses são **pontos de atenção**, não previsões."
+  },
+  {
+   "type": "h2",
+   "text": "Criptomoedas: Bitcoin perto de US$ 58,9 mil"
+  },
+  {
+   "type": "p",
+   "text": "Às 7h40, o **Bitcoin** valia **US$ 58.877,20** (R$ 348.111,45), com queda de **3,22%** em 24 horas. O **Ethereum** cotava **US$ 1.642,31** (**-2,82%**). As stablecoins USDT e USDC ficaram praticamente estáveis, perto de US$ 1. Criptoativos são voláteis e podem oscilar muito em poucas horas."
+  },
+  {
+   "type": "h2",
+   "text": "Dividendos e FIIs: o que acontece hoje"
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/abertura-25-11-pce-e-livro-bege-nos-eua-colocam-ibovespa-e-dolar-no-radar-isae4-tem-data-com-hoje-2.jpg",
+   "alt": "Torre corporativa moderna e centro logístico sob sol da manhã, representando fundos imobiliários",
+   "caption": "Imóveis corporativos e logísticos estão por trás de muitos FIIs. Imagem ilustrativa."
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**ISAE4 (ISA Energia Brasil):** hoje é a **Data-Com**, último dia para ter a ação e ter direito a **R$ 0,188959 por ação** em JCP, com pagamento em 07/12. Fechou a R$ 26,01 em 24/11.",
+    "**XPML11 e BTLG11:** pagam rendimentos hoje, de **R$ 0,80** e **R$ 0,81 por cota**, respectivamente.",
+    "**TAEE4 (Taesa):** pagamento de **R$ 0,2001 por ação** amanhã (26/11). Fechou a R$ 13,27.",
+    "**BBAS3:** sem Data-Com nem pagamento previsto em novembro. Fechou a R$ 14,20.",
+    "**MTRE3:** paga **R$ 0,0378 por ação** na sexta-feira (27/11)."
+   ]
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: Data-Com e pagamento não são a mesma data",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "A **Data-Com** é o último dia em que quem tem o ativo na carteira garante o direito ao provento. O **pagamento** vem depois, em outra data. Exemplo **ilustrativo**: quem tivesse 100 ações de ISAE4 na data-com teria direito a cerca de R$ 18,90 brutos (100 x R$ 0,188959), com crédito em 07/12 e sujeito aos descontos aplicáveis ao JCP. Quem comprar a ação depois da data-com não recebe esse provento. Provento anunciado não é garantia de retorno futuro, e o preço da ação pode se ajustar após a data-com."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Renda fixa: Selic em 13,75%"
+  },
+  {
+   "type": "p",
+   "text": "Com a **Selic meta em 13,75% ao ano** e o **CDI em 13,65%**, CDBs, LCIs e LCAs pós-fixados atrelados ao CDI contam com a proteção do **FGC** até **R$ 250 mil por CPF e instituição**. O **Tesouro Selic** acompanha a Selic, com liquidez diária e garantia do Tesouro Nacional (sem FGC). O site do Tesouro Direto estava em manutenção às 7h41; como referência de fechamento, os prefixados operavam entre **13,56% ao ano (2027)** e **15,36% ao ano (2037, juros semestrais)**, segundo o Status Invest."
+  },
+  {
+   "type": "callout",
+   "text": "Exemplo ilustrativo, não é recomendação: com R$ 100, o relatório simulou uma cesta didática de 5 cotas de MXRF11 (R$ 41,85), 5 de GARE11 (R$ 39,55), 2 ações de BMGB4 (R$ 9,74) e 2 de MTRE3 (R$ 6,02), total de R$ 97,16, sobrando R$ 2,84. Preços de fechamento de 24/11; cada investidor deve avaliar o próprio perfil."
+  },
+  {
+   "type": "p",
+   "text": "Os dados foram coletados entre 7h40 e 7h42 de 25/11 e podem mudar até a abertura da B3, às 10h. Rentabilidade passada e proventos históricos não garantem resultados futuros."
+  }
+ ]
+}
