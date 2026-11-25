@@ -1,0 +1,168 @@
+{
+ "slug": "prefixados-caem-pelo-2o-dia-o-que-e-marcacao-a-mercado-e-quando-vender-o-tesouro-antes-do-prazo",
+ "capa": "dia",
+ "title": "Prefixados do Tesouro caem pelo 2º dia: o que é marcação a mercado e por que importa se você vender antes do prazo",
+ "subtitle": "Com a PEC dos gastos no radar, o Prefixado 2029 abriu esta quarta (25/11) abaixo de 15% ao ano. Entenda por que o preço do título muda no meio do caminho, com um exemplo de R$ 100.",
+ "category": "renda-fixa",
+ "date": "2026-11-25",
+ "time": "13:10",
+ "sentiment": "Neutro",
+ "meta": "Prefixados do Tesouro caem pelo 2º dia e o 2029 vai a 14,89%. Entenda marcação a mercado e o risco de vender antes do prazo, com exemplo de R$ 100.",
+ "focus_kw": "marcação a mercado Tesouro Direto",
+ "tags": [
+  "Marcação a mercado",
+  "Tesouro Prefixado 2029",
+  "Tesouro Direto",
+  "Selic 13,75%",
+  "Renda Fixa",
+  "PEC dos gastos"
+ ],
+ "sources": [
+  {
+   "t": "BPMoney: Prefixados do Tesouro caem pelo 2º dia enquanto Lula define PEC dos gastos obrigatórios",
+   "url": "https://bpmoney.com.br/mercado/renda-fixa/tesouro-direto-taxas-caem-pec-gastos-obrigatorios-25112026/",
+   "at": "25/11/2026 10:21"
+  },
+  {
+   "t": "Jornal do Comércio: Selic no fim de 2026 segue em 13,75%, projeta Focus",
+   "url": "https://www.jornaldocomercio.com/economia/2026/11/1271339-selic-no-fim-de-2026-segue-em-1375-projeta-focus.html",
+   "at": "23/11/2026 09:48"
+  },
+  {
+   "t": "InfoMoney: Ibovespa hoje ao vivo 25/11/2026 (juros futuros, taxas DI)",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-25112026/",
+   "at": "25/11/2026 12:15"
+  }
+ ],
+ "source_doc": "Pesquisa própria do Claude (sem relatório de renda fixa do Drive em 25/11 13:10; Relatório de Mercado de 25/11 12h usado só como apoio para juros futuros, sem seção de renda fixa nem imagem do Gemini para o tema)",
+ "source_topic": "Prefixados caem pelo 2º dia: marcação a mercado e venda antes do prazo (25/11)",
+ "image": "assets/covers/prefixados-marcacao-a-mercado-pec.jpg",
+ "image_alt": "Foto de notas de real sobre uma balança de precisão, com monitor mostrando gráfico em queda suave ao fundo",
+ "canva_media_id": "MAHb8JtennE",
+ "body": [
+  {
+   "type": "p",
+   "text": "Os títulos prefixados do **Tesouro Direto** recuaram pelo segundo dia seguido na abertura desta quarta-feira (25/11). Segundo o BPMoney, o **Tesouro Prefixado 2029** caiu 5 pontos-base e passou a pagar **14,89% ao ano**, abaixo dos 15%; o **Prefixado 2032** foi de 15,32% para **15,27%**. O pano de fundo é a PEC que o governo estuda para limitar o crescimento das despesas obrigatórias, ainda sem detalhes nem prazo de envio ao Congresso. Para quem está começando, a pergunta útil é: o que uma queda de taxa significa para o dinheiro que já está aplicado?"
+  },
+  {
+   "type": "h2",
+   "text": "Taxa cai, preço sobe: a gangorra dos títulos"
+  },
+  {
+   "type": "p",
+   "text": "Quando você compra um prefixado, trava uma taxa. Se você segurar até o vencimento, recebe exatamente o combinado. Mas, no meio do caminho, o Tesouro recompra o título pelo **preço de mercado**, e esse preço anda na direção oposta à da taxa: **taxa cai, preço sobe; taxa sobe, preço cai**. Esse ajuste diário chama-se **marcação a mercado**."
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Prefixado 2029:** 14,89% ao ano na abertura de 25/11 (fechou terça em 14,94%, segundo o BPMoney).",
+    "**Prefixado 2032:** 15,27% ao ano (15,32% no fechamento de terça).",
+    "**IPCA+ 2032:** IPCA + 7,82% ao ano, queda de 6 pontos-base.",
+    "**Tesouro Selic 2031:** Selic + 0,11% ao ano. A Selic está em 13,75% desde a decisão do Copom de 4/11."
+   ]
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: marcação a mercado com R$ 100",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo** (não é previsão): você aplica R$ 100 num prefixado a 14,89% ao ano e segura por 1 ano. Antes de impostos e taxas, o valor bruto seria cerca de **R$ 114,89**. Agora imagine que, no meio do caminho, a taxa de mercado desse título sobe. O preço de venda hoje cairia e você poderia resgatar menos do que o valor 'travado' para o fim. Se a taxa caísse, aconteceria o oposto: o preço subiria."
+    },
+    {
+     "type": "p",
+     "text": "Por isso o prazo importa: quem mantém até o vencimento não sofre com a gangorra; quem vende antes assume o preço do dia. Rentabilidade passada não garante resultados futuros."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "O que o mercado olha agora"
+  },
+  {
+   "type": "p",
+   "text": "O alívio nos prefixados acompanha os juros futuros. Segundo o InfoMoney, na manhã de 25/11 o DI para janeiro de 2029 operava em **14,840%** (-0,060 ponto percentual) e o de janeiro de 2031 em **15,075%** (-0,080 ponto). Já o Boletim Focus de 23/11 manteve a mediana da Selic no fim de 2026 em 13,75% e subiu a de 2027 de 12,75% para **13,00%**. Ou seja: juros ainda altos, mas com o mercado reagindo a cada sinal fiscal."
+  },
+  {
+   "type": "h2",
+   "text": "Como isso se conecta ao seu planejamento"
+  },
+  {
+   "type": "p",
+   "text": "Se você precisa do dinheiro a qualquer momento, entenda antes a diferença entre o título que oscila (prefixado) e o que acompanha a Selic. Veja o guia [O que é a taxa Selic](#o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes) e o comparativo [Renda fixa ou renda variável](#renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona). Este conteúdo é educativo e não é recomendação de compra ou venda."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: marcação a mercado",
+   "center": "Marcação a mercado",
+   "branches": [
+    {
+     "label": "O que é",
+     "items": [
+      "Preço de venda do dia",
+      "Ajuste diário do título"
+     ]
+    },
+    {
+     "label": "Taxa x preço",
+     "items": [
+      "Taxa cai, preço sobe",
+      "Taxa sobe, preço cai"
+     ]
+    },
+    {
+     "label": "Quem sente",
+     "items": [
+      "Quem vende antes do prazo",
+      "Prefixados e IPCA+"
+     ]
+    },
+    {
+     "label": "Quem não sente",
+     "items": [
+      "Quem segura até o vencimento",
+      "Tesouro Selic (oscila pouco)"
+     ]
+    },
+    {
+     "label": "Gatilhos",
+     "items": [
+      "PEC dos gastos",
+      "Juros futuros e Copom"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "Os números de 25/11 são da abertura do dia e podem mudar até o fechamento. Confira sempre as taxas atualizadas no Tesouro Direto antes de decidir."
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes",
+   "items": [
+    {
+     "q": "O que é marcação a mercado?",
+     "a": "É a atualização diária do preço do título conforme a taxa de mercado. Ela só afeta quem vende antes do vencimento."
+    },
+    {
+     "q": "Se a taxa cai, quem já tem o título ganha?",
+     "a": "O preço de mercado sobe, mas o ganho só se realiza se vender. Quem segura até o fim recebe a taxa contratada."
+    },
+    {
+     "q": "Posso perder dinheiro num título público?",
+     "a": "Se vender antes do prazo com a taxa de mercado mais alta que a contratada, o valor resgatado pode ser menor que o esperado."
+    },
+    {
+     "q": "Qual a Selic hoje?",
+     "a": "13,75% ao ano, mantida pelo Copom em 4/11; a próxima reunião é em 8 e 9 de dezembro, segundo o Jornal do Comércio."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Continue aprendendo",
+   "text": "Entenda como a Selic move seus investimentos no guia [O que é a taxa Selic](#o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes)."
+  }
+ ]
+}
