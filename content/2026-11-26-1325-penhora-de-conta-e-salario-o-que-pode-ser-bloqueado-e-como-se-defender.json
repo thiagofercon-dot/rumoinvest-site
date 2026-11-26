@@ -1,0 +1,220 @@
+{
+ "slug": "penhora-de-conta-e-salario-o-que-pode-ser-bloqueado-e-como-se-defender",
+ "title": "Penhora de conta e salário: o que pode ser bloqueado e como se defender",
+ "subtitle": "A penhora é um assunto em alta. Entenda o bloqueio pelo Sisbajud, o que a lei protege, o que o STJ decidiu em 2026 e o prazo para reagir.",
+ "category": "educacao",
+ "date": "2026-11-26",
+ "time": "13:25",
+ "sentiment": "Alerta",
+ "meta": "Penhora de conta e salário: entenda o bloqueio pelo Sisbajud, o limite de 40 salários mínimos, as exceções definidas pelo STJ e o prazo de 5 dias.",
+ "focus_kw": "penhora de conta e salário",
+ "tags": [
+  "Penhora",
+  "Sisbajud",
+  "Penhora de salário",
+  "Impenhorabilidade",
+  "40 salários mínimos",
+  "Bloqueio de conta"
+ ],
+ "sources": [
+  {
+   "t": "LegJur: Código de Processo Civil, art. 833",
+   "url": "https://www.legjur.com/legislacao/art/LEI_00131052015-833",
+   "at": "29/08/2026"
+  },
+  {
+   "t": "Projuris: Código de Processo Civil, art. 854",
+   "url": "https://www.projuris.com.br/novo-cpc/art-854-do-novo-cpc/"
+  },
+  {
+   "t": "Contábeis: STJ permite bloqueio antes de citação em execução fiscal",
+   "url": "https://www.contabeis.com.br/noticias/79727/stj-permite-bloqueio-antes-de-citacao-em-execucao-fiscal/",
+   "at": "04/10/2026"
+  },
+  {
+   "t": "Conjur: STJ define critérios para penhora excepcional do salário (Tema 1.230)",
+   "url": "https://conjur.com.br/2026-set-16/stj-define-criterios-para-penhora-excepcional-do-salario-do-devedor/",
+   "at": "16/09/2026 08:54"
+  },
+  {
+   "t": "Migalhas: teses sobre 40 salários mínimos (Tema 1.285)",
+   "url": "https://www.migalhas.com.br/quentes/468727/stj-poupanca-usada-como-conta-corrente-nao-afasta-impenhorabilidade",
+   "at": "17/11/2026"
+  },
+  {
+   "t": "Migalhas: prazo para alegar a proteção (Tema 1.235)",
+   "url": "https://www.migalhas.com.br/coluna/cpc-na-pratica/461699/stj-interpreta-restritivamente-o-art-833-x-do-cpc-15",
+   "at": "06/08/2026"
+  }
+ ],
+ "trend": {
+  "rank": 3,
+  "term": "Penhora e bloqueio de contas",
+  "ref": "26/11"
+ },
+ "source_doc": "Relatório de Tendências - 26/11 - 12h20 (Drive id 18zcNQBobrjdPLaN_Yxz1CCTS5WpbCuBsRSzuM5kZNLU)",
+ "source_topic": "Penhora (Sisbajud e impenhorabilidade): o que pode ser bloqueado e como se defender",
+ "image": "assets/covers/penhora-de-conta-e-salario-o-que-pode-ser-bloqueado-e-como-se-defender.jpg",
+ "image_alt": "Cadeado sobre carteira e cartão sem marca, com malhete de juiz ao fundo",
+ "canva_media_id": "MAHcCIuwyx8",
+ "body": [
+  {
+   "type": "p",
+   "text": "A **penhora de conta e salário** é um assunto em alta. Penhora é o ato que vincula um bem do devedor a um processo de cobrança na Justiça, para pagar a dívida. Não é automática por causa de um boleto atrasado: depende de ordem judicial."
+  },
+  {
+   "type": "h2",
+   "text": "Como funciona o bloqueio pelo Sisbajud"
+  },
+  {
+   "type": "p",
+   "text": "O **Sisbajud** é o sistema eletrônico que leva ordens da Justiça às instituições financeiras. A pedido do credor, o juiz pode mandar tornar o dinheiro indisponível **sem aviso prévio**, limitado ao valor cobrado. Depois de intimado, o devedor tem **5 dias** para comprovar que a quantia é impenhorável ou que o bloqueio passou do necessário. Se o juiz aceitar, o desbloqueio deve ser cumprido em 24 horas."
+  },
+  {
+   "type": "p",
+   "text": "Em execução fiscal (cobrança de dívida com o poder público), a Primeira Turma do STJ decidiu que o **arresto**, um bloqueio de garantia, pode vir antes da citação por edital quando o devedor não é encontrado nas tentativas anteriores. A citação é adiada, não dispensada, e a decisão não libera bloqueio indiscriminado."
+  },
+  {
+   "type": "h2",
+   "text": "O que a lei protege"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Salários, aposentadorias e pensões**, em regra, são impenhoráveis, assim como ganhos de autônomos.",
+    "**Poupança** até 40 salários mínimos (R$ 64.840, com o mínimo de R$ 1.621 em 2026).",
+    "**Exceções na lei:** pensão alimentícia e valores acima de 50 salários mínimos por mês."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "O que o STJ decidiu em 2026"
+  },
+  {
+   "type": "p",
+   "text": "**Salário:** a Corte Especial admitiu a penhora também para dívidas que não são de pensão, **em caráter excepcional**, quando outros meios falharem e avaliado o impacto na subsistência digna do devedor e da família (Tema 1.230). Há limites e cada caso é analisado."
+  },
+  {
+   "type": "p",
+   "text": "**40 salários mínimos:** pela tese divulgada do Tema 1.285, a proteção vale para a poupança, mesmo usada como conta do dia a dia. Em conta corrente, fundos ou outros investimentos, vale se o devedor mostrar que é uma **reserva contínua e duradoura** para emergências. Ficam de fora aplicações especulativas e de alto risco e sobras de meses anteriores em conta corrente."
+  },
+  {
+   "type": "callout",
+   "text": "A proteção dos 40 salários mínimos não é aplicada pelo juiz por conta própria: o devedor precisa alegar na primeira oportunidade, ou pode perder o direito de discutir (Tema 1.235 do STJ)."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: o que a Ana faz primeiro",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo**: Ana teve R$ 3.000 bloqueados, dos quais R$ 2.500 são o salário recebido neste mês. Ela é intimada e age dentro do prazo."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Passo",
+      "O que reunir"
+     ],
+     "rows": [
+      [
+       "Identificar o processo",
+       "Número, credor e valor cobrado"
+      ],
+      [
+       "Provar a origem",
+       "Holerite e extratos do mês"
+      ],
+      [
+       "Pedir ajuda",
+       "Advogado ou Defensoria Pública"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Ela pede a liberação do que a lei protege. O resultado depende da análise do juiz."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Erros comuns e o que observar"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Ignorar intimação e perder o prazo.",
+    "Achar que todo investimento está protegido. Ações, fundos imobiliários como MXRF11 e GARE11 e outros ativos podem ser discutidos no processo: não conte com proteção automática.",
+    "Misturar a [reserva de emergência](#materia-reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro) com dinheiro de uso diário e não guardar comprovantes.",
+    "Deixar a dívida cara crescer: veja como [sair do rotativo](#materia-rotativo-do-cartao-novas-regras-do-cmn-como-sair-da-divida-antes-de-investir)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Este texto é informativo e não substitui orientação jurídica."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: penhora",
+   "center": "Penhora",
+   "branches": [
+    {
+     "label": "Bloqueio",
+     "items": [
+      "Ordem judicial",
+      "Sisbajud",
+      "Limite da dívida"
+     ]
+    },
+    {
+     "label": "Proteções",
+     "items": [
+      "Salário, em regra",
+      "Poupança até 40 mínimos",
+      "Reserva comprovada"
+     ]
+    },
+    {
+     "label": "Exceções",
+     "items": [
+      "Pensão alimentícia",
+      "Salário em caso excepcional",
+      "Alto risco"
+     ]
+    },
+    {
+     "label": "Como agir",
+     "items": [
+      "Prazo de 5 dias",
+      "Extratos e holerite",
+      "Advogado ou Defensoria"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes",
+   "items": [
+    {
+     "q": "Salário pode ser penhorado?",
+     "a": "Em regra, não. Há exceções, como pensão alimentícia, valores acima de 50 salários mínimos mensais e, em casos excepcionais, outras dívidas, conforme o STJ."
+    },
+    {
+     "q": "Qual é o prazo para contestar o bloqueio?",
+     "a": "Depois da intimação, são 5 dias para comprovar que o valor é impenhorável ou que houve bloqueio excessivo."
+    },
+    {
+     "q": "Poupança é sempre protegida?",
+     "a": "A proteção vai até 40 salários mínimos, precisa ser alegada pelo devedor e não vale contra pensão alimentícia."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Organize antes de investir",
+   "text": "Aprenda [como começar a investir com pouco dinheiro](#materia-como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes) depois de colocar as contas em dia."
+  }
+ ]
+}

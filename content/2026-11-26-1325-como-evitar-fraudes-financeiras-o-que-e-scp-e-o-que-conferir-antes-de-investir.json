@@ -1,0 +1,216 @@
+{
+ "slug": "como-evitar-fraudes-financeiras-o-que-e-scp-e-o-que-conferir-antes-de-investir",
+ "title": "Como evitar fraudes financeiras: o que é uma SCP e o que conferir antes de investir",
+ "subtitle": "A operação policial que investiga o Grupo Fictor virou assunto em alta. Veja um passo a passo para checar uma oferta antes de entregar o seu dinheiro.",
+ "category": "educacao",
+ "date": "2026-11-26",
+ "time": "13:25",
+ "sentiment": "Alerta",
+ "meta": "Como evitar fraudes financeiras: o que é SCP, como consultar a CVM, o que o FGC não cobre e os sinais de alerta antes de investir seu dinheiro.",
+ "focus_kw": "como evitar fraudes financeiras",
+ "tags": [
+  "Como evitar fraudes financeiras",
+  "Golpe de investimento",
+  "O que é SCP",
+  "Consultar CVM",
+  "Grupo Fictor",
+  "Investir com segurança"
+ ],
+ "sources": [
+  {
+   "t": "Agência SP: operação da Polícia Civil mira empresa suspeita de fraude",
+   "url": "https://www.agenciasp.sp.gov.br/seguranca-publica/operacao-da-policia-de-sp-mira-empresa-de-gestao-empresarial-suspeita-de-fraude-bilionaria-em-sp/",
+   "at": "26/11/2026 07:23"
+  },
+  {
+   "t": "Metrópoles: Grupo Fictor prometeu rendimentos fixos sem lastro, diz polícia",
+   "url": "https://www.metropoles.com/sao-paulo/grupo-fictor-prometeu-rendimentos-fixos-sem-lastro-economico-diz-policia",
+   "at": "26/11/2026 08:32"
+  },
+  {
+   "t": "Finsiders Brasil: recuperação judicial da Fictor e posição da empresa",
+   "url": "https://finsidersbrasil.com.br/negocios-em-fintechs/o-que-aconteceu-com-a-fictor-holding-enfrenta-recuperacao-judicial-investigacao-da-pf-e-apuracao-da-cvm/",
+   "at": "17/04/2026 19:02"
+  },
+  {
+   "t": "CVM: alertas e proteção ao investidor",
+   "url": "https://www.gov.br/cvm/pt-br/assuntos/protecao/alertas",
+   "at": "06/08/2025"
+  },
+  {
+   "t": "Código Civil: sociedade em conta de participação",
+   "url": "https://www.legjur.com/legislacao/nivel/lei_00104062002/-capitulo-ii-da-sociedade-em-conta-de-participacao"
+  },
+  {
+   "t": "Mais Região: Copom mantém Selic em 13,75%",
+   "url": "https://www.maisregiao.com.br/noticia/95740/copom-interrompe-ciclo-de-cortes-e-mantem-selic-em-13-75-ao-ano",
+   "at": "04/11/2026 23:18"
+  },
+  {
+   "t": "Valor Final: o que o FGC cobre e não cobre",
+   "url": "https://valorfinal.com.br/guia/fgc-fundo-garantidor-de-creditos",
+   "at": "11/11/2026"
+  }
+ ],
+ "trend": {
+  "rank": 2,
+  "term": "Operação contra o Grupo Fictor",
+  "ref": "26/11"
+ },
+ "source_doc": "Relatório de Tendências - 26/11 - 12h20 (Drive id 18zcNQBobrjdPLaN_Yxz1CCTS5WpbCuBsRSzuM5kZNLU)",
+ "source_topic": "Operação Dinheiro Fictício (Grupo Fictor): como evitar fraudes financeiras e o que é SCP",
+ "image": "assets/covers/como-evitar-fraudes-financeiras-o-que-e-scp-e-o-que-conferir-antes-de-investir.jpg",
+ "image_alt": "Lupa sobre papel em branco ao lado de calculadora e cédulas de real",
+ "canva_media_id": "MAHcCG6uWBE",
+ "body": [
+  {
+   "type": "p",
+   "text": "Saber **como evitar fraudes financeiras** ganhou urgência com um assunto em alta nesta quinta-feira (26/11). A Polícia Civil e o Ministério Público de São Paulo deflagraram a operação Dinheiro Fictício contra o Grupo Fictor. A Justiça determinou bloqueio de bens e contas dos investigados, em valor que pode chegar a cerca de **R$ 4,3 bilhões** (um limite, não necessariamente o que foi encontrado)."
+  },
+  {
+   "type": "h2",
+   "text": "O que se sabe sobre a investigação"
+  },
+  {
+   "type": "p",
+   "text": "Segundo a polícia, mais de R$ 4 bilhões foram captados em 2024 e 2025, principalmente de pessoas físicas, por meio de sociedades em conta de participação, com **promessa de rendimento fixo** sem lastro econômico. São apurados possíveis crimes falimentares, estelionato, lavagem de dinheiro e organização criminosa. A holding pediu recuperação judicial em fevereiro."
+  },
+  {
+   "type": "p",
+   "text": "**Suspeita não é condenação.** Os investigados têm direito de defesa. Em fevereiro, o grupo negou irregularidades e ligou a crise de liquidez à liquidação do Banco Master, cuja compra havia anunciado. Sobre a operação desta quinta, o Metrópoles informou ter procurado a empresa e aguardava retorno."
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/como-evitar-fraudes-financeiras-o-que-e-scp-e-o-que-conferir-antes-de-investir-1.jpg",
+   "alt": "Pessoas caminhando em frente a prédios de um centro financeiro em São Paulo",
+   "caption": "Imagem ilustrativa: antes de investir, confira quem oferece, o que é o produto e quem fiscaliza."
+  },
+  {
+   "type": "h2",
+   "text": "O que é uma SCP"
+  },
+  {
+   "type": "p",
+   "text": "Na **sociedade em conta de participação**, um sócio (o ostensivo) toca o negócio em seu próprio nome. Os demais (participantes) entram com dinheiro e dividem os **resultados**. Não é um CDB: o dinheiro depende do negócio, e SCP não está entre os produtos cobertos pelo [FGC](#materia-cdb-lci-e-lca-como-comparar-rendimento-imposto-e-seguranca-do-fgc). Uma promessa de ganho fixo em um arranjo desse tipo pede perguntas extras."
+  },
+  {
+   "type": "h2",
+   "text": "Passo a passo antes de investir"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Consulte o registro:** o Cadastro Geral da CVM mostra quem é regulado. Captação feita por quem não tem registro é potencialmente irregular.",
+    "**Veja os alertas** no site da CVM e a lista de instituições autorizadas pelo Banco Central.",
+    "**Desconfie** de retorno garantido, pressa para decidir e indicação baseada só em confiança.",
+    "**Leia o contrato:** quem guarda o dinheiro, como resgatar e o que acontece se a empresa quebrar.",
+    "**Não concentre** tudo em um só lugar, e mantenha sua [reserva de emergência](#materia-reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro) separada."
+   ]
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: a conta da promessa",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo**: alguém oferece 1,5% ao mês \"fixos\". Compare com 13,65% ao ano (patamar do CDI, com a Selic em 13,75%), antes de impostos."
+    },
+    {
+     "type": "table",
+     "head": [
+      "R$ 1.000 em 12 meses",
+      "Valor final"
+     ],
+     "rows": [
+      [
+       "Promessa de 1,5% ao mês",
+       "R$ 1.195,62"
+      ],
+      [
+       "Referência de 13,65% ao ano",
+       "R$ 1.136,50"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "A promessa equivale a cerca de 19,6% ao ano. Render acima da referência não prova fraude, mas exige explicar **de onde vem o dinheiro** e qual é o risco. Se a resposta for vaga, a formiga não entra."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Ativo regulado também tem risco"
+  },
+  {
+   "type": "p",
+   "text": "Ações negociadas na B3, como BBAS3, TAEE4 ou papéis abaixo de R$ 10, e fundos imobiliários como MXRF11 e GARE11 têm informações públicas e fiscalização. Isso **não** garante lucro: os preços caem, os proventos variam e rentabilidade passada não garante resultados futuros. Preço baixo também [não significa ação barata](#materia-acoes-abaixo-de-r-10-preco-da-cotacao-nao-e-sinonimo-de-empresa-barata)."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: proteção contra fraudes",
+   "center": "Antes de investir",
+   "branches": [
+    {
+     "label": "Quem oferece",
+     "items": [
+      "Registro na CVM",
+      "Autorização do BC",
+      "Alertas oficiais"
+     ]
+    },
+    {
+     "label": "Produto",
+     "items": [
+      "Contrato",
+      "Origem do retorno",
+      "Regra de resgate"
+     ]
+    },
+    {
+     "label": "Sinais de alerta",
+     "items": [
+      "Retorno garantido",
+      "Pressa",
+      "Resposta vaga"
+     ]
+    },
+    {
+     "label": "Proteção",
+     "items": [
+      "Diversificar",
+      "Reserva separada",
+      "Guardar comprovantes"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes",
+   "items": [
+    {
+     "q": "SCP tem garantia do FGC?",
+     "a": "Não está na lista de produtos cobertos, que inclui, por exemplo, poupança, CDB, LCI e LCA, dentro dos limites do fundo."
+    },
+    {
+     "q": "Como saber se a empresa é regulada?",
+     "a": "Consulte o Cadastro Geral da CVM e a lista de instituições autorizadas pelo Banco Central."
+    },
+    {
+     "q": "Os investigados do caso Fictor foram condenados?",
+     "a": "Não. Há uma investigação em andamento, com medidas judiciais de bloqueio."
+    },
+    {
+     "q": "Suspeito de ter caído em um golpe. O que fazer?",
+     "a": "Reúna contratos e comprovantes, registre ocorrência, comunique a CVM e procure orientação jurídica."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Comece pelo básico",
+   "text": "Veja o [guia para começar a investir com pouco dinheiro](#materia-como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes)."
+  }
+ ]
+}
