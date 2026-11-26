@@ -1,0 +1,248 @@
+{
+ "slug": "ipca-15-022-tesouro-direto-taxas-caem-o-que-muda",
+ "capa": "dia",
+ "title": "IPCA-15 sobe só 0,22% e taxas do Tesouro Direto caem: o que muda no IPCA+, no prefixado e no Tesouro Selic",
+ "subtitle": "A prévia da inflação de novembro veio abaixo do esperado nesta quinta (26/11). Veja o efeito nos títulos públicos, com um exemplo de R$ 100.",
+ "category": "renda-fixa",
+ "date": "2026-11-26",
+ "time": "13:10",
+ "sentiment": "Otimista",
+ "meta": "IPCA-15 de novembro sobe 0,22% e taxas do Tesouro Direto recuam. Entenda o efeito no IPCA+, no prefixado e no Tesouro Selic, com exemplo de R$ 100.",
+ "focus_kw": "IPCA-15 e Tesouro Direto",
+ "tags": [
+  "IPCA-15 novembro 2026",
+  "Tesouro Direto hoje",
+  "Tesouro IPCA+ 2032",
+  "Tesouro Prefixado",
+  "Selic 13,75%",
+  "Renda Fixa"
+ ],
+ "sources": [
+  {
+   "t": "O Tempo / Agência Brasil: IPCA-15, prévia da inflação, chega a 0,22% em novembro",
+   "url": "https://www.otempo.com.br/economia/2026/11/26/ipca-15-previa-da-inflacao-chega-a-0-22-em-novembro",
+   "at": "26/11/2026 10:32"
+  },
+  {
+   "t": "Gazeta Mercantil: IPCA-15 desacelera para 0,22% em novembro (dados do IBGE e Focus)",
+   "url": "https://gazetamercantil.com/ipca-15-novembro-2026-inflacao-selic",
+   "at": "26/11/2026 11:53"
+  },
+  {
+   "t": "CNN Brasil: juros futuros em 26/11 e projeção da Reuters",
+   "url": "https://www.cnnbrasil.com.br/economia/money/mercado/juros-futuros-taxas-dis-26-novembro-2026/",
+   "at": "26/11/2026 10:58"
+  },
+  {
+   "t": "InvestNews: Tesouro Direto hoje, taxas caem em todos os títulos (dados do Tesouro Nacional)",
+   "url": "https://investnews.com.br/investimentos/tesouro-direto-taxas-rendimento-hoje-queda-geral-prefixados-abaixo-de-15-26112026/",
+   "at": "26/11/2026 09:41"
+  },
+  {
+   "t": "Money Times: prefixados caem abaixo de 15% com Trabuco no radar e surpresa na inflação",
+   "url": "https://www.moneytimes.com.br/tesouro-direto-prefixados-caem-abaixo-de-15-com-trabuco-no-radar-e-surpresa-na-inflacao-jcav/",
+   "at": "26/11/2026 11:29"
+  },
+  {
+   "t": "B3: tarifas do Tesouro Direto",
+   "url": "https://b3.com.br/pt_br/produtos-e-servicos/tarifas/tarifas-de-tesouro-direto/",
+   "at": "26/11/2026 13:00"
+  },
+  {
+   "t": "Mais Região: Copom mantém Selic em 13,75% e próxima reunião em 8 e 9/12",
+   "url": "https://www.maisregiao.com.br/noticia/95740/copom-interrompe-ciclo-de-cortes-e-mantem-selic-em-13-75-ao-ano",
+   "at": "04/11/2026 23:18"
+  }
+ ],
+ "source_doc": "Pesquisa própria do Claude (sem relatório de renda fixa do Drive em 26/11 13:10; Relatório de Mercado de 26/11 12h, sem seção de renda fixa, usado como apoio para IPCA-15 e imagem do Gemini)",
+ "source_topic": "IPCA-15 de novembro (0,22%) e queda das taxas do Tesouro Direto (26/11)",
+ "image": "assets/covers/ipca-15-022-tesouro-direto-taxas-caem-o-que-muda.jpg",
+ "image_alt": "Cesta de feira com alimentos ao lado de um pote de moedas com uma muda verde",
+ "body": [
+  {
+   "type": "p",
+   "text": "O **IPCA-15**, considerado a prévia da inflação oficial, subiu **0,22% em novembro**, informou o IBGE nesta quinta-feira (26/11). Foi menos que em outubro (0,32%) e abaixo da projeção de **0,34%** de economistas ouvidos pela Reuters. No ano, o índice acumula **4,38%**; em 12 meses, **4,64%**, pouco acima dos 4,62% da leitura anterior. As taxas do **Tesouro Direto** amanheceram em queda."
+  },
+  {
+   "type": "h2",
+   "text": "O que pesou no IPCA-15"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Alimentação e bebidas:** +1,51%. A comida em casa subiu 2,02%, com tomate (+38,92%), cebola (+17,43%) e carnes (+3,65%).",
+    "**Transportes:** -0,71%, com passagens aéreas (-9,57%) e gasolina (-1,23%) mais baratas.",
+    "**Energia elétrica residencial:** -0,85%."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Ou seja: o número geral surpreendeu para baixo, mas o supermercado ainda apertou. A meta de inflação é de 3%, com tolerância entre 1,5% e 4,5%."
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/ipca-15-022-tesouro-direto-taxas-caem-o-que-muda-1.jpg",
+   "alt": "Mesa de operações do mercado financeiro com telas de cotações",
+   "caption": "Juros futuros recuaram na manhã de 26/11. Imagem ilustrativa gerada por IA (Gemini)."
+  },
+  {
+   "type": "h2",
+   "text": "Como ficaram as taxas do Tesouro Direto"
+  },
+  {
+   "type": "p",
+   "text": "Os **juros futuros** (contratos que mostram a taxa esperada pelo mercado) caíram: às 10h, o DI para janeiro de 2028 estava em **14,125%**, ante 14,291% no ajuste anterior, segundo a CNN Brasil. No Tesouro, estas eram as taxas da manhã:"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Título",
+    "Taxa ao ano (manhã de 26/11)",
+    "Aplicação mínima"
+   ],
+   "rows": [
+    [
+     "Prefixado 2029",
+     "14,53%",
+     "R$ 7,54"
+    ],
+    [
+     "Prefixado 2032",
+     "14,92%",
+     "R$ 4,94"
+    ],
+    [
+     "IPCA+ 2032",
+     "IPCA + 7,72% (antes 7,84%)",
+     "R$ 31,32"
+    ],
+    [
+     "IPCA+ 2050",
+     "IPCA + 7,39% (antes 7,58%)",
+     "R$ 8,90"
+    ],
+    [
+     "Tesouro Selic 2031",
+     "Selic + 0,1115%",
+     "R$ 202,90"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "A inflação não foi o único motivo. As reportagens citam também o dólar em baixa e a especulação de que Luiz Carlos Trabuco, presidente do conselho do Bradesco, possa assumir o Ministério da Fazenda. Segundo o Money Times, **não há confirmação de convite formal**."
+  },
+  {
+   "type": "h2",
+   "text": "O que muda para cada tipo de título"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**IPCA+ e prefixado:** quem compra agora trava uma taxa menor que a de antes. Quem já tinha o título vê o preço de venda subir (a chamada [marcação a mercado](#materia-prefixados-caem-pelo-2o-dia-o-que-e-marcacao-a-mercado-e-quando-vender-o-tesouro-antes-do-prazo)). O inverso ocorre se as taxas subirem.",
+    "**Tesouro Selic e pós-fixados (como CDBs em % do CDI):** acompanham os juros do dia. A [Selic](#materia-o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes) segue em **13,75%**; o próximo Copom é em 8 e 9 de dezembro.",
+    "**Correção do IPCA+:** ela segue o IPCA cheio. O IPCA-15 é uma prévia, medida de meados de um mês a meados do outro."
+   ]
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: R$ 100 no IPCA+ em um ano",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo**, não é previsão: R$ 100 em um título a **IPCA + 7,72%**, supondo que a inflação dos próximos 12 meses repita os **4,64%** e que o preço de mercado acompanhe só essa taxa (sem oscilar)."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Etapa em 1 ano",
+      "Valor"
+     ],
+     "rows": [
+      [
+       "Só para repor a inflação",
+       "R$ 104,64"
+      ],
+      [
+       "Valor bruto (inflação + 7,72%)",
+       "cerca de R$ 112,72"
+      ],
+      [
+       "Após IR de 17,5% sobre o ganho (361 a 720 dias)",
+       "cerca de R$ 110,49"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Ainda há a taxa de custódia da B3, de **0,20% ao ano** (o Tesouro Selic é isento até R$ 10 mil por CPF). Como o título vence só em 2032, vender antes pode render mais ou menos que isso. Rentabilidade passada não garante resultados futuros."
+    }
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "As taxas acima são da manhã de 26/11 e mudam ao longo do dia. Confira o valor atualizado no Tesouro Direto. Conteúdo educativo, sem recomendação de compra ou venda."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: IPCA-15 e renda fixa",
+   "center": "IPCA-15 de 0,22%",
+   "branches": [
+    {
+     "label": "Inflação",
+     "items": [
+      "4,64% em 12 meses",
+      "Alimentos em alta",
+      "Transportes em queda"
+     ]
+    },
+    {
+     "label": "Mercado",
+     "items": [
+      "Juros futuros caem",
+      "Fazenda no radar"
+     ]
+    },
+    {
+     "label": "IPCA+ e prefixado",
+     "items": [
+      "Taxa nova menor",
+      "Preço do título sobe",
+      "Oscila antes do prazo"
+     ]
+    },
+    {
+     "label": "Pós-fixados",
+     "items": [
+      "Selic em 13,75%",
+      "Copom em 8 e 9/12"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes",
+   "items": [
+    {
+     "q": "Qual a diferença entre IPCA-15 e IPCA?",
+     "a": "Os dois são calculados pelo IBGE. O IPCA-15 funciona como prévia e usa um período de coleta antecipado; o IPCA é o índice oficial do mês."
+    },
+    {
+     "q": "Inflação menor faz meu Tesouro IPCA+ render menos?",
+     "a": "A parte corrigida pela inflação cresce mais devagar, mas a taxa real contratada continua a mesma para quem leva o título até o vencimento."
+    },
+    {
+     "q": "Por que a taxa cai e meu título se valoriza?",
+     "a": "Porque títulos antigos, com taxa maior, passam a valer mais no mercado. O ganho só se concretiza se houver venda, e o preço pode voltar a cair."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Quer começar pela base?",
+   "text": "Leia o guia [Como começar a investir com pouco dinheiro](#materia-como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes) e saiba [onde deixar a reserva de emergência](#materia-reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro)."
+  }
+ ],
+ "canva_media_id": "MAHcCP7JthY"
+}
