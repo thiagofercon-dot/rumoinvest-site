@@ -1,0 +1,233 @@
+{
+ "slug": "subsidio-ao-diesel-o-que-e-como-funciona-e-o-que-tem-a-ver-com-a-inflacao",
+ "title": "Subsídio ao diesel: o que é, como funciona e o que tem a ver com a inflação",
+ "subtitle": "A prorrogação do subsídio de R$ 2,12 por litro é um assunto em alta. Entenda quem recebe, quanto custa e por que isso interessa a quem investe.",
+ "category": "educacao",
+ "date": "2026-11-26",
+ "time": "19:15",
+ "sentiment": "Alerta",
+ "meta": "Subsídio ao diesel de R$ 2,12 é prorrogado por 30 dias: entenda como funciona, quanto custa, o efeito na inflação e o que observar ao investir.",
+ "focus_kw": "subsídio ao diesel",
+ "tags": [
+  "Subsídio ao diesel",
+  "Preço do diesel",
+  "Subvenção diesel R$ 2,12",
+  "Inflação e combustíveis",
+  "Meta fiscal",
+  "Selic"
+ ],
+ "sources": [
+  {
+   "t": "Agência Brasil: governo prorroga subsídio de R$ 2,12 ao diesel por mais 30 dias",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-prorroga-subsidio-de-r-212-ao-diesel-por-mais-30-dias",
+   "at": "26/11/2026 16:31"
+  },
+  {
+   "t": "CartaCapital: governo prorroga subsídio ao diesel por mais 30 dias",
+   "url": "https://www.cartacapital.com.br/economia/governo-prorroga-subsidio-ao-diesel-por-mais-30-dias/",
+   "at": "26/11/2026 18:30"
+  },
+  {
+   "t": "O Tempo (Folhapress): Moretti diz que governo deve renovar subvenção",
+   "url": "https://www.otempo.com.br/economia/2026/11/25/moretti-diz-que-governo-deve-renovar-subvencao-ao-diesel-por-mais-30-dias-custo-vai-para-r-75-bi",
+   "at": "25/11/2026 12:24"
+  },
+  {
+   "t": "Gazeta do Povo: como funciona a subvenção ao diesel",
+   "url": "https://www.gazetadopovo.com.br/economia/governo-prorroga-subsidio-diesel/",
+   "at": "26/09/2026"
+  },
+  {
+   "t": "Agência Brasil: IPCA-15 de novembro",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/ipca-15-teve-alta-de-022-em-novembro",
+   "at": "26/11/2026 09:30"
+  }
+ ],
+ "trend": {
+  "rank": 3,
+  "term": "Subsídio ao diesel",
+  "ref": "26/11"
+ },
+ "source_doc": "Pesquisa própria do Claude (sem relatório do Drive em 26/11 19:15)",
+ "source_topic": "Prorrogação do subsídio de R$ 2,12 ao diesel: funcionamento, custo, inflação e contas públicas",
+ "image": "assets/covers/subsidio-ao-diesel-o-que-e-como-funciona-e-o-que-tem-a-ver-com-a-inflacao.jpg",
+ "image_alt": "Caminhão abastecendo em um posto de estrada ao entardecer, com o motorista ao lado",
+ "canva_media_id": "MAHcDsCxZpM",
+ "body": [
+  {
+   "type": "p",
+   "text": "O **subsídio ao diesel** voltou a ser assunto em alta: nesta quinta-feira (26/11), o Ministério da Fazenda confirmou a prorrogação, por mais 30 dias, do apoio de **R$ 2,12 por litro**. A portaria tem publicação prevista no Diário Oficial da União para sexta-feira (27)."
+  },
+  {
+   "type": "h2",
+   "text": "O que é uma subvenção e como funciona"
+  },
+  {
+   "type": "p",
+   "text": "Subvenção, ou subsídio, é quando o governo paga uma parte do custo de um produto. No caso do diesel rodoviário, o valor é pago a **produtores e importadores habilitados**, que precisam repassar o desconto ao preço de venda. Isso não significa que o preço na bomba ficará parado: ele envolve outros custos ao longo do caminho."
+  },
+  {
+   "type": "p",
+   "text": "Segundo o governo, o objetivo é conter os efeitos da alta do petróleo no mercado internacional e evitar reajustes bruscos."
+  },
+  {
+   "type": "h2",
+   "text": "Quanto custa"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Item",
+    "Valor informado"
+   ],
+   "rows": [
+    [
+     "Nova prorrogação de 30 dias",
+     "R$ 8 bilhões a R$ 10,5 bilhões"
+    ],
+    [
+     "Medidas para combustíveis em 2026, antes dela",
+     "cerca de R$ 75 bilhões"
+    ],
+    [
+     "Total possível no ano, com ela",
+     "cerca de R$ 85 bilhões"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Uma lei complementar sancionada na terça-feira (24) permite deixar até R$ 10,5 bilhões da subvenção ao diesel fora do cálculo da **meta fiscal** de 2026, que é o objetivo para o resultado das contas do governo. O dinheiro continua sendo gasto: a mudança é na forma de contar para a meta. A compensação esperada vem de receitas extras ligadas ao petróleo, e parte delas só deve entrar em 2027."
+  },
+  {
+   "type": "h2",
+   "text": "O que isso tem a ver com a inflação"
+  },
+  {
+   "type": "p",
+   "text": "Boa parte das mercadorias viaja de caminhão, por isso o diesel pesa no frete. O secretário-executivo da Fazenda, Rogério Ceron, estimou que, sem os incentivos aos combustíveis, a inflação ao consumidor poderia ser **ao menos 1 ponto percentual maior** e diesel e gasolina poderiam passar de R$ 10 por litro. É uma estimativa do próprio governo."
+  },
+  {
+   "type": "p",
+   "text": "No IPCA-15 de novembro, prévia da inflação, o índice subiu 0,22% e o grupo de transportes recuou 0,71%. A inflação é um dos dados que o Banco Central acompanha ao definir a [taxa Selic](#materia-o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes)."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: o desconto em um tanque",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo**, supondo que todo o valor da subvenção chegasse ao comprador, o que depende de toda a cadeia:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Litros",
+      "Litros x R$ 2,12"
+     ],
+     "rows": [
+      [
+       "50",
+       "R$ 106"
+      ],
+      [
+       "200",
+       "R$ 424"
+      ],
+      [
+       "500",
+       "R$ 1.060"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "A conta mostra o tamanho do apoio por litro. Ela não é uma previsão de preço no posto, e quem paga a subvenção são os cofres públicos."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "E para quem investe?"
+  },
+  {
+   "type": "p",
+   "text": "O tema liga inflação, juros e contas públicas. Mudanças nas expectativas costumam mexer com títulos de [renda fixa e renda variável](#materia-renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona). Para ações abaixo de R$ 10, pagadoras de dividendos como BBAS3 e TAEE4 e FIIs como MXRF11 e GARE11, o subsídio sozinho não define resultado: cada ativo depende de dados próprios. Rentabilidade passada não garante resultados futuros, e este texto não é recomendação."
+  },
+  {
+   "type": "h2",
+   "text": "Erros comuns e o que observar"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Achar que R$ 2,12 serão descontados diretamente no caixa do posto.",
+    "Tratar a medida como permanente: a prorrogação é de 30 dias, e a equipe econômica fala em retirada gradual quando o petróleo recuar.",
+    "Acompanhar a publicação da portaria, o preço do petróleo, os próximos índices de inflação e o custo para o Orçamento.",
+    "Entender o debate fiscal: veja o que significa o [pacote fiscal](#materia-pacote-fiscal-aprovado-na-camara-o-que-e-texto-base-sancao-e-vigencia-em-2027)."
+   ]
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: subsídio ao diesel",
+   "center": "Diesel",
+   "branches": [
+    {
+     "label": "Como funciona",
+     "items": [
+      "R$ 2,12 por litro",
+      "Produtor e importador",
+      "Repasse ao preço"
+     ]
+    },
+    {
+     "label": "Custo",
+     "items": [
+      "Até R$ 10,5 bi na extensão",
+      "Combustíveis: R$ 85 bi no ano",
+      "Receitas do petróleo"
+     ]
+    },
+    {
+     "label": "Efeitos",
+     "items": [
+      "Frete",
+      "Inflação",
+      "Contas públicas"
+     ]
+    },
+    {
+     "label": "Observar",
+     "items": [
+      "Prazo de 30 dias",
+      "Retirada gradual",
+      "Preço do petróleo"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes",
+   "items": [
+    {
+     "q": "Qual é o valor do subsídio ao diesel?",
+     "a": "R$ 2,12 por litro de diesel, com prorrogação por mais 30 dias confirmada em 26/11/2026."
+    },
+    {
+     "q": "O subsídio garante que o diesel não vai subir?",
+     "a": "Não. Ele reduz parte do custo, mas o preço final depende de outros fatores, como o petróleo e as margens ao longo da cadeia."
+    },
+    {
+     "q": "Quem paga a subvenção?",
+     "a": "O governo federal, com recursos públicos. A equipe econômica espera compensar o gasto com receitas extras ligadas ao petróleo."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Entenda os juros por trás do noticiário",
+   "text": "Veja [como a taxa Selic afeta o seu dinheiro](#materia-o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes) e monte sua [reserva de emergência](#materia-reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro)."
+  }
+ ]
+}

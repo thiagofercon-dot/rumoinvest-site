@@ -1,0 +1,230 @@
+{
+ "slug": "pix-em-2027-novas-regras-contra-fraudes-e-devolucao-por-engano",
+ "title": "Pix em 2027: o que o Banco Central prepara contra fraudes e envios por engano",
+ "subtitle": "As novidades do Pix são um assunto em alta. Veja o que está na agenda de 2027, o que já vale hoje e por que nada disso muda de uma hora para outra.",
+ "category": "educacao",
+ "date": "2026-11-26",
+ "time": "19:15",
+ "sentiment": "Neutro",
+ "meta": "Pix em 2027: Banco Central prevê indicador de fraude em tempo real, Pix Automático melhor, regras para mensagens e devolução de envio por engano.",
+ "focus_kw": "Pix em 2027",
+ "tags": [
+  "Pix em 2027",
+  "Novas regras do Pix",
+  "Pix Automático",
+  "Segurança do Pix",
+  "Pix enviado por engano",
+  "Banco Central"
+ ],
+ "sources": [
+  {
+   "t": "Agência Gov (Banco Central): novos mecanismos de segurança para o Pix em 2027",
+   "url": "https://agenciagov.ebc.com.br/noticias/202611/forum-pix-projeta-avancos-para-2027",
+   "at": "26/11/2026 17:45"
+  },
+  {
+   "t": "Agência Brasil: Pix terá novas regras de segurança e melhorias em 2027",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/pix-tera-novas-regras-de-seguranca-e-melhorias-em-2027",
+   "at": "26/11/2026 18:36"
+  },
+  {
+   "t": "Agência Brasil: nova regra do Pix amplia prazo para contestar golpe",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/nova-regra-do-pix-amplia-prazo-para-contestar-golpe",
+   "at": "01/09/2026 15:08"
+  },
+  {
+   "t": "Jornal do Brasil: contestação pelo MED no aplicativo",
+   "url": "https://www.jb.com.br/editorias/2026/10/22/golpe-pix-med-contestar-app-80-dias.html",
+   "at": "22/10/2026 07:00"
+  }
+ ],
+ "trend": {
+  "rank": 2,
+  "term": "Novas regras do Pix em 2027",
+  "ref": "26/11"
+ },
+ "source_doc": "Pesquisa própria do Claude (sem relatório do Drive em 26/11 19:15)",
+ "source_topic": "Agenda 2027 do Pix (Fórum Pix): indicador de fraude, Pix Automático, mensagens e devolução por engano",
+ "image": "assets/covers/pix-em-2027-novas-regras-contra-fraudes-e-devolucao-por-engano.jpg",
+ "image_alt": "Mãos fazendo um pagamento pelo celular em uma feira, com cédulas de real sobre o balcão",
+ "canva_media_id": "MAHcDmQCeYA",
+ "body": [
+  {
+   "type": "p",
+   "text": "O **Pix em 2027** entrou na lista de assuntos em alta nesta quinta-feira (26/11), quando o Banco Central apresentou, na 29ª reunião plenária do Fórum Pix, o balanço do ano e a agenda para o próximo. O foco principal é segurança."
+  },
+  {
+   "type": "h2",
+   "text": "O que está na agenda de 2027"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Novidade",
+    "O que se pretende"
+   ],
+   "rows": [
+    [
+     "Indicador de fraude",
+     "Probabilidade de fraude calculada em tempo real para cada transação e compartilhada com as instituições"
+    ],
+    [
+     "Mensagens no Pix",
+     "Regras para os textos enviados junto do valor, campanhas educativas e opção de ocultar mensagens inapropriadas"
+    ],
+    [
+     "Pix Automático",
+     "Ajustes nas cobranças recorrentes, como mensalidades e assinaturas"
+    ],
+    [
+     "Chaves e bloqueios",
+     "Atuação mais ativa do BC nas chaves e critérios mínimos para recusar transações e bloquear valores por cautela"
+    ],
+    [
+     "Envio por engano",
+     "Ferramenta para facilitar a devolução quando o próprio pagador errou"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "O Banco Central também quer ampliar os instrumentos de fiscalização das instituições e segue estudando uma ligação com o TIPS, sistema de pagamentos instantâneos do Banco Central Europeu. Não há confirmação de que essa ligação será feita."
+  },
+  {
+   "type": "callout",
+   "text": "Atenção: é uma agenda de trabalho. As medidas ainda dependem de implementação e não estarão necessariamente disponíveis no começo de 2027. A ferramenta para envio por engano ainda não teve funcionamento nem data detalhados."
+  },
+  {
+   "type": "h2",
+   "text": "O que já vale hoje"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**MED** (Mecanismo Especial de Devolução): em caso de golpe ou fraude, o pedido pode ser feito pelo aplicativo do banco em até **80 dias** da transferência.",
+    "**Rastreamento:** na versão atual do mecanismo, o dinheiro pode ser seguido mesmo depois de repassado a outras contas.",
+    "**Limite:** a devolução não é garantida e depende de saldo nas contas envolvidas.",
+    "**Erro de digitação:** hoje o MED não cobre Pix enviado para a pessoa errada. O caminho é pedir a devolução a quem recebeu."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Como o indicador de fraude pode ajudar"
+  },
+  {
+   "type": "p",
+   "text": "A ideia é que o banco receba um sinal de risco antes de concluir a operação, para autorizar ou recusar a transferência. É mais uma camada de proteção, que não substitui a conferência feita por você."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: 30 segundos que protegem R$ 500",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo**: Bruno vai mandar um Pix de R$ 500 para pagar um serviço."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Antes de confirmar",
+      "Pergunta"
+     ],
+     "rows": [
+      [
+       "Nome do recebedor",
+       "É a pessoa ou empresa combinada?"
+      ],
+      [
+       "Valor",
+       "São R$ 500 ou há um zero a mais (R$ 5.000)?"
+      ],
+      [
+       "Origem do pedido",
+       "Chegou por um contato que eu confirmei?"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Se uma das respostas for não, ele interrompe o pagamento. Evitar o erro é mais simples do que tentar recuperar o dinheiro depois."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Erros comuns e o que observar"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Acreditar que as novidades de 2027 já estão funcionando.",
+    "Confiar em mensagens que prometem ativar a nova segurança mediante clique, senha ou pagamento.",
+    "Autorizar um Pix Automático sem conferir quem cobra, o valor e a frequência.",
+    "Deixar sem controle o dinheiro de emergência: veja [quanto guardar na reserva](#materia-reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro).",
+    "Leia também sobre [golpes na Black Friday](#materia-golpes-na-black-friday-como-se-proteger-e-o-que-fazer-se-pagou-por-pix) e o [alerta contra boatos sobre Pix e MEI](#materia-pix-mei-de-ate-r-5-mil-o-que-e-boato-como-evitar-golpes-e-organizar-o-caixa-do-pequeno-negocio)."
+   ]
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: Pix em 2027",
+   "center": "Pix",
+   "branches": [
+    {
+     "label": "Segurança",
+     "items": [
+      "Indicador de fraude",
+      "Bloqueio por cautela",
+      "Gestão de chaves"
+     ]
+    },
+    {
+     "label": "Uso no dia a dia",
+     "items": [
+      "Pix Automático",
+      "Regras para mensagens",
+      "Devolver envio errado"
+     ]
+    },
+    {
+     "label": "Já vale hoje",
+     "items": [
+      "MED em até 80 dias",
+      "Rastreamento",
+      "Sem garantia de devolução"
+     ]
+    },
+    {
+     "label": "Seu cuidado",
+     "items": [
+      "Conferir destinatário",
+      "Desconfiar de links",
+      "Guardar comprovantes"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes",
+   "items": [
+    {
+     "q": "As novas regras do Pix já estão valendo?",
+     "a": "Não necessariamente. Elas fazem parte da agenda de 2027 e dependem de implementação."
+    },
+    {
+     "q": "Mandei um Pix para a pessoa errada. O MED resolve?",
+     "a": "Hoje, não. Peça a devolução a quem recebeu. O Banco Central pretende criar uma ferramenta para facilitar esses casos, ainda sem data detalhada."
+    },
+    {
+     "q": "O que é o Pix Automático?",
+     "a": "É a modalidade para pagamentos recorrentes autorizados pelo usuário, como mensalidades e assinaturas."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Organize o dinheiro que passa pelo Pix",
+   "text": "Separe contas, reserva e objetivos e veja [como começar a investir com pouco dinheiro](#materia-como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes)."
+  }
+ ]
+}
