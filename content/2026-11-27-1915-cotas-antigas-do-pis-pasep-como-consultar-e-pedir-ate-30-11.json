@@ -1,0 +1,227 @@
+{
+ "slug": "cotas-antigas-do-pis-pasep-como-consultar-e-pedir-ate-30-11",
+ "title": "Cotas antigas do PIS/Pasep: como consultar e pedir até 30/11 para receber em dezembro",
+ "subtitle": "Quem trabalhou entre 1971 e 1988, ou os herdeiros, pode ter saldo a receber. Veja o passo a passo pelos canais oficiais.",
+ "category": "educacao",
+ "date": "2026-11-27",
+ "time": "19:15",
+ "sentiment": "Neutro",
+ "meta": "Cotas do PIS/Pasep de 1971 a 1988: veja quem tem direito, como consultar no app FGTS ou Repis e pedir até 30/11 para entrar no lote de 28 de dezembro.",
+ "focus_kw": "cotas do PIS/Pasep",
+ "tags": [
+  "Cotas PIS/Pasep",
+  "Dinheiro esquecido PIS",
+  "Repis Cidadão",
+  "PIS/Pasep 1971 a 1988",
+  "Como sacar PIS antigo",
+  "PIS/Pasep herdeiros"
+ ],
+ "sources": [
+  {
+   "t": "FGTS/Caixa: ressarcimento de cotas do PIS/Pasep e calendário",
+   "url": "https://www.fgts.gov.br/Paginas/trabalhador/ressarcimento-pis-pasep.aspx",
+   "at": "27/11/2026 19:20"
+  },
+  {
+   "t": "Agência Brasil: prazo e como pedir o dinheiro do fundo PIS/Pasep",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/termina-nesta-quarta-prazo-para-pedir-dinheiro-do-fundo-pispasep",
+   "at": "30/09/2026 14:48"
+  },
+  {
+   "t": "Gazeta Brasil: novo lote do ressarcimento do PIS/Pasep",
+   "url": "https://gazetabrasil.com.br/utilidade-publica/2026/11/25/caixa-libera-novo-lote-de-dinheiro-esquecido-do-pis-pasep-veja-quem-pode-receber/",
+   "at": "25/11/2026 13:36"
+  }
+ ],
+ "trend": {
+  "rank": 3,
+  "term": "Cotas antigas do PIS/Pasep",
+  "ref": "27/11"
+ },
+ "source_doc": "Pesquisa própria do Claude (sem relatório do Drive em 27/11 19:15)",
+ "source_topic": "Ressarcimento de cotas do PIS/Pasep (1971 a 1988): quem tem direito, consulta, pedido até 30/11 e uso do dinheiro",
+ "image": "assets/covers/cotas-antigas-do-pis-pasep-como-consultar-e-pedir-ate-30-11.jpg",
+ "image_alt": "Mãe e filha consultam o celular no sofá, ao lado de um álbum de fotos antigas",
+ "canva_media_id": "MAHcJp9p3no",
+ "body": [
+  {
+   "type": "p",
+   "text": "As **cotas do PIS/Pasep** são um assunto em alta porque há um prazo próximo: pedidos feitos **até segunda-feira, 30/11**, entram no pagamento de **28/12**. Quem perder essa data ainda pode pedir depois, em outro lote."
+  },
+  {
+   "type": "h2",
+   "text": "Quem pode ter dinheiro a receber"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Quem trabalhou com **carteira assinada** ou foi **servidor público** entre **1971 e 1988** e ainda não sacou.",
+    "Herdeiros ou beneficiários legais, quando o titular já morreu."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Atenção: as cotas são um saldo antigo e **não são o abono salarial** pago a cada ano."
+  },
+  {
+   "type": "h2",
+   "text": "Como consultar e pedir, passo a passo"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**1. Consulte:** pelo aplicativo FGTS (só o próprio titular), pelo sistema Repis Cidadão (repiscidadao.fazenda.gov.br), com conta gov.br prata ou ouro, ou em uma agência da Caixa.",
+    "**2. Peça:** no app FGTS (aba \"Mais\", opção \"Ressarcimento PIS/Pasep\") ou em uma agência, com documento oficial com foto.",
+    "**3. Herdeiros:** levem também a certidão ou declaração de dependentes habilitados, ou autorização judicial ou de cartório, conforme o caso.",
+    "**4. Acompanhe:** o pagamento depende de o pedido ser aprovado."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Quando o dinheiro cai"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Pedido feito até",
+    "Pagamento previsto"
+   ],
+   "rows": [
+    [
+     "30/11/2026",
+     "28/12/2026"
+    ],
+    [
+     "31/12/2026",
+     "janeiro de 2027"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "O crédito vai para conta individual na Caixa ou para uma Poupança Social Digital, aberta sem custo e usada pelo app Caixa Tem. O pagamento depende de verba no orçamento: se faltar no ano, é feito no ano seguinte, com correção. Segundo a Agência Brasil, o pedido pode ser feito até **setembro de 2028**."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: e se caírem R$ 2.800?",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "A Agência Brasil cita valor médio perto de R$ 2,8 mil, mas o seu pode ser bem diferente. Veja uma divisão **ilustrativa**, para quem tem uma dívida de R$ 1.500 no cartão:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Destino",
+      "Valor"
+     ],
+     "rows": [
+      [
+       "Quitar a dívida cara",
+       "R$ 1.500"
+      ],
+      [
+       "Reserva de emergência",
+       "R$ 1.000"
+      ],
+      [
+       "Estudar o primeiro investimento",
+       "R$ 300"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Outro exemplo **ilustrativo**: R$ 1.000 rendendo 13,75% ao ano, com a taxa parada, chegariam a R$ 1.137,50 brutos em 12 meses, antes de impostos e custos."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Onde o investimento entra"
+  },
+  {
+   "type": "p",
+   "text": "Antes de investir, vale sair do [rotativo do cartão](#materia-rotativo-do-cartao-novas-regras-do-cmn-como-sair-da-divida-antes-de-investir) e montar a [reserva de emergência](#materia-reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro). Só depois faz sentido estudar [renda fixa e renda variável](#materia-renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona). Fundos como MXRF11 e GARE11 têm cotas de baixo valor, e ações como BBAS3 e TAEE4 são conhecidas por proventos, mas **todos oscilam e não garantem rendimento** (exemplos para estudo, sem indicação)."
+  },
+  {
+   "type": "h2",
+   "text": "Erros comuns e cuidados"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Confundir cotas antigas com abono salarial.",
+    "Clicar em link recebido por mensagem. Entre você mesmo no app ou no site oficial.",
+    "Pagar taxa a intermediário ou informar senha a quem promete liberar o dinheiro. Veja [como evitar fraudes](#materia-como-evitar-fraudes-financeiras-o-que-e-scp-e-o-que-conferir-antes-de-investir).",
+    "Contar com o valor antes de confirmar a consulta. Em caso de dúvida, ligue para a Caixa: **0800 726 0207**."
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "Confirme datas e regras nos canais oficiais antes de agir. Conteúdo educativo, sem recomendação de compra ou venda. Rentabilidade passada não garante resultados futuros."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: cotas do PIS/Pasep",
+   "center": "Cotas do PIS/Pasep",
+   "branches": [
+    {
+     "label": "Quem",
+     "items": [
+      "Trabalho de 1971 a 1988",
+      "Servidores",
+      "Herdeiros"
+     ]
+    },
+    {
+     "label": "Consulta",
+     "items": [
+      "App FGTS",
+      "Repis Cidadão",
+      "Agência Caixa"
+     ]
+    },
+    {
+     "label": "Prazos",
+     "items": [
+      "30/11 paga em 28/12",
+      "31/12 paga em janeiro",
+      "Limite em set/2028"
+     ]
+    },
+    {
+     "label": "Cuidados",
+     "items": [
+      "Evitar links",
+      "Não pagar taxa",
+      "Quitar dívida cara"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes",
+   "items": [
+    {
+     "q": "Perdi o prazo de 30/11. Perdi o dinheiro?",
+     "a": "Não. O dia 30/11 define o lote de 28/12. Pedidos posteriores entram em outros lotes, e a Agência Brasil informa que o prazo vai até setembro de 2028."
+    },
+    {
+     "q": "Cotas do PIS/Pasep e abono salarial são a mesma coisa?",
+     "a": "Não. As cotas se referem a quem trabalhou entre 1971 e 1988. O abono é um benefício anual com regras próprias."
+    },
+    {
+     "q": "Herdeiro pode pedir?",
+     "a": "Sim. Beneficiários legais podem solicitar, apresentando os documentos que comprovam essa condição."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Próximo passo",
+   "text": "Faça a consulta pelo canal oficial e, se houver saldo, planeje o uso antes de ele cair. Comece por [como investir com pouco dinheiro](#materia-como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes)."
+  }
+ ]
+}

@@ -1,0 +1,254 @@
+{
+ "slug": "igp-m-sobe-1-24-em-novembro-como-calcular-o-reajuste-do-aluguel",
+ "title": "IGP-M sobe 1,24% em novembro: como calcular o reajuste do aluguel passo a passo",
+ "subtitle": "O índice acumula 6,26% em 12 meses. Entenda o que ele mede, quando pode mexer no seu aluguel e o que conferir no contrato.",
+ "category": "educacao",
+ "date": "2026-11-27",
+ "time": "19:15",
+ "sentiment": "Alerta",
+ "meta": "IGP-M de novembro sobe 1,24% e soma 6,26% em 12 meses. Veja como calcular o reajuste do aluguel, o que diz a lei e o que muda para quem investe em FIIs.",
+ "focus_kw": "IGP-M",
+ "tags": [
+  "IGP-M novembro 2026",
+  "Reajuste de aluguel",
+  "Como calcular aluguel",
+  "IGP-M acumulado",
+  "IGP-M ou IPCA",
+  "FIIs e inflação"
+ ],
+ "sources": [
+  {
+   "t": "Times Brasil: IGP-M sobe 1,24% em novembro, revela FGV",
+   "url": "https://timesbrasil.com.br/brasil/indicadores/igp-m-sobe-124-em-novembro-apos-alta-de-147-em-outubro-revela-fgv/",
+   "at": "27/11/2026 08:58"
+  },
+  {
+   "t": "BM&C News: IGP-M sobe 1,24% em novembro e desacelera ante outubro",
+   "url": "https://bmcnews.com.br/economia/igp-m-sobe-1-24-em-novembro-e-desacelera-ante-outubro/",
+   "at": "27/11/2026 09:11"
+  },
+  {
+   "t": "Diário do Comércio (Reuters): alta do IGP-M desacelera",
+   "url": "https://diariodocomercio.com.br/economia/alta-do-igp-m-desacelera-2/",
+   "at": "27/11/2026 13:45"
+  },
+  {
+   "t": "Planalto: Lei do Inquilinato (Lei 8.245/1991), artigos 17 a 19",
+   "url": "https://planalto.gov.br/ccivil_03/leis/l8245.htm",
+   "at": "27/11/2026 19:20"
+  },
+  {
+   "t": "Jus.com.br: reajuste com menos de um ano (Lei 10.192/2001)",
+   "url": "https://jus.com.br/artigos/88536/reajustes-de-aluguel-ou-de-tarifas-de-servicos-feitos-com-menos-de-um-ano-e-abusivo",
+   "at": "14/02/2021 11:53"
+  },
+  {
+   "t": "Investing.com: IPCA-15 de novembro e agenda do dia",
+   "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-efeito-trabuco-dados-fiscais-e-black-friday-2139151",
+   "at": "27/11/2026 08:51"
+  }
+ ],
+ "trend": {
+  "rank": 1,
+  "term": "IGP-M e reajuste do aluguel",
+  "ref": "27/11"
+ },
+ "source_doc": "Pesquisa própria do Claude (sem relatório do Drive em 27/11 19:15)",
+ "source_topic": "IGP-M de novembro (1,24%; 6,26% em 12 meses): o que é, cálculo do reajuste do aluguel e relação com FIIs",
+ "image": "assets/covers/igp-m-sobe-1-24-em-novembro-como-calcular-o-reajuste-do-aluguel.jpg",
+ "image_alt": "Casal analisa um contrato na mesa da cozinha, com calculadora e molho de chaves",
+ "canva_media_id": "MAHcJnUNMgc",
+ "body": [
+  {
+   "type": "p",
+   "text": "O **IGP-M** é um assunto em alta: a FGV informou nesta sexta-feira (27/11) que o índice subiu **1,24%** em novembro, depois de 1,47% em outubro. Em 12 meses, a alta passou de 5,24% para **6,26%**. Conhecido como \"inflação do aluguel\", ele pode pesar no bolso de quem renova contrato."
+  },
+  {
+   "type": "h2",
+   "text": "O que o IGP-M mede"
+  },
+  {
+   "type": "p",
+   "text": "O Índice Geral de Preços do Mercado junta três medidas, cada uma com um peso:"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**IPA (peso de 60%):** preços no atacado.",
+    "**IPC (peso de 30%):** preços ao consumidor.",
+    "**INCC (peso de 10%):** custo da construção."
+   ]
+  },
+  {
+   "type": "table",
+   "head": [
+    "Índice",
+    "Outubro",
+    "Novembro"
+   ],
+   "rows": [
+    [
+     "IPA",
+     "1,93%",
+     "1,62%"
+    ],
+    [
+     "IPC",
+     "0,45%",
+     "0,39%"
+    ],
+    [
+     "INCC",
+     "0,35%",
+     "0,30%"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Em novembro, tomate, minério de ferro e bovinos estiveram entre as pressões no atacado. Para o consumidor, o grupo Alimentação acelerou de 1,02% para 1,39%. O resultado do mês veio acima da mediana de 1,05% das projeções coletadas pelo Broadcast. O economista Matheus Dias, do FGV Ibre, avalia que o ritmo de alta tende a seguir acelerado nos próximos meses. É uma **previsão**, que pode mudar."
+  },
+  {
+   "type": "h2",
+   "text": "Como calcular o reajuste, passo a passo"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**1.** Leia a cláusula de reajuste: qual índice vale (IGP-M, IPCA ou outro).",
+    "**2.** Confira o mês de aniversário do contrato e qual mês de referência ele manda usar.",
+    "**3.** Pegue o acumulado em 12 meses desse período.",
+    "**4.** Multiplique o aluguel atual por 1 mais o índice (para 6,26%, multiplique por 1,0626)."
+   ]
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: um aluguel de R$ 1.500",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo**, supondo um contrato que use o acumulado de 12 meses até novembro. A segunda linha mostra, só para comparação, a prévia da inflação oficial (IPCA-15), que acumula 4,64%."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Em 12 meses",
+      "Novo aluguel"
+     ],
+     "rows": [
+      [
+       "IGP-M 6,26%",
+       "R$ 1.593,90 (+ R$ 93,90 por mês)"
+      ],
+      [
+       "IPCA-15 4,64%",
+       "R$ 1.569,60 (+ R$ 69,60 por mês)"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Com o IGP-M, a diferença soma **R$ 1.126,80** em 12 meses. Um contrato atrelado ao IPCA usa o índice cheio do período definido no texto, e não a prévia."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "O que diz a lei e o que dá para negociar"
+  },
+  {
+   "type": "p",
+   "text": "A Lei 10.192/2001 considera nulo o reajuste por índice com periodicidade **inferior a um ano**. Já a Lei do Inquilinato permite que as partes combinem, de comum acordo, um novo valor ou mudem a cláusula de reajuste. Sem acordo, depois de três anos de contrato ou do último acerto, locador ou locatário podem pedir revisão judicial para o preço de mercado."
+  },
+  {
+   "type": "p",
+   "text": "Na conversa com o proprietário, leve preços de imóveis parecidos na região e registre por escrito o que for acertado."
+  },
+  {
+   "type": "h2",
+   "text": "E para quem investe em FIIs?"
+  },
+  {
+   "type": "p",
+   "text": "Fundos imobiliários podem ter aluguéis ou títulos corrigidos por índices de preços. Isso **não significa** que a alta de um mês vira rendimento maior na hora: depende do índice de cada contrato, da data de reajuste, da vacância e da inadimplência. Em fundos que acompanhamos para estudo, como GARE11 e MXRF11, o caminho é ler o relatório gerencial. Entenda também [o caso dos galpões logísticos](#materia-fiis-logisticos-e-black-friday-o-que-os-galpoes-tem-a-ver-com-o-seu-dinheiro) e a diferença entre [renda fixa e renda variável](#materia-renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona)."
+  },
+  {
+   "type": "h2",
+   "text": "Erros comuns e o que observar"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Aplicar o 1,24% do mês como se fosse o reajuste anual.",
+    "Usar o IGP-M quando o contrato prevê outro índice.",
+    "Achar que preço de cota abaixo de R$ 10 ou aluguel corrigido garantem retorno.",
+    "Próximo resultado cheio do IGP-M: **29/12**."
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "Conteúdo educativo, sem recomendação de compra ou venda. Em caso de dúvida sobre o contrato, procure orientação jurídica. Rentabilidade passada não garante resultados futuros."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: IGP-M",
+   "center": "IGP-M",
+   "branches": [
+    {
+     "label": "Composição",
+     "items": [
+      "IPA 60%",
+      "IPC 30%",
+      "INCC 10%"
+     ]
+    },
+    {
+     "label": "Novembro",
+     "items": [
+      "1,24% no mês",
+      "6,26% em 12 meses"
+     ]
+    },
+    {
+     "label": "Aluguel",
+     "items": [
+      "Ver o contrato",
+      "Reajuste anual",
+      "Dá para negociar"
+     ]
+    },
+    {
+     "label": "FIIs",
+     "items": [
+      "Índice do contrato",
+      "Vacância",
+      "Relatório gerencial"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes",
+   "items": [
+    {
+     "q": "Todo aluguel é reajustado pelo IGP-M?",
+     "a": "Não. Vale o índice escrito no contrato, que pode ser o IGP-M, o IPCA ou outro combinado entre as partes."
+    },
+    {
+     "q": "O aluguel pode subir a cada seis meses pelo índice?",
+     "a": "A Lei 10.192/2001 considera nulo o reajuste por índice com periodicidade inferior a um ano."
+    },
+    {
+     "q": "Posso pedir um reajuste menor?",
+     "a": "Sim, é possível negociar. A Lei do Inquilinato permite fixar novo valor ou mudar a cláusula de comum acordo."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Próximo passo",
+   "text": "Coloque o novo aluguel no orçamento antes de dezembro e proteja a sua [reserva de emergência](#materia-reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro). Depois, veja [como começar a investir com pouco dinheiro](#materia-como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes)."
+  }
+ ]
+}

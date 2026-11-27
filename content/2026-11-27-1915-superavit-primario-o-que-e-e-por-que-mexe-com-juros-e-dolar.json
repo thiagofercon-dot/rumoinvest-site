@@ -1,0 +1,257 @@
+{
+ "slug": "superavit-primario-o-que-e-e-por-que-mexe-com-juros-e-dolar",
+ "title": "Superávit primário: o que é o saldo de R$ 52,3 bi de outubro e por que mexe com juros e dólar",
+ "subtitle": "O Governo Central arrecadou mais do que gastou no mês, sem contar juros. No ano, porém, a conta ainda está no vermelho.",
+ "category": "educacao",
+ "date": "2026-11-27",
+ "time": "19:15",
+ "sentiment": "Neutro",
+ "meta": "Superávit primário de R$ 52,3 bi em outubro: entenda o que é, a diferença para dívida pública, a meta fiscal de 2026 e como isso chega aos investimentos.",
+ "focus_kw": "superávit primário",
+ "tags": [
+  "Superávit primário",
+  "O que é déficit primário",
+  "Meta fiscal 2026",
+  "Resultado do Tesouro",
+  "Dívida bruta",
+  "Contas públicas e juros"
+ ],
+ "sources": [
+  {
+   "t": "Correio Braziliense: Governo Central registra superávit de R$ 52,3 bi em outubro",
+   "url": "https://www.correiobraziliense.com.br/economia/2026/11/7545460-governo-central-registra-superavit-de-rs-523-bi-em-outubro-aponta-tesouro.html",
+   "at": "27/11/2026 11:50"
+  },
+  {
+   "t": "Melhor Investimento: superávit primário de outubro e acumulado do ano",
+   "url": "https://melhorinvestimento.net/noticias/superavit-primario-outubro-2026",
+   "at": "27/11/2026 11:08"
+  },
+  {
+   "t": "Tribuna do Sertão (Agência O Globo): melhor outubro em dez anos",
+   "url": "https://www.tribunadosertao.com.br/financas/2026/11/27/1031515-governo-registra-superavit-de-r-523-bilhoes-melhor-outubro-em-dez-anos-segundo-tesouro-nacional",
+   "at": "27/11/2026"
+  },
+  {
+   "t": "Forbes Brasil: projeção de déficit e meta de 2026",
+   "url": "https://forbes.com.br/forbes-money/2026/11/deficit-primario-governo-2026/",
+   "at": "25/11/2026 10:22"
+  },
+  {
+   "t": "Exame: deduções da meta e contenção de gastos",
+   "url": "https://exame.com/economia/governo-tem-alta-de-r-27-bi-na-receita-mas-deficit-projetado-e-de-r-89-bi/",
+   "at": "25/11/2026 09:34"
+  },
+  {
+   "t": "Agência Brasil: dívida bruta em 82,9% do PIB (dados do Banco Central)",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/divida-publica-fica-em-829-do-pib-e-deficit-soma-r-55-bilhoes",
+   "at": "29/10/2026 16:49"
+  }
+ ],
+ "trend": {
+  "rank": 2,
+  "term": "Superávit primário e contas públicas",
+  "ref": "27/11"
+ },
+ "source_doc": "Pesquisa própria do Claude (sem relatório do Drive em 27/11 19:15)",
+ "source_topic": "Superávit primário do Governo Central em outubro (R$ 52,3 bi): conceito, meta fiscal 2026, dívida e efeito em juros e dólar",
+ "image": "assets/covers/superavit-primario-o-que-e-e-por-que-mexe-com-juros-e-dolar.jpg",
+ "image_alt": "Balança de pratos com moedas sobre uma mesa, com a Esplanada dos Ministérios ao fundo",
+ "canva_media_id": "MAHcJgY2brw",
+ "body": [
+  {
+   "type": "p",
+   "text": "**Superávit primário** é um assunto em alta nesta sexta-feira (27/11). O Tesouro Nacional informou que o Governo Central (Tesouro, Previdência e Banco Central) fechou outubro com saldo positivo de **R$ 52,3 bilhões**, o melhor para o mês desde 2016, já descontada a inflação."
+  },
+  {
+   "type": "h2",
+   "text": "O que significa, em palavras simples"
+  },
+  {
+   "type": "p",
+   "text": "O **resultado primário** é a diferença entre o que o governo arrecada e o que gasta, **sem contar os juros da dívida**. Sobrou dinheiro, é superávit. Faltou, é déficit."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: as contas de uma casa",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo** de uma família que paga juros de um empréstimo antigo:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Conta do mês",
+      "Valor"
+     ],
+     "rows": [
+      [
+       "Renda",
+       "R$ 5.000"
+      ],
+      [
+       "Gastos, sem juros",
+       "R$ 4.800"
+      ],
+      [
+       "Resultado primário",
+       "sobra de R$ 200"
+      ],
+      [
+       "Juros do empréstimo",
+       "R$ 350"
+      ],
+      [
+       "Resultado final",
+       "falta de R$ 150"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "A casa teve superávit primário e, mesmo assim, a dívida pode crescer. Com o governo, a lógica ajuda a entender por que um saldo positivo não resolve tudo."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Os números de outubro"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Indicador",
+    "Outubro de 2026"
+   ],
+   "rows": [
+    [
+     "Receita líquida",
+     "R$ 253,1 bi (+5,6% real)"
+    ],
+    [
+     "Despesa total",
+     "R$ 200,9 bi (-0,2% real)"
+    ],
+    [
+     "Resultado primário",
+     "+R$ 52,3 bi"
+    ],
+    [
+     "Outubro de 2025",
+     "+R$ 36,6 bi (valor sem correção)"
+    ],
+    [
+     "Mediana esperada (Prisma Fiscal)",
+     "+R$ 43,4 bi"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Dentro do saldo, o Tesouro teve superávit de R$ 73,8 bilhões, a Previdência teve déficit de R$ 21,4 bilhões e o Banco Central, de R$ 100,9 milhões. Ajudaram as receitas ligadas a recursos naturais, como royalties, e o Imposto de Renda. Veja o que é a [arrecadação federal](#materia-arrecadacao-recorde-de-r-294-bi-o-que-e-arrecadacao-federal-e-por-que-importa-para-quem-investe)."
+  },
+  {
+   "type": "h2",
+   "text": "Um mês bom não fecha o ano"
+  },
+  {
+   "type": "p",
+   "text": "De janeiro a outubro, o Governo Central ainda acumula **déficit de R$ 37,9 bilhões**, menor que os R$ 63,7 bilhões do mesmo período de 2025."
+  },
+  {
+   "type": "p",
+   "text": "A meta de 2026 é um superávit de 0,25% do PIB (R$ 34,3 bilhões), com tolerância que permite chegar a zero. A projeção oficial divulgada em 24/11 é de déficit de R$ 89,3 bilhões. Como a lei deixa R$ 77 bilhões em despesas fora da conta, a maior parte em precatórios, o déficit considerado para a meta é de R$ 12,3 bilhões. Por isso o governo mantém R$ 12,3 bilhões contingenciados."
+  },
+  {
+   "type": "h2",
+   "text": "Por que mexe com juros, dólar e investimentos"
+  },
+  {
+   "type": "p",
+   "text": "Investidores olham o resultado primário para avaliar o rumo da dívida pública. Em setembro, segundo o Banco Central, a **dívida bruta** estava em 82,9% do PIB (R$ 11,1 trilhões). Dúvidas sobre as contas tendem a pressionar o [dólar](#materia-dolar-alto-como-ele-afeta-precos-juros-e-investimentos) e os juros de longo prazo; sinais de melhora podem aliviar. O efeito não é automático, porque muitos outros fatores entram no preço."
+  },
+  {
+   "type": "p",
+   "text": "Os juros influenciam o Tesouro Direto e a comparação com ações como BBAS3 e TAEE4 e fundos como MXRF11 e GARE11 (exemplos para estudo, sem indicação). Revise o que é a [taxa Selic](#materia-o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes)."
+  },
+  {
+   "type": "h2",
+   "text": "Erros comuns e o que observar"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Confundir superávit primário com dívida paga.",
+    "Tirar conclusões sobre o ano com base em um único mês.",
+    "Misturar o dado do Tesouro (Governo Central) com o do Banco Central, que também inclui estados, municípios e estatais.",
+    "Acompanhar o dado do setor público consolidado, a dívida bruta de outubro e o próximo resultado do Tesouro."
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "Conteúdo educativo, sem recomendação de compra ou venda. Rentabilidade passada não garante resultados futuros."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: superávit primário",
+   "center": "Resultado primário",
+   "branches": [
+    {
+     "label": "Conta",
+     "items": [
+      "Receitas",
+      "Menos despesas",
+      "Sem juros"
+     ]
+    },
+    {
+     "label": "Outubro",
+     "items": [
+      "+R$ 52,3 bi",
+      "Acima do esperado"
+     ]
+    },
+    {
+     "label": "Ano",
+     "items": [
+      "Déficit de R$ 37,9 bi",
+      "Meta fiscal",
+      "Contingenciamento"
+     ]
+    },
+    {
+     "label": "Mercado",
+     "items": [
+      "Dívida",
+      "Juros",
+      "Dólar"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes",
+   "items": [
+    {
+     "q": "Superávit primário quer dizer que a dívida caiu?",
+     "a": "Não necessariamente. A conta não inclui os juros, que podem fazer a dívida crescer mesmo com superávit."
+    },
+    {
+     "q": "O que é contingenciamento?",
+     "a": "É o congelamento de parte dos gastos do orçamento para tentar cumprir a meta fiscal."
+    },
+    {
+     "q": "O que é o Governo Central?",
+     "a": "É o conjunto formado por Tesouro Nacional, Previdência Social e Banco Central."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Próximo passo",
+   "text": "Antes de reagir às notícias fiscais, organize a [reserva de emergência](#materia-reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro) e entenda [renda fixa e renda variável](#materia-renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona)."
+  }
+ ]
+}
