@@ -1,0 +1,248 @@
+{
+ "slug": "tesouro-direto-trava-negociacoes-e-taxas-despencam-o-que-muda-27-11",
+ "capa": "dia",
+ "title": "Tesouro Direto trava negociações e taxas despencam: o que a pausa significa para você",
+ "subtitle": "Com a confirmação de Trabuco na Fazenda, os prefixados 2029 e 2032 foram à casa dos 13% e a plataforma parou na manhã desta sexta (27/11). Entenda, com um exemplo de R$ 100.",
+ "category": "renda-fixa",
+ "date": "2026-11-27",
+ "time": "13:10",
+ "sentiment": "Otimista",
+ "meta": "Tesouro Direto pausa negociações em 27/11 após queda forte das taxas. Veja o que muda no prefixado, no IPCA+ e quanto renderiam cerca de R$ 100.",
+ "focus_kw": "Tesouro Direto suspenso",
+ "tags": [
+  "Tesouro Direto hoje",
+  "Tesouro Direto suspenso",
+  "Tesouro Prefixado",
+  "Tesouro IPCA+",
+  "Marcação a mercado",
+  "Renda Fixa"
+ ],
+ "sources": [
+  {
+   "t": "Money Times: rali no Tesouro Direto tira plataforma do ar após confirmação de Trabuco",
+   "url": "https://www.moneytimes.com.br/rali-no-tesouro-direto-tira-plataforma-do-ar-apos-confirmacao-de-trabuco-na-fazenda-juros-caem-para-13-ao-ano-mlim/",
+   "at": "27/11/2026 11:03"
+  },
+  {
+   "t": "Times Brasil: Tesouro Direto aciona 'circuit breaker' pela 4ª vez na semana",
+   "url": "https://timesbrasil.com.br/brasil/tesouro-direto-aciona-circuit-breaker-pela-4a-vez-na-semana-apos-anuncio-de-trabuco-na-fazenda/",
+   "at": "27/11/2026 12:29"
+  },
+  {
+   "t": "BPMoney: taxas do Tesouro Direto despencam após anúncio de Trabuco",
+   "url": "https://bpmoney.com.br/mercado/renda-fixa/tesouro-direto-queda-taxas-trabuco-fazenda-ipca-abaixo-7/",
+   "at": "27/11/2026 11:27"
+  },
+  {
+   "t": "InvestNews: Tesouro Direto hoje (taxas, preços e aplicação mínima)",
+   "url": "https://investnews.com.br/investimentos/tesouro-direto-taxas-rendimento-hoje-trabuco-fazenda-27112026/",
+   "at": "27/11/2026 09:49"
+  },
+  {
+   "t": "CNN Brasil: juros futuros desabam após confirmação de Trabuco",
+   "url": "https://www.cnnbrasil.com.br/economia/money/mercado/juros-futuros-hoje-27-novembro-2026/",
+   "at": "27/11/2026 11:01"
+  },
+  {
+   "t": "Revista Empreende: como ficam os pedidos durante a suspensão do Tesouro Direto",
+   "url": "https://revistaempreende.com.br/tesouro-direto-suspende-negociacoes-volatilidade-taxas-juros/",
+   "at": "27/10/2026 09:14"
+  },
+  {
+   "t": "Portal do Investidor (CVM): títulos públicos e marcação a mercado",
+   "url": "https://www.gov.br/investidor/pt-br/investir/tipos-de-investimentos/titulos-publicos",
+   "at": "27/11/2026 13:15"
+  },
+  {
+   "t": "B3: Tesouro Direto, Imposto de Renda e IOF",
+   "url": "https://www.b3.com.br/en/para-voce/tipos-de-investimentos/renda-fixa/tesouro-direto",
+   "at": "27/11/2026 13:15"
+  },
+  {
+   "t": "B3: tarifas do Tesouro Direto",
+   "url": "https://www.b3.com.br/pt_br/produtos-e-servicos/tarifas/tarifas-de-tesouro-direto/",
+   "at": "27/11/2026 13:15"
+  },
+  {
+   "t": "Clube dos Poupadores: Tesouro Prefixado paga R$ 1.000 por título no vencimento",
+   "url": "https://clubedospoupadores.com/tesouro-direto/tesouro-prefixado-como-funciona.html",
+   "at": "03/07/2019"
+  },
+  {
+   "t": "Valor Final: calendário do Copom e Selic em 13,75%",
+   "url": "https://valorfinal.com.br/copom",
+   "at": "27/11/2026 13:15"
+  }
+ ],
+ "source_doc": "Pesquisa própria do Claude (sem relatório de renda fixa do Drive em 27/11 13:10; Relatório de Mercado de 27/11 12h, sem seção de renda fixa, usado como apoio para o contexto e imagem do Gemini)",
+ "source_topic": "Suspensão das negociações do Tesouro Direto e queda das taxas após confirmação de Trabuco (27/11)",
+ "image": "assets/covers/tesouro-direto-trava-negociacoes-e-taxas-despencam-o-que-muda-27-11.jpg",
+ "image_alt": "Ampulheta ao lado de moedas e notas de real sobre uma mesa",
+ "body": [
+  {
+   "type": "p",
+   "text": "O **Tesouro Direto** interrompeu as negociações na manhã desta sexta-feira (27/11), depois que as taxas dos títulos públicos despencaram na abertura. O gatilho foi a confirmação de que **Luiz Carlos Trabuco**, presidente do conselho do Bradesco, aceitou o convite para comandar o Ministério da Fazenda a partir de 2027. Segundo o Money Times, a plataforma parou por volta das 10h30 a 10h45; a Times Brasil conta que foi a **quarta suspensão da semana**."
+  },
+  {
+   "type": "h2",
+   "text": "Quanto as taxas caíram"
+  },
+  {
+   "type": "p",
+   "text": "Estas foram as taxas da primeira atualização do dia:"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Título",
+    "Taxa ao ano em 27/11",
+    "Queda no dia"
+   ],
+   "rows": [
+    [
+     "Prefixado 2029",
+     "13,73%",
+     "0,74 ponto (antes 14,47%)"
+    ],
+    [
+     "Prefixado 2032",
+     "13,96%",
+     "0,86 ponto (antes 14,82%)"
+    ],
+    [
+     "Prefixado com Juros Semestrais 2037",
+     "14,02%",
+     "0,82 ponto"
+    ],
+    [
+     "IPCA+ 2032",
+     "IPCA + 7,22%",
+     "0,47 ponto (antes IPCA + 7,69%)"
+    ],
+    [
+     "IPCA+ 2050",
+     "IPCA + 6,98%",
+     "entre 0,43 e 0,47 ponto (faixa dos IPCA+)"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Segundo a BPMoney e a Times Brasil, foi a maior queda em um só pregão desde 5 de outubro. Nos **juros futuros** (contratos que mostram a taxa que o mercado espera), o DI para janeiro de 2028 marcava 13,68% às 9h26, ante 14,183% no ajuste anterior, informou a CNN Brasil."
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/tesouro-direto-trava-negociacoes-e-taxas-despencam-o-que-muda-27-11-1.jpg",
+   "alt": "Equipe em uma mesa de operações reage a gráficos em alta nas telas",
+   "caption": "Mercado reagiu com força ao anúncio na Fazenda. Imagem ilustrativa gerada por IA (Gemini)."
+  },
+  {
+   "type": "h2",
+   "text": "Por que o Tesouro Direto para de negociar"
+  },
+  {
+   "type": "p",
+   "text": "Quando as taxas oscilam demais, os preços mudam em poucos minutos. O Tesouro Nacional então **trava compras e resgates** até atualizar os valores, mecanismo apelidado de “circuit breaker”. Na volta, as taxas podem ser diferentes das da manhã, para cima ou para baixo."
+  },
+  {
+   "type": "p",
+   "text": "Na suspensão de outubro, a Revista Empreende explicou que pedidos enviados durante a pausa eram processados na reabertura, com quantidade que podia diferir da estimada. As reportagens consultadas sobre esta sexta não informavam o horário de retorno: confira na plataforma."
+  },
+  {
+   "type": "h2",
+   "text": "O que muda para quem investe"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Quem já tem prefixado ou IPCA+:** a queda da taxa faz o preço de mercado subir. É a [marcação a mercado](#materia-prefixados-caem-pelo-2o-dia-o-que-e-marcacao-a-mercado-e-quando-vender-o-tesouro-antes-do-prazo), que só se realiza se houver venda.",
+    "**Quem leva até o vencimento:** recebe a rentabilidade contratada no dia da compra, segundo o Portal do Investidor.",
+    "**Quem vai comprar agora:** encontra uma taxa menor que a da véspera.",
+    "**Tesouro Selic:** acompanha a [taxa Selic](#materia-o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes), hoje em **13,75% ao ano**. O próximo Copom é em 8 e 9 de dezembro."
+   ]
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: cerca de R$ 100 no Prefixado 2029",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo**: 0,13 título do Prefixado 2029 custava **R$ 99,59** (preço de R$ 766,05 por título inteiro) na manhã de 27/11. Cada título inteiro paga R$ 1.000 em 01/01/2029."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Se levar até o vencimento",
+      "Valor aproximado"
+     ],
+     "rows": [
+      [
+       "Valor bruto em 01/01/2029",
+       "R$ 130,00"
+      ],
+      [
+       "Após IR de 15% sobre o ganho (mais de 720 dias)",
+       "R$ 125,44"
+      ],
+      [
+       "Mesmo valor aplicado à taxa da véspera (14,47%), bruto",
+       "cerca de R$ 131,76"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Os valores não descontam a taxa de custódia da B3, de **0,20% ao ano**. Quem vende antes recebe o preço do dia, que pode ser maior ou menor; há IOF em resgates em até 30 dias e IR de 22,5% a 15% sobre o ganho, conforme o prazo. Rentabilidade passada não garante resultados futuros."
+    }
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "Taxas e preços mudam ao longo do dia. Conteúdo educativo, sem recomendação de compra ou venda."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: pausa no Tesouro Direto",
+   "center": "Tesouro Direto em 27/11",
+   "branches": [
+    {
+     "label": "Gatilho",
+     "items": [
+      "Trabuco na Fazenda",
+      "Juros futuros caem"
+     ]
+    },
+    {
+     "label": "Pausa",
+     "items": [
+      "Alta volatilidade",
+      "Preços são refeitos",
+      "4ª na semana"
+     ]
+    },
+    {
+     "label": "Quem já tem",
+     "items": [
+      "Preço de mercado sobe",
+      "Ganho só se vender",
+      "No vencimento, vale o contratado"
+     ]
+    },
+    {
+     "label": "Quem vai comprar",
+     "items": [
+      "Taxa menor",
+      "Conferir o preço na volta",
+      "Olhar o prazo"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Antes de travar uma taxa",
+   "text": "Veja [onde deixar a reserva de emergência](#materia-reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro) e entenda a [marcação a mercado](#materia-prefixados-caem-pelo-2o-dia-o-que-e-marcacao-a-mercado-e-quando-vender-o-tesouro-antes-do-prazo)."
+  }
+ ],
+ "canva_media_id": "MAHcIFeW8jY"
+}
