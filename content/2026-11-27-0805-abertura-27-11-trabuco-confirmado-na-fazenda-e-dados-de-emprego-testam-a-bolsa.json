@@ -1,0 +1,380 @@
+{
+ "capa": "dia",
+ "slug": "abertura-27-11-trabuco-confirmado-na-fazenda-e-dados-de-emprego-testam-a-bolsa",
+ "title": "Abertura 27/11: com Trabuco confirmado na Fazenda, emprego e contas públicas testam a Bolsa após salto de 6%",
+ "subtitle": "Exterior amanhece em alta, Nova York tem pregão mais curto e MTRE3 e PSSA3 pagam proventos nesta sexta-feira.",
+ "category": "mercado",
+ "date": "2026-11-27",
+ "time": "08:05",
+ "sentiment": "Otimista",
+ "meta": "Abertura 27/11/2026: Trabuco confirmado na Fazenda, IGP-M e desemprego na agenda, exterior em alta e proventos de MTRE3 e PSSA3.",
+ "focus_kw": "abertura de mercado hoje 27 novembro 2026",
+ "tags": [
+  "abertura de mercado",
+  "ibovespa hoje",
+  "trabuco fazenda",
+  "dividendos MTRE3 PSSA3",
+  "Tesouro Direto hoje"
+ ],
+ "sources": [
+  {
+   "t": "Metrópoles: governo confirma Trabuco na Fazenda a partir de 2027",
+   "url": "https://www.metropoles.com/brasil/governo-lula-confirma-trabuco-no-ministerio-da-fazenda-a-partir-de-2027",
+   "at": "26/11/2026 20:25"
+  },
+  {
+   "t": "O Antagonista: Planalto oficializa Trabuco na Fazenda",
+   "url": "https://oantagonista.com.br/brasil/planalto-oficializa-trabuco-no-ministerio-da-fazenda/",
+   "at": "26/11/2026 21:10"
+  },
+  {
+   "t": "InfoMoney: Ibovespa ao vivo (fechamento de 26/11 e juros futuros)",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26112026/",
+   "at": "26/11/2026 18:45"
+  },
+  {
+   "t": "Imirante/Agência Brasil: Bolsa sobe 6% e dólar cai a R$ 5,74",
+   "url": "https://imirante.com/noticias/brasil/2026/11/26/bolsa-valores-sobe-6-maior-alta-desde-1-turno",
+   "at": "26/11/2026 22:30"
+  },
+  {
+   "t": "InfoMoney: Trabuco, desemprego e IGP-M na agenda",
+   "url": "https://www.infomoney.com.br/mercados/trabuco-fazenda-desemprego-igp-m-agenda-27112026/",
+   "at": "27/11/2026 06:16"
+  },
+  {
+   "t": "BPMoney: Trabuco e dados econômicos movem o mercado",
+   "url": "https://bpmoney.com.br/mercado/bovespa-trabuco-na-fazenda-e-dados-economicos-movem-mercado/",
+   "at": "27/11/2026 07:30"
+  },
+  {
+   "t": "Money Times: bolsas da Ásia fecham em forte alta",
+   "url": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-em-forte-alta-com-salto-na-china-e-avanco-de-acoes-de-ia-fets/",
+   "at": "27/11/2026 06:13"
+  },
+  {
+   "t": "Executive Digest: bolsas europeias em alta",
+   "url": "https://executivedigest.sapo.pt/bolsas-europeias-em-alta-a-seguir-avancos-da-asia",
+   "at": "27/11/2026 07:33"
+  },
+  {
+   "t": "TipRanks: mercados dos EUA reabrem em pregão curto",
+   "url": "https://www.tipranks.com/news/stock-market-today-nov-27-markets-reopen-for-shortened-black-friday-trading",
+   "at": "27/11/2026 07:41"
+  },
+  {
+   "t": "InfoMoney: Porto (PSSA3) paga dividendos na sexta",
+   "url": "https://www.infomoney.com.br/mercados/porto-pssa3-fara-pagamento-de-dividendos-adicionais-na-sexta-feira/",
+   "at": "23/11/2026 07:27"
+  },
+  {
+   "t": "Guia do Investidor: datas dos dividendos da Mitre (MTRE3)",
+   "url": "https://guiadoinvestidor.com.br/mercado/mitre-mtre3-aprova-r-12-milhoes-em-dividendos-veja-as-3-datas-de-pagamento/",
+   "at": "16/10/2026 12:08"
+  },
+  {
+   "t": "Status Invest: agenda de proventos",
+   "url": "https://statusinvest.com.br/acoes/proventos/ibovespa",
+   "at": "27/11/2026 07:43"
+  },
+  {
+   "t": "Rico: calendário de dividendos de FIIs",
+   "url": "https://riconnect.rico.com.vc/analises/fiis-calendario-de-dividendos/",
+   "at": "27/11/2026 07:43"
+  },
+  {
+   "t": "FIIs.com.br: XPML11 em novembro",
+   "url": "https://fiis.com.br/noticias/fundo-xpml11-dividendo-novembro-2026/",
+   "at": "27/11/2026 07:43"
+  },
+  {
+   "t": "FIIs.com.br: BTLG11 em novembro",
+   "url": "https://fiis.com.br/noticias/btlg11-anuncia-dividendos-novembro-veja/",
+   "at": "27/11/2026 07:43"
+  },
+  {
+   "t": "Analistas: cotação de GARE11",
+   "url": "https://www.analistas.com.br/fiis/gare11",
+   "at": "26/11/2026 18:31"
+  },
+  {
+   "t": "Analistas: cotação de HGLG11",
+   "url": "https://www.analistas.com.br/fiis/hglg11",
+   "at": "26/11/2026 18:31"
+  },
+  {
+   "t": "Investidor10: taxas do Tesouro Direto",
+   "url": "https://investidor10.com.br/tesouro-direto/investir/",
+   "at": "27/11/2026 07:43"
+  },
+  {
+   "t": "Tesouro Direto: preços e taxas",
+   "url": "https://www.tesourodireto.com.br/titulos/precos-e-taxas.htm",
+   "at": "27/11/2026 07:43"
+  },
+  {
+   "t": "Investing.com Brasil: criptomoedas",
+   "url": "https://br.investing.com/crypto",
+   "at": "27/11/2026 07:41"
+  },
+  "Google Finance: dólar, FIIs e criptomoedas de referência (26/11 17h49-17h54 e 27/11 07h41)"
+ ],
+ "source_doc": "Relatório de Mercado - 27/11 - 07h (Drive id 18TRiU3HTSfvTtRZsfa41cdwUn2V6Q89VtUFzAmcWDJc)",
+ "source_topic": "abertura",
+ "image": "assets/covers/abertura-27-11-trabuco-confirmado-na-fazenda-e-dados-de-emprego-testam-a-bolsa.jpg",
+ "image_alt": "Mesa com café, notas de real, caneta e tablet com gráfico verde, diante de prédios ao nascer do sol",
+ "canva_media_id": "MAHcG1vZwXE",
+ "resumo": [
+  "Planalto confirmou Trabuco na Fazenda a partir de 2027",
+  "Ibovespa chega ao dia após subir 6,07%, aos 176.799,84 pontos; dólar fechou a R$ 5,744",
+  "IGP-M, contas públicas e desemprego estão na agenda; Nova York fecha mais cedo"
+ ],
+ "body": [
+  {
+   "type": "p",
+   "text": "A **sexta-feira (27/11)** começa com termômetro **Otimista**. Na noite de quinta, o Palácio do Planalto confirmou em nota **Luiz Carlos Trabuco** para comandar o **Ministério da Fazenda a partir de 2027**. No nosso [fechamento](#materia-fechamento-de-mercado-26-11-ibovespa-dispara-6-07-e-dolar-cai-a-r-5-74-com-trabuco-no-radar), o anúncio oficial ainda não havia saído."
+  },
+  {
+   "type": "p",
+   "text": "Parte dessa expectativa já apareceu nos preços: o **Ibovespa** saltou **6,07%** na quinta. Agora o mercado testa o fôlego com dados de inflação, emprego e contas públicas."
+  },
+  {
+   "type": "h2",
+   "text": "Como o mercado chega ao dia"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Indicador",
+    "Valor",
+    "Referência"
+   ],
+   "rows": [
+    [
+     "Ibovespa",
+     "176.799,84 pontos",
+     "+6,07% no fechamento de 26/11"
+    ],
+    [
+     "Dólar comercial",
+     "R$ 5,744",
+     "-1,25% no fechamento de 26/11"
+    ],
+    [
+     "DI jan/2029",
+     "14,200% ao ano",
+     "-0,46 ponto em 26/11"
+    ],
+    [
+     "DI jan/2031",
+     "14,335% ao ano",
+     "-0,545 ponto em 26/11"
+    ],
+    [
+     "Selic meta / CDI",
+     "13,75% / 13,65% ao ano",
+     "Banco Central"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Antes da abertura, às 07h41, o Google Finance mostrava o dólar a **R$ 5,6524**. É uma referência colhida fora do horário do mercado brasileiro e não equivale a uma cotação de fechamento. Os juros futuros são os registrados pelo InfoMoney às 18h01; nos vencimentos de 2028 e 2035, esse registro difere dos números que publicamos ontem com base em outra fonte."
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/abertura-27-11-trabuco-confirmado-na-fazenda-e-dados-de-emprego-testam-a-bolsa-1.jpg",
+   "alt": "Avenida de prédios espelhados com carros e ônibus ao amanhecer",
+   "caption": "Início de dia em um centro financeiro. Imagem ilustrativa gerada por IA (Gemini)."
+  },
+  {
+   "type": "h2",
+   "text": "Agenda desta sexta"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**8h:** IGP-M de novembro (FGV). As projeções citadas ficam entre **0,90% e 0,94%**, após **1,47%** em outubro. Não confirmamos o resultado até o fechamento deste texto.",
+    "**8h30:** nota de crédito do Banco Central e resultado das contas do Governo Central de outubro; o InfoMoney cita expectativa de superávit de R$ 47,55 bilhões.",
+    "**9h:** **PNAD Contínua** (IBGE). A projeção para o desemprego de outubro é de **5,1%**.",
+    "**10h30:** balança comercial de bens dos EUA.",
+    "**15h (Brasília):** Nova York encerra o pregão mais cedo."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Exterior em alta"
+  },
+  {
+   "type": "p",
+   "text": "Na Ásia, Xangai fechou em alta de **3,73%**, Tóquio e Hong Kong subiram **2,11%** e Seul, **4,34%**, com ações de tecnologia e apoio do governo chinês ao mercado. Na Europa, o índice Stoxx 600 avançava **0,96%** às 07h10. Nos EUA, após o feriado, os futuros do **S&P 500** subiam **1,74%** e os do **Nasdaq 100**, **2,38%**, às 07h41, segundo o TipRanks. Contratos **futuros** indicam expectativas e podem mudar até a abertura."
+  },
+  {
+   "type": "h2",
+   "text": "Dividendos: MTRE3 e PSSA3 pagam hoje"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**MTRE3 (Mitre):** **R$ 0,0378 por ação**, a quem tinha o papel em **13/11**. Referência de preço: R$ 3,34 no fim de quinta.",
+    "**PSSA3 (Porto):** **R$ 0,8861 por ação**, referente à posição de **31/03**.",
+    "**BMGB4:** JCP de R$ 0,10 por ação em 04/12.",
+    "**ISAE4:** JCP de R$ 0,188959 por ação em 07/12; a data-com já passou.",
+    "**TAEE4:** pagou R$ 0,2001 por ação ontem (26).",
+    "**BBAS3:** fechou quinta a R$ 16,54 (+12,59%), sem pagamento em novembro."
+   ]
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: quem recebe o pagamento de hoje?",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "A **data-com** é o dia em que você precisa ter a ação para ganhar o direito ao provento. O pagamento vem depois."
+    },
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo**, em valores brutos: 100 ações de PSSA3 na data de 31/03 correspondem a **R$ 88,61** hoje; 100 ações de MTRE3 em 13/11, a **R$ 3,78**. Quem compra agora **não** recebe esses valores."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Fundos imobiliários"
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/abertura-27-11-trabuco-confirmado-na-fazenda-e-dados-de-emprego-testam-a-bolsa-2.jpg",
+   "alt": "Torres residenciais e corporativas cercadas por jardins em uma grande cidade",
+   "caption": "Imóveis urbanos em um dia de sol. Imagem ilustrativa gerada por IA (Gemini); não representa um fundo específico."
+  },
+  {
+   "type": "table",
+   "head": [
+    "FII",
+    "Preço (26/11)",
+    "Rend./cota (nov.)",
+    "Pagamento"
+   ],
+   "rows": [
+    [
+     "MXRF11",
+     "R$ 8,69",
+     "R$ 0,095 a R$ 0,10",
+     "16/11"
+    ],
+    [
+     "GARE11",
+     "R$ 8,17",
+     "R$ 0,080 a R$ 0,083",
+     "09/11"
+    ],
+    [
+     "HGLG11",
+     "R$ 144,97",
+     "R$ 1,17",
+     "16/11"
+    ],
+    [
+     "XPML11",
+     "R$ 85,50",
+     "R$ 0,80",
+     "25/11"
+    ],
+    [
+     "KNCR11",
+     "R$ 103,49",
+     "R$ 1,10",
+     "13/11"
+    ],
+    [
+     "BTLG11",
+     "R$ 96,74",
+     "R$ 0,81",
+     "25/11"
+    ],
+    [
+     "KNRI11",
+     "R$ 148,48",
+     "R$ 1,10",
+     "16/11"
+    ],
+    [
+     "VISC11",
+     "R$ 97,00",
+     "R$ 0,84",
+     "16/11"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Os preços são referências do fim da tarde de quinta e podem diferir do fechamento oficial. Os rendimentos de novembro listados já foram pagos."
+  },
+  {
+   "type": "h2",
+   "text": "Renda fixa"
+  },
+  {
+   "type": "p",
+   "text": "Com o portal do Tesouro Direto em manutenção antes das 9h30, as taxas de referência às 07h43 eram: **Tesouro Selic 2031**, Selic + 0,1115%; **Prefixado 2032**, 14,82% ao ano; e **IPCA+ com juros semestrais 2037**, IPCA + 7,57%. Elas podem mudar na reabertura."
+  },
+  {
+   "type": "p",
+   "text": "Exemplo **ilustrativo**: R$ 100 rendendo 100% do CDI, caso a taxa ficasse em 13,65% por um ano, chegariam a **R$ 113,65 brutos**, antes do Imposto de Renda. Títulos do Tesouro não têm cobertura do FGC; CDBs, LCIs e LCAs contam com ela até R$ 250 mil por CPF e instituição, com teto global de R$ 1 milhão a cada quatro anos."
+  },
+  {
+   "type": "h2",
+   "text": "Criptomoedas"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Ativo",
+    "US$",
+    "R$",
+    "24 horas"
+   ],
+   "rows": [
+    [
+     "Bitcoin",
+     "61.570,00",
+     "348.018,27",
+     "+1,40%"
+    ],
+    [
+     "Ethereum",
+     "1.726,94",
+     "9.761,36",
+     "+1,76%"
+    ],
+    [
+     "Tether (USDT)",
+     "0,9987",
+     "5,6451",
+     "-0,02%"
+    ],
+    [
+     "BNB",
+     "564,22",
+     "3.189,20",
+     "+1,86%"
+    ],
+    [
+     "USDC",
+     "0,9999",
+     "5,6518",
+     "+0,01%"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Coleta entre 07h40 e 07h41, com conversão pelo dólar de referência de R$ 5,6524. Criptoativos podem oscilar muito em poucas horas."
+  },
+  {
+   "type": "callout",
+   "text": "Conteúdo informativo e educativo, sem recomendação de compra ou venda. Rentabilidade passada e proventos históricos não garantem resultados futuros."
+  }
+ ]
+}
