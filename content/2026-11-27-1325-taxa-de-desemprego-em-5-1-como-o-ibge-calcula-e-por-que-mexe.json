@@ -1,0 +1,261 @@
+{
+ "slug": "taxa-de-desemprego-em-5-1-como-o-ibge-calcula-e-por-que-mexe-com-os-juros",
+ "title": "Taxa de desemprego em 5,1%: como o IBGE calcula e por que isso mexe com os juros",
+ "subtitle": "O índice igualou o menor nível da série histórica. Veja, passo a passo, quem entra na conta e o que o dado muda para o seu dinheiro.",
+ "category": "educacao",
+ "date": "2026-11-27",
+ "time": "13:25",
+ "sentiment": "Neutro",
+ "meta": "Taxa de desemprego em 5,1%: entenda a PNAD Contínua do IBGE, quem conta como desempregado e por que o dado influencia a Selic e seus investimentos.",
+ "focus_kw": "taxa de desemprego",
+ "tags": [
+  "Taxa de desemprego",
+  "PNAD Contínua",
+  "O que é PNAD",
+  "Desemprego e Selic",
+  "IBGE desemprego",
+  "Renda média do trabalhador"
+ ],
+ "sources": [
+  {
+   "t": "Agência Brasil: rendimento real do trabalhador cresce 3,5% em um ano",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/rendimento-real-do-trabalhador-cresceu-35-em-um-ano",
+   "at": "27/11/2026 09:51"
+  },
+  {
+   "t": "InfoMoney: desemprego em 5,1% e o que dizem os analistas sobre juros",
+   "url": "https://www.infomoney.com.br/economia/taxa-de-desemprego-outubro-2026-ibge/",
+   "at": "27/11/2026 12:00"
+  },
+  {
+   "t": "O Povo: taxa de desemprego fica em 5,1% no trimestre até outubro",
+   "url": "https://www.opovo.com.br/noticias/economia/2026/11/27/taxa-de-desemprego-fica-em-51-no-trimestre-ate-outubro-revela-ibge.html",
+   "at": "27/11/2026 09:51"
+  },
+  {
+   "t": "Aos Fatos: como é calculado o desemprego no Brasil",
+   "url": "https://www.aosfatos.org/noticias/nao-sabe-como-e-calculado-o-desemprego-no-brasil-nos-desenhamos/",
+   "at": "05/04/2019 17:06"
+  },
+  {
+   "t": "CartaCapital: o que o IBGE considera desocupação e subutilização",
+   "url": "https://cartacapital.com.br/economia/ibge-23-8-da-forca-de-trabalho-brasileira-e-subutilizada",
+   "at": "17/08/2017 14:09"
+  }
+ ],
+ "trend": {
+  "rank": 1,
+  "term": "Taxa de desemprego (PNAD Contínua)",
+  "ref": "27/11"
+ },
+ "source_doc": "Relatório de Tendências - 27/11 - 12h20 (Drive id 1zeiKWd2fDs273NmNrbg9vVU4i9cZQNUWrFMbkyB_hMY)",
+ "source_topic": "Taxa de desemprego / PNAD Contínua (5,1%): como o IBGE calcula, renda, relação com juros e investimentos",
+ "image_alt": "Jovem profissional com prancheta e técnico experiente conversam sorrindo em uma oficina iluminada",
+ "body": [
+  {
+   "type": "p",
+   "text": "A **taxa de desemprego** é um assunto em alta nesta sexta-feira (27/11): o IBGE informou que ela ficou em **5,1%** no trimestre de agosto a outubro de 2026, igualando o menor nível da série histórica, iniciada em 2012. São **5,6 milhões** de pessoas procurando trabalho."
+  },
+  {
+   "type": "h2",
+   "text": "Como o IBGE faz essa conta"
+  },
+  {
+   "type": "p",
+   "text": "O número vem da **PNAD Contínua**, pesquisa feita em domicílios. Cada resultado reúne **três meses seguidos** (o chamado trimestre móvel) e considera pessoas de 14 anos ou mais. Elas se dividem assim:"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Ocupado:** está trabalhando.",
+    "**Desocupado:** não tem trabalho, procurou uma vaga nos 30 dias anteriores à pesquisa e pode começar.",
+    "**Fora da força de trabalho:** não trabalha nem entra como desocupado. Aqui estão os **desalentados**, que gostariam de trabalhar, mas desistiram de procurar."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "A taxa é a parcela de desocupados dentro da **força de trabalho** (ocupados mais desocupados), e não de toda a população."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: a taxa pode cair sem vaga nova",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo**: uma cidade tem 1.000 pessoas na força de trabalho. Dessas, 949 trabalham e 51 procuram vaga. Agora imagine que 10 desistam de procurar, sem que ninguém seja contratado."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Situação",
+      "Conta",
+      "Taxa"
+     ],
+     "rows": [
+      [
+       "Antes",
+       "51 ÷ 1.000",
+       "5,1%"
+      ],
+      [
+       "Depois",
+       "41 ÷ 990",
+       "cerca de 4,1%"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Por isso vale olhar também o número de ocupados e de desalentados."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Os números desta divulgação"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Indicador (ago-out/2026)",
+    "Resultado",
+    "Comparação"
+   ],
+   "rows": [
+    [
+     "Taxa de desemprego",
+     "5,1%",
+     "5,3% em mai-jul; 5,4% um ano antes"
+    ],
+    [
+     "Pessoas ocupadas",
+     "103,7 milhões",
+     "alta de 1,1% em um ano"
+    ],
+    [
+     "Subutilização",
+     "12,7%",
+     "13,9% um ano antes"
+    ],
+    [
+     "Desalentados",
+     "2,4 milhões",
+     "queda de 8,9% em um ano"
+    ],
+    [
+     "Renda média real",
+     "R$ 3.812",
+     "alta de 3,5% em um ano"
+    ],
+    [
+     "Massa de rendimentos",
+     "R$ 390,3 bilhões",
+     "alta de 4,6% em um ano"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Renda real** já desconta a inflação. Em uma conta ilustrativa, cada R$ 100 de poder de compra de um ano antes equivale agora a R$ 103,50, na média."
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/taxa-de-desemprego-em-5-1-como-o-ibge-calcula-e-por-que-mexe-com-os-juros-1.jpg",
+   "alt": "Duas pessoas conversam em uma mesa com notebooks em um espaço de trabalho com plantas",
+   "caption": "Qualificação e rede de contatos seguem importantes. Imagem ilustrativa gerada por IA (Gemini)."
+  },
+  {
+   "type": "h2",
+   "text": "Por que o dado mexe com os juros"
+  },
+  {
+   "type": "p",
+   "text": "Mais gente empregada e renda maior tendem a sustentar o consumo, mas podem dificultar a queda da inflação. Ao InfoMoney, André Matos, da MA7 Capital, avaliou que o quadro ajuda varejo e serviços, porém adia cortes na [taxa Selic](#materia-o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes). O C6 Bank projeta Selic mantida em 13,75% ao ano até o fim de 2027. São **opiniões e previsões**, que podem mudar."
+  },
+  {
+   "type": "p",
+   "text": "Para quem investe, os juros influenciam a comparação entre [renda fixa e renda variável](#materia-renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona). Um exemplo **ilustrativo**: R$ 100 rendendo 13,75% ao ano, com a taxa parada, chegariam a R$ 113,75 brutos em um ano, antes de impostos e custos. Já ações como BBAS3 e TAEE4 e fundos como MXRF11 e GARE11 oscilam, e seus proventos não são garantidos (exemplos para estudo, sem indicação). Preço abaixo de R$ 10 [não significa ação barata](#materia-acoes-abaixo-de-r-10-preco-da-cotacao-nao-e-sinonimo-de-empresa-barata)."
+  },
+  {
+   "type": "h2",
+   "text": "Erros comuns e o que observar"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Achar que 5,1% é a parcela de toda a população sem emprego.",
+    "Comparar um trimestre móvel como se fosse um único mês.",
+    "Comprar ou vender um investimento só por causa de um indicador.",
+    "Nas próximas divulgações, acompanhar ocupados, renda, desalentados e o efeito sobre as projeções de juros.",
+    "Mesmo com o mercado aquecido, manter uma [reserva de emergência](#materia-reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro) e investir na própria qualificação."
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "Conteúdo educativo, sem recomendação de compra ou venda. Rentabilidade passada não garante resultados futuros."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: taxa de desemprego",
+   "center": "Desemprego em 5,1%",
+   "branches": [
+    {
+     "label": "Quem entra",
+     "items": [
+      "Ocupados",
+      "Desocupados",
+      "Desalentados ficam fora"
+     ]
+    },
+    {
+     "label": "Cálculo",
+     "items": [
+      "Trimestre móvel",
+      "Pessoas de 14 anos ou mais",
+      "Divide pela força de trabalho"
+     ]
+    },
+    {
+     "label": "Renda",
+     "items": [
+      "Média de R$ 3.812",
+      "Alta real em um ano"
+     ]
+    },
+    {
+     "label": "Juros",
+     "items": [
+      "Consumo firme",
+      "Atenção à inflação",
+      "Selic em foco"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes",
+   "items": [
+    {
+     "q": "O que é a PNAD Contínua?",
+     "a": "É a pesquisa do IBGE, feita em domicílios, que acompanha o mercado de trabalho em trimestres móveis."
+    },
+    {
+     "q": "Quem não procurou emprego conta como desempregado?",
+     "a": "Não. Para entrar como desocupada, a pessoa precisa estar sem trabalho, ter procurado vaga e poder começar."
+    },
+    {
+     "q": "Desemprego baixo faz os juros subirem?",
+     "a": "Não de forma automática. Ele é um dos sinais avaliados, junto com inflação, contas públicas e outros dados."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Próximo passo",
+   "text": "Antes de investir, organize a base: veja [como começar com pouco dinheiro](#materia-como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes) e monte a [reserva de emergência](#materia-reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro)."
+  }
+ ],
+ "image": "assets/covers/taxa-de-desemprego-em-5-1-como-o-ibge-calcula-e-por-que-mexe-com-os-juros.jpg",
+ "canva_media_id": "MAHcIF71Sls"
+}
