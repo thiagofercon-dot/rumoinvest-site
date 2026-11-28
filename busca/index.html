@@ -19,12 +19,12 @@ a:hover .t,a.t:hover{color:var(--teal)}
 .topbar{background:var(--navy2);color:#cfd8ea;font-size:12px}
 .topbar .in{max-width:1180px;margin:auto;padding:7px 18px;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
 .ticker{background:#0b1a3a;color:#e8eefb;border-top:1px solid #1d3263;border-bottom:1px solid #1d3263;overflow:hidden;position:relative;font-size:13px}
-.ticker .lab{position:absolute;left:0;top:0;bottom:0;z-index:2;background:var(--teal);color:#fff;font-weight:700;font-size:11px;letter-spacing:.06em;text-transform:uppercase;padding:0 14px;display:flex;align-items:center}
-.ticker .track{display:flex;width:max-content;padding-left:130px;animation:tk var(--dur,40s) linear infinite}
+.ticker .lab{flex-direction:column;justify-content:center;align-items:flex-start;line-height:1.25;position:absolute;left:0;top:0;bottom:0;z-index:2;background:var(--teal);color:#fff;font-weight:700;font-size:11px;letter-spacing:.06em;text-transform:uppercase;padding:0 14px;display:flex;align-items:center}
+.ticker .track{display:flex;width:max-content;padding-left:150px;animation:tk var(--dur,40s) linear infinite}
 .ticker:hover .track{animation-play-state:paused}
 .ticker .it{display:flex;align-items:center;gap:7px;padding:9px 22px;white-space:nowrap;border-right:1px solid #1d3263}
 .ticker .it b{font-weight:700;letter-spacing:.02em}.ticker .it .rf{color:#8fa3c8;font-size:10.5px}
-.ticker .up{color:#4ade80;font-weight:600}.ticker .dn{color:#ff8a7a;font-weight:600}
+.ticker .lab small{font-size:9.5px;font-weight:600;letter-spacing:.02em;text-transform:none;opacity:.9}.ticker .up{color:#4ade80;font-weight:600}.ticker .dn{color:#ff8a7a;font-weight:600}
 .ticker .nt{padding:9px 22px;color:#8fa3c8;font-size:11px;white-space:nowrap}
 @keyframes tk{from{transform:translateX(0)}to{transform:translateX(-50%)}}
 @media (prefers-reduced-motion:reduce){.ticker .track{animation:none;overflow-x:auto;width:auto}}
@@ -187,7 +187,7 @@ document.addEventListener('click',function(e){var a=e.target.closest&&e.target.c
 <div><h4>Aviso legal</h4><p>O conteúdo publicado no RumoInvest.com tem caráter exclusivamente informativo e educacional, não constituindo recomendação de compra, venda ou manutenção de ativos financeiros. Rentabilidade passada não garante resultados futuros.</p></div>
 </div></footer>
 <script>
-const QUOTES = {"updated": "28/11/2026 08:33", "items": [{"t": "IBOVESPA", "p": "176.573 pts", "v": -0.13, "ref": "fech. 27/11"}, {"t": "DÓLAR", "p": "R$ 5,516", "v": -3.97, "ref": "fech. 27/11"}, {"t": "MXRF11", "p": "R$ 8,96", "v": 3.11, "ref": "ref. 27/11 18h"}, {"t": "GARE11", "p": "R$ 8,29", "v": 1.47, "ref": "ref. 27/11 18h"}, {"t": "HGLG11", "p": "R$ 146,30", "v": 0.92, "ref": "ref. 27/11 18h"}, {"t": "BBAS3", "p": "R$ 16,90", "v": 2.18, "ref": "fech. 27/11"}, {"t": "TAEE4", "p": "R$ 13,84", "v": 1.1, "ref": "ref. 27/11 18h"}, {"t": "PETR4", "p": "R$ 42,14", "v": -2.43, "ref": "fech. 27/11"}, {"t": "VALE3", "p": "R$ 57,19", "v": -2.62, "ref": "fech. 27/11"}, {"t": "XPML11", "p": "R$ 90,25", "v": 5.56, "ref": "ref. 27/11 18h"}, {"t": "BMGB4", "p": "R$ 5,25", "v": 1.94, "ref": "ref. 27/11 18h"}, {"t": "MTRE3", "p": "R$ 3,45", "v": 4.55, "ref": "ref. 27/11 18h"}]};
+const QUOTES = {"updated": "28/11/2026 08:33", "items": [{"t": "IBOVESPA", "p": "176.573 pts", "v": -0.13}, {"t": "DÓLAR", "p": "R$ 5,516", "v": -3.97}, {"t": "MXRF11", "p": "R$ 8,96", "v": 3.11}, {"t": "GARE11", "p": "R$ 8,29", "v": 1.47}, {"t": "HGLG11", "p": "R$ 146,30", "v": 0.92}, {"t": "BBAS3", "p": "R$ 16,90", "v": 2.18}, {"t": "TAEE4", "p": "R$ 13,84", "v": 1.1}, {"t": "PETR4", "p": "R$ 42,14", "v": -2.43}, {"t": "VALE3", "p": "R$ 57,19", "v": -2.62}, {"t": "XPML11", "p": "R$ 90,25", "v": 5.56}, {"t": "BMGB4", "p": "R$ 5,25", "v": 1.94}, {"t": "MTRE3", "p": "R$ 3,45", "v": 4.55}], "fechamento": "27/11/2026"};
 const ARTICLES = window.__ARTS;
 const CATS = {mercado:'Mercado',dividendos:'Dividendos',fiis:'FIIs','renda-fixa':'Renda Fixa',acoes:'Ações',educacao:'Educação'};const MENU={mercado:'Mercados',acoes:'Ações',fiis:'Fundos Imobiliários','renda-fixa':'Renda Fixa',educacao:'Guias do Iniciante'};const GRP={acoes:['acoes','dividendos']};function menuKey(c){return c==='dividendos'?'acoes':c;}
 const MES=['janeiro','fevereiro','março','abril','maio','junho','julho','agosto','setembro','outubro','novembro','dezembro'];
@@ -373,10 +373,10 @@ app.append(el);
 setSeo(a);window.scrollTo(0,0);}
 function route(){setTimeout(gaView,0);let hsh=location.hash?location.hash.slice(1):(window.__ROUTE!==undefined&&window.__ROUTE!==''?window.__ROUTE:'inicio');if(['ferramentas','calculadora-juros-compostos','tesouro-selic-vs-poupanca','simulador-de-aportes'].includes(hsh)){setSeo(null);({'ferramentas':ferramentas,'calculadora-juros-compostos':toolJuros,'tesouro-selic-vs-poupanca':toolSelic,'simulador-de-aportes':toolAportes})[hsh]();return;}if(hsh==='secao-dividendos')hsh='secao-acoes';if(hsh==='secao-renda-variavel')hsh='secao-fiis';if(Object.prototype.hasOwnProperty.call(LEGAL,hsh)){setSeo(null);legal(hsh);return;}if(!hsh.startsWith('materia-'))setSeo(null);if(hsh.startsWith('materia-'))article(hsh.slice(8));else if(hsh.startsWith('secao-')&&MENU[hsh.slice(6)])section(hsh);else if(hsh.startsWith('busca-'))search(hsh.slice(6));else home();}
 (function(){const tk=document.getElementById('ticker');if(!tk||!QUOTES||!QUOTES.items||!QUOTES.items.length)return;
-const mk=()=>QUOTES.items.map(q=>{const it=h('span',{class:'it'},h('b',{},q.t),h('span',{},q.p));if(typeof q.v==='number')it.append(h('span',{class:q.v>=0?'up':'dn'},(q.v>=0?'▲ +':'▼ ')+q.v.toFixed(2).replace('.',',')+'%'));if(q.ref)it.append(h('span',{class:'rf'},q.ref));return it;});
+const mk=()=>QUOTES.items.map(q=>{const it=h('span',{class:'it'},h('b',{},q.t),h('span',{},q.p));if(typeof q.v==='number')it.append(h('span',{class:q.v>=0?'up':'dn'},(q.v>=0?'▲ +':'▼ ')+q.v.toFixed(2).replace('.',',')+'%'));return it;});
 const nt=h('span',{class:'nt'},'Cotações de referência, atualizadas em '+QUOTES.updated+'; podem ter defasagem e não são recomendação de compra ou venda.');
 const tr=h('div',{class:'track'});[...mk(),nt,...mk(),nt.cloneNode(true)].forEach(e=>tr.append(e));
-tk.append(h('span',{class:'lab'},'B3 · Cotações'),tr);tk.style.setProperty('--dur',(QUOTES.items.length*7+20)+'s');})();
+const fe=QUOTES.fechamento?QUOTES.fechamento.slice(0,5):'';tk.append(h('span',{class:'lab'},h('b',{},'B3 · Cotações'),fe?h('small',{},'Fechamento '+fe):null),tr);tk.style.setProperty('--dur',(QUOTES.items.length*7+20)+'s');})();
 (function(){const d=new Date();document.getElementById('hoje').textContent=DIA[d.getDay()]+', '+d.getDate()+' de '+MES[d.getMonth()]+' de '+d.getFullYear();})();
 function fixLinks(){document.querySelectorAll('a[href^="#"]').forEach(a=>{const g=a.getAttribute('href').slice(1);
 if(g===''||g==='inicio')a.setAttribute('href','./');
