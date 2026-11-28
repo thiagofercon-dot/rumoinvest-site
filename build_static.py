@@ -10,7 +10,7 @@ root = os.path.dirname(os.path.abspath(__file__))
 out = os.path.join(root, 'site')
 CATS = ['mercado', 'dividendos', 'fiis', 'renda-fixa', 'acoes', 'educacao']
 SECS = ['mercado', 'acoes', 'fiis', 'renda-fixa', 'educacao']
-LEG = ['privacidade', 'termos', 'sobre', 'editorial', 'contato', 'ferramentas']
+LEG = ['privacidade', 'termos', 'sobre', 'editorial', 'contato', 'ferramentas', 'calculadora-juros-compostos', 'tesouro-selic-vs-poupanca', 'simulador-de-aportes']
 
 arts = []
 for f in sorted([x for x in glob.glob(os.path.join(root, 'content', '*.json')) if 'pendentes' not in x]):
@@ -41,7 +41,7 @@ rep("window.addEventListener('hashchange',route);route();",
 if(g===''||g==='inicio')a.setAttribute('href','./');
 else if(g.startsWith('materia-'))a.setAttribute('href','materia/'+g.slice(8)+'/');
 else if(g.startsWith('secao-'))a.setAttribute('href','secao/'+g.slice(6)+'/');
-else if(['privacidade','termos','sobre','editorial','contato','ferramentas'].includes(g))a.setAttribute('href',g+'/');
+else if(['privacidade','termos','sobre','editorial','contato','ferramentas','calculadora-juros-compostos','tesouro-selic-vs-poupanca','simulador-de-aportes'].includes(g))a.setAttribute('href',g+'/');
 else if(g.startsWith('busca-'))a.setAttribute('href','busca/?t='+g.slice(6));});}
 route();fixLinks();""")
 rep("const md=document.querySelector('meta[name=description]');",
