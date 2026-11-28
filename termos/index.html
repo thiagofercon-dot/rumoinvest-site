@@ -156,6 +156,9 @@ figure.fig{margin:22px 0}figure.fig img{width:100%;display:block;border-radius:8
 .legx{font:13px Inter,sans-serif;color:var(--muted)}.legx span{display:inline-block;width:12px;height:12px;border-radius:2px;margin:0 4px 0 12px;vertical-align:middle}.legx .l1{background:var(--navy)}.legx .l2{background:var(--green)}
 .tnote{margin:26px 0;max-width:780px;font-family:Merriweather,Georgia,serif;line-height:1.7}.tnote h2{font-size:20px}
 @media(max-width:860px){.tgrid{grid-template-columns:1fr}.tform{grid-template-columns:1fr}.tool h1{font-size:26px}}
+.kpi.alt{background:#fff;color:var(--navy);border:1px solid var(--line)}.kpi.alt span{opacity:.7}
+.tools3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:22px 0}.tcard2{background:#fff;border:1px solid var(--line);border-radius:12px;padding:18px;display:grid;gap:8px;align-content:start}.tcard2 b{font:800 18px Inter,sans-serif;color:var(--navy2)}.tcard2 span{color:var(--muted);font-size:14.5px}.tcard2 em{font-style:normal;font-weight:700;color:var(--teal);font-size:13px}.tcard2:hover{border-color:var(--teal)}
+@media(max-width:860px){.tools3{grid-template-columns:1fr}}
 </style>
 <script src="assets/data.js"></script>
 <script>
@@ -247,8 +250,8 @@ const aside=h('div',{style:'display:grid;gap:18px;align-content:start'},curadori
 app.append(h('div',{class:'grid g68'},list,aside));
 app.append(trilhas());
 app.append(h('div',{class:'cols3'},colCat('Ações',['acoes','dividendos'],'acoes'),colCat('Fundos imobiliários',['fiis'],'fiis'),colCat('Renda fixa',['renda-fixa'],'renda-fixa')));}
-function ferramentas(){nav('ferramentas');setTitle('Calculadora de Juros Compostos — RumoInvest');app.innerHTML='';
-const w=h('div',{class:'tool'});w.innerHTML=`<div class="crumb"><a href="#inicio">Home</a> › Ferramentas &amp; Simuladores › Calculadora de juros compostos</div>
+function toolJuros(){nav('ferramentas');setTitle('Calculadora de Juros Compostos — RumoInvest');app.innerHTML='';
+const w=h('div',{class:'tool'});w.innerHTML=`<div class="crumb"><a href="#inicio">Home</a> › <a href="#ferramentas">Ferramentas &amp; Simuladores</a> › Calculadora de juros compostos</div>
 <h1>Calculadora de juros compostos</h1><p class="sub">Simule quanto o seu dinheiro pode render com o tempo, com um valor inicial e aportes mensais. Os juros compostos são os “juros sobre juros”: a cada mês, o rendimento passa a render também.</p>
 <div class="tgrid"><form id="jc" class="tform" onsubmit="return false">
 <label>Valor inicial (R$)<input id="jc-v0" type="number" min="0" step="any" value="1000" inputmode="decimal"></label>
@@ -273,6 +276,46 @@ const tr=rows.map(r=>`<tr><td>${r[0]%12===0?(r[0]/12)+(r[0]/12===1?' ano':' anos
 $('jc-out').innerHTML=`<div class="sec-title">Evolução do patrimônio</div><div class="chartx">${bars}</div><p class="legx"><span class="l1"></span> Valor investido <span class="l2"></span> Juros acumulados</p><table class="t"><thead><tr><th>Período</th><th>Investido</th><th>Juros</th><th>Total</th></tr></thead><tbody>${tr}</tbody></table>`;
 if(window.gaEvt)gaEvt('calculadora_juros_compostos',{});}
 $('jc-go').addEventListener('click',calc);['jc-v0','jc-pm','jc-tx','jc-pz'].forEach(id=>$(id).addEventListener('input',calc));['jc-tp','jc-pu'].forEach(id=>$(id).addEventListener('change',calc));calc();window.scrollTo(0,0);}
+const BRL=v=>v.toLocaleString('pt-BR',{style:'currency',currency:'BRL'});
+function toolShell(titulo,sub,corpo,nota){nav('ferramentas');setTitle(titulo+' — RumoInvest');app.innerHTML='';const w=h('div',{class:'tool'});w.innerHTML=`<div class="crumb"><a href="#inicio">Home</a> › <a href="#ferramentas">Ferramentas &amp; Simuladores</a> › ${titulo}</div><h1>${titulo}</h1><p class="sub">${sub}</p>${corpo}<div class="tnote">${nota}</div>`;app.append(w);window.scrollTo(0,0);return id=>document.getElementById(id);}
+function toolSelic(){const $=toolShell('Tesouro Selic vs. Poupança','Compare quanto o mesmo valor rende no Tesouro Selic e na poupança, já descontando o Imposto de Renda do Tesouro.',
+`<div class="tgrid"><form class="tform" onsubmit="return false">
+<label>Valor investido (R$)<input id="ts-v" type="number" min="0" step="any" value="10000" inputmode="decimal"></label>
+<label>Prazo (meses)<input id="ts-n" type="number" min="1" step="1" value="12" inputmode="numeric"></label>
+<label>Taxa Selic (% ao ano)<input id="ts-s" type="number" min="0" step="any" value="13.75" inputmode="decimal"></label>
+<label>TR (% ao mês)<input id="ts-tr" type="number" min="0" step="any" value="0" inputmode="decimal"></label>
+<button type="button" id="ts-go">Comparar</button></form><div class="tres" id="ts-res" aria-live="polite"></div></div><div id="ts-out"></div>`,
+`<h2>Premissas e fontes</h2><p>A meta da <b>Taxa Selic</b> de 13,75% ao ano foi definida pelo Copom em 04/11/2026 (Banco Central do Brasil, Comunicado nº 46.230, vigente desde 05/11/2026). Você pode alterar o valor para simular outros cenários.</p>
+<p><b>Tesouro Selic:</b> a simulação usa a Selic como rendimento anual, sem taxa de custódia da B3 e sem IOF, e desconta o Imposto de Renda regressivo sobre o ganho: 22,5% até 180 dias, 20% de 181 a 360 dias, 17,5% de 361 a 720 dias e 15% acima de 720 dias. O rendimento real varia com a Selic ao longo do período e com as regras vigentes do Tesouro Direto.</p>
+<p><b>Poupança:</b> quando a Selic está acima de 8,5% ao ano, a poupança rende 0,5% ao mês mais a TR, isenta de Imposto de Renda. Abaixo disso, rende 70% da Selic mais a TR. A TR está em zero por padrão, porque o valor muda todo mês; informe a TR do período se quiser.</p>
+<p>Simulação educativa, que não é recomendação de investimento. Rentabilidade passada não garante resultados futuros.</p>`);
+function go(){const v=Math.max(0,parseFloat($('ts-v').value)||0),n=Math.max(1,Math.round(parseFloat($('ts-n').value)||0)),s=Math.max(0,parseFloat($('ts-s').value)||0)/100,tr=Math.max(0,parseFloat($('ts-tr').value)||0)/100;
+const dias=n*30,al=dias<=180?.225:dias<=360?.2:dias<=720?.175:.15;const bruto=v*Math.pow(1+s,n/12),ganho=bruto-v,ir=ganho*al,liq=bruto-ir;
+const pm=s>0.085?0.005+tr:(Math.pow(1+s,1/12)-1)*0.7+tr;const poup=v*Math.pow(1+pm,n);const d=liq-poup;
+$('ts-res').innerHTML=`<div class="kpi"><span>Tesouro Selic (líquido)</span><b>${BRL(liq)}</b></div><div class="kpi alt"><span>Poupança</span><b>${BRL(poup)}</b></div><div class="kpi alt"><span>Diferença a favor do ${d>=0?'Tesouro Selic':'Poupança'}</span><b>${BRL(Math.abs(d))}</b></div>`;
+$('ts-out').innerHTML=`<table class="t"><thead><tr><th></th><th>Tesouro Selic</th><th>Poupança</th></tr></thead><tbody><tr><td>Valor investido</td><td>${BRL(v)}</td><td>${BRL(v)}</td></tr><tr><td>Rendimento bruto</td><td>${BRL(ganho)}</td><td>${BRL(poup-v)}</td></tr><tr><td>Imposto de Renda (${(al*100).toString().replace('.',',')}%)</td><td>${BRL(ir)}</td><td>isenta</td></tr><tr><td><b>Valor final</b></td><td><b>${BRL(liq)}</b></td><td><b>${BRL(poup)}</b></td></tr></tbody></table>`;
+if(window.gaEvt)gaEvt('simulador_selic_poupanca',{});}
+$('ts-go').addEventListener('click',go);['ts-v','ts-n','ts-s','ts-tr'].forEach(i=>$(i).addEventListener('input',go));go();}
+function toolAportes(){const $=toolShell('Simulador de aportes mensais','Descubra quanto guardar por mês para chegar a uma meta, dado o prazo e a taxa de juros que você quer simular.',
+`<div class="tgrid"><form class="tform" onsubmit="return false">
+<label>Meta a alcançar (R$)<input id="ap-m" type="number" min="0" step="any" value="50000" inputmode="decimal"></label>
+<label>Valor inicial (R$)<input id="ap-v" type="number" min="0" step="any" value="1000" inputmode="decimal"></label>
+<label>Taxa de juros (%)<input id="ap-t" type="number" min="0" step="any" value="10" inputmode="decimal"></label>
+<label>A taxa é<select id="ap-tp"><option value="a">ao ano</option><option value="m">ao mês</option></select></label>
+<label>Prazo<input id="ap-n" type="number" min="1" step="1" value="5" inputmode="numeric"></label>
+<label>O prazo é em<select id="ap-pu"><option value="a">anos</option><option value="m">meses</option></select></label>
+<button type="button" id="ap-go">Calcular</button></form><div class="tres" id="ap-res" aria-live="polite"></div></div><div id="ap-out"></div>`,
+`<h2>Como a conta é feita</h2><p>O simulador calcula o aporte mensal fixo necessário para que o valor inicial mais os aportes, com juros compostos, atinjam a meta no prazo. Os aportes são feitos ao fim de cada mês e a taxa ao ano é convertida para a taxa mensal equivalente.</p>
+<p>A simulação usa taxa constante e não considera Imposto de Renda, taxas ou inflação, de modo que o valor real necessário tende a ser maior. É um exercício educativo, que não constitui recomendação de investimento.</p>`);
+function go(){const m=Math.max(0,parseFloat($('ap-m').value)||0),v=Math.max(0,parseFloat($('ap-v').value)||0),tx=Math.max(0,parseFloat($('ap-t').value)||0)/100;let n=Math.max(1,Math.round(parseFloat($('ap-n').value)||0));if($('ap-pu').value==='a')n*=12;if(n>1200)n=1200;
+const i=$('ap-tp').value==='a'?Math.pow(1+tx,1/12)-1:tx;const f=Math.pow(1+i,n);const falta=m-v*f;let pm=falta<=0?0:(i===0?falta/n:falta*i/(f-1));const inv=v+pm*n,jur=m-inv;
+$('ap-res').innerHTML=falta<=0?`<div class="kpi"><span>Aporte mensal necessário</span><b>R$ 0,00</b></div><div class="kpi alt"><span>Seu valor inicial já alcança a meta no prazo</span><b>${BRL(v*f)}</b></div>`:`<div class="kpi"><span>Aporte mensal necessário</span><b>${BRL(pm)}</b></div><div class="kpi alt"><span>Total investido</span><b>${BRL(inv)}</b></div><div class="kpi alt"><span>Juros acumulados</span><b>${BRL(Math.max(0,jur))}</b></div>`;
+let s=v,tot=v;const rows=[];for(let k=1;k<=n;k++){s=s*(1+i)+pm;tot+=pm;if(k%12===0||k===n)rows.push([k,tot,s-tot,s]);}
+$('ap-out').innerHTML=`<table class="t"><thead><tr><th>Período</th><th>Investido</th><th>Juros</th><th>Total</th></tr></thead><tbody>${rows.map(r=>`<tr><td>${r[0]%12===0?(r[0]/12)+(r[0]/12===1?' ano':' anos'):r[0]+' meses'}</td><td>${BRL(r[1])}</td><td>${BRL(r[2])}</td><td><b>${BRL(r[3])}</b></td></tr>`).join('')}</tbody></table>`;
+if(window.gaEvt)gaEvt('simulador_aportes',{});}
+$('ap-go').addEventListener('click',go);['ap-m','ap-v','ap-t','ap-n'].forEach(i=>$(i).addEventListener('input',go));['ap-tp','ap-pu'].forEach(i=>$(i).addEventListener('change',go));go();}
+function ferramentas(){nav('ferramentas');setTitle('Ferramentas e Simuladores — RumoInvest');app.innerHTML='';const L=[['calculadora-juros-compostos','Calculadora de juros compostos','Veja o efeito dos “juros sobre juros” com valor inicial e aportes mensais.'],['tesouro-selic-vs-poupanca','Tesouro Selic vs. Poupança','Compare o rendimento líquido das duas opções, com Imposto de Renda.'],['simulador-de-aportes','Simulador de aportes mensais','Descubra quanto guardar por mês para alcançar uma meta.']];
+const w=h('div',{class:'tool'});w.innerHTML='<div class="crumb"><a href="#inicio">Home</a> › Ferramentas &amp; Simuladores</div><h1>Ferramentas e simuladores</h1><p class="sub">Calculadoras gratuitas para entender, na prática, como o dinheiro rende. Todas são simulações educativas e não constituem recomendação de investimento.</p><div class="tools3">'+L.map(x=>`<a class="tcard2" href="#${x[0]}"><b>${x[1]}</b><span>${x[2]}</span><em>Usar agora →</em></a>`).join('')+'</div>';app.append(w);window.scrollTo(0,0);}
 function section(k){const cat=k.replace('secao-','');nav(k);setTitle(MENU[cat]+' — RumoInvest');app.innerHTML='';const l=ARTICLES.filter(a=>(GRP[cat]||[cat]).includes(a.category));app.append(h('div',{class:'sec-title first'},MENU[cat]));if(cat==='educacao'){const tb=trendsBlock();if(tb){app.append(tb);app.append(h('div',{class:'sec-title'},'Todos os artigos educativos'));}}if(!l.length){app.append(h('div',{class:'empty'},'Ainda não há matérias nesta seção.'));return;}app.append(h('div',{class:'grid'},h('div',{},l.map(rowItem)),h('div',{style:'display:grid;gap:18px;align-content:start'},gigaCard(),trending())));}
 const CONTATO_EMAIL='';
 const LEGAL={sobre:['Sobre o RumoInvest',`<p>O <b>RumoInvest.com</b> é um portal de notícias e educação financeira em linguagem simples, feito para quem está começando a investir. Explicamos juros, câmbio, ações, dividendos, fundos imobiliários (FIIs) e renda fixa sem “economês”, sempre com exemplos em reais e com a fonte de cada número.</p><h3>O que você encontra aqui</h3><p><b>Mercados:</b> abertura e fechamento do Ibovespa, dólar, juros futuros e decisões do Copom e do Fed. <b>Ações:</b> análises simplificadas, resultados e dividendos de empresas acessíveis na B3. <b>Fundos imobiliários:</b> rendimentos mensais, vacância e P/VP de fundos populares. <b>Renda fixa:</b> Selic, CDI, Tesouro Direto, CDBs, LCIs e LCAs. <b>Guias do Iniciante:</b> tutoriais passo a passo e conteúdo educativo.</p><h3>Nosso mascote</h3><p>O <b>Giga</b> é a formiga que traduz o mercado financeiro: em cada matéria, ele resume os pontos principais e mostra, com exemplos ilustrativos, como a notícia pode mexer com o seu bolso.</p><h3>Importante</h3><p>Todo o conteúdo tem caráter exclusivamente informativo e educacional. Não somos uma casa de análise, não fazemos recomendação de compra, venda ou manutenção de ativos e não prometemos rentabilidade.</p>`],
@@ -334,7 +377,7 @@ a.sources&&a.sources.length?h('p',{class:'src'},h('b',{},'Fontes: '),a.sources.f
 h('div',{class:'tags',style:'margin:14px 0'},(a.tags||[]).map(t=>h('a',{class:'tag',href:'#busca-'+slugify(t)},t))));
 app.append(el);
 setSeo(a);window.scrollTo(0,0);}
-function route(){setTimeout(gaView,0);let hsh=location.hash?location.hash.slice(1):(window.__ROUTE!==undefined&&window.__ROUTE!==''?window.__ROUTE:'inicio');if(hsh==='ferramentas'||hsh==='calculadora-juros-compostos'){setSeo(null);ferramentas();return;}if(hsh==='secao-dividendos')hsh='secao-acoes';if(hsh==='secao-renda-variavel')hsh='secao-fiis';if(Object.prototype.hasOwnProperty.call(LEGAL,hsh)){setSeo(null);legal(hsh);return;}if(!hsh.startsWith('materia-'))setSeo(null);if(hsh.startsWith('materia-'))article(hsh.slice(8));else if(hsh.startsWith('secao-')&&MENU[hsh.slice(6)])section(hsh);else if(hsh.startsWith('busca-'))search(hsh.slice(6));else home();}
+function route(){setTimeout(gaView,0);let hsh=location.hash?location.hash.slice(1):(window.__ROUTE!==undefined&&window.__ROUTE!==''?window.__ROUTE:'inicio');if(['ferramentas','calculadora-juros-compostos','tesouro-selic-vs-poupanca','simulador-de-aportes'].includes(hsh)){setSeo(null);({'ferramentas':ferramentas,'calculadora-juros-compostos':toolJuros,'tesouro-selic-vs-poupanca':toolSelic,'simulador-de-aportes':toolAportes})[hsh]();return;}if(hsh==='secao-dividendos')hsh='secao-acoes';if(hsh==='secao-renda-variavel')hsh='secao-fiis';if(Object.prototype.hasOwnProperty.call(LEGAL,hsh)){setSeo(null);legal(hsh);return;}if(!hsh.startsWith('materia-'))setSeo(null);if(hsh.startsWith('materia-'))article(hsh.slice(8));else if(hsh.startsWith('secao-')&&MENU[hsh.slice(6)])section(hsh);else if(hsh.startsWith('busca-'))search(hsh.slice(6));else home();}
 (function(){const tk=document.getElementById('ticker');if(!tk||!QUOTES||!QUOTES.items||!QUOTES.items.length)return;
 const mk=()=>QUOTES.items.map(q=>{const it=h('span',{class:'it'},h('b',{},q.t),h('span',{},q.p));if(typeof q.v==='number')it.append(h('span',{class:q.v>=0?'up':'dn'},(q.v>=0?'▲ +':'▼ ')+q.v.toFixed(2).replace('.',',')+'%'));if(q.ref)it.append(h('span',{class:'rf'},q.ref));return it;});
 const nt=h('span',{class:'nt'},'Cotações de referência, atualizadas em '+QUOTES.updated+'; podem ter defasagem e não são recomendação de compra ou venda.');
@@ -345,7 +388,7 @@ function fixLinks(){document.querySelectorAll('a[href^="#"]').forEach(a=>{const 
 if(g===''||g==='inicio')a.setAttribute('href','./');
 else if(g.startsWith('materia-'))a.setAttribute('href','materia/'+g.slice(8)+'/');
 else if(g.startsWith('secao-'))a.setAttribute('href','secao/'+g.slice(6)+'/');
-else if(['privacidade','termos','sobre','editorial','contato','ferramentas'].includes(g))a.setAttribute('href',g+'/');
+else if(['privacidade','termos','sobre','editorial','contato','ferramentas','calculadora-juros-compostos','tesouro-selic-vs-poupanca','simulador-de-aportes'].includes(g))a.setAttribute('href',g+'/');
 else if(g.startsWith('busca-'))a.setAttribute('href','busca/?t='+g.slice(6));});}
 route();fixLinks();cookieBar();
 </script>
