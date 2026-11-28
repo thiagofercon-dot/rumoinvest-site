@@ -1,0 +1,415 @@
+{
+ "capa": "dia",
+ "slug": "abertura-28-11-bolsa-fecha-semana-em-alta-pib-e-payroll-na-agenda",
+ "title": "Abertura 28/11: após alta de 6% na semana, Bolsa descansa e mira PIB e payroll",
+ "subtitle": "Com B3 e Nova York fechadas neste sábado, o investidor se prepara para uma semana com PIB do Brasil na quarta e emprego nos EUA na sexta. Bitcoin amanhece abaixo de US$ 60 mil.",
+ "category": "mercado",
+ "date": "2026-11-28",
+ "time": "08:05",
+ "sentiment": "Otimista",
+ "meta": "Abertura 28/11/2026: como Bolsa e dólar fecharam a semana, agenda com PIB e payroll, dividendos, FIIs, Tesouro Direto e Bitcoin neste sábado.",
+ "focus_kw": "abertura de mercado 28/11/2026",
+ "tags": [
+  "Abertura de mercado",
+  "Ibovespa semana",
+  "PIB 3º trimestre",
+  "Dividendos dezembro 2026",
+  "Fundos imobiliários",
+  "Bitcoin hoje"
+ ],
+ "sources": [
+  {
+   "t": "Money Times: Ibovespa fecha em queda, mas sobe mais de 6% na semana",
+   "url": "https://www.moneytimes.com.br/ibovespa-fecha-em-queda-apos-euforia-com-trabuco-na-fazenda-mas-acumula-ganhos-de-mais-de-6-na-semana-davs/",
+   "at": "27/11/2026 18:31"
+  },
+  {
+   "t": "Diário do Grande ABC: fechamento do mercado financeiro",
+   "url": "https://www.dgabc.com.br/Noticia/4371197/fechamento-do-mercado-financeiro",
+   "at": "27/11/2026 18:40"
+  },
+  {
+   "t": "FIIs.com.br: IFIX sobe 2,38% e ganha 5,14% na semana",
+   "url": "https://fiis.com.br/noticias/ifix-fechamento-alta-semana-271126/",
+   "at": "27/11/2026 18:50"
+  },
+  {
+   "t": "Bitcoin.com News: Wall Street tem melhor semana desde 2022",
+   "url": "https://news.bitcoin.com/pt/market-updates/bitcoin-fica-para-tras-wall-street-tem-melhor-semana-desde-2022/",
+   "at": "28/11/2026 05:40"
+  },
+  {
+   "t": "Banco Central: decisão do Copom sobre a Selic",
+   "url": "https://www.bcb.gov.br/detalhenoticia/21309/nota",
+   "at": "04/11/2026"
+  },
+  {
+   "t": "B3: indicadores financeiros (CDI)",
+   "url": "https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/consultas/mercado-de-derivativos/indicadores/indicadores-financeiros/",
+   "at": "28/11/2026 07:20"
+  },
+  {
+   "t": "Safras & Mercado: agenda de 30/11 a 4/12",
+   "url": "https://safras.com.br/de-30-de-novembro-e-4-de-dezembro-mercado-acompanha-indicadores-do-agro",
+   "at": "27/11/2026"
+  },
+  {
+   "t": "XP Investimentos: projeção para o PIB do 3º trimestre",
+   "url": "https://conteudos.xpi.com.br/economia/pib-deve-registrar-queda-de-02-no-3o-trimestre/",
+   "at": "26/11/2026"
+  },
+  {
+   "t": "NeoFeed: expectativas para o PIB",
+   "url": "https://neofeed.com.br/experts/euforia-com-trabuco-ameniza-efeito-de-pib-negativo-mas-abre-brecha-para-mais-pressao-sobre-o-bc/",
+   "at": "27/11/2026 11:35"
+  },
+  {
+   "t": "TV Sim Brasil: IBC-Br do 3º trimestre (dados do Banco Central)",
+   "url": "https://tvsimbrasil.com.br/brasil/economia/noticia/2026/11/16/ibc-br-terceiro-trimestre-recua-09-pior-ano",
+   "at": "16/11/2026 15:48"
+  },
+  {
+   "t": "Dados Brasil: calendário do IBGE e do Copom",
+   "url": "https://dadosbrasil.wiki.br/calendario/",
+   "at": "07/11/2026"
+  },
+  {
+   "t": "Agência Brasil: prazo da 1ª parcela do 13º",
+   "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/empresas-tem-ate-30-de-novembro-para-pagar-primeira-parcela-do-13o",
+   "at": "24/11/2026"
+  },
+  {
+   "t": "FGTS/Caixa: ressarcimento de cotas do PIS/Pasep",
+   "url": "https://www.fgts.gov.br/Paginas/trabalhador/ressarcimento-pis-pasep.aspx",
+   "at": "27/11/2026 19:20"
+  },
+  {
+   "t": "Status Invest: agenda de proventos",
+   "url": "https://statusinvest.com.br/acoes/proventos/ibovespa",
+   "at": "28/11/2026 07:20"
+  },
+  {
+   "t": "InfoMoney: Porto (PSSA3) e proventos",
+   "url": "https://www.infomoney.com.br/mercados/porto-pssa3-fara-pagamento-de-dividendos-adicionais-na-sexta-feira/",
+   "at": "23/11/2026 07:27"
+  },
+  {
+   "t": "Rico: calendário de dividendos de FIIs",
+   "url": "https://riconnect.rico.com.vc/analises/fiis-calendario-de-dividendos/",
+   "at": "28/11/2026 07:20"
+  },
+  {
+   "t": "FIIs.com.br: XPML11 em novembro",
+   "url": "https://fiis.com.br/noticias/fundo-xpml11-dividendo-novembro-2026/",
+   "at": "28/11/2026 07:20"
+  },
+  {
+   "t": "FIIs.com.br: BTLG11 em novembro",
+   "url": "https://fiis.com.br/noticias/btlg11-anuncia-dividendos-novembro-veja/",
+   "at": "28/11/2026 07:20"
+  },
+  {
+   "t": "InfoMoney: Tesouro Direto no fechamento de 27/11",
+   "url": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-27112026/",
+   "at": "27/11/2026 18:15"
+  },
+  {
+   "t": "Investing.com Brasil: criptomoedas",
+   "url": "https://br.investing.com/crypto",
+   "at": "28/11/2026 07:20"
+  },
+  {
+   "t": "Google Finance: cotações de referência",
+   "url": "https://www.google.com/finance",
+   "at": "27/11/2026 18:03 e 28/11/2026 07:20"
+  }
+ ],
+ "source_doc": "Relatório de Mercado - 28/11 - 07h (Drive id 1z7DvKOOS6is5UrhsQPoWAyQhBiPAKGC5bBHpmSDLIy8)",
+ "source_topic": "abertura",
+ "image": "assets/covers/abertura-28-11-bolsa-fecha-semana-em-alta-pib-e-payroll-na-agenda.jpg",
+ "image_alt": "Mesa com café, caderno, caneta e planta diante de prédios de um centro financeiro ao nascer do sol",
+ "canva_media_id": "MAHcM_N4s4c",
+ "resumo": [
+  "Ibovespa subiu 6,13% na semana e dólar comercial fechou sexta a R$ 5,516",
+  "Agenda tem Focus e Caged na segunda, PIB na quarta e payroll dos EUA na sexta",
+  "Bitcoin era cotado a US$ 59.379 às 07h20 deste sábado, com queda de 3,46% em 24 horas"
+ ],
+ "body": [
+  {
+   "type": "p",
+   "text": "Neste **sábado (28/11)**, B3, bolsas de Nova York e câmbio comercial estão **fechados** e voltam na segunda (30). O termômetro é **Otimista**, depois de uma semana forte, marcada pela indicação de **Luiz Carlos Trabuco** para a Fazenda. O ponto de atenção está nas criptomoedas, que seguem negociando e recuam."
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/abertura-28-11-bolsa-fecha-semana-em-alta-pib-e-payroll-na-agenda-1.jpg",
+   "alt": "Mesa de operações com várias telas de gráficos diante de janelas iluminadas pelo sol",
+   "caption": "Mesa de operações em um centro financeiro. Imagem ilustrativa gerada por IA (Gemini)."
+  },
+  {
+   "type": "h2",
+   "text": "De onde o mercado parte"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Indicador",
+    "Fechamento 27/11",
+    "Dia",
+    "Semana"
+   ],
+   "rows": [
+    [
+     "Ibovespa",
+     "176.573,35 pontos",
+     "-0,13%",
+     "+6,13%"
+    ],
+    [
+     "Dólar comercial",
+     "R$ 5,516",
+     "-3,97%",
+     "-7,07%"
+    ],
+    [
+     "IFIX",
+     "3.664,06 pontos",
+     "+2,38%",
+     "+5,14%"
+    ],
+    [
+     "S&P 500",
+     "7.297,49 pontos",
+     "+1,60%",
+     "mais de +5%"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Nos EUA, foi a melhor semana de Wall Street desde 2022. No Brasil, a **Selic** está em **13,75% ao ano** e o **CDI**, em 13,65%. Os detalhes da sexta estão no nosso [fechamento](#materia-fechamento-de-mercado-27-11-dolar-cai-a-r-5-52-e-ibovespa-sobe-6-13-na-semana)."
+  },
+  {
+   "type": "h2",
+   "text": "Agenda de 30/11 a 4/12"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Segunda (30):** Boletim Focus (8h25) e Caged, com as vagas formais de outubro (14h30).",
+    "**Também na segunda:** prazo da 1ª parcela do **13º** e data-limite para pedir [cotas antigas do PIS/Pasep](#materia-cotas-antigas-do-pis-pasep-como-consultar-e-pedir-ate-30-11) e entrar no lote de 28/12.",
+    "**Terça (1º/12):** prévia da inflação da zona do euro (7h).",
+    "**Quarta (2):** **PIB** do 3º trimestre, pelo IBGE (9h).",
+    "**Quinta (3):** produção industrial de outubro (9h).",
+    "**Sexta (4):** **payroll**, o relatório de emprego dos EUA (10h30), e balança comercial brasileira (15h).",
+    "**Mais adiante:** a próxima decisão do Copom sobre a Selic está prevista para 9/12."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "O PIB deve chamar atenção. A **XP projeta queda de 0,2%** sobre o trimestre anterior, e o NeoFeed aponta expectativas de mercado entre -0,1% e -0,3%. O **IBC-Br**, índice de atividade do Banco Central visto como prévia, recuou 0,9% no período. Projeções não são o resultado oficial."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: o que é uma queda de 0,2% no PIB?",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "O **PIB** soma o valor de bens e serviços produzidos no país. A comparação trimestral mostra se a economia produziu mais ou menos que nos três meses anteriores, descontados a inflação e os efeitos típicos da época do ano."
+    },
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo**: se a produção fosse de R$ 100 no 2º trimestre, uma queda de 0,2% a levaria a **R$ 99,80** no 3º."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Dividendos no radar"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**30/11:** pagamentos agendados de **MDIA3, SAUD3 e RAIL3**.",
+    "**4/12:** **BMGB4** paga R$ 0,10 por ação em juros sobre capital próprio (JCP); fechou sexta a R$ 5,25. Em 100 ações com direito ao provento, exemplo ilustrativo, são R$ 10 brutos, antes do Imposto de Renda.",
+    "**7/12:** pagamento de **ISAE4**; a data-com (25/11) já passou.",
+    "**Já pagos:** **TAEE4** (R$ 0,2001 por ação, em 26/11), **MTRE3** (R$ 0,0378) e **PSSA3** (R$ 0,8861), ambos em 27/11.",
+    "**BBAS3:** sem pagamento em novembro; fechou a R$ 16,90 (+2,18%)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Data-com** é o dia em que é preciso ter a ação para receber o provento. Quem compra depois dela não leva aquele pagamento."
+  },
+  {
+   "type": "h2",
+   "text": "Fundos imobiliários"
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/abertura-28-11-bolsa-fecha-semana-em-alta-pib-e-payroll-na-agenda-2.jpg",
+   "alt": "Galpões logísticos com caminhões e torres corporativas ao amanhecer",
+   "caption": "Galpões e escritórios, tipos de imóveis presentes em fundos imobiliários. Imagem ilustrativa gerada por IA (Gemini); não representa um fundo específico."
+  },
+  {
+   "type": "table",
+   "head": [
+    "FII",
+    "Preço (27/11)",
+    "Rend./cota (nov.)",
+    "Pagamento"
+   ],
+   "rows": [
+    [
+     "MXRF11",
+     "R$ 8,96",
+     "R$ 0,095 a R$ 0,10",
+     "16/11"
+    ],
+    [
+     "GARE11",
+     "R$ 8,29",
+     "R$ 0,080 a R$ 0,083",
+     "09/11"
+    ],
+    [
+     "HGLG11",
+     "R$ 146,30",
+     "R$ 1,17",
+     "16/11"
+    ],
+    [
+     "XPML11",
+     "R$ 90,25",
+     "R$ 0,80",
+     "25/11"
+    ],
+    [
+     "KNCR11",
+     "R$ 103,97",
+     "R$ 1,10",
+     "13/11"
+    ],
+    [
+     "BTLG11",
+     "R$ 97,80",
+     "R$ 0,81",
+     "25/11"
+    ],
+    [
+     "KNRI11",
+     "R$ 151,38",
+     "R$ 1,10",
+     "16/11"
+    ],
+    [
+     "VISC11",
+     "R$ 102,86",
+     "R$ 0,84",
+     "16/11"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Preços de referência coletados na sexta por volta das 18h; o fechamento final pode ter pequenas diferenças. Os rendimentos da tabela já foram pagos."
+  },
+  {
+   "type": "h2",
+   "text": "Renda fixa"
+  },
+  {
+   "type": "p",
+   "text": "No fim de semana, o Tesouro Direto não negocia em tempo real e permite apenas agendamentos. Estas foram as taxas do fechamento de sexta, após forte queda:"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Título",
+    "Taxa ao ano (27/11)"
+   ],
+   "rows": [
+    [
+     "Tesouro Selic 2031",
+     "Selic + 0,1131%"
+    ],
+    [
+     "Prefixado 2029",
+     "13,80%"
+    ],
+    [
+     "Prefixado 2032",
+     "14,17%"
+    ],
+    [
+     "IPCA+ 2032",
+     "IPCA + 7,35%"
+    ],
+    [
+     "IPCA+ 2040",
+     "IPCA + 7,15%"
+    ],
+    [
+     "IPCA+ 2050",
+     "IPCA + 7,19%"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Exemplo **ilustrativo**: R$ 100 a 100% do CDI, se a taxa ficasse em 13,65% por um ano, chegariam a **R$ 113,65 brutos**. CDBs, LCIs e LCAs têm cobertura do FGC, dentro dos limites do fundo (R$ 250 mil por CPF e instituição); no Tesouro Direto, a garantia é do Tesouro Nacional."
+  },
+  {
+   "type": "h2",
+   "text": "Cripto: o mercado que não fecha"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Ativo",
+    "US$",
+    "R$",
+    "Variação 24h"
+   ],
+   "rows": [
+    [
+     "Bitcoin",
+     "59.379,29",
+     "330.095,44",
+     "-3,46%"
+    ],
+    [
+     "Ethereum",
+     "1.650,48",
+     "9.175,17",
+     "-4,68%"
+    ],
+    [
+     "Tether (USDT)",
+     "0,9992",
+     "5,5547",
+     "+0,05%"
+    ],
+    [
+     "BNB",
+     "549,86",
+     "3.056,73",
+     "-2,48%"
+    ],
+    [
+     "USDC",
+     "1,0000",
+     "5,5591",
+     "+0,02%"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Coleta às 07h20, com dólar de referência de **R$ 5,5591**, cotação que difere do fechamento comercial de sexta. Exemplo **ilustrativo**, sem custos: uma queda de 3,46% transforma R$ 100 em R$ 96,54. Criptoativos podem oscilar muito em poucas horas."
+  },
+  {
+   "type": "callout",
+   "text": "Conteúdo informativo e educativo, sem recomendação de compra ou venda. Rentabilidade passada e proventos históricos não garantem resultados futuros."
+  }
+ ]
+}
