@@ -115,3 +115,12 @@ ATENÇÃO (18/11): nas execuções de 08:05, 08:20 e 13:10 de 18/11 as matérias
 6) git add -A; git commit -m "Matérias de DD/MM hhh"; git -c push.negotiate=true push origin HEAD:main. Se o push for rejeitado (outro horário publicou antes): git fetch --depth=1 origin main; git reset --hard origin/main; refaça os passos 2 a 4 (copiar arquivos, rodar build.py) e tente de novo, no máximo 3 vezes.
 7) Nunca edite template.html nem build.py no repositório, a menos que a tarefa peça. Nunca coloque chaves, tokens ou dados pessoais no repositório (ele é público).
 8) No resumo final diga se o GitHub foi publicado (mensagem do commit) ou, se falhou, o erro; em caso de falha, NÃO use o artefato como alternativa: avise o erro exato no resumo e envie push notification.
+
+
+2K. FERRAMENTAS E SIMULADORES: ATUALIZAR A SELIC (28/11) — execuções de mercado (08:05 e 19:00) e de renda fixa (13:10)
+O site tem 3 ferramentas (/ferramentas/): calculadora de juros compostos, Tesouro Selic vs. Poupança e simulador de aportes. A de Tesouro Selic vs. Poupança traz a Selic padrão escrita em template.html (função toolSelic): o campo id="ts-s" com value="13.75" e o parágrafo "Premissas e fontes", que cita a meta de 13,75% ao ano, o Copom de 04/11/2026 e o Comunicado nº 46.230 do Banco Central.
+- QUANDO ATUALIZAR: somente quando o Copom mudar a meta da Selic (reunião nova) ou quando você confirmar no site do Banco Central (bcb.gov.br, comunicado do Copom) que a meta vigente é outra. Se a meta continua 13,75% ao ano, NÃO mexa em nada.
+- COMO: no clone, edite SOMENTE esses dois pontos de template.html: (a) value="13.75" do campo ts-s para a nova meta (ponto decimal, ex.: 13.50); (b) no parágrafo "Premissas e fontes", troque a meta (com vírgula, ex.: 13,50%), a data da reunião do Copom, o número do Comunicado e a data de vigência pelos dados do comunicado oficial. Não invente número de comunicado nem datas: se não conseguir confirmar no bcb.gov.br, não altere e avise no resumo.
+- Faça o commit "Ferramentas: Selic atualizada para X% (Copom DD/MM/AAAA)" e o push na main junto com as matérias (fluxo da seção 2J). Esta é a única exceção à regra "nunca edite template.html".
+- NÃO altere as demais premissas (regra da poupança, tabela regressiva do Imposto de Renda) sem fonte oficial mostrando que mudaram.
+- No resumo final, diga em uma linha se a Selic das ferramentas foi atualizada ou se permaneceu em 13,75%.
