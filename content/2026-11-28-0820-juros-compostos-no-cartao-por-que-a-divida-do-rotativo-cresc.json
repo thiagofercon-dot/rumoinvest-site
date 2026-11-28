@@ -1,0 +1,243 @@
+{
+ "slug": "juros-compostos-no-cartao-por-que-a-divida-do-rotativo-cresce-tao-rapido",
+ "title": "Juros compostos no cartão: por que a dívida do rotativo cresce tão rápido",
+ "subtitle": "O uso do rotativo bateu recorde em 2026 e a taxa média foi de 446% ao ano em outubro. Veja, em reais, como o juro sobre juro funciona e o que fazer.",
+ "category": "educacao",
+ "date": "2026-11-28",
+ "time": "08:20",
+ "sentiment": "Alerta",
+ "meta": "Juros compostos no cartão: entenda por que a dívida do rotativo cresce rápido, quanto R$ 1.000 viram em poucos meses e como o teto de 100% funciona.",
+ "focus_kw": "juros compostos no cartão",
+ "tags": [
+  "Juros compostos",
+  "Cartão de crédito rotativo",
+  "O que é juro composto",
+  "Teto do rotativo",
+  "Como sair das dívidas",
+  "13º salário"
+ ],
+ "sources": [
+  {
+   "t": "Boca Notícias: uso do rotativo atinge recorde em 2026",
+   "url": "https://boca.com.br/economia/uso-do-rotativo-do-cartao-de-credito-atinge-recorde-em-2026",
+   "at": "27/11/2026 09:50"
+  },
+  {
+   "t": "G1: rotativo se aproxima de R$ 400 bilhões em 2026",
+   "url": "https://g1.globo.com/economia/noticia/2026/11/27/alvo-do-governo-e-do-banco-central-uso-do-cartao-de-credito-rotativo-se-aproxima-de-r-400-bilhoes-em-2026-e-bate-recorde.ghtml",
+   "at": "27/11/2026"
+  },
+  {
+   "t": "Tribuna do Sertão (Estadão Conteúdo): juro do rotativo em outubro, segundo o BC",
+   "url": "https://www.tribunadosertao.com.br/geral/2026/11/27/1031563-juro-medio-do-rotativo-do-cartao-de-credito-cai-a-446-ao-ano-em-outubro-aponta-bc",
+   "at": "27/11/2026"
+  }
+ ],
+ "trend": {
+  "rank": 3,
+  "term": "Rotativo do cartão de crédito",
+  "ref": "28/11"
+ },
+ "source_doc": "1KsgflEufhXi0p-8br9trh20kP_zNSWXSYM3gxwIs7WI",
+ "source_topic": "Recorde do rotativo (R$ 387 bi) e juros compostos: simulação em reais, teto de 100%, parcelado e uso do 13º",
+ "image": "assets/covers/juros-compostos-no-cartao-por-que-a-divida-do-rotativo-cresce-tao-rapido.jpg",
+ "image_alt": "Pilhas de moedas cada vez mais altas ao lado de um cartão sem marca",
+ "canva_media_id": "MAHcM0DVctY",
+ "body": [
+  {
+   "type": "p",
+   "text": "Entender os **juros compostos no cartão** ajuda a explicar um assunto em alta: de janeiro a outubro de 2026, as concessões no **crédito rotativo** somaram **R$ 387 bilhões**, recorde e cerca de 16% acima do mesmo período de 2025. A taxa média foi de **446% ao ano em outubro**, segundo o Banco Central (451,7% em setembro)."
+  },
+  {
+   "type": "h2",
+   "text": "O que é juro composto"
+  },
+  {
+   "type": "p",
+   "text": "No **juro simples**, a taxa incide sempre sobre o valor inicial. No **juro composto**, ela incide sobre o saldo do mês anterior, que já inclui juros. É o \"juro sobre juro\". Quando você paga só parte da fatura, a diferença entra no rotativo e começa a correr."
+  },
+  {
+   "type": "p",
+   "text": "Uma taxa de 446% ao ano equivale a cerca de **15,2% ao mês**. Não basta dividir por 12: a conversão também é composta."
+  },
+  {
+   "type": "h2",
+   "text": "R$ 1.000 no rotativo, mês a mês"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Tempo",
+    "Juro simples",
+    "Juro composto"
+   ],
+   "rows": [
+    [
+     "1 mês",
+     "R$ 1.152",
+     "R$ 1.152"
+    ],
+    [
+     "2 meses",
+     "R$ 1.304",
+     "R$ 1.327"
+    ],
+    [
+     "3 meses",
+     "R$ 1.456",
+     "R$ 1.529"
+    ],
+    [
+     "4 meses",
+     "R$ 1.608",
+     "R$ 1.761"
+    ],
+    [
+     "5 meses",
+     "R$ 1.760",
+     "R$ 2.028 (teto: R$ 2.000)"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Simulação **ilustrativa**, com a taxa média, sem pagamentos, IOF ou multa. Na vida real, o rotativo costuma durar pouco antes de a dívida ser parcelada, e cada banco cobra a própria taxa."
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/juros-compostos-no-cartao-por-que-a-divida-do-rotativo-cresce-tao-rapido-1.jpg",
+   "alt": "Cédulas e moedas de real sobre uma mesa ao lado de um caderno",
+   "caption": "Imagem ilustrativa: anotar o saldo e a taxa é o começo do plano para sair da dívida."
+  },
+  {
+   "type": "h2",
+   "text": "O teto de 100% e a nova regra"
+  },
+  {
+   "type": "p",
+   "text": "Desde janeiro de 2024, juros e encargos do rotativo e do parcelado do cartão não podem passar de **100% do valor original** da dívida. Ou seja, R$ 1.000 podem virar até R$ 2.000. A taxa anual do Banco Central é uma projeção da taxa mensal, por isso pode superar 100% sem que a lei seja descumprida."
+  },
+  {
+   "type": "p",
+   "text": "Há ainda uma regra nova, com início em julho de 2027, que prevê redução gradual do limite de quem usa o rotativo com frequência. Os detalhes estão em [o que muda no rotativo](#materia-rotativo-do-cartao-novas-regras-do-cmn-como-sair-da-divida-antes-de-investir)."
+  },
+  {
+   "type": "h2",
+   "text": "O que a conta ensina para o 13º salário"
+  },
+  {
+   "type": "p",
+   "text": "O prazo da primeira parcela do 13º é segunda (30/11). Para comparar: uma aplicação a **13,65% ao ano** (o CDI atual) rende cerca de **1,07% ao mês**, antes do Imposto de Renda. O parcelado do cartão, a 194,7% ao ano em outubro, custa perto de **9,4% ao mês**."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: o formigueiro ao contrário",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo** de um mês, com R$ 500 disponíveis:"
+    },
+    {
+     "type": "table",
+     "head": [
+      "Destino dos R$ 500",
+      "Efeito aproximado em 1 mês"
+     ],
+     "rows": [
+      [
+       "Abater dívida no rotativo (15,2% ao mês)",
+       "evita cerca de R$ 76 em juros"
+      ],
+      [
+       "Aplicar a 100% do CDI",
+       "rende cerca de R$ 5, antes do IR"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Em geral, quitar o juro caro vem antes de comprar cotas de MXRF11 ou GARE11 ou ações abaixo de R$ 10, que oscilam e não têm retorno garantido."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Erros comuns e o que observar"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Pagar o mínimo todo mês achando que a dívida está parada.",
+    "Aceitar parcelamento sem comparar o **custo efetivo total (CET)**.",
+    "Quitar e voltar a usar todo o limite.",
+    "Antes de fechar acordo, pedir propostas e conferir se existe crédito mais barato."
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "Conteúdo educativo, sem recomendação de produto, compra ou venda. Taxas variam entre instituições; rentabilidade passada não garante resultados futuros."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: juros compostos",
+   "center": "Juro sobre juro",
+   "branches": [
+    {
+     "label": "Como funciona",
+     "items": [
+      "Saldo cresce",
+      "Base maior a cada mês",
+      "Tempo acelera"
+     ]
+    },
+    {
+     "label": "No cartão",
+     "items": [
+      "446% ao ano",
+      "Cerca de 15,2% ao mês",
+      "Teto de 100%"
+     ]
+    },
+    {
+     "label": "Saída",
+     "items": [
+      "Pagar o total",
+      "Comparar CET",
+      "Trocar por crédito barato"
+     ]
+    },
+    {
+     "label": "Depois",
+     "items": [
+      "Reserva",
+      "Orçamento",
+      "Investir aos poucos"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes",
+   "items": [
+    {
+     "q": "Juro composto é sempre ruim?",
+     "a": "Não. A mesma matemática faz um investimento crescer, só que as taxas de aplicações costumam ser muito menores que a do rotativo."
+    },
+    {
+     "q": "A dívida pode crescer sem limite?",
+     "a": "Para juros e encargos do rotativo e do parcelado há teto de 100% do valor original, em vigor desde janeiro de 2024."
+    },
+    {
+     "q": "O parcelamento da fatura é sempre melhor?",
+     "a": "A taxa média é menor que a do rotativo, mas continua alta. Compare o CET antes de aceitar."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Próximo passo",
+   "text": "Quitou a dívida? Comece a [reserva de emergência](#materia-reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro) e entenda a [taxa Selic](#materia-o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes)."
+  }
+ ]
+}

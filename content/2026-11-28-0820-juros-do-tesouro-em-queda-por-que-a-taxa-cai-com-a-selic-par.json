@@ -1,0 +1,243 @@
+{
+ "slug": "juros-do-tesouro-em-queda-por-que-a-taxa-cai-com-a-selic-parada",
+ "title": "Juros do Tesouro Direto em queda: por que a taxa cai se a Selic não mudou?",
+ "subtitle": "As taxas de prefixados e IPCA+ recuaram forte na sexta (27/11), com a Selic parada em 13,75%. Entenda a diferença e o que isso muda para renda fixa e FIIs.",
+ "category": "educacao",
+ "date": "2026-11-28",
+ "time": "08:20",
+ "sentiment": "Otimista",
+ "meta": "Juros do Tesouro Direto em queda com a Selic em 13,75%: entenda a curva de juros, o efeito nos prefixados, no IPCA+ e nos fundos imobiliários.",
+ "focus_kw": "juros do Tesouro Direto em queda",
+ "tags": [
+  "Tesouro Direto",
+  "Curva de juros",
+  "Renda fixa ou FIIs",
+  "Tesouro Prefixado",
+  "Tesouro IPCA+",
+  "Fundos imobiliários"
+ ],
+ "sources": [
+  {
+   "t": "InfoMoney: fechamento do Tesouro Direto em 27/11",
+   "url": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-27112026/",
+   "at": "27/11/2026 18:15"
+  },
+  {
+   "t": "Seu Dinheiro: taxas do Tesouro Direto após o anúncio na Fazenda",
+   "url": "https://www.seudinheiro.com/2026/renda-fixa/trabuco-day-no-tesouro-direto-taxas-dos-titulos-publicos-voltam-aos-niveis-anteriores-as-eleicoes-mlim/",
+   "at": "27/11/2026 16:15"
+  },
+  {
+   "t": "Banco Central: decisão do Copom sobre a Selic",
+   "url": "https://www.bcb.gov.br/detalhenoticia/21309/nota",
+   "at": "04/11/2026"
+  },
+  "Google Finance: cotações de FIIs no fechamento de 27/11/2026 (18h03)"
+ ],
+ "trend": {
+  "rank": 1,
+  "term": "Dólar, juros e Tesouro Direto",
+  "ref": "28/11"
+ },
+ "source_doc": "1KsgflEufhXi0p-8br9trh20kP_zNSWXSYM3gxwIs7WI",
+ "source_topic": "Queda das taxas do Tesouro Direto após o anúncio na Fazenda: curva de juros x Selic, prefixado, IPCA+ e FIIs",
+ "image": "assets/covers/juros-do-tesouro-em-queda-por-que-a-taxa-cai-com-a-selic-parada.jpg",
+ "image_alt": "Pilhas de moedas em degraus descendentes sobre uma mesa, ao lado de um notebook",
+ "canva_media_id": "MAHcM7pJHWU",
+ "body": [
+  {
+   "type": "p",
+   "text": "Os **juros do Tesouro Direto em queda** viraram assunto em alta neste fim de semana. Na sexta (27/11), depois da confirmação de Luiz Carlos Trabuco para o Ministério da Fazenda em 2027, as taxas oferecidas pelos títulos públicos recuaram com força. Só que a **Selic**, a taxa básica da economia, continua em **13,75% ao ano**, definida pelo Copom em 04/11. Como as duas coisas cabem juntas?"
+  },
+  {
+   "type": "h2",
+   "text": "Selic é o hoje; a taxa longa é a aposta no amanhã"
+  },
+  {
+   "type": "p",
+   "text": "A [taxa Selic](#materia-o-que-e-a-taxa-selic-e-como-ela-afeta-o-seu-dinheiro-guia-para-iniciantes) é o juro de curtíssimo prazo, decidido pelo Banco Central. Já a taxa de um título que vence em 2029 ou 2050 reflete o que o mercado **espera** para os próximos anos, mais um **prêmio** pelo risco de errar essa previsão."
+  },
+  {
+   "type": "p",
+   "text": "Quando os investidores passam a enxergar menos incerteza sobre contas públicas, inflação ou juros futuros, o prêmio exigido tende a diminuir. As taxas longas caem antes de qualquer mudança na Selic. O caminho inverso também acontece, e depressa. O desenho que junta as taxas de todos os prazos se chama **curva de juros**."
+  },
+  {
+   "type": "h2",
+   "text": "O que mudou na sexta-feira"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Título",
+    "Quinta (26/11)",
+    "Sexta (27/11)"
+   ],
+   "rows": [
+    [
+     "Prefixado 2029",
+     "14,47%",
+     "13,80%"
+    ],
+    [
+     "Prefixado 2032",
+     "14,82%",
+     "14,17%"
+    ],
+    [
+     "IPCA+ 2032",
+     "IPCA + 7,69%",
+     "IPCA + 7,35%"
+    ],
+    [
+     "IPCA+ 2050",
+     "IPCA + 7,43%",
+     "IPCA + 7,19%"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Taxas ao ano, no fechamento de sexta, segundo o InfoMoney; as de quinta foram informadas ou calculadas a partir das variações publicadas. Elas mudam a cada dia útil."
+  },
+  {
+   "type": "image",
+   "src": "assets/figuras/juros-do-tesouro-em-queda-por-que-a-taxa-cai-com-a-selic-parada-1.jpg",
+   "alt": "Homem analisa gráficos em um notebook sobre a mesa de casa",
+   "caption": "Imagem ilustrativa: antes de decidir, compare prazo, objetivo e risco de cada aplicação."
+  },
+  {
+   "type": "h2",
+   "text": "Quem já tinha o título e quem vai comprar"
+  },
+  {
+   "type": "p",
+   "text": "Para quem **já tinha** um prefixado ou IPCA+, a queda da taxa faz o preço do título subir. Isso só vira dinheiro se houver venda antes do vencimento, e o preço pode voltar a cair. É a [marcação a mercado](#materia-prefixados-caem-pelo-2o-dia-o-que-e-marcacao-a-mercado-e-quando-vender-o-tesouro-antes-do-prazo)."
+  },
+  {
+   "type": "p",
+   "text": "Para quem **compra agora**, a taxa contratada ficou menor. Quem leva o título até o vencimento recebe o combinado na compra, antes de impostos e taxas."
+  },
+  {
+   "type": "giga",
+   "title": "Giga explica: quanto pesa a diferença?",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Exemplo **ilustrativo**: R$ 1.000 aplicados por 2 anos a uma taxa prefixada, mantidos até o fim, sem descontar Imposto de Renda e taxas. O prazo foi arredondado."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Taxa ao ano",
+      "Valor bruto após 2 anos"
+     ],
+     "rows": [
+      [
+       "14,47%",
+       "R$ 1.310,34"
+      ],
+      [
+       "13,80%",
+       "R$ 1.295,04"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "São cerca de R$ 15 de diferença a cada R$ 1.000. Quanto maior o prazo, mais a taxa contratada pesa."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "E os fundos imobiliários?"
+  },
+  {
+   "type": "p",
+   "text": "Os FIIs concorrem com a renda fixa pelo dinheiro do investidor. Quando as taxas longas caem, o rendimento dos fundos pode parecer mais atraente na comparação, e as cotas tendem a ser reavaliadas. Na sexta, **XPML11** subiu 5,56% (R$ 90,25), **MXRF11** 3,11% (R$ 8,96), **GARE11** 1,47% (R$ 8,29) e **HGLG11** 0,92% (R$ 146,30). Um dia de alta não define tendência."
+  },
+  {
+   "type": "p",
+   "text": "São produtos diferentes. O FII é [renda variável](#materia-renda-fixa-ou-renda-variavel-qual-a-diferenca-e-como-cada-uma-funciona): a cota oscila, o rendimento pode mudar e não há garantia do FGC. O título público tem regra de remuneração definida na compra, mas também oscila antes do vencimento."
+  },
+  {
+   "type": "h2",
+   "text": "Perguntas antes de escolher (e erros comuns)"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "**Quando vou precisar do dinheiro?** Reserva de emergência pede liquidez e pouca oscilação.",
+    "**Aguento ver o valor cair no caminho?** Prazos longos balançam mais.",
+    "Achar que a taxa de hoje vai estar disponível amanhã, ou comprar só porque \"caiu muito\".",
+    "Comparar o rendimento passado de um FII com a taxa de um título como se fossem a mesma coisa."
+   ]
+  },
+  {
+   "type": "callout",
+   "text": "Conteúdo educativo, sem recomendação de compra ou venda. Rentabilidade passada não garante resultados futuros."
+  },
+  {
+   "type": "mindmap",
+   "title": "Mapa mental: juros em queda",
+   "center": "Taxas do Tesouro",
+   "branches": [
+    {
+     "label": "Selic",
+     "items": [
+      "13,75% ao ano",
+      "Curto prazo",
+      "Decisão do Copom"
+     ]
+    },
+    {
+     "label": "Taxa longa",
+     "items": [
+      "Expectativas",
+      "Prêmio de risco",
+      "Curva de juros"
+     ]
+    },
+    {
+     "label": "Efeitos",
+     "items": [
+      "Preço do título sobe",
+      "Nova compra paga menos",
+      "FIIs reavaliados"
+     ]
+    },
+    {
+     "label": "Antes de decidir",
+     "items": [
+      "Prazo",
+      "Objetivo",
+      "Tolerância a oscilação"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Perguntas frequentes",
+   "items": [
+    {
+     "q": "Se a Selic não mudou, por que o Tesouro paga menos agora?",
+     "a": "Porque as taxas de prazo mais longo refletem expectativas e prêmio de risco, que mudam todos os dias."
+    },
+    {
+     "q": "Perco dinheiro se a taxa subir de novo?",
+     "a": "O preço do título cai nesse caso. A perda só se concretiza se você vender antes do vencimento."
+    },
+    {
+     "q": "O Tesouro Selic também sofre com isso?",
+     "a": "Ele acompanha a taxa básica e costuma oscilar muito pouco."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "title": "Próximo passo",
+   "text": "Está começando? Monte a [reserva de emergência](#materia-reserva-de-emergencia-quanto-guardar-e-onde-deixar-o-dinheiro) e veja o guia para [investir com pouco dinheiro](#materia-como-comecar-a-investir-com-pouco-dinheiro-guia-passo-a-passo-para-iniciantes)."
+  }
+ ]
+}
