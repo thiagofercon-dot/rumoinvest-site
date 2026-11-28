@@ -18,12 +18,12 @@ a:hover .t,a.t:hover{color:var(--teal)}
 .topbar{background:var(--navy2);color:#cfd8ea;font-size:12px}
 .topbar .in{max-width:1180px;margin:auto;padding:7px 18px;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
 .ticker{background:#0b1a3a;color:#e8eefb;border-top:1px solid #1d3263;border-bottom:1px solid #1d3263;overflow:hidden;position:relative;font-size:13px}
-.ticker .lab{position:absolute;left:0;top:0;bottom:0;z-index:2;background:var(--teal);color:#fff;font-weight:700;font-size:11px;letter-spacing:.06em;text-transform:uppercase;padding:0 14px;display:flex;align-items:center}
-.ticker .track{display:flex;width:max-content;padding-left:130px;animation:tk var(--dur,40s) linear infinite}
+.ticker .lab{flex-direction:column;justify-content:center;align-items:flex-start;line-height:1.25;position:absolute;left:0;top:0;bottom:0;z-index:2;background:var(--teal);color:#fff;font-weight:700;font-size:11px;letter-spacing:.06em;text-transform:uppercase;padding:0 14px;display:flex;align-items:center}
+.ticker .track{display:flex;width:max-content;padding-left:150px;animation:tk var(--dur,40s) linear infinite}
 .ticker:hover .track{animation-play-state:paused}
 .ticker .it{display:flex;align-items:center;gap:7px;padding:9px 22px;white-space:nowrap;border-right:1px solid #1d3263}
 .ticker .it b{font-weight:700;letter-spacing:.02em}.ticker .it .rf{color:#8fa3c8;font-size:10.5px}
-.ticker .up{color:#4ade80;font-weight:600}.ticker .dn{color:#ff8a7a;font-weight:600}
+.ticker .lab small{font-size:9.5px;font-weight:600;letter-spacing:.02em;text-transform:none;opacity:.9}.ticker .up{color:#4ade80;font-weight:600}.ticker .dn{color:#ff8a7a;font-weight:600}
 .ticker .nt{padding:9px 22px;color:#8fa3c8;font-size:11px;white-space:nowrap}
 @keyframes tk{from{transform:translateX(0)}to{transform:translateX(-50%)}}
 @media (prefers-reduced-motion:reduce){.ticker .track{animation:none;overflow-x:auto;width:auto}}
@@ -369,10 +369,10 @@ app.append(el);
 setSeo(a);window.scrollTo(0,0);}
 function route(){setTimeout(gaView,0);let hsh=(location.hash||'#inicio').slice(1);if(['ferramentas','calculadora-juros-compostos','tesouro-selic-vs-poupanca','simulador-de-aportes'].includes(hsh)){setSeo(null);({'ferramentas':ferramentas,'calculadora-juros-compostos':toolJuros,'tesouro-selic-vs-poupanca':toolSelic,'simulador-de-aportes':toolAportes})[hsh]();return;}if(hsh==='secao-dividendos')hsh='secao-acoes';if(hsh==='secao-renda-variavel')hsh='secao-fiis';if(Object.prototype.hasOwnProperty.call(LEGAL,hsh)){setSeo(null);legal(hsh);return;}if(!hsh.startsWith('materia-'))setSeo(null);if(hsh.startsWith('materia-'))article(hsh.slice(8));else if(hsh.startsWith('secao-')&&MENU[hsh.slice(6)])section(hsh);else if(hsh.startsWith('busca-'))search(hsh.slice(6));else home();}
 (function(){const tk=document.getElementById('ticker');if(!tk||!QUOTES||!QUOTES.items||!QUOTES.items.length)return;
-const mk=()=>QUOTES.items.map(q=>{const it=h('span',{class:'it'},h('b',{},q.t),h('span',{},q.p));if(typeof q.v==='number')it.append(h('span',{class:q.v>=0?'up':'dn'},(q.v>=0?'▲ +':'▼ ')+q.v.toFixed(2).replace('.',',')+'%'));if(q.ref)it.append(h('span',{class:'rf'},q.ref));return it;});
+const mk=()=>QUOTES.items.map(q=>{const it=h('span',{class:'it'},h('b',{},q.t),h('span',{},q.p));if(typeof q.v==='number')it.append(h('span',{class:q.v>=0?'up':'dn'},(q.v>=0?'▲ +':'▼ ')+q.v.toFixed(2).replace('.',',')+'%'));return it;});
 const nt=h('span',{class:'nt'},'Cotações de referência, atualizadas em '+QUOTES.updated+'; podem ter defasagem e não são recomendação de compra ou venda.');
 const tr=h('div',{class:'track'});[...mk(),nt,...mk(),nt.cloneNode(true)].forEach(e=>tr.append(e));
-tk.append(h('span',{class:'lab'},'B3 · Cotações'),tr);tk.style.setProperty('--dur',(QUOTES.items.length*7+20)+'s');})();
+const fe=QUOTES.fechamento?QUOTES.fechamento.slice(0,5):'';tk.append(h('span',{class:'lab'},h('b',{},'B3 · Cotações'),fe?h('small',{},'Fechamento '+fe):null),tr);tk.style.setProperty('--dur',(QUOTES.items.length*7+20)+'s');})();
 (function(){const d=new Date();document.getElementById('hoje').textContent=DIA[d.getDay()]+', '+d.getDate()+' de '+MES[d.getMonth()]+' de '+d.getFullYear();})();
 window.addEventListener('hashchange',route);route();cookieBar();
 </script>
